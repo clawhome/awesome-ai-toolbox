@@ -45,6 +45,7 @@ const LOCALES = {
     toc: "目录",
     back: "↑ 返回目录",
     groups: { create: "生成创作", analyze: "分析处理", industry: "行业场景" },
+    more: "更多",
     popular: "热门工具 Top 20",
     popularNote: "按站点月访问量排序，每月自动更新。",
     about: "关于本仓库",
@@ -83,6 +84,7 @@ const LOCALES = {
     toc: "Table of Contents",
     back: "↑ Back to top",
     groups: { create: "Create", analyze: "Analyze", industry: "Industries" },
+    more: "More",
     popular: "Top 20 popular tools",
     popularNote: "Ranked by monthly site visits, refreshed every month.",
     about: "About",
@@ -172,6 +174,12 @@ function render(lang, tools, cats) {
     }
     out.push("");
   }
+  // ⚠️ 不要删掉最后这个 `**更多**` 标题。
+  // CommonMark 里空行**不打断**列表，只把列表变成 loose（每项被 <p> 包住，行距撑大）。
+  // 前面几组后面紧跟 `**下一组名**` 段落，列表被段落打断，所以是 tight；
+  // 若这里没有标题，行业场景组会和下面这串链接合并成一个松散列表 —— 整组行距突然变大。
+  out.push(`**${L.more}**`);
+  out.push("");
   out.push(`- [${L.popular}](#${slugify(L.popular)})`);
   out.push(`- [${L.about}](#${slugify(L.about)})`);
   out.push(`- [${L.data}](#${slugify(L.data)})`);
