@@ -1,0 +1,46 @@
+name: Sync tools data
+
+on:
+  schedule:
+    # 每天 UTC 18:00（北京时间次日 02:00）同步一次
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 从站点同步数据
+        run: SITE=https://topxai.cn node scripts/sync.mjs
+
+      - name: 重建 README
+        env:
+          REPO: ${{ github.repository }}
+        run: node scripts/build-readme.mjs
+
+      - name: 提交变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "数据无变化，跳过提交" >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git add -A
+          git commit -m "chore: 同步站点数据并重建 README"
+          git push
+          echo "已提交更新" >> "$GITHUB_STEP_SUMMARY"
+          git --no-pager diff --stat HEAD~1 >> "$GITHUB_STEP_SUMMARY" || true

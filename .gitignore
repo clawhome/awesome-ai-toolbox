@@ -1,0 +1,19 @@
+# 构建产物
+.next/
+node_modules/
+build/
+dist/
+
+# 同步脚本的中间产物
+.build/
+
+# 内部资料：命名与引流方案、工作区数据，不进公开仓库
+GitHub仓库命名与引流方案.md
+.workbuddy/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/

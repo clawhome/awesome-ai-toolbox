@@ -1,0 +1,27 @@
+[
+  { "id": "text",         "group": "create",   "order": 1,  "icon": "FileText",    "name": { "zh": "文本生成与编辑",   "en": "Text Generation & Editing" } },
+  { "id": "image-create", "group": "create",   "order": 2,  "icon": "Palette",     "name": { "zh": "图像生成与编辑",   "en": "Image Generation & Editing" } },
+  { "id": "video",        "group": "create",   "order": 3,  "icon": "Clapperboard","name": { "zh": "视频与动画",       "en": "Video & Animation" } },
+  { "id": "design",       "group": "create",   "order": 4,  "icon": "Brush",       "name": { "zh": "艺术与创意设计",   "en": "Art & Creative Design" } },
+  { "id": "music",        "group": "create",   "order": 5,  "icon": "Music",       "name": { "zh": "音乐与音频",       "en": "Music & Audio" } },
+  { "id": "voice",        "group": "create",   "order": 6,  "icon": "Mic",         "name": { "zh": "语音生成与转换",   "en": "Voice & Speech" } },
+  { "id": "chatbot",      "group": "create",   "order": 7,  "icon": "Bot",         "name": { "zh": "ChatBot 与虚拟伴侣", "en": "Chatbots & Companions" } },
+
+  { "id": "office",       "group": "analyze",  "order": 8,  "icon": "FileSpreadsheet", "name": { "zh": "办公与生产力",  "en": "Office & Productivity" } },
+  { "id": "notes",        "group": "analyze",  "order": 9,  "icon": "NotebookPen", "name": { "zh": "AI 笔记",          "en": "AI Note-taking" } },
+  { "id": "code",         "group": "analyze",  "order": 10, "icon": "Code",        "name": { "zh": "代码编程与辅助",   "en": "Coding Assistants" } },
+  { "id": "image-recog",  "group": "analyze",  "order": 11, "icon": "ScanSearch",  "name": { "zh": "图像识别与分析",   "en": "Image Recognition & Analysis" } },
+  { "id": "biz-research", "group": "analyze",  "order": 12, "icon": "BarChart3",   "name": { "zh": "商业研究",         "en": "Business Research" } },
+  { "id": "edu-translate","group": "analyze",  "order": 13, "icon": "GraduationCap","name": { "zh": "学习辅助与翻译",  "en": "Learning & Translation" } },
+  { "id": "detect",       "group": "analyze",  "order": 14, "icon": "ShieldCheck", "name": { "zh": "AI 检测与反检测",  "en": "AI Detection & Anti-detection" } },
+  { "id": "data-research","group": "analyze",  "order": 15, "icon": "FlaskConical","name": { "zh": "研究与数据分析",   "en": "Research & Data Analysis" } },
+
+  { "id": "social",       "group": "industry", "order": 16, "icon": "MessageCircle","name": { "zh": "社交媒体",        "en": "Social Media" } },
+  { "id": "life",         "group": "industry", "order": 17, "icon": "Home",        "name": { "zh": "日常生活",         "en": "Everyday Life" } },
+  { "id": "law-finance",  "group": "industry", "order": 18, "icon": "Scale",       "name": { "zh": "法律与财务",       "en": "Legal & Finance" } },
+  { "id": "enterprise",   "group": "industry", "order": 19, "icon": "Building2",   "name": { "zh": "企业管理",         "en": "Enterprise Management" } },
+  { "id": "marketing",    "group": "industry", "order": 20, "icon": "Megaphone",   "name": { "zh": "商业营销与广告",   "en": "Marketing & Advertising" } },
+  { "id": "health",       "group": "industry", "order": 21, "icon": "Stethoscope", "name": { "zh": "医疗与健康",       "en": "Health & Medical" } },
+  { "id": "interior",     "group": "industry", "order": 22, "icon": "Building",    "name": { "zh": "室内与建筑设计",   "en": "Interior & Architecture" } },
+  { "id": "other",        "group": "industry", "order": 23, "icon": "Puzzle",      "name": { "zh": "其他",             "en": "Other" } }
+]
