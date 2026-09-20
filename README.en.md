@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 630 AI tools across 23 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 624 AI tools across 23 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-630-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-624-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -18,16 +18,16 @@
 **Create**
 
 - [Text Generation & Editing](#text-generation--editing) `30`
-- [Image Generation & Editing](#image-generation--editing) `29`
+- [Image Generation & Editing](#image-generation--editing) `28`
 - [Video & Animation](#video--animation) `30`
 - [Art & Creative Design](#art--creative-design) `23`
 - [Music & Audio](#music--audio) `26`
 - [Voice & Speech](#voice--speech) `23`
-- [Chatbots & Companions](#chatbots--companions) `23`
+- [Chatbots & Companions](#chatbots--companions) `21`
 
 **Analyze**
 
-- [Office & Productivity](#office--productivity) `31`
+- [Office & Productivity](#office--productivity) `30`
 - [AI Note-taking](#ai-note-taking) `24`
 - [Coding Assistants](#coding-assistants) `52`
 - [Image Recognition & Analysis](#image-recognition--analysis) `24`
@@ -41,7 +41,7 @@
 - [Social Media](#social-media) `29`
 - [Everyday Life](#everyday-life) `23`
 - [Legal & Finance](#legal--finance) `23`
-- [Enterprise Management](#enterprise-management) `20`
+- [Enterprise Management](#enterprise-management) `18`
 - [Marketing & Advertising](#marketing--advertising) `36`
 - [Health & Medical](#health--medical) `21`
 - [Interior & Architecture](#interior--architecture) `21`
@@ -94,7 +94,7 @@
 
 ## Image Generation & Editing
 
-<sub>[↑ Back to top](#table-of-contents) · `29 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `28 tools`</sub>
 
 - **[360 Zhitu](https://topxai.cn/ai/360-zhitu)** — 360's AI image creation platform with background generation, one-click image making and templated graphics, backed by a licensed high-resolution stock library. · [website](https://tu.360.cn/)
 - **[Wondershare AI Art](https://topxai.cn/ai/aiart)** — Wondershare's AI art platform for text-to-image and image-to-image, with multiple style models, bilingual prompts and full rights to generated content. · [website](https://aigc.wondershare.cn/)
@@ -120,7 +120,6 @@
 - **[SenseMirage](https://topxai.cn/ai/sensemirage)** — SenseTime's AI drawing platform with Chinese-prompt text-to-image and image-to-image, multiple style models and LoRA training for custom characters and looks. Free to use. · [website](https://miaohua.sensetime.com/)
 - **[Stable Diffusion](https://topxai.cn/ai/stable-diffusion)** — Stability AI's generative line, from the open-source image model to enterprise image, video, 3D/4D and audio toolkits — licensable for commercial use and deployable locally. · [website](https://stability.ai/)
 - **[StarryAI](https://topxai.cn/ai/starryai)** — AI image tool built around turning an uploaded image into what you imagine, with text and image prompts for both images and video, plus mobile creation. · [website](https://www.starryai.com/)
-- **[Tencent Hunyuan](https://topxai.cn/ai/tencent-hunyuan)** — Tencent's multimodal model family; the image side supports Chinese prompt understanding and controllable generation, available through open APIs and cloud services. · [website](https://hunyuan.tencent.com/)
 - **[Tensor.Art](https://topxai.cn/ai/tensor-art)** — Free online image generation and model hosting — run hosted models to produce images and video, train your own, and browse assets, workflows and characters without local setup. · [website](https://tensor.art/)
 - **[Tongyi Wanxiang](https://topxai.cn/ai/tongyi-wanxiang)** — Alibaba's Tongyi creative platform for text-to-image, image-to-image, text-to-video, image-to-video and image editing. Wanxiang 3.0 handles native 30-second clips and multi-reference generation. · [website](https://tongyi.aliyun.com/wan/)
 - **[Tusiart](https://topxai.cn/ai/tusiart)** — Online image generation community sharing checkpoints and LoRAs with one-click running, spanning anime, photography, e-commerce and illustration, plus video models. · [website](https://tusiart.com/)
@@ -250,7 +249,7 @@
 
 ## Chatbots & Companions
 
-<sub>[↑ Back to top](#table-of-contents) · `23 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `21 tools`</sub>
 
 - **[Coze](https://topxai.cn/ai/coze)** — ByteDance's one-stop AI development platform: build agents and visual workflows without complex instructions, then let them operate a computer or phone to deliver results — slide decks, data analysis, mini programs and web apps. · [website](https://www.coze.cn/)
 - **[DeepSeek](https://topxai.cn/ai/deepseek)** — DeepSeek's model family, with frontier models such as V4 and R1 released openly, plus a web app, mobile app and open API built around cost efficiency and native multimodal vision. · [website](https://www.deepseek.com/)
@@ -266,19 +265,17 @@
 - **[Poe](https://topxai.cn/ai/poe)** — Quora's AI chat aggregator: talk to thousands of models including GPT, Claude, Gemini, Grok and Kimi in one interface, privately or in group chats, without subscribing to each service. · [website](https://poe.com/)
 - **[Qwen](https://topxai.cn/ai/qwen)** — Alibaba's official Qwen platform for users and developers alike, giving one-stop access to the Qwen family across chat, image and video understanding, image generation and editing, document processing and voice or video conversation. · [website](https://chat.qwenlm.ai/)
 - **[StepFun StepClaw](https://topxai.cn/ai/stepfun-stepclaw)** — StepFun's agent platform, built for everything from coding to agents, offering an open platform and Studio with models natively tuned for office, code and agent workflows, plus multimodal understanding and open-weight deployment. · [website](https://www.stepfun.com/)
-- **[Tencent Yuanqi](https://topxai.cn/ai/tencent-yuanqi)** — Tencent's no-code agent development and distribution platform, with free models and a low barrier to building a custom auto-replying AI chatbot, then distributing it to WeChat and other channels in one click. · [website](https://yuanqi.tencent.com/)
 - **[Tiangong AI](https://topxai.cn/ai/tiangong)** — Kunlun Tech's Tiangong, positioned as a super agent with deep research capability: generate documents, slide decks and spreadsheets in one click through its expert and skill system, plus web pages, images, video, audiobooks and picture books. · [website](https://www.tiangong.cn/)
 - **[TipKay](https://topxai.cn/ai/tipkay)** — Packages roles such as Xiaohongshu operator, Douyin operator, WeChat editor and video producer into AI employees you deploy. The desktop app learns your business first, then delivers research, planning and content end to end. · [website](https://www.tipkay.com/?inviteCode=AIBOT)
 - **[Tongyi Qianwen](https://topxai.cn/ai/tongyi-qianwen)** — Alibaba Cloud's Tongyi model family: Qwen handles language, vision and audio understanding plus agent capabilities, while Wanxiang covers image, video and sound generation. The Qwen series is released openly. · [website](https://tongyi.aliyun.com/)
 - **[ERNIE Bot](https://topxai.cn/ai/wenxin-yiyan)** — Baidu's all-in-one AI assistant focused on work and study: writing, image and music generation, AI reading, literature summarising, slide generation and a large library of agents, synced across devices after sign-in. · [website](https://yiyan.baidu.com/)
 - **[iFlytek Spark](https://topxai.cn/ai/xunfei-xinghuo)** — iFlytek Spark is the company's cognitive large model, covering Q&A, content writing, image generation, slide decks, code, meeting notes, translation and photo-based problem solving, with an API for developers. · [website](https://xinghuo.xfyun.cn/)
-- **[Tencent Yuanbao](https://topxai.cn/ai/yuanbao)** — Tencent's all-round AI assistant running the Hunyuan Hy4 preview model, with deep reasoning, multi-style writing, AI search, image understanding and editing, and photo-based homework help across web and mobile. · [website](https://yuanbao.tencent.com/)
 - **[Z.ai](https://topxai.cn/ai/z-ai)** — Zhipu's advanced AI chat and agent platform, currently headlined by GLM-5.3-Flash and positioned simply as a fast, intelligent, reliable chatbot and agent. · [website](https://chat.z.ai/)
 - **[Zhipu Qingliu](https://topxai.cn/ai/zhipu-qingliu)** — Zhipu's large-model open platform with a built-in agent marketplace, one-click API access to production, and web search, MCP and knowledge base capabilities tightly integrated with the GLM flagship models. · [website](https://bigmodel.cn/)
 
 ## Office & Productivity
 
-<sub>[↑ Back to top](#table-of-contents) · `31 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `30 tools`</sub>
 
 - **[Airtable](https://topxai.cn/ai/airtable)** — No-code platform that unifies data and collaboration in smart tables, then builds enterprise AI workflows, apps and agents on top. Used by 500k+ teams, with customer data excluded from training. · [website](https://www.airtable.com/)
 - **[ChatPDF](https://topxai.cn/ai/chatpdf)** — AI question answering built for PDFs: upload for an instant summary, ask questions with page-level citations, chat across multiple files in any language, and talk to documents, videos or websites. · [website](https://www.chatpdf.com/)
@@ -301,7 +298,6 @@
 - **[Read AI](https://topxai.cn/ai/read-ai)** — AI productivity assistant spanning meetings, email, messages and files: live transcription with automatic summaries and action items, plus unified search for answers across everything you work on. · [website](https://www.read.ai/)
 - **[Shimo Docs](https://topxai.cn/ai/shimo)** — Cloud office suite with nine products including documents, spreadsheets, slides and mind maps, supporting real-time collaboration, knowledge capture and private deployment. Used by 850k+ companies. · [website](https://shimo.im/)
 - **[Taskade](https://topxai.cn/ai/taskade)** — AI business app builder: describe a CRM, board or client portal and get a running app driven by AI agents and automated workflows, with a template library. Free to start, no credit card. · [website](https://www.taskade.com/)
-- **[Tencent Docs](https://topxai.cn/ai/tencent-docs)** — Tencent's collaborative online documents service: edit Word, Excel and PPT together with real-time cloud saving, plus document AI, an AI workspace and smart tables. Cross-device with enterprise permissions. · [website](https://docs.qq.com/)
 - **[tl;dv](https://topxai.cn/ai/tldv)** — AI meeting recorder that captures, transcribes and summarises Zoom, Google Meet and Teams calls in 30+ languages, and can update your CRM and follow-up emails automatically. · [website](https://tldv.io/)
 - **[Tome](https://topxai.cn/ai/tome)** — An early AI tool that popularised one-prompt narrative presentations. The site is now offline and the product discontinued as the team moved on — for similar needs, try Gamma or Canva. · [website](https://tome.app/)
 - **[Tongyi Tingwu](https://topxai.cn/ai/tongyi-tingwu)** — Alibaba Cloud's AI assistant for audio and video content, helping users record, organise and analyse media with live speech-to-text, simultaneous translation, smart summaries and podcast link transcription. · [website](https://tingwu.aliyun.com/)
@@ -654,7 +650,7 @@
 
 ## Enterprise Management
 
-<sub>[↑ Back to top](#table-of-contents) · `20 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `18 tools`</sub>
 
 - **[Alibaba Cloud Bailian](https://topxai.cn/ai/aliyun-bailian)** — Alibaba Cloud's large model service platform merging MaaS and agent capabilities, with the enterprise AgentStudio agent platform for calling mainstream models including Tongyi Qianwen, GLM and Kimi. · [website](https://bailian.aliyun.com/)
 - **[Baidu Qianfan AppBuilder](https://topxai.cn/ai/baidu-qianfan)** — Baidu AI Cloud's one-stop enterprise large model platform, agent-centric and covering the full model development and application building flow, with built-in MCP and an agent development toolchain. · [website](https://qianfan.cloud.baidu.com/)
@@ -668,11 +664,9 @@
 - **[Moveworks](https://topxai.cn/ai/moveworks)** — Enterprise AI assistant platform for all employees that searches information across systems and executes tasks through conversation. Serves 350+ organisations covering over 6 million employees. · [website](https://moveworks.com/)
 - **[Salesforce](https://topxai.cn/ai/salesforce)** — Positions itself as the number one AI CRM platform, spanning Sales Cloud, Service Cloud, Marketing Cloud, Data Cloud, Tableau, Slack and the Agentforce agents. · [website](https://www.salesforce.com/)
 - **[Sana](https://topxai.cn/ai/sana)** — Sana Labs' enterprise AI platform bringing AI into a company's applications, knowledge and culture to search knowledge, automate tasks and generate document analysis. · [website](https://sanalabs.com/)
-- **[Tencent Cloud ADP](https://topxai.cn/ai/tencent-adp)** — Tencent Cloud's enterprise agent development platform, offering LLM+RAG, workflow and multi-agent development engines with integrated building, distribution, management and operations. · [website](https://cloud.tencent.com/product/adp)
 - **[Volcengine Ark](https://topxai.cn/ai/volcengine-ark)** — Volcengine's one-stop large model service platform, providing model hosting and inference, web plugins, RAG knowledge bases and agent development, with a range of security and compliance certifications. · [website](https://www.volcengine.com/product/ark)
 - **[Volcengine HiAgent](https://topxai.cn/ai/volcengine-hiagent)** — Volcengine's enterprise agent platform positioned as a one-stop digital employee dispatch station, covering the full agent lifecycle with 100+ plugins and scenario templates, low-code building and private deployment. · [website](https://www.volcengine.com/product/hiagent)
 - **[Wanzhi](https://topxai.cn/ai/wanzhi)** — Offers a full-stack agent solution from development to deployment, including an agent lifecycle operations platform, the Data Agent data foundation and a private large model training and inference platform. · [website](https://www.wanzhi.com/)
-- **[WeCom](https://topxai.cn/ai/wecom)** — Tencent's enterprise communication and collaboration platform that connects to WeChat to serve customers, weaving intelligent search, summarisation and bots into internal and external collaboration and private-domain operations. · [website](https://work.weixin.qq.com/)
 - **[Writer](https://topxai.cn/ai/writer)** — Enterprise agent work platform that connects marketing and revenue processes into autonomous AI workflows, so teams delegate tasks instead of prompting tools, with enterprise-grade governance. · [website](https://writer.com/)
 - **[Yonyou](https://topxai.cn/ai/yonyou)** — Chinese enterprise management software and cloud services vendor whose flagship Yonyou BIP merges AI, data and process, with the YonGPT enterprise model powering agents. · [website](https://www.yonyou.com/)
 - **[Zhuiyi](https://topxai.cn/ai/zhuiyi)** — Provides the AIForce digital employee suite, including intelligent service, outbound calling, assistant, analytics, training and multimodal digital human bots for enterprise and government digital transformation. · [website](https://www.zhuiyi.ai/)
@@ -825,9 +819,9 @@
 15. **[HubSpot](https://topxai.cn/ai/hubspot)** — Marketing & Advertising
 16. **[monday.com](https://topxai.cn/ai/monday)** — Office & Productivity
 17. **[ClickUp](https://topxai.cn/ai/clickup)** — Office & Productivity
-18. **[Tencent Docs](https://topxai.cn/ai/tencent-docs)** — Office & Productivity
-19. **[Lovable](https://topxai.cn/ai/lovable)** — Coding Assistants
-20. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — Video & Animation
+18. **[Lovable](https://topxai.cn/ai/lovable)** — Coding Assistants
+19. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — Video & Animation
+20. **[QuillBot](https://topxai.cn/ai/quillbot)** — Text Generation & Editing
 
 ## About
 

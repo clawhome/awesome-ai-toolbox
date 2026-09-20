@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · 中文 AI 工具精选
 
-> 收录 630 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
+> 收录 624 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-630-blue)](#目录)
+[![Tools](https://img.shields.io/badge/tools-624-blue)](#目录)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -18,16 +18,16 @@
 **生成创作**
 
 - [文本生成与编辑](#文本生成与编辑) `30`
-- [图像生成与编辑](#图像生成与编辑) `29`
+- [图像生成与编辑](#图像生成与编辑) `28`
 - [视频与动画](#视频与动画) `30`
 - [艺术与创意设计](#艺术与创意设计) `23`
 - [音乐与音频](#音乐与音频) `26`
 - [语音生成与转换](#语音生成与转换) `23`
-- [ChatBot 与虚拟伴侣](#chatbot-与虚拟伴侣) `23`
+- [ChatBot 与虚拟伴侣](#chatbot-与虚拟伴侣) `21`
 
 **分析处理**
 
-- [办公与生产力](#办公与生产力) `31`
+- [办公与生产力](#办公与生产力) `30`
 - [AI 笔记](#ai-笔记) `24`
 - [代码编程与辅助](#代码编程与辅助) `52`
 - [图像识别与分析](#图像识别与分析) `24`
@@ -41,7 +41,7 @@
 - [社交媒体](#社交媒体) `29`
 - [日常生活](#日常生活) `23`
 - [法律与财务](#法律与财务) `23`
-- [企业管理](#企业管理) `20`
+- [企业管理](#企业管理) `18`
 - [商业营销与广告](#商业营销与广告) `36`
 - [医疗与健康](#医疗与健康) `21`
 - [室内与建筑设计](#室内与建筑设计) `21`
@@ -94,7 +94,7 @@
 
 ## 图像生成与编辑
 
-<sub>[↑ 返回目录](#目录) · `29 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `28 收录`</sub>
 
 - **[360智图](https://topxai.cn/ai/360-zhitu)** — 360推出的AI图片创作平台，提供智能生成背景、一键成图与模板化图文素材，并配套高清版权图库，面向新媒体配图、营销物料与日常设计等场景。 · [官网](https://tu.360.cn/)
 - **[万兴爱画](https://topxai.cn/ai/aiart)** — 万兴科技推出的AI绘画平台，支持文字生成图片与图片生成图片，内置多种风格模型并支持中英文双语创作，官方说明生成内容的权利归属用户，面向创意设计与内容配图。 · [官网](https://aigc.wondershare.cn/)
@@ -120,7 +120,6 @@
 - **[商汤秒画](https://topxai.cn/ai/sensemirage)** — 商汤科技推出的AI作画平台，支持中文提示词文生图与图生图，提供多种风格模型，并支持LoRA训练定制形象与画风，官方称可免费使用，面向插画与IP创作场景。 · [官网](https://miaohua.sensetime.com/)
 - **[Stable Diffusion](https://topxai.cn/ai/stable-diffusion)** — Stability AI 的生成式 AI 产品线，含开源图像模型与企业级图像、视频、3D/4D 模型与音频工具包，支持商用授权，可本地部署或走企业托管。 · [官网](https://stability.ai/)
 - **[StarryAI](https://topxai.cn/ai/starryai)** — 主打「上传一张图，AI 把它变成你想象的样子」的 AI 生图工具，支持文字与图片生成图像与视频，官网强调社区驱动与移动端随时创作。 · [官网](https://www.starryai.com/)
-- **[腾讯混元](https://topxai.cn/ai/tencent-hunyuan)** — 腾讯自研的多模态大模型产品体系，图像方向提供混元生图等能力，支持中文提示词理解与可控出图，可通过开放接口与云服务接入，面向内容创作、营销物料与品牌设计场景。 · [官网](https://hunyuan.tencent.com/)
 - **[Tensor.Art](https://topxai.cn/ai/tensor-art)** — 免费的在线生图与模型托管平台，可在线运行模型生成图片与视频、训练模型，并提供素材库、工作流与角色创作等分区，适合不想本地部署的玩家。 · [官网](https://tensor.art/)
 - **[通义万相](https://topxai.cn/ai/tongyi-wanxiang)** — 阿里巴巴通义旗下的 AI 创意创作平台，官方称提供文生图、图生图、文生视频、图生视频与图像编辑能力，万相 3.0 支持原生 30 秒时长与多素材参考生成，面向生产力场景。 · [官网](https://tongyi.aliyun.com/wan/)
 - **[吐司](https://topxai.cn/ai/tusiart)** — 在线生图的AI模型分享社区，汇集Checkpoint与LoRA等模型并支持一键运行，覆盖二次元、摄影、电商、插画等风格，同时收录视频生成模型，供创作者共用与协作。 · [官网](https://tusiart.com/)
@@ -250,7 +249,7 @@
 
 ## ChatBot 与虚拟伴侣
 
-<sub>[↑ 返回目录](#目录) · `23 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `21 收录`</sub>
 
 - **[扣子 Coze](https://topxai.cn/ai/coze)** — 扣子是字节跳动旗下的一站式 AI 开发平台，无需复杂指令即可搭建智能体与可视化工作流，可操作电脑和手机直接交付结果，覆盖 PPT、数据分析、小程序与网页开发等场景。 · [官网](https://www.coze.cn/)
 - **[DeepSeek 深度求索](https://topxai.cn/ai/deepseek)** — DeepSeek 是深度求索的大模型系列，官方开源 V4、R1 等前沿模型，提供网页版、手机应用与开放 API，主打高性价比与原生多模态视觉理解能力。 · [官网](https://www.deepseek.com/)
@@ -266,19 +265,17 @@
 - **[Poe](https://topxai.cn/ai/poe)** — Quora 旗下 AI 聊天聚合平台，在一个界面里与 GPT、Claude、Gemini、Grok、Kimi 等数千个模型私聊或群聊，无需订阅各家服务，适合横向对比模型回答质量。 · [官网](https://poe.com/)
 - **[Qwen](https://topxai.cn/ai/qwen)** — 阿里通义千问官方统一平台，同时服务普通用户与开发者，可一站式访问 Qwen 系列开源与闭源模型，覆盖对话、图像与视频理解、图像生成编辑、文档处理与语音视频对话。 · [官网](https://chat.qwenlm.ai/)
 - **[阶跃 StepClaw](https://topxai.cn/ai/stepfun-stepclaw)** — 阶跃星辰推出的智能体平台，主打从 Coding 到 Agent 皆可构建，提供开放平台与 Studio，模型原生适配办公、代码与 Agent 工作流，支持多模态理解与开源权重部署。 · [官网](https://www.stepfun.com/)
-- **[腾讯元器](https://topxai.cn/ai/tencent-yuanqi)** — 腾讯推出的零代码智能体开发与分发平台，提供免费模型与低门槛搭建能力，可快速创建自动回复的专属 AI 聊天机器人，并一键分发到微信、应用宝等渠道。 · [官网](https://yuanqi.tencent.com/)
 - **[天工AI](https://topxai.cn/ai/tiangong)** — 昆仑万维天工，定位具备 DeepResearch 能力的超级智能体，通过专家与技能体系一键生成 AI 文档、PPT、表格，也支持网页、图像、视频、有声书、绘本等创意内容创作。 · [官网](https://www.tiangong.cn/)
 - **[TipKay](https://topxai.cn/ai/tipkay)** — 把小红书运营、抖音运营、公众号编辑、视频制作等岗位做成「下载即上岗」的 AI 员工，桌面端运行，先理解你的业务，再完成从调研策划到内容交付的整套工作。 · [官网](https://www.tipkay.com/?inviteCode=AIBOT)
 - **[通义千问](https://topxai.cn/ai/tongyi-qianwen)** — 通义是阿里云通义实验室的大模型系列：千问大语言模型覆盖语言、视觉与音频理解及 Agent 能力，万相负责图像、视频与声音生成，并长期开源 Qwen 系列。 · [官网](https://tongyi.aliyun.com/)
 - **[文心一言](https://topxai.cn/ai/wenxin-yiyan)** — 文心是百度旗下的一站式 AI 助手，主打办公学习场景，覆盖文字创作、图片与音乐生成、AI 阅读、文献速读、PPT 生成与海量智能体应用，登录后可多端同步。 · [官网](https://yiyan.baidu.com/)
 - **[讯飞星火](https://topxai.cn/ai/xunfei-xinghuo)** — 讯飞星火是科大讯飞推出的认知智能大模型，覆盖百科问答、内容写作、图像生成、PPT、代码、录音纪要、精准翻译与拍照解题，并提供星火 API 供开发者接入。 · [官网](https://xinghuo.xfyun.cn/)
-- **[腾讯元宝](https://topxai.cn/ai/yuanbao)** — 腾讯推出的全能 AI 助手，接入混元 Hy4 preview 模型，支持深度推理、多风格写作、AI 搜索、识图与生图 P 图、拍题答疑，覆盖学习、办公与生活场景，网页与移动端可用。 · [官网](https://yuanbao.tencent.com/)
 - **[Z.ai](https://topxai.cn/ai/z-ai)** — 智谱推出的高级 AI 对话与 Agent 平台，官网当前以 GLM-5.3-Flash 为主打模型，官方定位是「Advanced AI Chatbot & Agent」——快速、智能、可靠。 · [官网](https://chat.z.ai/)
 - **[智谱清流](https://topxai.cn/ai/zhipu-qingliu)** — 智谱 AI 的大模型开放平台，内置智能体市场，可一键接入 API 直连生产环境，配套联网搜索、MCP 与知识库能力，与 GLM 系列旗舰模型深度打通，适合构建可信智能体应用。 · [官网](https://bigmodel.cn/)
 
 ## 办公与生产力
 
-<sub>[↑ 返回目录](#目录) · `31 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `30 收录`</sub>
 
 - **[Airtable](https://topxai.cn/ai/airtable)** — Airtable 是无代码平台，用智能表格统一数据与协作，并构建企业级 AI 工作流、应用与代理，内置 Omni。官网称 50 万+ 团队使用，支持主流模型且客户数据不用于训练。 · [官网](https://www.airtable.com/)
 - **[ChatPDF](https://topxai.cn/ai/chatpdf)** — 专为 PDF 而生的 AI 问答工具，上传即得摘要，可提问并给出页码引用，支持多文件同聊与任意语言，还能与文件、视频、网站对话，配套 AI 写作与检测工具。 · [官网](https://www.chatpdf.com/)
@@ -301,7 +298,6 @@
 - **[Read AI](https://topxai.cn/ai/read-ai)** — Read AI 是跨会议、邮件、消息与文件的 AI 效率助手，实时转录并自动生成摘要与行动项，还支持在全部工作内容中统一搜索答案，让团队随时信息同步。 · [官网](https://www.read.ai/)
 - **[石墨文档](https://topxai.cn/ai/shimo)** — 石墨文档是国内云端 Office 协同办公平台，提供文档、表格、幻灯片、思维导图等九大套件，支持多人实时协作、知识沉淀与私有化部署，服务超 85 万家企业。 · [官网](https://shimo.im/)
 - **[Taskade](https://topxai.cn/ai/taskade)** — AI 业务应用构建平台：一句话生成 CRM、看板、客户门户等可运行应用，由 AI 智能体与自动化工作流驱动，内置大量可克隆模板，免费起步无需信用卡，项目与任务管理能力依旧保留。 · [官网](https://www.taskade.com/)
-- **[腾讯文档](https://topxai.cn/ai/tencent-docs)** — 腾讯文档是腾讯出品的多人在线协作文档，可同时编辑 Word/Excel/PPT 并云端实时保存；内置文档 AI、AI 工作台与智能表格。支持多端同步与企业版权限管控。 · [官网](https://docs.qq.com/)
 - **[tl;dv](https://topxai.cn/ai/tldv)** — tl;dv 是 AI 会议记要工具，自动录制、转录并总结 Zoom、Google Meet 与 Teams 通话，支持 30+ 语言，并可自动更新 CRM 与跟进邮件。 · [官网](https://tldv.io/)
 - **[Tome](https://topxai.cn/ai/tome)** — 早期以一句话生成叙事式演示走红的 AI 工具，官网现已下线、产品停止服务，团队已转向新方向；同类需求可改用 Gamma、Canva 等仍在服务的演示工具。 · [官网](https://tome.app/)
 - **[通义听悟](https://topxai.cn/ai/tongyi-tingwu)** — 阿里云通义听悟是聚焦音视频内容的工作学习 AI 助手，官方称依托大模型帮助用户记录、整理和分析音视频内容，可做实时语音转文字、同步翻译、智能总结与播客链接转写。 · [官网](https://tingwu.aliyun.com/)
@@ -654,7 +650,7 @@
 
 ## 企业管理
 
-<sub>[↑ 返回目录](#目录) · `20 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `18 收录`</sub>
 
 - **[阿里云百炼](https://topxai.cn/ai/aliyun-bailian)** — 阿里云大模型服务平台，融合 MaaS 与 Agent 能力，提供 AgentStudio 企业级智能体平台，可统一调用通义千问、GLM、Kimi 等主流模型。 · [官网](https://bailian.aliyun.com/)
 - **[百度千帆 AppBuilder](https://topxai.cn/ai/baidu-qianfan)** — 百度智能云推出的一站式企业级大模型平台，以 Agent 为核心，覆盖模型开发与应用搭建全流程，内置 MCP 与 Agent 开发工具链。 · [官网](https://qianfan.cloud.baidu.com/)
@@ -668,11 +664,9 @@
 - **[Moveworks](https://topxai.cn/ai/moveworks)** — Moveworks 是面向全员的企业 AI 助手平台，用对话跨系统搜索信息并直接执行任务，官方称已服务 350 多家组织、覆盖超 600 万员工。 · [官网](https://moveworks.com/)
 - **[Salesforce](https://topxai.cn/ai/salesforce)** — Salesforce 官方定位为第一的 AI CRM 平台，提供销售云、服务云、营销云、Data Cloud、Tableau、Slack 与智能代理 Agentforce。 · [官网](https://www.salesforce.com/)
 - **[Sana](https://topxai.cn/ai/sana)** — Sana 是 Sana Labs 的企业 AI 平台，把 AI 引入公司应用、知识与文化，用于搜索知识、自动任务并生成文档分析。 · [官网](https://sanalabs.com/)
-- **[腾讯云智能体开发平台](https://topxai.cn/ai/tencent-adp)** — 腾讯云的企业级智能体开发平台，提供 LLM+RAG、Workflow 与 Multi-agent 开发引擎，支持构建、分发、管理与运营一体化。 · [官网](https://cloud.tencent.com/product/adp)
 - **[火山方舟](https://topxai.cn/ai/volcengine-ark)** — 火山引擎的一站式大模型服务平台，提供模型托管与推理、联网插件、RAG 知识库与 Agent 开发能力，并具备多项安全合规认证。 · [官网](https://www.volcengine.com/product/ark)
 - **[火山 HiAgent](https://topxai.cn/ai/volcengine-hiagent)** — 火山引擎推出的企业级智能体平台，定位一站式数字员工派遣站，覆盖智能体开发、运行、治理全流程，提供 100+ 插件与场景模板，支持低代码搭建与私有化部署。 · [官网](https://www.volcengine.com/product/hiagent)
 - **[万智](https://topxai.cn/ai/wanzhi)** — 万智提供从研发到部署的全栈 Agent 解决方案，包含 Agent 全生命周期运营平台、Data Agent 数据底座与私有大模型训推一体平台。 · [官网](https://www.wanzhi.com/)
-- **[企业微信](https://topxai.cn/ai/wecom)** — 企业微信是腾讯的企业通讯与办公协作平台，可连接微信服务客户，并把智能搜索、总结、机器人等 AI 融入内外协作，打通私域运营。 · [官网](https://work.weixin.qq.com/)
 - **[Writer](https://topxai.cn/ai/writer)** — Writer 是面向企业的智能体工作平台，把营销与营收流程连成自主 AI 工作流，让团队直接委派任务而非提示工具，落地企业级治理。 · [官网](https://writer.com/)
 - **[用友](https://topxai.cn/ai/yonyou)** — 用友是中国企业管理软件与云服务厂商，旗舰平台用友 BIP 融合 AI、数据与流程，并以 YonGPT 企业大模型驱动智能体。 · [官网](https://www.yonyou.com/)
 - **[追一科技](https://topxai.cn/ai/zhuiyi)** — 追一科技提供 AI 数字员工解决方案 AIForce，包含智能服务、外呼、助理、分析、培训与多模态数字人机器人，服务企业与政府智能化转型。 · [官网](https://www.zhuiyi.ai/)
@@ -825,9 +819,9 @@
 15. **[HubSpot](https://topxai.cn/ai/hubspot)** — 商业营销与广告
 16. **[monday.com](https://topxai.cn/ai/monday)** — 办公与生产力
 17. **[ClickUp](https://topxai.cn/ai/clickup)** — 办公与生产力
-18. **[腾讯文档](https://topxai.cn/ai/tencent-docs)** — 办公与生产力
-19. **[Lovable](https://topxai.cn/ai/lovable)** — 代码编程与辅助
-20. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — 视频与动画
+18. **[Lovable](https://topxai.cn/ai/lovable)** — 代码编程与辅助
+19. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — 视频与动画
+20. **[QuillBot](https://topxai.cn/ai/quillbot)** — 文本生成与编辑
 
 ## 关于本仓库
 

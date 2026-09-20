@@ -1023,25 +1023,6 @@
   "visits": 276224
  },
  {
-  "slug": "tencent-hunyuan",
-  "name": {
-   "zh": "腾讯混元",
-   "en": "Tencent Hunyuan"
-  },
-  "desc": {
-   "zh": "腾讯自研的多模态大模型产品体系，图像方向提供混元生图等能力，支持中文提示词理解与可控出图，可通过开放接口与云服务接入，面向内容创作、营销物料与品牌设计场景。",
-   "en": "Tencent's multimodal model family; the image side supports Chinese prompt understanding and controllable generation, available through open APIs and cloud services."
-  },
-  "category": "image-create",
-  "url": "https://hunyuan.tencent.com/",
-  "tags": [
-   "文生图",
-   "多模态",
-   "腾讯自研"
-  ],
-  "visits": 1522361
- },
- {
   "slug": "tensor-art",
   "name": {
    "zh": "Tensor.Art",
@@ -3322,25 +3303,6 @@
   "visits": 394646
  },
  {
-  "slug": "tencent-yuanqi",
-  "name": {
-   "zh": "腾讯元器",
-   "en": "Tencent Yuanqi"
-  },
-  "desc": {
-   "zh": "腾讯推出的零代码智能体开发与分发平台，提供免费模型与低门槛搭建能力，可快速创建自动回复的专属 AI 聊天机器人，并一键分发到微信、应用宝等渠道。",
-   "en": "Tencent's no-code agent development and distribution platform, with free models and a low barrier to building a custom auto-replying AI chatbot, then distributing it to WeChat and other channels in one click."
-  },
-  "category": "chatbot",
-  "url": "https://yuanqi.tencent.com/",
-  "tags": [
-   "智能体平台",
-   "零代码",
-   "微信分发"
-  ],
-  "visits": 86113
- },
- {
   "slug": "tiangong",
   "name": {
    "zh": "天工AI",
@@ -3434,25 +3396,6 @@
    "认知"
   ],
   "visits": 309890
- },
- {
-  "slug": "yuanbao",
-  "name": {
-   "zh": "腾讯元宝",
-   "en": "Tencent Yuanbao"
-  },
-  "desc": {
-   "zh": "腾讯推出的全能 AI 助手，接入混元 Hy4 preview 模型，支持深度推理、多风格写作、AI 搜索、识图与生图 P 图、拍题答疑，覆盖学习、办公与生活场景，网页与移动端可用。",
-   "en": "Tencent's all-round AI assistant running the Hunyuan Hy4 preview model, with deep reasoning, multi-style writing, AI search, image understanding and editing, and photo-based homework help across web and mobile."
-  },
-  "category": "chatbot",
-  "url": "https://yuanbao.tencent.com/",
-  "tags": [
-   "AI助手",
-   "混元大模型",
-   "AI搜索"
-  ],
-  "visits": 13098547
  },
  {
   "slug": "z-ai",
@@ -3889,25 +3832,6 @@
    "协作"
   ],
   "visits": 602170
- },
- {
-  "slug": "tencent-docs",
-  "name": {
-   "zh": "腾讯文档",
-   "en": "Tencent Docs"
-  },
-  "desc": {
-   "zh": "腾讯文档是腾讯出品的多人在线协作文档，可同时编辑 Word/Excel/PPT 并云端实时保存；内置文档 AI、AI 工作台与智能表格。支持多端同步与企业版权限管控。",
-   "en": "Tencent's collaborative online documents service: edit Word, Excel and PPT together with real-time cloud saving, plus document AI, an AI workspace and smart tables. Cross-device with enterprise permissions."
-  },
-  "category": "office",
-  "url": "https://docs.qq.com/",
-  "tags": [
-   "在线文档",
-   "多人协作",
-   "智能表格"
-  ],
-  "visits": 33863779
  },
  {
   "slug": "tldv",
@@ -9818,25 +9742,6 @@
   "visits": 177391
  },
  {
-  "slug": "tencent-adp",
-  "name": {
-   "zh": "腾讯云智能体开发平台",
-   "en": "Tencent Cloud ADP"
-  },
-  "desc": {
-   "zh": "腾讯云的企业级智能体开发平台，提供 LLM+RAG、Workflow 与 Multi-agent 开发引擎，支持构建、分发、管理与运营一体化。",
-   "en": "Tencent Cloud's enterprise agent development platform, offering LLM+RAG, workflow and multi-agent development engines with integrated building, distribution, management and operations."
-  },
-  "category": "enterprise",
-  "url": "https://cloud.tencent.com/product/adp",
-  "tags": [
-   "智能体开发",
-   "企业级AI",
-   "RAG"
-  ],
-  "visits": 17979288
- },
- {
   "slug": "volcengine-ark",
   "name": {
    "zh": "火山方舟",
@@ -9892,25 +9797,6 @@
    "数据治理"
   ],
   "visits": 10337
- },
- {
-  "slug": "wecom",
-  "name": {
-   "zh": "企业微信",
-   "en": "WeCom"
-  },
-  "desc": {
-   "zh": "企业微信是腾讯的企业通讯与办公协作平台，可连接微信服务客户，并把智能搜索、总结、机器人等 AI 融入内外协作，打通私域运营。",
-   "en": "Tencent's enterprise communication and collaboration platform that connects to WeChat to serve customers, weaving intelligent search, summarisation and bots into internal and external collaboration and private-domain operations."
-  },
-  "category": "enterprise",
-  "url": "https://work.weixin.qq.com/",
-  "tags": [
-   "企业通讯",
-   "客户联系",
-   "办公协作"
-  ],
-  "visits": 0
  },
  {
   "slug": "writer",
