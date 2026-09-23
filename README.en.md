@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 624 AI tools across 23 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 597 AI tools across 23 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-624-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-597-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -18,34 +18,34 @@
 **Create**
 
 - [Text Generation & Editing](#text-generation--editing) `30`
-- [Image Generation & Editing](#image-generation--editing) `28`
+- [Image Generation & Editing](#image-generation--editing) `29`
 - [Video & Animation](#video--animation) `30`
 - [Art & Creative Design](#art--creative-design) `23`
-- [Music & Audio](#music--audio) `26`
+- [Music & Audio](#music--audio) `24`
 - [Voice & Speech](#voice--speech) `23`
-- [Chatbots & Companions](#chatbots--companions) `21`
+- [Chatbots & Companions](#chatbots--companions) `23`
 
 **Analyze**
 
-- [Office & Productivity](#office--productivity) `30`
-- [AI Note-taking](#ai-note-taking) `24`
-- [Coding Assistants](#coding-assistants) `52`
+- [Office & Productivity](#office--productivity) `27`
+- [AI Note-taking](#ai-note-taking) `23`
+- [Coding Assistants](#coding-assistants) `51`
 - [Image Recognition & Analysis](#image-recognition--analysis) `24`
-- [Business Research](#business-research) `21`
+- [Business Research](#business-research) `13`
 - [Learning & Translation](#learning--translation) `26`
-- [AI Detection & Anti-detection](#ai-detection--anti-detection) `32`
-- [Research & Data Analysis](#research--data-analysis) `36`
+- [AI Detection & Anti-detection](#ai-detection--anti-detection) `30`
+- [Research & Data Analysis](#research--data-analysis) `34`
 
 **Industries**
 
 - [Social Media](#social-media) `29`
-- [Everyday Life](#everyday-life) `23`
-- [Legal & Finance](#legal--finance) `23`
-- [Enterprise Management](#enterprise-management) `18`
-- [Marketing & Advertising](#marketing--advertising) `36`
+- [Everyday Life](#everyday-life) `20`
+- [Legal & Finance](#legal--finance) `21`
+- [Enterprise Management](#enterprise-management) `20`
+- [Marketing & Advertising](#marketing--advertising) `30`
 - [Health & Medical](#health--medical) `21`
-- [Interior & Architecture](#interior--architecture) `21`
-- [Other](#other) `27`
+- [Interior & Architecture](#interior--architecture) `20`
+- [Other](#other) `26`
 
 **More**
 
@@ -94,7 +94,7 @@
 
 ## Image Generation & Editing
 
-<sub>[↑ Back to top](#table-of-contents) · `28 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `29 tools`</sub>
 
 - **[360 Zhitu](https://topxai.cn/ai/360-zhitu)** — 360's AI image creation platform with background generation, one-click image making and templated graphics, backed by a licensed high-resolution stock library. · [website](https://tu.360.cn/)
 - **[Wondershare AI Art](https://topxai.cn/ai/aiart)** — Wondershare's AI art platform for text-to-image and image-to-image, with multiple style models, bilingual prompts and full rights to generated content. · [website](https://aigc.wondershare.cn/)
@@ -120,6 +120,7 @@
 - **[SenseMirage](https://topxai.cn/ai/sensemirage)** — SenseTime's AI drawing platform with Chinese-prompt text-to-image and image-to-image, multiple style models and LoRA training for custom characters and looks. Free to use. · [website](https://miaohua.sensetime.com/)
 - **[Stable Diffusion](https://topxai.cn/ai/stable-diffusion)** — Stability AI's generative line, from the open-source image model to enterprise image, video, 3D/4D and audio toolkits — licensable for commercial use and deployable locally. · [website](https://stability.ai/)
 - **[StarryAI](https://topxai.cn/ai/starryai)** — AI image tool built around turning an uploaded image into what you imagine, with text and image prompts for both images and video, plus mobile creation. · [website](https://www.starryai.com/)
+- **[腾讯混元](https://topxai.cn/ai/tencent-hunyuan)** — 腾讯自研的多模态大模型产品体系，图像方向提供混元生图等能力，支持中文提示词理解与可控出图，可通过开放接口与云服务接入，面向内容创作、营销物料与品牌设计场景。 · [website](https://hunyuan.tencent.com/)
 - **[Tensor.Art](https://topxai.cn/ai/tensor-art)** — Free online image generation and model hosting — run hosted models to produce images and video, train your own, and browse assets, workflows and characters without local setup. · [website](https://tensor.art/)
 - **[Tongyi Wanxiang](https://topxai.cn/ai/tongyi-wanxiang)** — Alibaba's Tongyi creative platform for text-to-image, image-to-image, text-to-video, image-to-video and image editing. Wanxiang 3.0 handles native 30-second clips and multi-reference generation. · [website](https://tongyi.aliyun.com/wan/)
 - **[Tusiart](https://topxai.cn/ai/tusiart)** — Online image generation community sharing checkpoints and LoRAs with one-click running, spanning anime, photography, e-commerce and illustration, plus video models. · [website](https://tusiart.com/)
@@ -190,14 +191,13 @@
 
 ## Music & Audio
 
-<sub>[↑ Back to top](#table-of-contents) · `26 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `24 tools`</sub>
 
 - **[ACE Studio](https://topxai.cn/ai/ace-studio)** — AI music workstation for producers offering singing voice synthesis, voice cloning, AI instruments and stem separation, with precise control over pitch, timing and emotion through a DAW plugin. · [website](https://acestudio.cn/)
 - **[AIVA](https://topxai.cn/ai/aiva)** — AI music composer known for classical and cinematic scores — generate a track in seconds from a free account, aimed at creators who need orchestral, emotive backing music. · [website](https://www.aiva.ai/)
 - **[Beatoven.ai](https://topxai.cn/ai/beatoven)** — Royalty-free AI background music generator for video, podcasts and games. More than 2M creators have generated over 15M tracks. · [website](https://beatoven.ai/)
 - **[Boomy](https://topxai.cn/ai/boomy)** — Generative music tool for people who have never made music — create an original song in one click, share it, and release it through the platform to earn royalties. · [website](https://boomy.com/)
 - **[Chordmate](https://topxai.cn/ai/chordmate)** — Mobile music workstation built around chord charts, combining AI composition, arrangement and singing: enter chords to get an arrangement, enter notation to get vocals, then export to a DAW. · [website](https://chordmate.lazycomposer.com/)
-- **[Duowei Shijie](https://topxai.cn/ai/duowei-shijie)** — AI analysis platform for long audio and video: paste a link to transcribe and summarise, get real-time subtitle translation across 100 languages, flashcards and quizzes, plus repurposed copy for social platforms. · [website](https://dwsj.cn/)
 - **[Haimian Music](https://topxai.cn/ai/haimian-music)** — ByteDance's AI music product — type a line of inspiration or lyrics and get a finished song with vocals, with options for instrumentals, reference-based remixing, and genre, mood and timbre selection. · [website](https://www.haimian.com/)
 - **[Kits AI](https://topxai.cn/ai/kits-ai)** — Studio-grade AI audio tools for producers: clone voices with an AI vocal generator, sing or play instruments in any style, with a desktop app and a suite built for music workflows. · [website](https://kits.ai/)
 - **[LALAL.AI](https://topxai.cn/ai/lalal-ai)** — Professional AI stem separation: upload audio or video and extract high-quality vocals, instrumentals and individual instruments in seconds — useful for covers, remixes and sample reuse. · [website](https://www.lalal.ai/)
@@ -208,7 +208,6 @@
 - **[MusicGPT](https://topxai.cn/ai/musicgpt)** — AI music generation and editing — create original songs, beats, backing tracks and sound effects, with stem extraction, voice swapping and audio enhancement. Chinese interface available. · [website](https://musicgpt.com/)
 - **[NetEase Tianyin](https://topxai.cn/ai/netease-tianyin)** — NetEase Cloud Music's AI songwriting tool, covering lyrics inspiration, arrangement, performance and one-click release for hobbyists and content creators. · [website](https://tianyin.163.com/)
 - **[Riffusion](https://topxai.cn/ai/riffusion)** — Started as an open-source project and known for generating instrumental loops with diffusion models. Reportedly acquired by Google; the site now redirects to Google Flow Music. · [website](https://www.riffusion.com/)
-- **[Singduck](https://topxai.cn/ai/singduck)** — AI music creation app from Qutuan Tech, built on its in-house Tianpule model: generate music from text, images or video, with three-key songwriting, hum-to-song and multi-voice AI singing. · [website](https://www.singduck.cn/)
 - **[SkyMusic](https://topxai.cn/ai/skymusic)** — Kunlun Tech's AI music product built on the Tiangong model, generating instruments, vocals and melody end to end, with lyric section control and support for multiple genres and dialects. · [website](https://music.tiangong.cn/)
 - **[SoundBug](https://topxai.cn/ai/soundbug)** — Chinese arrangement and recording software with 600+ virtual instruments and classic riffs, AI arrangement, and VST and VST3 plugin support. · [website](https://www.soundbug.com/)
 - **[Soundful](https://topxai.cn/ai/soundful)** — AI music platform for brands and creators, with producer-involved, compliance-trained generation of original music that can be licensed commercially at scale. · [website](https://soundful.com/)
@@ -249,7 +248,7 @@
 
 ## Chatbots & Companions
 
-<sub>[↑ Back to top](#table-of-contents) · `21 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `23 tools`</sub>
 
 - **[Coze](https://topxai.cn/ai/coze)** — ByteDance's one-stop AI development platform: build agents and visual workflows without complex instructions, then let them operate a computer or phone to deliver results — slide decks, data analysis, mini programs and web apps. · [website](https://www.coze.cn/)
 - **[DeepSeek](https://topxai.cn/ai/deepseek)** — DeepSeek's model family, with frontier models such as V4 and R1 released openly, plus a web app, mobile app and open API built around cost efficiency and native multimodal vision. · [website](https://www.deepseek.com/)
@@ -265,18 +264,21 @@
 - **[Poe](https://topxai.cn/ai/poe)** — Quora's AI chat aggregator: talk to thousands of models including GPT, Claude, Gemini, Grok and Kimi in one interface, privately or in group chats, without subscribing to each service. · [website](https://poe.com/)
 - **[Qwen](https://topxai.cn/ai/qwen)** — Alibaba's official Qwen platform for users and developers alike, giving one-stop access to the Qwen family across chat, image and video understanding, image generation and editing, document processing and voice or video conversation. · [website](https://chat.qwenlm.ai/)
 - **[StepFun StepClaw](https://topxai.cn/ai/stepfun-stepclaw)** — StepFun's agent platform, built for everything from coding to agents, offering an open platform and Studio with models natively tuned for office, code and agent workflows, plus multimodal understanding and open-weight deployment. · [website](https://www.stepfun.com/)
+- **[腾讯元器](https://topxai.cn/ai/tencent-yuanqi)** — 腾讯推出的零代码智能体开发与分发平台，提供免费模型与低门槛搭建能力，可快速创建自动回复的专属 AI 聊天机器人，并一键分发到微信、应用宝等渠道。 · [website](https://yuanqi.tencent.com/)
 - **[Tiangong AI](https://topxai.cn/ai/tiangong)** — Kunlun Tech's Tiangong, positioned as a super agent with deep research capability: generate documents, slide decks and spreadsheets in one click through its expert and skill system, plus web pages, images, video, audiobooks and picture books. · [website](https://www.tiangong.cn/)
 - **[TipKay](https://topxai.cn/ai/tipkay)** — Packages roles such as Xiaohongshu operator, Douyin operator, WeChat editor and video producer into AI employees you deploy. The desktop app learns your business first, then delivers research, planning and content end to end. · [website](https://www.tipkay.com/?inviteCode=AIBOT)
 - **[Tongyi Qianwen](https://topxai.cn/ai/tongyi-qianwen)** — Alibaba Cloud's Tongyi model family: Qwen handles language, vision and audio understanding plus agent capabilities, while Wanxiang covers image, video and sound generation. The Qwen series is released openly. · [website](https://tongyi.aliyun.com/)
 - **[ERNIE Bot](https://topxai.cn/ai/wenxin-yiyan)** — Baidu's all-in-one AI assistant focused on work and study: writing, image and music generation, AI reading, literature summarising, slide generation and a large library of agents, synced across devices after sign-in. · [website](https://yiyan.baidu.com/)
 - **[iFlytek Spark](https://topxai.cn/ai/xunfei-xinghuo)** — iFlytek Spark is the company's cognitive large model, covering Q&A, content writing, image generation, slide decks, code, meeting notes, translation and photo-based problem solving, with an API for developers. · [website](https://xinghuo.xfyun.cn/)
+- **[腾讯元宝](https://topxai.cn/ai/yuanbao)** — 腾讯推出的全能 AI 助手，接入混元 Hy4 preview 模型，支持深度推理、多风格写作、AI 搜索、识图与生图 P 图、拍题答疑，覆盖学习、办公与生活场景，网页与移动端可用。 · [website](https://yuanbao.tencent.com/)
 - **[Z.ai](https://topxai.cn/ai/z-ai)** — Zhipu's advanced AI chat and agent platform, currently headlined by GLM-5.3-Flash and positioned simply as a fast, intelligent, reliable chatbot and agent. · [website](https://chat.z.ai/)
 - **[Zhipu Qingliu](https://topxai.cn/ai/zhipu-qingliu)** — Zhipu's large-model open platform with a built-in agent marketplace, one-click API access to production, and web search, MCP and knowledge base capabilities tightly integrated with the GLM flagship models. · [website](https://bigmodel.cn/)
 
 ## Office & Productivity
 
-<sub>[↑ Back to top](#table-of-contents) · `30 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `27 tools`</sub>
 
+- **[AiPPT](https://topxai.cn/ai/aippt)** — AI 大模型驱动的智能 PPT 制作工具，官方称支持一句话生成完整专业 PPT、文档秒变 PPT，并提供 AI 自动排版润色与海量模板，官网标注已有 3000 万以上用户使用。 · [website](https://www.aippt.cn)
 - **[Airtable](https://topxai.cn/ai/airtable)** — No-code platform that unifies data and collaboration in smart tables, then builds enterprise AI workflows, apps and agents on top. Used by 500k+ teams, with customer data excluded from training. · [website](https://www.airtable.com/)
 - **[ChatPDF](https://topxai.cn/ai/chatpdf)** — AI question answering built for PDFs: upload for an instant summary, ask questions with page-level citations, chat across multiple files in any language, and talk to documents, videos or websites. · [website](https://www.chatpdf.com/)
 - **[ClickUp](https://topxai.cn/ai/clickup)** — Work platform aiming to replace several tools at once — tasks, docs, goals and chat — with Brain AI, AI agents, meeting notes, writing and Q&A. Free forever, no credit card. · [website](https://clickup.com/)
@@ -287,7 +289,6 @@
 - **[Gamma](https://topxai.cn/ai/gamma)** — AI design partner that produces presentations, websites, documents, social posts and graphics without design or coding skills, exportable to PPT and PDF, with a programmable API. · [website](https://gamma.app/)
 - **[Glean](https://topxai.cn/ai/glean)** — Enterprise AI platform connecting internal sources such as Slack, Drive and Jira to deliver enterprise search, knowledge answers and orchestrated agents, with permission awareness and compliance built in. · [website](https://www.glean.com/)
 - **[iFlyRec](https://topxai.cn/ai/iflyrec)** — iFlytek's smart office platform covering speech-to-text, recording organisation, AI writing, video transcription with subtitles and multilingual simultaneous interpretation, with API, SDK and on-premise options. · [website](https://www.iflyrec.com/)
-- **[Loopin AI](https://topxai.cn/ai/loopin-ai)** — Team meeting workspace that records calls, transcribes them automatically and generates notes, keeping every meeting's output in one searchable place so people can align and follow up afterwards. · [website](https://www.loopinhq.com/)
 - **[Make](https://topxai.cn/ai/make)** — Visual AI automation platform for building and orchestrating no-code workflows across 3000+ apps and AI agents, spanning marketing, sales, operations, finance and IT. Free tier available. · [website](https://www.make.com/)
 - **[Microsoft Copilot](https://topxai.cn/ai/microsoft-copilot)** — Microsoft's AI assistant for chat, web search, writing help, brainstorming and image generation. The free tier works on web and mobile; Copilot Pro adds stronger models and faster image generation. · [website](https://copilot.microsoft.com/)
 - **[monday.com](https://topxai.cn/ai/monday)** — An AI work platform that puts people and AI agents in the same workflow, with agents for marketing, IT and sales plus meeting assistance, research, reporting and process improvement. Free and unlimited, no card. · [website](https://monday.com/)
@@ -296,21 +297,18 @@
 - **[Notta](https://topxai.cn/ai/notta)** — AI meeting and recording transcription supporting 58 languages with translation, automatically generating summaries, slide decks and infographics across online meetings, offline interviews and imported files. · [website](https://www.notta.ai/)
 - **[Otter.ai](https://topxai.cn/ai/otter-ai)** — AI meeting assistant that transcribes every meeting live and generates summaries, insights and action items, with in-meeting chat and a searchable, queryable archive of past conversations. · [website](https://otter.ai/)
 - **[Read AI](https://topxai.cn/ai/read-ai)** — AI productivity assistant spanning meetings, email, messages and files: live transcription with automatic summaries and action items, plus unified search for answers across everything you work on. · [website](https://www.read.ai/)
-- **[Shimo Docs](https://topxai.cn/ai/shimo)** — Cloud office suite with nine products including documents, spreadsheets, slides and mind maps, supporting real-time collaboration, knowledge capture and private deployment. Used by 850k+ companies. · [website](https://shimo.im/)
 - **[Taskade](https://topxai.cn/ai/taskade)** — AI business app builder: describe a CRM, board or client portal and get a running app driven by AI agents and automated workflows, with a template library. Free to start, no credit card. · [website](https://www.taskade.com/)
 - **[tl;dv](https://topxai.cn/ai/tldv)** — AI meeting recorder that captures, transcribes and summarises Zoom, Google Meet and Teams calls in 30+ languages, and can update your CRM and follow-up emails automatically. · [website](https://tldv.io/)
-- **[Tome](https://topxai.cn/ai/tome)** — An early AI tool that popularised one-prompt narrative presentations. The site is now offline and the product discontinued as the team moved on — for similar needs, try Gamma or Canva. · [website](https://tome.app/)
 - **[Tongyi Tingwu](https://topxai.cn/ai/tongyi-tingwu)** — Alibaba Cloud's AI assistant for audio and video content, helping users record, organise and analyse media with live speech-to-text, simultaneous translation, smart summaries and podcast link transcription. · [website](https://tingwu.aliyun.com/)
 - **[TraeWork](https://topxai.cn/ai/trae-work)** — ByteDance's AI office platform for automatic slide generation, data analysis and deep research, with plugins for Feishu, WeChat and DingTalk, multi-device sync, and models including Doubao, DeepSeek and Kimi. · [website](https://www.trae.cn/)
 - **[WorkBuddy](https://topxai.cn/ai/workbuddy)** — Tencent's AI office agent workspace: it plans, calls tools and delivers multimodal results, runs multiple agents in parallel, and connects Tencent Docs, WeChat and WeCom across research, documents, design and development. · [website](https://www.workbuddy.cn/)
 - **[WPS AI](https://topxai.cn/ai/wps-ai)** — Kingsoft Office's AI assistant, entered through WPS Lingxi: document drafting and polishing, slide outlines, spreadsheet formulas, full-text summaries and document Q&A inside WPS. The complete experience needs the desktop client. · [website](https://ai.wps.cn/)
 - **[Xmind](https://topxai.cn/ai/xmind)** — Mind mapping and AI brainstorming tool for web, desktop and mobile, with AI generation and multiple structures such as Gantt and matrix. ISO 27001 and SOC 2 certified. · [website](https://www.xmind.com/)
-- **[Yuque](https://topxai.cn/ai/yuque)** — Ant Group's online document and knowledge base tool, with a self-built editor for documents, whiteboards, sheets and data tables that also handles Office and Markdown files. · [website](https://www.yuque.com/)
 - **[Zapier](https://topxai.cn/ai/zapier)** — Automation and AI orchestration platform connecting 9000+ apps, for building workflows, AI agents and MCP or SDK integrations that act across applications. Trusted by 3M+ businesses. · [website](https://zapier.com/)
 
 ## AI Note-taking
 
-<sub>[↑ Back to top](#table-of-contents) · `24 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `23 tools`</sub>
 
 - **[AudioPen](https://topxai.cn/ai/audiopen)** — Voice-to-text AI note tool that rewrites and polishes what you say, used by 200k people, with multiple output styles and cross-device sync. · [website](https://audiopen.ai/)
 - **[Cleft](https://topxai.cn/ai/cleft)** — Voice-first note app for Apple devices that transcribes on-device while offline and turns speech into summaries, to-dos and full transcripts, with one-tap export to Notion or Obsidian. · [website](https://cleftnotes.com/)
@@ -324,7 +322,6 @@
 - **[iFlyNote](https://topxai.cn/ai/iflynote)** — iFlytek's voice-to-text cloud notebook, supporting live dictation, meeting transcription, photo recognition, rich text layout, note read-aloud and multi-device sync. · [website](https://iflynote.com/)
 - **[Jamie](https://topxai.cn/ai/jamie)** — Privacy-first AI meeting note taker that needs no meeting bot, producing structured multilingual notes, transcripts and action items. GDPR compliant and syncs to Notion and others. · [website](https://www.meetjamie.ai/)
 - **[Mem](https://topxai.cn/ai/mem)** — AI-agent-centred note workspace: capture notes, meetings, ideas and research without friction, then let it organise them into durable memory. The agent grasps task goals and steps in to push work forward. · [website](https://mem.ai/)
-- **[Memotron](https://topxai.cn/ai/memotron)** — Open-source personal knowledge management app for web, Mac, iOS and Chrome, with instant capture, web clipping, automatic organisation, graph search and offline use. · [website](https://memotron.app/)
 - **[Miaoji Duo](https://topxai.cn/ai/miaoji-duo)** — AI note app from the mojidoc team with a built-in assistant: voice capture, to-dos synced to your calendar, image recognition and web clipping — a second brain you chat with while capturing. · [website](https://miao.mojidoc.com/)
 - **[Mowen](https://topxai.cn/ai/mowen)** — Lightweight note-taking and publishing tool built on the idea that recording is creating, available on the web and as a mini program, so notes can be shared, published and monetised. · [website](https://mowen.cn/)
 - **[mymind](https://topxai.cn/ai/mymind)** — A private second brain: AI remembers your notes, images, bookmarks and clippings so you never have to sort them into folders, all kept in one private space. · [website](https://mymind.com/)
@@ -339,7 +336,7 @@
 
 ## Coding Assistants
 
-<sub>[↑ Back to top](#table-of-contents) · `52 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `51 tools`</sub>
 
 - **[Agentset](https://topxai.cn/ai/agentset)** — Open-source RAG and agent building platform that gets a production Q&A app running in minutes: multimodal parsing of images, charts and tables, automatic source citations, metadata filtering and self-hosting. · [website](https://agentset.ai/)
 - **[AI2sql](https://topxai.cn/ai/ai2sql)** — AI SQL assistant grounded in your real database schema: generate, explain, fix and optimise queries in natural language, and connect Claude, Cursor or ChatGPT to your database through MCP. · [website](https://www.ai2sql.io/)
@@ -384,7 +381,6 @@
 - **[SenseTime Raccoon](https://topxai.cn/ai/raccoon)** — SenseTime's AI coding assistant with line and block completion, comment-to-code, multi-turn chat, and generation of unit tests and deployment scripts. Compatible with VS Code and JetBrains IDEs; free tier and private deployment. · [website](https://www.xiaohuanxiong.com/code)
 - **[Replit](https://topxai.cn/ai/replit)** — Cloud IDE and AI app building platform: use Replit Agent in the browser to generate and deploy full-stack apps conversationally, with auth, database, hosting and integrations built in. · [website](https://replit.com/)
 - **[Repomix](https://topxai.cn/ai/repomix)** — Open-source tool that packs an entire codebase into an AI-friendly format — local or remote repos, output as XML, Markdown, JSON or plain text, with token counting, compression and security filtering. · [website](https://repomix.com/)
-- **[Stenography](https://topxai.cn/ai/stenography)** — Automatic code documentation tool with a VS Code extension and an API: save and the whole repository's explanations update, with answers referencing Stack Overflow and official documentation. · [website](https://stenography.dev/)
 - **[Tabnine](https://topxai.cn/ai/tabnine)** — Enterprise AI code assistant built around code privacy and compliance, with completion and agent capabilities deployed under your control through an enterprise context engine. Acquired by Tricentis. · [website](https://www.tabnine.com/)
 - **[TraeCode](https://topxai.cn/ai/traecode)** — ByteDance's AI coding IDE under TRAE, offering both IDE and SOLO development modes with a coding agent that takes over tasks and orchestrates tools, plus custom agents and MCP support. · [website](https://www.trae.cn/traecode)
 - **[Unsloth](https://topxai.cn/ai/unsloth)** — Open-source local AI workbench: download and chat with models on the desktop, fine-tune without writing code, generate and edit images and video locally, and attach coding agents to your own GPU. · [website](https://unsloth.ai/)
@@ -425,27 +421,19 @@
 
 ## Business Research
 
-<sub>[↑ Back to top](#table-of-contents) · `21 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `13 tools`</sub>
 
 - **[AlphaSense](https://topxai.cn/ai/alpha-sense)** — AI market intelligence platform for financial and corporate decision-making, with 500M+ research reports, filings and expert interview documents that generative AI can search and synthesise, alongside your internal content. · [website](https://www.alpha-sense.com/)
-- **[Bestla Analysis](https://topxai.cn/ai/bestla)** — Innovation and tech-company investment analysis platform from Cyzone, covering listed and venture-backed companies, investment and M&A data, funds, plus a conversational Bestla AI agent. · [website](https://bestla.cyzone.cn/)
-- **[CB Insights](https://topxai.cn/ai/cb-insights)** — Market intelligence platform for venture and business research, offering company and deal data and industry studies, with AI agents and MCP available for integrating into external systems. · [website](https://www.cbinsights.com/)
 - **[Chanmama](https://topxai.cn/ai/chanmama)** — E-commerce insight platform giving brands, merchants, creators and MCNs Douyin analytics — finding creators, products and live streams — plus a companion tool for live-stream operations management. · [website](https://www.chanmama.com/)
-- **[ChatSpot.ai](https://topxai.cn/ai/chatspot-ai)** — Now the free business AI assistant inside HubSpot Breeze: it answers from your account's real data and gives tailored guidance inside marketing, sales and service modules, at no extra cost for HubSpot users. · [website](https://chatspot.ai/)
-- **[Crunchbase](https://topxai.cn/ai/crunchbase)** — Private company data and predictive intelligence platform built around forecasting models and real-time signals for funding, growth, acquisitions and IPOs, with company and investor search and natural-language Scout queries. · [website](https://www.crunchbase.com/)
 - **[DataStory](https://topxai.cn/ai/datastory)** — An AI-native company whose in-house SocialGPT and EnlightAI multi-agent systems turn market information into insight and growth plans across insight, marketing and sales. · [website](https://www.datastory.com.cn/)
-- **[Exploding Topics](https://topxai.cn/ai/exploding-topics)** — Trend discovery platform that claims to spot emerging trends, startups and products 12+ months early, with free keyword research and competitor analysis tools and a paid trend database with forecasting. · [website](https://explodingtopics.com/)
 - **[Feigua Data](https://topxai.cn/ai/feigua)** — Short-video and live-commerce data analytics covering Douyin, Kuaishou and Bilibili, with product selection, creator screening, ad placement, sentiment monitoring and creator distribution management. · [website](https://www.feigua.cn/)
 - **[Qingbo Intelligence](https://topxai.cn/ai/gsdata)** — An AI and big-data company whose business spans large models and agents, think-tank reports, index rankings, digital humans and video marketing for brands, government and media. · [website](https://www.gsdata.cn/)
-- **[Huitun Data](https://topxai.cn/ai/huitun)** — Short-video and live-commerce analytics platform offering creator resources, breakout product selection and content trend insight, plus curated lists and creator distribution services across major content platforms. · [website](https://www.huitun.com/)
-- **[LeadLeo](https://topxai.cn/ai/leadleo)** — Full-industry original research platform combining AI with human analysts to produce industry reports, encyclopedia entries and supply chain maps, plus market-size forecasting models across tech and consumer sectors. · [website](https://www.leadleo.com/)
-- **[Meritco](https://topxai.cn/ai/meritco)** — Research firm combining commercial due diligence with platform research, using a consultant team, sample panels and data resources to deliver fast, structured business information to investors and corporates. · [website](https://www.meritco-group.com/)
 - **[MktIndex](https://topxai.cn/ai/mktindex)** — AI analyst for online retail markets, using e-commerce and social data for market research, competitor analysis, consumer insight and product innovation, plus overseas market insight for brands and e-commerce teams. · [website](https://home.mktindex.com/)
 - **[Newrank](https://topxai.cn/ai/newrank)** — Content industry service platform offering new-media data, rankings and matrix management, with social monitoring and AI-search optimisation products for new-media content and brand marketing. · [website](https://www.newrank.cn/)
 - **[Qichacha Agent Platform](https://topxai.cn/ai/qcc-agent)** — Enterprise data platform built for AI agents: connect through MCP to mainstream AI tools and query company registration, risk, IP and operating data for due diligence and business intelligence. · [website](https://agent.qcc.com/)
 - **[Qiangua Data](https://topxai.cn/ai/qiangua)** — Data service specialist for seeded marketing on Xiaohongshu, covering market research, category insight, brand analysis, creator management, note creation and full-funnel campaign management, plus AI marketing data products. · [website](https://www.qian-gua.com/)
 - **[Similarweb](https://topxai.cn/ai/similarweb)** — Digital data and market intelligence platform covering website and app traffic, competitor benchmarking, AI search visibility, advertising and e-commerce, with web, app and AI search intelligence products and API data services. · [website](https://www.similarweb.com/)
-- **[Sina Yuqing](https://topxai.cn/ai/sina-yuqing)** — Government and enterprise public opinion monitoring platform with network-wide monitoring, minute-level alerts, multi-type event analysis and reports, using official Weibo data authorisation. · [website](http://www.yuqingsina.com/)
+- **[中科闻歌](https://topxai.cn/ai/wenge-ai)** — 中国科学院自动化所团队创立的企业级 AI 服务商，官方定位「不止于模型，从数据到决策」。以自研雅意 YAYI 大模型为内核，提供 DIP 决策智能平台与决策机 Decitron。 · [website](https://www.wenge.com)
 - **[Zhiwei Data](https://topxai.cn/ai/zhiwei-data)** — AI big-data intelligence provider covering public opinion and reputation risk management, competitive intelligence and market insight, macro policy research and overseas sentiment risk monitoring. · [website](https://www.zhiweidata.com/)
 - **[ZoomInfo](https://topxai.cn/ai/zoominfo)** — GTM intelligence platform for B2B revenue teams, used by 35k+ companies, with company and contact data, buying intent signals, website visitor identification, Copilot AI agents and CRM data governance. · [website](https://www.zoominfo.com/)
 
@@ -459,7 +447,7 @@
 - **[Connected Papers](https://topxai.cn/ai/connected-papers)** — Helps researchers explore academic literature visually: enter one paper and it builds a graph of related work, useful for surveying a topic, spotting gaps and assembling references. · [website](https://www.connectedpapers.com/)
 - **[DeepL](https://topxai.cn/ai/deepl)** — AI translation tool built around accuracy, supporting text, document and voice translation with glossaries and tone or style controls. Trusted by 200,000+ businesses and used by millions every day. · [website](https://www.deepl.com/translator)
 - **[DeepLearning.AI](https://topxai.cn/ai/deeplearning-ai)** — Andrew Ng's AI course platform with 7M+ learners, spanning machine learning fundamentals to generative AI, prompt engineering and agentic AI development through specialisations, short courses, certificates and membership. · [website](https://www.deeplearning.ai/)
-- **[Doubao Learning](https://topxai.cn/ai/doubao-aixue)** — ByteDance's AI learning app, offering photo-based problem solving and essay coaching. A subscription unlocks more usage, covering homework practice, writing feedback and concept explanations. · [website](https://doubaoaixue.com/)
+- **[Doubao Learning](https://topxai.cn/ai/doubao-aixue)** — ByteDance's AI learning app, offering photo-based problem solving and essay coaching. A subscription unlocks more usage, covering homework practice, writing feedback and concept explanations. · [website](https://www.doubao.com/aixue)
 - **[Explainpaper](https://topxai.cn/ai/explainpaper)** — Upload a paper and highlight any phrase for a plain-language explanation, ask questions about the whole paper and get automatic key insights. Used by 400k+ researchers. · [website](https://www.explainpaper.com/)
 - **[Glasp](https://topxai.cn/ai/glasp)** — Web and PDF highlighting tool for researchers and learners: annotate any page or document for free, summarise YouTube videos with AI, and build the highlights into a chat-ready personal knowledge base. · [website](https://glasp.co/)
 - **[Immersive Translate](https://topxai.cn/ai/immersive-translate)** — Bilingual AI translation tool with 20+ engines including ChatGPT, DeepL and Gemini, covering two-column translation of web pages, PDFs, video subtitles, images and comics. · [website](https://immersivetranslate.com/)
@@ -482,14 +470,13 @@
 
 ## AI Detection & Anti-detection
 
-<sub>[↑ Back to top](#table-of-contents) · `32 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `30 tools`</sub>
 
 - **[AIGC-X](https://topxai.cn/ai/aigc-x)** — AI-generated content detection tool from People's Daily's State Key Laboratory, USTC and the Hefei Comprehensive National Science Center AI Institute, supporting text and image detection with confidence scores. · [website](https://aigcx.people.cn/)
 - **[AI or Not](https://topxai.cn/ai/aiornot)** — AI detection across images, text, music, speech and video, distinguishing AI-generated content from deepfakes with a claimed 98.9% accuracy. Free sandbox, API and usage-based pricing, with on-premise deployment. · [website](https://aiornot.com/)
 - **[BypassGPT](https://topxai.cn/ai/bypassgpt)** — AI text humaniser that rewrites content in one click and self-checks AI detection and similarity, with multilingual support and an API. Free tier to try — note the compliance boundaries of rewriting tools. · [website](https://bypassgpt.ai/)
 - **[CNKI AIGC Detection](https://topxai.cn/ai/cnki-aigc)** — CNKI's plagiarism and AIGC detection service for individuals, using adaptive multi-order semantic fingerprinting to judge AI-generated characteristics through both language patterns and semantic logic. · [website](https://cx.cnki.net/)
 - **[Copyleaks](https://topxai.cn/ai/copyleaks)** — Text authenticity platform for enterprises and educators, offering AI detection, plagiarism checking, code plagiarism and AI video detection in 30+ languages with a claimed 0.03% false positive rate, integrable via API and LMS. · [website](https://copyleaks.com/)
-- **[Copyscape](https://topxai.cn/ai/copyscape)** — Long-established web plagiarism detection service that searches public pages for copied content, used across publishing, SEO and education for over twenty years. Premium adds batch search, an API and automatic monitoring. · [website](https://www.copyscape.com/)
 - **[Dayainfo](https://topxai.cn/ai/dayainfo)** — Chaoxing's literature detection system offering similarity checking, AIGC detection, format checking, one-click typesetting and AI review, drawing on its book resources to check books and journals alike. · [website](https://www.dayainfo.com/)
 - **[Deepware](https://topxai.cn/ai/deepware)** — Online deepfake video detection scanner: paste a link or upload a file to judge whether a video has been synthesised or manipulated. Still labelled beta with results for reference only; enterprise on-premise deployment available. · [website](https://deepware.ai/)
 - **[Gezida](https://topxai.cn/ai/gezida)** — Academic content checking workbench offering plagiarism checking, format checking, format correction and AIGC detection in one place, with status tracking and unified records for students and staff. · [website](https://www.gezida.com/)
@@ -500,7 +487,6 @@
 - **[IsGen.ai](https://topxai.cn/ai/isgen-ai)** — Multilingual AI content detection tool supporting 80+ languages including strong Chinese coverage, with sentence-level and phrase-level analysis, plagiarism checking, grammar checking, batch scanning and reporting. · [website](https://isgen.ai/)
 - **[Netus AI](https://topxai.cn/ai/netus-ai)** — Puts AI text humanising, AI detection and multi-model chat under one account, with unlimited free detection, writing tools in 36 languages, plus a Chrome extension and a Google Docs add-on. · [website](https://netus.ai/)
 - **[Originality.ai](https://topxai.cn/ai/originality-ai)** — AI detection tool for content teams and education that checks AI probability, plagiarism, grammar and facts in a single scan, with a Chrome extension, Moodle integration and an API, using writing replay to support authorship claims. · [website](https://originality.ai/)
-- **[PaperPass](https://topxai.cn/ai/paperpass)** — Plagiarism and AIGC detection platform for Chinese academic writing, offering free checks, smart rewriting, AIGC reduction, format checking and a custom comparison library, with sentence-level annotation and source tracing. · [website](https://www.paperpass.com/)
 - **[PaperYY](https://topxai.cn/ai/paperyy)** — Plagiarism checking platform offering paper and AIGC checks, smart rewriting, class team checks and custom library comparison, with bundled PDF conversion, translation and polishing tools. · [website](https://www.paperyy.com/)
 - **[RealAI](https://topxai.cn/ai/realai)** — Positions itself as a provider of safe, controllable AI infrastructure: DeepReal handles generative content detection, alongside AI security, face security firewall and privacy computing products for government and finance. · [website](https://www.real-ai.cn/)
 - **[Ruijian AI](https://topxai.cn/ai/ruijian-ai)** — AI authenticity verification product offering detection, forensics and traceability based on multimodal forgery detection, covering public safety, financial security and education or media security. · [website](https://www.ruijianai.com/)
@@ -519,14 +505,13 @@
 
 ## Research & Data Analysis
 
-<sub>[↑ Back to top](#table-of-contents) · `36 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `34 tools`</sub>
 
 - **[alphaXiv](https://topxai.cn/ai/alphaxiv)** — Open platform adding a discussion layer to arXiv papers: comment, question and annotate every paper while browsing trending work by topic — a fast way to keep up with AI research. · [website](https://www.alphaxiv.org/)
 - **[Arena](https://topxai.cn/ai/arena)** — Crowdsourced AI model arena where two anonymous models compete and users vote, producing public leaderboards for LLM, image and code models, with landing page, dashboard and mini-game templates to test directly. · [website](https://arena.ai/)
 - **[Artificial Analysis](https://topxai.cn/ai/artificial-analysis)** — Independent benchmark site for AI models and API providers, comparing intelligence index, output speed and cost per task across coding, speech, image and video leaderboards, plus provider comparisons. · [website](https://artificialanalysis.ai/)
 - **[ASReview](https://topxai.cn/ai/asreview)** — Open-source literature screening tool coordinated by Utrecht University that uses active learning to rank papers by relevance as you screen, sharply cutting systematic review screening time. Fully open source and GDPR compliant. · [website](https://asreview.nl/)
 - **[Consensus](https://topxai.cn/ai/consensus)** — AI academic search engine for peer-reviewed literature: ask in natural language and find evidence across 250M papers, with a clear view of where findings agree and disagree, plus automated reviews via Deep Search and a medical mode. · [website](https://consensus.app/search/)
-- **[DataLine](https://topxai.cn/ai/dataline)** — Open-source, privacy-first AI data analysis tool: connect your database and query and visualise locally so data never leaves your machine, supporting natural-language questions and iterative exploration. · [website](https://dataline.app/)
 - **[Elicit](https://topxai.cn/ai/elicit)** — AI research assistant: enter a research question and search 125M+ papers, then get structured, cited research reports, with data extraction, systematic literature reviews and library alerts. · [website](https://elicit.org/)
 - **[Exa](https://topxai.cn/ai/exa)** — A search API designed for AI applications, positioned as giving AI agents search, deep research and structured web content through a single endpoint. · [website](https://exa.ai/)
 - **[FineBI](https://topxai.cn/ai/finebi)** — FanRuan's enterprise self-service BI platform: version 7.0 manages metrics, definitions and lineage centrally, with self-service dashboards, AI Q&A and root-cause alerts. 43,000+ customers. · [website](https://www.finebi.com/)
@@ -545,7 +530,6 @@
 - **[ModelScope](https://topxai.cn/ai/modelscope)** — Open-source model community from Alibaba DAMO Academy gathering the latest models, datasets and Spaces across vision, NLP, speech, multimodal and scientific computing, with inference, fine-tuning, online compute and an AIGC section. · [website](https://modelscope.cn/)
 - **[OpenRouter LLM Rankings](https://topxai.cn/ai/openrouter-llm-rankings)** — LLM usage leaderboard ranked by real request volume, based on tokens processed by developers through the OpenRouter API, with rankings by task, cost and market share — reflecting what production actually chooses. · [website](https://openrouter.ai/rankings)
 - **[Perplexity](https://topxai.cn/ai/perplexity)** — AI answer engine: ask in natural language and get conclusions with cited sources, with follow-ups, multiple retrieval modes and document-based Q&A for search where you need to verify as you go. · [website](https://www.perplexity.ai/)
-- **[Phind](https://topxai.cn/ai/phind)** — Once a developer-focused technical search engine with citations, backed by its own code models. The service shut down on 16 January 2026, the site returns 404 and data was deleted — of historical interest only. · [website](https://phind.com/)
 - **[Power BI](https://topxai.cn/ai/powerbi)** — Microsoft's business intelligence platform: connect and unify enterprise data, then give everyone self-service BI through trusted semantic models and Copilot natural-language insight, embeddable in Microsoft 365 workflows. · [website](https://powerbi.microsoft.com/)
 - **[Lingyang Quick BI](https://topxai.cn/ai/quick-bi)** — Data analytics product from Lingyang, an Alibaba subsidiary: drag-and-drop self-service analysis plus large-model-driven natural-language querying, repeatedly named in Gartner's analytics platform Magic Quadrant. · [website](https://www.lydaas.com/)
 - **[Rayyan](https://topxai.cn/ai/rayyan)** — AI systematic review platform used by a million researchers for screening, deduplication and PICO extraction, with collaboration, audit trails, mobile access and bias risk assessment. Free tier forever. · [website](https://www.rayyan.ai/)
@@ -594,7 +578,7 @@
 
 ## Everyday Life
 
-<sub>[↑ Back to top](#table-of-contents) · `23 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `20 tools`</sub>
 
 - **[betterWE](https://topxai.cn/ai/betterwe)** — Diet and health management app that recognises meal nutrition from photos and gives guidance, helping users track their daily diet and control calorie intake — for anyone watching weight and balance. · [website](http://www.betterwestar.com/)
 - **[Boohee](https://topxai.cn/ai/boohee)** — AI diet and weight management tool with 1.6M+ food nutrition records: photograph a meal to identify weight, calories and nutrition, and automatically log diet, exercise and sleep. · [website](https://www.boohee.com/)
@@ -604,17 +588,14 @@
 - **[DressWise](https://topxai.cn/ai/dresswise)** — AI image tool for apparel e-commerce with three capabilities — smart cutout, virtual try-on and HD enhancement — separating garments onto transparent backgrounds, previewing them on models, and upscaling images to 1K–4K. · [website](https://www.dresswise.ai/)
 - **[Jinchuan](https://topxai.cn/ai/jinchuan)** — AI styling and smart wardrobe app that files clothing by tops, bottoms and footwear, offers AI try-on previews and reusable outfit recommendations, and factors in temperature, humidity and UV for daily suggestions. · [website](https://jinchuan.me/)
 - **[Keep](https://topxai.cn/ai/keep)** — The AI coaching capability of fitness platform Keep: generate personalised training plans from body data and goals, alongside a large course library, run and cycle tracking, and smart hardware integration for home and outdoor training. · [website](https://www.gotokeep.com/)
-- **[Lanfan](https://topxai.cn/ai/lanfan)** — Recipe and cooking video app from the Xiachufang team, demonstrating home cooking in one-minute videos with step-by-step guides and ingredient lists — easy for kitchen beginners to follow along. · [website](http://www.lanfanapp.com/)
 - **[Lumi](https://topxai.cn/ai/lumi)** — SenseTime's AI expense tracking app: log spending by photo or voice and let AI identify amounts and merchants and categorise the expense, with daily records, monthly statements and spending habit review. · [website](https://heylumi.cn/)
 - **[Mafengwo](https://topxai.cn/ai/mafengwo)** — Travel community and independent-travel service platform that has added a large-model AI travel assistant, answering destination questions and generating itineraries from its archive of user travelogues and guides, linked to community content and bookings. · [website](https://www.mafengwo.cn/)
 - **[Merach](https://topxai.cn/ai/merach)** — AI personal trainer from home fitness equipment brand Merach: large-model-generated personalised plans that work with treadmills, spin bikes, ellipticals, rowers and AR courses for real-time guidance at home. · [website](https://www.merach.com/)
-- **[Miaoya Camera](https://topxai.cn/ai/miaoya-xiangji)** — Alibaba's AI portrait camera that generates professional-quality photos online, with stylish templates, HD upscaling, custom poses and a large template library for producing varied portraits quickly. · [website](https://www.miaoya.cn/)
 - **[Motion](https://topxai.cn/ai/motion)** — Uses AI to plan your whole day of calendar and tasks, scheduling by priority in real time and rescheduling automatically, so individuals and teams fit to-dos into the right time blocks without manual planning. · [website](https://www.motion.ai/)
 - **[Peipei Pet](https://topxai.cn/ai/peipei-pet)** — Pet community app offering AI pet language translation and emotion recognition to help owners understand barks and behaviour, working alongside pet profiles, health records and community discussion. · [website](http://kolamama.com/)
 - **[Pi Travel](https://topxai.cn/ai/pi-travel)** — Travel app focused on itinerary planning: parse Xiaohongshu or WeChat article links into an actionable itinerary, with AI extracting places and generating routes, plus collaborative editing and conversational adjustments on the road. · [website](https://www.pitravel.cn/)
 - **[Reclaim.ai](https://topxai.cn/ai/reclaim-ai)** — Smart scheduling tool that connects to Google Calendar and fits tasks, habits, meetings and personal blocks into your free time, rescheduling intelligently on conflict. Acquired by Dropbox. · [website](https://reclaim.ai/)
 - **[SMZDM](https://topxai.cn/ai/smzdm)** — Consumer decision platform positioned as an interest-based shopping guide: it aggregates deals and discount calculations from across the web, with price comparison tags, daily picks and subsidy sections, plus reviews from its community. · [website](https://www.smzdm.com/)
-- **[SnailSleep](https://topxai.cn/ai/snailsleep)** — AI sleep monitoring and aid app that needs no wearable: phone sensors and algorithms analyse sleep stages, breathing patterns and movement, detect snoring and screen for sleep apnoea risk, with sleep-talking recording, a smart alarm and soothing audio. · [website](https://www.snailsleep.com/)
 - **[Trip Planner AI](https://topxai.cn/ai/trip-planner-ai)** — AI travel planner: enter dates and a destination to get a full itinerary with flights, hotels and activities, flexibly editable with live prices and one-click booking. 8M+ trips planned. · [website](https://tripplanner.ai/)
 - **[Wanaichef](https://topxai.cn/ai/wanaichef)** — AI cooking agent hardware with a built-in Ronghuo large model trained on over a thousand chef recipes: steam, boil, bake, fry and stir in one appliance, with AI ingredient recognition and precise temperature control, and seven-day meal plans generated from a health report. · [website](http://www.wanaichef.com/)
 - **[Wanshifu](https://topxai.cn/ai/wanshifu)** — AI agent for a national home services platform: describe what you need in conversation and it dispatches a technician, covering furniture assembly, repair, measurement, delivery, cleaning and removal, with the whole process visible. · [website](https://www.wanshifu.com/)
@@ -622,12 +603,11 @@
 
 ## Legal & Finance
 
-<sub>[↑ Back to top](#table-of-contents) · `23 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `21 tools`</sub>
 
 - **[Abacus.AI](https://topxai.cn/ai/abacus-ai)** — AI super-assistant platform for enterprises and professionals, integrating frontier models and orchestrated agents with built-in applications for investment research, trading, invoice processing, data analysis and content generation, plus low-code workflow building. · [website](https://abacus.ai/)
 - **[iCourt Alpha](https://topxai.cn/ai/alpha)** — Legal AI practice platform for lawyers and firms, offering legal research, contract review, document drafting, an evidence system and firm management, plus AlphaClaw digital employees. · [website](https://icourt.cc/)
 - **[Baiwang](https://topxai.cn/ai/baiwang)** — Baiwang's invoice, tax and finance compliance and commercial credit infrastructure, with invoice digitisation, tax risk control, electronic accounting archives and the Baiwang Baibao AI tax analyst, serving enterprise finance digitalisation. · [website](https://baiwang.com/)
-- **[Casetext](https://topxai.cn/ai/casetext)** — A legal AI research pioneer whose CARA product handles case law research, document analysis and citation checking. Acquired by Thomson Reuters in 2023 for $650M. · [website](https://casetext.com/)
 - **[Deli Legal](https://topxai.cn/ai/deli-legal)** — Smart legal system built on a legal large model, offering the Xiaoli AI assistant, legal search, practitioner tools and an open platform for legal research, contract and document generation. · [website](https://www.delilegal.com/)
 - **[Docsumo](https://topxai.cn/ai/docsumo)** — Document AI agents that automate email and document workflows end to end across extraction, classification, verification and write-back, with a claimed 99% field accuracy. · [website](https://docsumo.com/)
 - **[DoNotPay](https://topxai.cn/ai/donotpay)** — Consumer AI self-help platform with 100+ tools for cancelling free trials, disputing fines, protecting privacy and claiming refunds. Founded in 2015. · [website](https://donotpay.com/)
@@ -640,7 +620,6 @@
 - **[iWencai](https://topxai.cn/ai/iwencai)** — Natural-language stock screening and research tool from Tonghuashun: query stocks, funds, convertible bonds, futures and macro data in one sentence across technical, capital flow and fundamental angles, with hot themes and strategy rankings. · [website](https://www.iwencai.com/)
 - **[Kensho](https://topxai.cn/ai/kensho)** — S&P Global's AI engine that connects authoritative financial data to large language models and agent workflows, offering deterministic retrieval, adaptive retrieval, document extraction and entity linking for financial institutions. · [website](https://www.kensho.com/)
 - **[Lemonade](https://topxai.cn/ai/lemonade)** — An insurance company rebuilt around AI, claiming signup in about 90 seconds and claims in as little as 3 seconds. Offers renters, home, car, pet and life insurance; NYSE-listed and a B Corp. · [website](https://www.lemonade.com/)
-- **[Maycur](https://topxai.cn/ai/maycur)** — Enterprise business travel and expense management AI platform covering reimbursement, archiving, e-invoices, receivables and payables, with document recognition across a hundred layouts and multilingual global expense management. · [website](https://www.maycur.com/)
 - **[PowerLaw AI](https://topxai.cn/ai/powerlaw-ai)** — Founded by a Tsinghua computer science team with its own legal large model, offering MeCheck for intelligent contract review and MeFlow for contract management, flagging risks automatically and standardising review. · [website](https://www.milvzhineng.cn/)
 - **[Ramp](https://topxai.cn/ai/ramp)** — Spend management platform uniting corporate cards, expense management and accounts payable, using AI to code invoices, enforce policy and prevent fraud. Free base tier, live in 30 days. · [website](https://ramp.com/)
 - **[Robowork](https://topxai.cn/ai/robowork)** — AI-ready financial data platform with over a hundred investment research data APIs covering reports, quotes, financials, funds and macro, built for skills, agents and MCP. · [website](https://ai.datayes.com/)
@@ -650,7 +629,7 @@
 
 ## Enterprise Management
 
-<sub>[↑ Back to top](#table-of-contents) · `18 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `20 tools`</sub>
 
 - **[Alibaba Cloud Bailian](https://topxai.cn/ai/aliyun-bailian)** — Alibaba Cloud's large model service platform merging MaaS and agent capabilities, with the enterprise AgentStudio agent platform for calling mainstream models including Tongyi Qianwen, GLM and Kimi. · [website](https://bailian.aliyun.com/)
 - **[Baidu Qianfan AppBuilder](https://topxai.cn/ai/baidu-qianfan)** — Baidu AI Cloud's one-stop enterprise large model platform, agent-centric and covering the full model development and application building flow, with built-in MCP and an agent development toolchain. · [website](https://qianfan.cloud.baidu.com/)
@@ -660,10 +639,12 @@
 - **[Front](https://topxai.cn/ai/front)** — Customer service and collaboration platform for complex customer operations, unifying teams, conversations and AI in one coordination system. AI resolves a claimed 70% of requests. · [website](https://frontapp.com/)
 - **[Gong](https://topxai.cn/ai/gong)** — A Revenue AI OS for revenue teams: it captures sales calls and meetings to analyse customer interactions automatically, with products including Gong Engage and Forecast. · [website](https://www.gong.io/)
 - **[Kingdee](https://topxai.cn/ai/kingdee)** — Enterprise management software and cloud services provider supporting business digitalisation through Kingdee Cloud and an AI-native platform, with 7.4M+ enterprise customers from SMB to large enterprise. · [website](https://www.kingdee.com/)
+- **[来也科技](https://topxai.cn/ai/laiye)** — 从 RPA 转型的智能体数字员工平台，官网定位「让每位员工拥有智能体」。核心是 LLM 驱动的数字员工构建、自主执行与规模治理，官方称连续六年入选 Gartner RPA 象限。 · [website](https://laiye.com)
 - **[MiningLamp](https://topxai.cn/ai/mininglamp)** — Enterprise agentic AI provider with in-house model capability, whose products include the DeepMiner business data analysis agent, the Octo collaboration platform and Miaozhen Systems. · [website](https://www.mininglamp.com/)
 - **[Moveworks](https://topxai.cn/ai/moveworks)** — Enterprise AI assistant platform for all employees that searches information across systems and executes tasks through conversation. Serves 350+ organisations covering over 6 million employees. · [website](https://moveworks.com/)
 - **[Salesforce](https://topxai.cn/ai/salesforce)** — Positions itself as the number one AI CRM platform, spanning Sales Cloud, Service Cloud, Marketing Cloud, Data Cloud, Tableau, Slack and the Agentforce agents. · [website](https://www.salesforce.com/)
 - **[Sana](https://topxai.cn/ai/sana)** — Sana Labs' enterprise AI platform bringing AI into a company's applications, knowledge and culture to search knowledge, automate tasks and generate document analysis. · [website](https://sanalabs.com/)
+- **[腾讯云智能体开发平台](https://topxai.cn/ai/tencent-adp)** — 腾讯云的企业级智能体开发平台，提供 LLM+RAG、Workflow 与 Multi-agent 开发引擎，支持构建、分发、管理与运营一体化。 · [website](https://cloud.tencent.com/product/adp)
 - **[Volcengine Ark](https://topxai.cn/ai/volcengine-ark)** — Volcengine's one-stop large model service platform, providing model hosting and inference, web plugins, RAG knowledge bases and agent development, with a range of security and compliance certifications. · [website](https://www.volcengine.com/product/ark)
 - **[Volcengine HiAgent](https://topxai.cn/ai/volcengine-hiagent)** — Volcengine's enterprise agent platform positioned as a one-stop digital employee dispatch station, covering the full agent lifecycle with 100+ plugins and scenario templates, low-code building and private deployment. · [website](https://www.volcengine.com/product/hiagent)
 - **[Wanzhi](https://topxai.cn/ai/wanzhi)** — Offers a full-stack agent solution from development to deployment, including an agent lifecycle operations platform, the Data Agent data foundation and a private large model training and inference platform. · [website](https://www.wanzhi.com/)
@@ -673,27 +654,21 @@
 
 ## Marketing & Advertising
 
-<sub>[↑ Back to top](#table-of-contents) · `36 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `30 tools`</sub>
 
 - **[5118](https://topxai.cn/ai/5118)** — A marketing data platform for webmasters and content teams, offering long-tail keyword mining, SEO rank monitoring and AI rewriting to support keyword research and content optimization. · [website](https://www.5118.com/)
-- **[ActiveCampaign](https://topxai.cn/ai/activecampaign)** — A marketing and customer experience automation platform that combines personalized email, WhatsApp and SMS with AI. The company says it saves teams roughly 13 hours a week. · [website](https://www.activecampaign.com/)
 - **[AdCreative.ai](https://topxai.cn/ai/adcreative)** — An AI platform focused on ad creative generation. It produces conversion-oriented banners, copy and video in seconds and scores creatives to predict performance; the company says it serves over 4 million marketers. · [website](https://www.adcreative.ai/)
 - **[AdRoll](https://topxai.cn/ai/adroll)** — A multi-channel advertising and ABM platform for marketers that uses machine learning to run display, social and email campaigns, with cross-channel attribution and retargeting to improve return on ad spend. · [website](https://www.adroll.com/)
 - **[Anyword](https://topxai.cn/ai/anyword)** — Anyword's pitch is blunt: "make your AI content perform 76% better." Its differentiator is feeding A/B test results and brand context into generation, and the company says it works with any AI model or agent. · [website](https://anyword.com/)
-- **[BeChannels](https://topxai.cn/ai/beschannels)** — A one-stop B2B marketing cloud that connects marketing automation, content marketing and live-stream lead generation into unified data, building customer profiles and helping sales work opportunities. It serves hundreds of leading B2B companies. · [website](https://www.beschannels.com/)
-- **[Brandwatch](https://topxai.cn/ai/brandwatch)** — An enterprise-grade social listening and consumer intelligence suite. The company says its AI distills trends from billions of conversations, monitors brand share of voice and manages cross-channel engagement. · [website](https://www.brandwatch.com/)
 - **[Braze](https://topxai.cn/ai/braze)** — A customer engagement platform for brands that unifies data with BrazeAI, cross-channel messaging and journey orchestration, covering the full lifecycle from reach to retention to build loyalty. · [website](https://www.braze.com/)
 - **[Clearscope](https://topxai.cn/ai/clearscope)** — An SEO and AI search optimization platform for content teams. It structures the writing workflow around search intent and term suggestions, and tracks brand visibility inside AI answers. · [website](https://clearscope.io/)
-- **[Convertlab](https://topxai.cn/ai/convertlab)** — An integrated marketing cloud that includes the DM Hub marketing automation platform, CDP and privacy-enhancing computation, serving retail, FMCG, financial and automotive industries. · [website](https://www.convertlab.com/)
 - **[Copysmith](https://topxai.cn/ai/copysmith)** — Copysmith now behaves more like a content tool group: it builds and runs three dedicated AI platforms, Frase for search and AI citation optimization, Describely for product content at scale, and Rytr for writing in your voice. · [website](https://copysmith.ai/)
 - **[DeepZero](https://topxai.cn/ai/deepzero)** — An enterprise decision-making AI agent platform whose product matrix spans product innovation, go-to-market, social marketing, advertising, shopping assistants and customer service, user operations and customer insight. · [website](https://www.deepzero.com/)
 - **[Drift](https://topxai.cn/ai/drift)** — A conversational AI chat agent for B2B sales that captures buying intent as visitors arrive and triggers sales actions. It is transitioning into 1mind and joining Salesloft. · [website](https://www.drift.com/)
-- **[HubSpot](https://topxai.cn/ai/hubspot)** — A customer platform combining marketing, sales, service and CRM with built-in AI agents. The company says it is used by more than 299,000 customers worldwide, and it suits teams that want to connect acquisition through retention. · [website](https://www.hubspot.com/)
 - **[Huiwa](https://topxai.cn/ai/huiwa)** — An AI e-commerce content platform incubated wholly by Alibaba, aimed at sellers and creators. It offers AI product photography, virtual models, social copy and AI video, with one-click clothing try-on, batch image generation and team collaboration. · [website](https://www.ihuiwa.com/)
 - **[Intercom](https://topxai.cn/ai/intercom)** — A customer service system that combines a human help desk with the Fin AI agent, covering pre-sale to post-sale support through a shared inbox, tickets and AI assistance. · [website](https://www.intercom.com/)
 - **[Jasper](https://topxai.cn/ai/jasper)** — An AI agent workspace for marketing teams with more than 100 purpose-built agents and content pipelines, covering end-to-end marketing from strategy to execution while balancing speed and brand consistency. · [website](https://www.jasper.ai/)
 - **[JINGdigital](https://topxai.cn/ai/jingdigital)** — Jingshuo Technology focuses on agentic marketing, giving B2B companies an agentic CDP data foundation plus six agents spanning GEO, content, SDR, email, sales and service. · [website](https://www.jingdigital.com/)
-- **[Klaviyo](https://topxai.cn/ai/klaviyo)** — An autonomous CRM and AI marketing platform for B2C that connects email, SMS and WhatsApp, using AI agents to drive personalized marketing and service. · [website](https://www.klaviyo.com/)
 - **[Lavender](https://topxai.cn/ai/lavender)** — An AI email coach for sales that analyzes outreach in real time and suggests improvements. Its Ora AI sales agent drafts emails at the level of top performers, and it offers certification courses, making it a fit for B2B outreach teams. · [website](https://www.lavender.ai/)
 - **[Manychat](https://topxai.cn/ai/manychat)** — A chat marketing platform for creators and small businesses that uses automation on Instagram, WhatsApp, TikTok and Messenger to turn comments into conversions. · [website](https://manychat.com/)
 - **[MarketMuse](https://topxai.cn/ai/marketmuse)** — AI-driven content planning and optimization software that uses patented topic modeling to audit your content inventory and show what to write and how much, to build topical authority. · [website](https://www.marketmuse.com/)
@@ -740,7 +715,7 @@
 
 ## Interior & Architecture
 
-<sub>[↑ Back to top](#table-of-contents) · `21 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `20 tools`</sub>
 
 - **[3vjia](https://topxai.cn/ai/3vjia)** — An industrial software vendor deep in the home furnishing industry with its own CAD and rendering engines. It offers 3D cloud design, AI whole-home plans, photorealistic rendering and front-to-back integrated production, serving home stores and designer teams. · [website](https://www.3vjia.com/)
 - **[AI Room Planner](https://topxai.cn/ai/ai-room-planner)** — A free interior design inspiration tool: upload a room photo and let AI generate design concepts in multiple styles. It is currently in free beta with no usage limits. · [website](https://airoomplanner.com/)
@@ -761,12 +736,11 @@
 - **[Sengine AI](https://topxai.cn/ai/sengine)** — An AI interior design and spatial intelligence platform from Shenzhen Shengjing Technology. It says it generates personalized 3D spaces from room outlines and needs, adapting in real time to different activity scenarios, aimed at home design and space planning. · [website](https://www.s-engine.com.cn/)
 - **[Shejijia](https://topxai.cn/ai/shejijia)** — An online AI design platform under Easyhome offering AI design tools, 3D scene-change live streaming, 3D product studio shooting and 3D smart shopping guides, helping home furnishing stores produce design and marketing assets. · [website](https://www.shejijia.com/)
 - **[Spacely AI](https://topxai.cn/ai/spacely)** — A free AI interior design tool: upload a sketch, 3D model or room photo and get photorealistic renders within 60 seconds, with editing, lighting adjustment and a collaborative team canvas. · [website](https://spacely.ai/)
-- **[Zaowuyun](https://topxai.cn/ai/zaowuyun)** — The site now positions itself as an enterprise intelligent asset system, offering Zhike unified access to multiple large models, an agent workbench and an asset library. It emphasizes giving enterprises ownership of AI output. · [website](https://www.zaowuyun.com/)
 - **[Zhuxiaobang](https://topxai.cn/ai/zhuxiaobang)** — A one-stop home and renovation service platform under ByteDance that once offered renovation renderings and AI floor plan and renovation plan generation. A company notice states that it ceased operations on August 8, 2026. · [website](https://www.zhuxiaobang.com/)
 
 ## Other
 
-<sub>[↑ Back to top](#table-of-contents) · `27 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `26 tools`</sub>
 
 - **[AI-Bot](https://topxai.cn/ai/ai-bot)** — A Chinese AI tool directory that says it lists thousands of domestic and international AI tools organized by use, search, community, image and lifestyle categories, alongside daily AI news, popular tutorials and whitepaper downloads. · [website](https://ai-bot.cn/)
 - **[AICPB](https://topxai.cn/ai/aicpb)** — An AI product ranking data platform that says it ranks AI products by user scale and AI models by price, regularly publishing global, domestic and overseas overall rankings plus segment and growth charts, widely cited by media and consultancies. · [website](https://aicpb.com/)
@@ -790,7 +764,6 @@
 - **[PromptPilot](https://topxai.cn/ai/promptpilot)** — A prompt engineering platform from Volcano Engine covering prompt generation, debugging and batch evaluation. It supports text understanding, visual understanding and multi-turn conversation scenarios, can upload task data to optimize prompts automatically, and is callable via API. · [website](https://promptpilot.volcengine.com/)
 - **[Replicate](https://topxai.cn/ai/replicate)** — A cloud platform for running and deploying open-source AI models. Its community has published thousands of directly callable models, with one-line-code runs, fine-tuning on your own data and packaging custom models for deployment with Cog, billed by actual compute. · [website](https://replicate.com/)
 - **[Rokid](https://topxai.cn/ai/rokid)** — Rokid's AI smart glasses line running the YodaOS-Sprite system, with real-time translation, teleprompter, navigation and photography, and an open AIUI Studio agent creation platform. · [website](https://www.rokid.com/)
-- **[ShareGPT](https://topxai.cn/ai/sharegpt)** — A browser extension for one-click sharing of ChatGPT conversations that met a real early need. The developer now marks it deprecated and recommends ChatGPT's built-in sharing, with more than 438,000 conversations shared historically. · [website](https://sharegpt.com/)
 - **[SiliconFlow](https://topxai.cn/ai/siliconflow)** — A one-stop large model cloud platform offering ready-to-use APIs for language, speech, image and video, plus reserved instances, inference acceleration and private deployment. Its in-house inference engine optimizes latency and throughput. · [website](https://siliconflow.cn/)
 - **[SuperCLUE](https://topxai.cn/ai/superclue)** — A Chinese large model benchmark that presents model performance through an overall general capability leaderboard plus sub-charts for math reasoning, hallucination control, scientific reasoning, precise instruction following and agentic coding, alongside model pricing and task planning consumption data. · [website](https://www.superclueai.com/)
 - **[There's An AI For That](https://topxai.cn/ai/taaft)** — An index that lets you find AI tools by task: search by task, profession or use case across a large and continuously updated catalog, with new-product rankings and the latest AI news. · [website](https://theresanaiforthat.com/)
@@ -816,12 +789,12 @@
 12. **[Kimi](https://topxai.cn/ai/kimi)** — Chatbots & Companions
 13. **[Grammarly](https://topxai.cn/ai/grammarly)** — Text Generation & Editing
 14. **[CapCut](https://topxai.cn/ai/capcut)** — Video & Animation
-15. **[HubSpot](https://topxai.cn/ai/hubspot)** — Marketing & Advertising
-16. **[monday.com](https://topxai.cn/ai/monday)** — Office & Productivity
-17. **[ClickUp](https://topxai.cn/ai/clickup)** — Office & Productivity
-18. **[Lovable](https://topxai.cn/ai/lovable)** — Coding Assistants
-19. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — Video & Animation
-20. **[QuillBot](https://topxai.cn/ai/quillbot)** — Text Generation & Editing
+15. **[monday.com](https://topxai.cn/ai/monday)** — Office & Productivity
+16. **[ClickUp](https://topxai.cn/ai/clickup)** — Office & Productivity
+17. **[Lovable](https://topxai.cn/ai/lovable)** — Coding Assistants
+18. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — Video & Animation
+19. **[QuillBot](https://topxai.cn/ai/quillbot)** — Text Generation & Editing
+20. **[Hugging Face](https://topxai.cn/ai/hugging-face)** — Research & Data Analysis
 
 ## About
 

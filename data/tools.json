@@ -1023,6 +1023,25 @@
   "visits": 276224
  },
  {
+  "slug": "tencent-hunyuan",
+  "name": {
+   "zh": "腾讯混元",
+   "en": "腾讯混元"
+  },
+  "desc": {
+   "zh": "腾讯自研的多模态大模型产品体系，图像方向提供混元生图等能力，支持中文提示词理解与可控出图，可通过开放接口与云服务接入，面向内容创作、营销物料与品牌设计场景。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://hunyuan.tencent.com/",
+  "tags": [
+   "文生图",
+   "多模态",
+   "腾讯自研"
+  ],
+  "visits": 1522361
+ },
+ {
   "slug": "tensor-art",
   "name": {
    "zh": "Tensor.Art",
@@ -2201,25 +2220,6 @@
   "visits": 0
  },
  {
-  "slug": "duowei-shijie",
-  "name": {
-   "zh": "多维视界",
-   "en": "Duowei Shijie"
-  },
-  "desc": {
-   "zh": "面向长音视频的 AI 分析平台，粘贴链接即可在线转录、提炼摘要，支持百种语言实时字幕翻译、生成闪卡测验，还能一键产出公众号与小红书二创文案。",
-   "en": "AI analysis platform for long audio and video: paste a link to transcribe and summarise, get real-time subtitle translation across 100 languages, flashcards and quizzes, plus repurposed copy for social platforms."
-  },
-  "category": "music",
-  "url": "https://dwsj.cn/",
-  "tags": [
-   "音视频转录",
-   "内容二创",
-   "学习工具"
-  ],
-  "visits": 0
- },
- {
   "slug": "haimian-music",
   "name": {
    "zh": "海绵音乐",
@@ -2408,25 +2408,6 @@
    "音频循环"
   ],
   "visits": 3762
- },
- {
-  "slug": "singduck",
-  "name": {
-   "zh": "唱鸭",
-   "en": "Singduck"
-  },
-  "desc": {
-   "zh": "趣丸科技推出的 AI 音乐创作应用，基于自研天谱乐大模型支持文字、图片与视频生成音乐，并提供三键成曲、哼唱成曲与多声库 AI 演唱。",
-   "en": "AI music creation app from Qutuan Tech, built on its in-house Tianpule model: generate music from text, images or video, with three-key songwriting, hum-to-song and multi-voice AI singing."
-  },
-  "category": "music",
-  "url": "https://www.singduck.cn/",
-  "tags": [
-   "AI音乐",
-   "弹唱创作",
-   "视频配乐"
-  ],
-  "visits": 2987
  },
  {
   "slug": "skymusic",
@@ -3303,6 +3284,25 @@
   "visits": 394646
  },
  {
+  "slug": "tencent-yuanqi",
+  "name": {
+   "zh": "腾讯元器",
+   "en": "腾讯元器"
+  },
+  "desc": {
+   "zh": "腾讯推出的零代码智能体开发与分发平台，提供免费模型与低门槛搭建能力，可快速创建自动回复的专属 AI 聊天机器人，并一键分发到微信、应用宝等渠道。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://yuanqi.tencent.com/",
+  "tags": [
+   "智能体平台",
+   "零代码",
+   "微信分发"
+  ],
+  "visits": 86113
+ },
+ {
   "slug": "tiangong",
   "name": {
    "zh": "天工AI",
@@ -3398,6 +3398,25 @@
   "visits": 309890
  },
  {
+  "slug": "yuanbao",
+  "name": {
+   "zh": "腾讯元宝",
+   "en": "腾讯元宝"
+  },
+  "desc": {
+   "zh": "腾讯推出的全能 AI 助手，接入混元 Hy4 preview 模型，支持深度推理、多风格写作、AI 搜索、识图与生图 P 图、拍题答疑，覆盖学习、办公与生活场景，网页与移动端可用。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://yuanbao.tencent.com/",
+  "tags": [
+   "AI助手",
+   "混元大模型",
+   "AI搜索"
+  ],
+  "visits": 13098547
+ },
+ {
   "slug": "z-ai",
   "name": {
    "zh": "Z.ai",
@@ -3434,6 +3453,25 @@
    "MCP"
   ],
   "visits": 6619842
+ },
+ {
+  "slug": "aippt",
+  "name": {
+   "zh": "AiPPT",
+   "en": "AiPPT"
+  },
+  "desc": {
+   "zh": "AI 大模型驱动的智能 PPT 制作工具，官方称支持一句话生成完整专业 PPT、文档秒变 PPT，并提供 AI 自动排版润色与海量模板，官网标注已有 3000 万以上用户使用。",
+   "en": ""
+  },
+  "category": "office",
+  "url": "https://www.aippt.cn",
+  "tags": [
+   "AI PPT",
+   "演示文稿",
+   "办公效率"
+  ],
+  "visits": 479605
  },
  {
   "slug": "airtable",
@@ -3626,25 +3664,6 @@
   "visits": 394472
  },
  {
-  "slug": "loopin-ai",
-  "name": {
-   "zh": "Loopin AI",
-   "en": "Loopin AI"
-  },
-  "desc": {
-   "zh": "面向团队的会议协作工作区，支持会议录制、自动转写与纪要生成，把每次会议的产出集中存放、随时检索，帮助团队成员会后对齐信息、跟进行动项。",
-   "en": "Team meeting workspace that records calls, transcribes them automatically and generates notes, keeping every meeting's output in one searchable place so people can align and follow up afterwards."
-  },
-  "category": "office",
-  "url": "https://www.loopinhq.com/",
-  "tags": [
-   "会议",
-   "纪要",
-   "协作"
-  ],
-  "visits": 0
- },
- {
   "slug": "make",
   "name": {
    "zh": "Make",
@@ -3796,25 +3815,6 @@
   "visits": 4300000
  },
  {
-  "slug": "shimo",
-  "name": {
-   "zh": "石墨文档",
-   "en": "Shimo Docs"
-  },
-  "desc": {
-   "zh": "石墨文档是国内云端 Office 协同办公平台，提供文档、表格、幻灯片、思维导图等九大套件，支持多人实时协作、知识沉淀与私有化部署，服务超 85 万家企业。",
-   "en": "Cloud office suite with nine products including documents, spreadsheets, slides and mind maps, supporting real-time collaboration, knowledge capture and private deployment. Used by 850k+ companies."
-  },
-  "category": "office",
-  "url": "https://shimo.im/",
-  "tags": [
-   "在线文档",
-   "协同编辑",
-   "轻量表格"
-  ],
-  "visits": 4155721
- },
- {
   "slug": "taskade",
   "name": {
    "zh": "Taskade",
@@ -3851,25 +3851,6 @@
    "多语纪要"
   ],
   "visits": 1412571
- },
- {
-  "slug": "tome",
-  "name": {
-   "zh": "Tome",
-   "en": "Tome"
-  },
-  "desc": {
-   "zh": "早期以一句话生成叙事式演示走红的 AI 工具，官网现已下线、产品停止服务，团队已转向新方向；同类需求可改用 Gamma、Canva 等仍在服务的演示工具。",
-   "en": "An early AI tool that popularised one-prompt narrative presentations. The site is now offline and the product discontinued as the team moved on — for similar needs, try Gamma or Canva."
-  },
-  "category": "office",
-  "url": "https://tome.app/",
-  "tags": [
-   "PPT",
-   "演示",
-   "故事"
-  ],
-  "visits": 26420
  },
  {
   "slug": "tongyi-tingwu",
@@ -3965,25 +3946,6 @@
    "AI绘图"
   ],
   "visits": 1161098
- },
- {
-  "slug": "yuque",
-  "name": {
-   "zh": "语雀",
-   "en": "Yuque"
-  },
-  "desc": {
-   "zh": "语雀是蚂蚁集团旗下的在线文档与知识库工具，自研编辑器支持文档、画板、工作表与数据表，兼容 Office 与 Markdown。多人异步协作、像书一样沉淀知识库。",
-   "en": "Ant Group's online document and knowledge base tool, with a self-built editor for documents, whiteboards, sheets and data tables that also handles Office and Markdown files."
-  },
-  "category": "office",
-  "url": "https://www.yuque.com/",
-  "tags": [
-   "知识库",
-   "团队文档",
-   "AI写作"
-  ],
-  "visits": 8659732
  },
  {
   "slug": "zapier",
@@ -4231,25 +4193,6 @@
    "协作"
   ],
   "visits": 169860
- },
- {
-  "slug": "memotron",
-  "name": {
-   "zh": "Memotron",
-   "en": "Memotron"
-  },
-  "desc": {
-   "zh": "开源的个人知识管理应用，覆盖网页、Mac、iOS 与 Chrome 扩展，支持极速捕捉、网页剪藏、自动整理与图谱检索，并可离线使用。",
-   "en": "Open-source personal knowledge management app for web, Mac, iOS and Chrome, with instant capture, web clipping, automatic organisation, graph search and offline use."
-  },
-  "category": "notes",
-  "url": "https://memotron.app/",
-  "tags": [
-   "开源笔记",
-   "知识管理",
-   "网页剪藏"
-  ],
-  "visits": 0
  },
  {
   "slug": "miaoji-duo",
@@ -5279,25 +5222,6 @@
   "visits": 77680
  },
  {
-  "slug": "stenography",
-  "name": {
-   "zh": "Stenography",
-   "en": "Stenography"
-  },
-  "desc": {
-   "zh": "自动为代码生成文档的工具，提供 VS Code 扩展与 API，保存即自动更新整库说明，并为问题附上 Stack Overflow 与官方文档参考。",
-   "en": "Automatic code documentation tool with a VS Code extension and an API: save and the whole repository's explanations update, with answers referencing Stack Overflow and official documentation."
-  },
-  "category": "code",
-  "url": "https://stenography.dev/",
-  "tags": [
-   "文档",
-   "代码",
-   "自动化"
-  ],
-  "visits": 2560
- },
- {
   "slug": "tabnine",
   "name": {
    "zh": "tabnine",
@@ -5925,44 +5849,6 @@
   "visits": 842465
  },
  {
-  "slug": "bestla",
-  "name": {
-   "zh": "睿兽分析",
-   "en": "Bestla Analysis"
-  },
-  "desc": {
-   "zh": "创业邦旗下的创新及科技企业投资价值数据分析平台，覆盖上市与创投支持企业、投资并购与基金数据，并推出可对话查询的睿兽 AI 智能体。",
-   "en": "Innovation and tech-company investment analysis platform from Cyzone, covering listed and venture-backed companies, investment and M&A data, funds, plus a conversational Bestla AI agent."
-  },
-  "category": "biz-research",
-  "url": "https://bestla.cyzone.cn/",
-  "tags": [
-   "创投数据",
-   "产业图谱",
-   "赛道分析"
-  ],
-  "visits": 879
- },
- {
-  "slug": "cb-insights",
-  "name": {
-   "zh": "CB Insights",
-   "en": "CB Insights"
-  },
-  "desc": {
-   "zh": "面向创投与商业研究的市场情报平台，提供公司与交易数据、行业研究，并已接入 AI Agent 与 MCP，支持外部系统集成。",
-   "en": "Market intelligence platform for venture and business research, offering company and deal data and industry studies, with AI agents and MCP available for integrating into external systems."
-  },
-  "category": "biz-research",
-  "url": "https://www.cbinsights.com/",
-  "tags": [
-   "商业",
-   "研究",
-   "创投"
-  ],
-  "visits": 619140
- },
- {
   "slug": "chanmama",
   "name": {
    "zh": "蝉妈妈",
@@ -5982,44 +5868,6 @@
   "visits": 338856
  },
  {
-  "slug": "chatspot-ai",
-  "name": {
-   "zh": "ChatSpot.ai",
-   "en": "ChatSpot.ai"
-  },
-  "desc": {
-   "zh": "现为 HubSpot Breeze Assistant 的免费商务 AI 助手，基于账号真实数据作答，嵌入营销、销售、服务等模块提供个性化指导，对 HubSpot 用户不额外收费。",
-   "en": "Now the free business AI assistant inside HubSpot Breeze: it answers from your account's real data and gives tailored guidance inside marketing, sales and service modules, at no extra cost for HubSpot users."
-  },
-  "category": "biz-research",
-  "url": "https://chatspot.ai/",
-  "tags": [
-   "商业",
-   "销售",
-   "研究"
-  ],
-  "visits": 1420
- },
- {
-  "slug": "crunchbase",
-  "name": {
-   "zh": "Crunchbase",
-   "en": "Crunchbase"
-  },
-  "desc": {
-   "zh": "私营公司数据与预测情报平台，官网主打融资、增长、收购、IPO 等预测模型与实时信号，提供公司、投资人检索与 Scout 自然语言查询。",
-   "en": "Private company data and predictive intelligence platform built around forecasting models and real-time signals for funding, growth, acquisitions and IPOs, with company and investor search and natural-language Scout queries."
-  },
-  "category": "biz-research",
-  "url": "https://www.crunchbase.com/",
-  "tags": [
-   "融资数据",
-   "初创公司",
-   "创投研究"
-  ],
-  "visits": 3052778
- },
- {
   "slug": "datastory",
   "name": {
    "zh": "数说故事",
@@ -6037,25 +5885,6 @@
    "消费研究"
   ],
   "visits": 40831
- },
- {
-  "slug": "exploding-topics",
-  "name": {
-   "zh": "Exploding Topics",
-   "en": "Exploding Topics"
-  },
-  "desc": {
-   "zh": "Exploding Topics 是趋势发现平台，官方称可提前 12 个月以上发现新兴趋势、初创公司与产品，提供关键词研究、竞品分析等免费工具，付费版解锁趋势数据库与预测能力。",
-   "en": "Trend discovery platform that claims to spot emerging trends, startups and products 12+ months early, with free keyword research and competitor analysis tools and a paid trend database with forecasting."
-  },
-  "category": "biz-research",
-  "url": "https://explodingtopics.com/",
-  "tags": [
-   "趋势发现",
-   "新兴话题",
-   "选题参考"
-  ],
-  "visits": 333766
  },
  {
   "slug": "feigua",
@@ -6094,63 +5923,6 @@
    "融媒体"
   ],
   "visits": 109191
- },
- {
-  "slug": "huitun",
-  "name": {
-   "zh": "灰豚数据",
-   "en": "Huitun Data"
-  },
-  "desc": {
-   "zh": "灰豚数据是短视频与直播电商数据分析平台，提供达人资源、爆款选品与内容趋势洞察，并有灰豚精选与热度云服务达人分销场景，覆盖主流内容平台。",
-   "en": "Short-video and live-commerce analytics platform offering creator resources, breakout product selection and content trend insight, plus curated lists and creator distribution services across major content platforms."
-  },
-  "category": "biz-research",
-  "url": "https://www.huitun.com/",
-  "tags": [
-   "电商数据",
-   "达人分销",
-   "选品"
-  ],
-  "visits": 0
- },
- {
-  "slug": "leadleo",
-  "name": {
-   "zh": "头豹研究院",
-   "en": "LeadLeo"
-  },
-  "desc": {
-   "zh": "头豹研究院是全行业原创研究平台，以 AI 与人工结合的方式产出行业研报、词条与产业链图谱，并提供行业规模预测模型，覆盖科技与消费等领域。",
-   "en": "Full-industry original research platform combining AI with human analysts to produce industry reports, encyclopedia entries and supply chain maps, plus market-size forecasting models across tech and consumer sectors."
-  },
-  "category": "biz-research",
-  "url": "https://www.leadleo.com/",
-  "tags": [
-   "行业研究",
-   "产业链图谱",
-   "市场规模"
-  ],
-  "visits": 3234
- },
- {
-  "slug": "meritco",
-  "name": {
-   "zh": "久谦中台",
-   "en": "Meritco"
-  },
-  "desc": {
-   "zh": "久谦中台是兼具商业尽调与中台研究能力的研究服务机构，通过顾问团队、样本库与数据资源，为投资机构与企业客户提供快速结构化的商业信息。",
-   "en": "Research firm combining commercial due diligence with platform research, using a consultant team, sample panels and data resources to deliver fast, structured business information to investors and corporates."
-  },
-  "category": "biz-research",
-  "url": "https://www.meritco-group.com/",
-  "tags": [
-   "商业尽调",
-   "专家访谈",
-   "市场研究"
-  ],
-  "visits": 3095
  },
  {
   "slug": "mktindex",
@@ -6248,23 +6020,23 @@
   "visits": 7041140
  },
  {
-  "slug": "sina-yuqing",
+  "slug": "wenge-ai",
   "name": {
-   "zh": "新浪舆情通",
-   "en": "Sina Yuqing"
+   "zh": "中科闻歌",
+   "en": "中科闻歌"
   },
   "desc": {
-   "zh": "新浪舆情通是政企舆情监测平台，提供全网舆情监测、分钟级预警、多类事件分析与舆情报告，并拥有新浪微博官方数据授权，服务政务与品牌客户。",
-   "en": "Government and enterprise public opinion monitoring platform with network-wide monitoring, minute-level alerts, multi-type event analysis and reports, using official Weibo data authorisation."
+   "zh": "中国科学院自动化所团队创立的企业级 AI 服务商，官方定位「不止于模型，从数据到决策」。以自研雅意 YAYI 大模型为内核，提供 DIP 决策智能平台与决策机 Decitron。",
+   "en": ""
   },
   "category": "biz-research",
-  "url": "http://www.yuqingsina.com/",
+  "url": "https://www.wenge.com",
   "tags": [
-   "舆情监测",
-   "舆情预警",
-   "政企服务"
+   "企业级AI",
+   "决策智能",
+   "大模型"
   ],
-  "visits": 0
+  "visits": 48479
  },
  {
   "slug": "zhiwei-data",
@@ -6429,7 +6201,7 @@
    "en": "ByteDance's AI learning app, offering photo-based problem solving and essay coaching. A subscription unlocks more usage, covering homework practice, writing feedback and concept explanations."
   },
   "category": "edu-translate",
-  "url": "https://doubaoaixue.com/",
+  "url": "https://www.doubao.com/aixue",
   "tags": [
    "拍题答疑",
    "作文辅导",
@@ -6894,25 +6666,6 @@
   "visits": 2186277
  },
  {
-  "slug": "copyscape",
-  "name": {
-   "zh": "Copyscape",
-   "en": "Copyscape"
-  },
-  "desc": {
-   "zh": "老牌网页抄袭检测服务，在公开网页中检索内容是否被复制，官网称已被出版、SEO、教育等领域使用二十多年，Premium 提供批量搜索、API 与自动监控。",
-   "en": "Long-established web plagiarism detection service that searches public pages for copied content, used across publishing, SEO and education for over twenty years. Premium adds batch search, an API and automatic monitoring."
-  },
-  "category": "detect",
-  "url": "https://www.copyscape.com/",
-  "tags": [
-   "网页查重",
-   "抄袭检测",
-   "内容原创"
-  ],
-  "visits": 130776
- },
- {
   "slug": "dayainfo",
   "name": {
    "zh": "大雅",
@@ -7101,25 +6854,6 @@
    "团队写作"
   ],
   "visits": 1652363
- },
- {
-  "slug": "paperpass",
-  "name": {
-   "zh": "PaperPass",
-   "en": "PaperPass"
-  },
-  "desc": {
-   "zh": "面向中文学术写作的查重与 AIGC 检测平台（运营主体智齿数汇），提供免费查重、智能降重、降 AIGC、格式检测与自建库，报告支持逐句标注与来源溯源。",
-   "en": "Plagiarism and AIGC detection platform for Chinese academic writing, offering free checks, smart rewriting, AIGC reduction, format checking and a custom comparison library, with sentence-level annotation and source tracing."
-  },
-  "category": "detect",
-  "url": "https://www.paperpass.com/",
-  "tags": [
-   "论文查重",
-   "AI检测",
-   "中文论文"
-  ],
-  "visits": 169829
  },
  {
   "slug": "paperyy",
@@ -7502,25 +7236,6 @@
   "visits": 5840000
  },
  {
-  "slug": "dataline",
-  "name": {
-   "zh": "DataLine",
-   "en": "DataLine"
-  },
-  "desc": {
-   "zh": "开源且隐私优先的 AI 数据分析工具，连接你的数据库后在本地完成查询与可视化，数据不离开设备，支持自然语言提问与逐步迭代探索。",
-   "en": "Open-source, privacy-first AI data analysis tool: connect your database and query and visualise locally so data never leaves your machine, supporting natural-language questions and iterative exploration."
-  },
-  "category": "data-research",
-  "url": "https://dataline.app/",
-  "tags": [
-   "开源",
-   "数据分析",
-   "隐私"
-  ],
-  "visits": 266
- },
- {
   "slug": "elicit",
   "name": {
    "zh": "Elicit",
@@ -7860,25 +7575,6 @@
    "实时"
   ],
   "visits": 95240000
- },
- {
-  "slug": "phind",
-  "name": {
-   "zh": "Phind",
-   "en": "Phind"
-  },
-  "desc": {
-   "zh": "曾面向开发者提供带引用的技术问答搜索，并自研代码模型。官方服务已于 2026 年 1 月 16 日关停，官网 404，数据已清除，仅适合了解历史与迁移选型。",
-   "en": "Once a developer-focused technical search engine with citations, backed by its own code models. The service shut down on 16 January 2026, the site returns 404 and data was deleted — of historical interest only."
-  },
-  "category": "data-research",
-  "url": "https://phind.com/",
-  "tags": [
-   "搜索",
-   "开发者",
-   "技术问答"
-  ],
-  "visits": 35040
  },
  {
   "slug": "powerbi",
@@ -8792,25 +8488,6 @@
   "visits": 100013
  },
  {
-  "slug": "lanfan",
-  "name": {
-   "zh": "懒饭",
-   "en": "Lanfan"
-  },
-  "desc": {
-   "zh": "由下厨房团队推出的菜谱与做饭视频应用，官方介绍以一分钟左右的短视频演示家常菜做法，提供分步图文教程与食材清单，方便厨房新手跟着视频完成一道菜。",
-   "en": "Recipe and cooking video app from the Xiachufang team, demonstrating home cooking in one-minute videos with step-by-step guides and ingredient lists — easy for kitchen beginners to follow along."
-  },
-  "category": "life",
-  "url": "http://www.lanfanapp.com/",
-  "tags": [
-   "菜谱视频",
-   "做饭教程",
-   "家常菜"
-  ],
-  "visits": 5028
- },
- {
   "slug": "lumi",
   "name": {
    "zh": "咔皮记账",
@@ -8866,25 +8543,6 @@
    "AR实景"
   ],
   "visits": 33468
- },
- {
-  "slug": "miaoya-xiangji",
-  "name": {
-   "zh": "妙鸭相机",
-   "en": "Miaoya Camera"
-  },
-  "desc": {
-   "zh": "阿里旗下的 AI 写真相机，官方称是在线生成专业质感大片的 AI 相机，提供时尚好玩的风格模板，支持高清化、自定义动作与超多写真模板，帮助用户快速产出百变写真照片。",
-   "en": "Alibaba's AI portrait camera that generates professional-quality photos online, with stylish templates, HD upscaling, custom poses and a large template library for producing varied portraits quickly."
-  },
-  "category": "life",
-  "url": "https://www.miaoya.cn/",
-  "tags": [
-   "AI写真",
-   "AI相机",
-   "照片美化"
-  ],
-  "visits": 0
  },
  {
   "slug": "motion",
@@ -8980,25 +8638,6 @@
    "社区评测"
   ],
   "visits": 13650904
- },
- {
-  "slug": "snailsleep",
-  "name": {
-   "zh": "蜗牛睡眠",
-   "en": "SnailSleep"
-  },
-  "desc": {
-   "zh": "AI 睡眠监测与助眠应用，官方称无需穿戴设备，用手机传感器与算法分析睡眠阶段、呼吸模式与体动，识别鼾声并筛查睡眠呼吸暂停风险，另提供梦话记录、智能闹钟与助眠音。",
-   "en": "AI sleep monitoring and aid app that needs no wearable: phone sensors and algorithms analyse sleep stages, breathing patterns and movement, detect snoring and screen for sleep apnoea risk, with sleep-talking recording, a smart alarm and soothing audio."
-  },
-  "category": "life",
-  "url": "https://www.snailsleep.com/",
-  "tags": [
-   "睡眠监测",
-   "鼾声分析",
-   "助眠应用"
-  ],
-  "visits": 1172
  },
  {
   "slug": "trip-planner-ai",
@@ -9132,25 +8771,6 @@
    "财税合规"
   ],
   "visits": 846798
- },
- {
-  "slug": "casetext",
-  "name": {
-   "zh": "Casetext",
-   "en": "Casetext"
-  },
-  "desc": {
-   "zh": "Casetext 是法律 AI 研究先驱，旗下 CARA 用 AI 做案例法规检索、文书分析与引用核查，2023 年被 Thomson Reuters 以 6.5 亿美元收购。",
-   "en": "A legal AI research pioneer whose CARA product handles case law research, document analysis and citation checking. Acquired by Thomson Reuters in 2023 for $650M."
-  },
-  "category": "law-finance",
-  "url": "https://casetext.com/",
-  "tags": [
-   "法律检索",
-   "CARA",
-   "CoCounsel"
-  ],
-  "visits": 38324
  },
  {
   "slug": "deli-legal",
@@ -9379,25 +8999,6 @@
    "极速理赔"
   ],
   "visits": 4676647
- },
- {
-  "slug": "maycur",
-  "name": {
-   "zh": "每刻科技",
-   "en": "Maycur"
-  },
-  "desc": {
-   "zh": "每刻科技提供企业差旅及费用管理 AI 智能平台，覆盖报销、档案、云票、应收与应付，官方称票据识别支持百种样式并可多语言管理全球费用。",
-   "en": "Enterprise business travel and expense management AI platform covering reimbursement, archiving, e-invoices, receivables and payables, with document recognition across a hundred layouts and multilingual global expense management."
-  },
-  "category": "law-finance",
-  "url": "https://www.maycur.com/",
-  "tags": [
-   "费控报销",
-   "票据识别",
-   "业财一体化"
-  ],
-  "visits": 0
  },
  {
   "slug": "powerlaw-ai",
@@ -9666,6 +9267,25 @@
   "visits": 895635
  },
  {
+  "slug": "laiye",
+  "name": {
+   "zh": "来也科技",
+   "en": "来也科技"
+  },
+  "desc": {
+   "zh": "从 RPA 转型的智能体数字员工平台，官网定位「让每位员工拥有智能体」。核心是 LLM 驱动的数字员工构建、自主执行与规模治理，官方称连续六年入选 Gartner RPA 象限。",
+   "en": ""
+  },
+  "category": "enterprise",
+  "url": "https://laiye.com",
+  "tags": [
+   "数字员工",
+   "智能体",
+   "RPA"
+  ],
+  "visits": 26569
+ },
+ {
   "slug": "mininglamp",
   "name": {
    "zh": "明略科技",
@@ -9740,6 +9360,25 @@
    "AI智能体"
   ],
   "visits": 177391
+ },
+ {
+  "slug": "tencent-adp",
+  "name": {
+   "zh": "腾讯云智能体开发平台",
+   "en": "腾讯云智能体开发平台"
+  },
+  "desc": {
+   "zh": "腾讯云的企业级智能体开发平台，提供 LLM+RAG、Workflow 与 Multi-agent 开发引擎，支持构建、分发、管理与运营一体化。",
+   "en": ""
+  },
+  "category": "enterprise",
+  "url": "https://cloud.tencent.com/product/adp",
+  "tags": [
+   "智能体开发",
+   "企业级AI",
+   "RAG"
+  ],
+  "visits": 17979288
  },
  {
   "slug": "volcengine-ark",
@@ -9875,25 +9514,6 @@
   "visits": 238692
  },
  {
-  "slug": "activecampaign",
-  "name": {
-   "zh": "ActiveCampaign",
-   "en": "ActiveCampaign"
-  },
-  "desc": {
-   "zh": "ActiveCampaign 是营销自动化与顾客体验自动化平台，整合个性化邮件、WhatsApp、短信与 AI 智能，官方称每周可省约 13 小时。",
-   "en": "A marketing and customer experience automation platform that combines personalized email, WhatsApp and SMS with AI. The company says it saves teams roughly 13 hours a week."
-  },
-  "category": "marketing",
-  "url": "https://www.activecampaign.com/",
-  "tags": [
-   "营销自动化",
-   "邮件营销",
-   "客户体验"
-  ],
-  "visits": 565788
- },
- {
   "slug": "adcreative",
   "name": {
    "zh": "AdCreative.ai",
@@ -9951,44 +9571,6 @@
   "visits": 44110
  },
  {
-  "slug": "beschannels",
-  "name": {
-   "zh": "致趣百川",
-   "en": "BeChannels"
-  },
-  "desc": {
-   "zh": "致趣百川是 B2B 一站式营销云，通过营销自动化、内容营销与直播获客打通全渠道数据，形成客户画像并协同销售跟进商机，服务数百家头部 B2B 企业。",
-   "en": "A one-stop B2B marketing cloud that connects marketing automation, content marketing and live-stream lead generation into unified data, building customer profiles and helping sales work opportunities. It serves hundreds of leading B2B companies."
-  },
-  "category": "marketing",
-  "url": "https://www.beschannels.com/",
-  "tags": [
-   "B2B营销",
-   "营销云",
-   "线索管理"
-  ],
-  "visits": 5137
- },
- {
-  "slug": "brandwatch",
-  "name": {
-   "zh": "Brandwatch",
-   "en": "Brandwatch"
-  },
-  "desc": {
-   "zh": "Brandwatch 是企业级社交倾听与消费者情报套件，官方称用领先 AI 从数十亿条声音中提炼趋势、监控品牌声量并管理跨渠道互动。",
-   "en": "An enterprise-grade social listening and consumer intelligence suite. The company says its AI distills trends from billions of conversations, monitors brand share of voice and manages cross-channel engagement."
-  },
-  "category": "marketing",
-  "url": "https://www.brandwatch.com/",
-  "tags": [
-   "社交倾听",
-   "消费者情报",
-   "舆情监测"
-  ],
-  "visits": 518062
- },
- {
   "slug": "braze",
   "name": {
    "zh": "Braze",
@@ -10025,25 +9607,6 @@
    "AI可见度"
   ],
   "visits": 46993
- },
- {
-  "slug": "convertlab",
-  "name": {
-   "zh": "Convertlab",
-   "en": "Convertlab"
-  },
-  "desc": {
-   "zh": "Convertlab 提供一体化营销云，包含营销自动化平台 DM Hub、CDP 与隐私增强计算能力，覆盖零售、快消、金融与汽车等行业。",
-   "en": "An integrated marketing cloud that includes the DM Hub marketing automation platform, CDP and privacy-enhancing computation, serving retail, FMCG, financial and automotive industries."
-  },
-  "category": "marketing",
-  "url": "https://www.convertlab.com/",
-  "tags": [
-   "营销自动化",
-   "CDP",
-   "会员运营"
-  ],
-  "visits": 2732
  },
  {
   "slug": "copysmith",
@@ -10101,25 +9664,6 @@
    "B2B获客"
   ],
   "visits": 23952
- },
- {
-  "slug": "hubspot",
-  "name": {
-   "zh": "HubSpot",
-   "en": "HubSpot"
-  },
-  "desc": {
-   "zh": "HubSpot 是集营销、销售、服务与 CRM 于一体的客户平台，内置 AI 代理，官方称已被全球 299,000 家以上客户使用，适合想把获客到留存打通的团队。",
-   "en": "A customer platform combining marketing, sales, service and CRM with built-in AI agents. The company says it is used by more than 299,000 customers worldwide, and it suits teams that want to connect acquisition through retention."
-  },
-  "category": "marketing",
-  "url": "https://www.hubspot.com/",
-  "tags": [
-   "营销自动化",
-   "CRM",
-   "客户平台"
-  ],
-  "visits": 43202555
  },
  {
   "slug": "huiwa",
@@ -10196,25 +9740,6 @@
    "线索培育"
   ],
   "visits": 0
- },
- {
-  "slug": "klaviyo",
-  "name": {
-   "zh": "Klaviyo",
-   "en": "Klaviyo"
-  },
-  "desc": {
-   "zh": "Klaviyo 是面向 B2C 的自主式 CRM 与 AI 营销平台，打通邮件、短信、WhatsApp 等渠道并用 AI 代理驱动个性化营销与服务。",
-   "en": "An autonomous CRM and AI marketing platform for B2C that connects email, SMS and WhatsApp, using AI agents to drive personalized marketing and service."
-  },
-  "category": "marketing",
-  "url": "https://www.klaviyo.com/",
-  "tags": [
-   "邮件营销",
-   "短信营销",
-   "B2C CRM"
-  ],
-  "visits": 6441422
  },
  {
   "slug": "lavender",
@@ -11300,25 +10825,6 @@
   "visits": 154049
  },
  {
-  "slug": "zaowuyun",
-  "name": {
-   "zh": "造物云",
-   "en": "Zaowuyun"
-  },
-  "desc": {
-   "zh": "官网现定位为企业智能资产化系统，提供统一接入多家大模型的智核、智能体工作台与资产库，官方强调让企业拥有 AI 产出的所有权。",
-   "en": "The site now positions itself as an enterprise intelligent asset system, offering Zhike unified access to multiple large models, an agent workbench and an asset library. It emphasizes giving enterprises ownership of AI output."
-  },
-  "category": "interior",
-  "url": "https://www.zaowuyun.com/",
-  "tags": [
-   "企业AI底座",
-   "智能体平台",
-   "知识沉淀"
-  ],
-  "visits": 0
- },
- {
   "slug": "zhuxiaobang",
   "name": {
    "zh": "住小帮AI",
@@ -11754,25 +11260,6 @@
    "智能硬件"
   ],
   "visits": 0
- },
- {
-  "slug": "sharegpt",
-  "name": {
-   "zh": "ShareGPT",
-   "en": "ShareGPT"
-  },
-  "desc": {
-   "zh": "一键分享 ChatGPT 对话的浏览器扩展，曾在早期解决对话分享刚需，官方已标注废弃，建议改用 ChatGPT 内置分享功能，历史累计分享超 43.8 万段。",
-   "en": "A browser extension for one-click sharing of ChatGPT conversations that met a real early need. The developer now marks it deprecated and recommends ChatGPT's built-in sharing, with more than 438,000 conversations shared historically."
-  },
-  "category": "other",
-  "url": "https://sharegpt.com/",
-  "tags": [
-   "分享",
-   "ChatGPT",
-   "插件"
-  ],
-  "visits": 10090
  },
  {
   "slug": "siliconflow",
