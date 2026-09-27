@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 792 AI tools across 23 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 791 AI tools across 23 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-792-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-791-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -32,7 +32,7 @@
 - [Coding Assistants](#coding-assistants) `69`
 - [Image Recognition & Analysis](#image-recognition--analysis) `28`
 - [Business Research](#business-research) `16`
-- [Learning & Translation](#learning--translation) `35`
+- [Learning & Translation](#learning--translation) `34`
 - [AI Detection & Anti-detection](#ai-detection--anti-detection) `34`
 - [Research & Data Analysis](#research--data-analysis) `43`
 
@@ -573,7 +573,7 @@
 
 ## Learning & Translation
 
-<sub>[↑ Back to top](#table-of-contents) · `35 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `34 tools`</sub>
 
 - **[WaytoAGI](https://topxai.cn/ai/agi)** — One of China's largest AI knowledge bases and tool directories, organising well over a thousand tools by text, image, video, audio and productivity, and covering agents, prompts, events and hardware. · [website](https://waytoagi.com/)
 - **[PaddlePaddle AI Studio](https://topxai.cn/ai/ai-studio)** — Baidu PaddlePaddle's learning and practice community for AI students, combining free courses, cloud GPU compute, classic datasets and sample projects with ERNIE model development, one-click deployment and algorithm competitions. · [website](https://aistudio.baidu.com/)
@@ -582,7 +582,6 @@
 - **[Connected Papers](https://topxai.cn/ai/connected-papers)** — Helps researchers explore academic literature visually: enter one paper and it builds a graph of related work, useful for surveying a topic, spotting gaps and assembling references. · [website](https://www.connectedpapers.com/)
 - **[DeepL](https://topxai.cn/ai/deepl)** — AI translation tool built around accuracy, supporting text, document and voice translation with glossaries and tone or style controls. Trusted by 200,000+ businesses and used by millions every day. · [website](https://www.deepl.com/translator)
 - **[DeepLearning.AI](https://topxai.cn/ai/deeplearning-ai)** — Andrew Ng's AI course platform with 7M+ learners, spanning machine learning fundamentals to generative AI, prompt engineering and agentic AI development through specialisations, short courses, certificates and membership. · [website](https://www.deeplearning.ai/)
-- **[Doubao Learning](https://topxai.cn/ai/doubao-aixue)** — ByteDance's AI learning app, offering photo-based problem solving and essay coaching. A subscription unlocks more usage, covering homework practice, writing feedback and concept explanations. · [website](https://www.doubao.com/aixue)
 - **[Explainpaper](https://topxai.cn/ai/explainpaper)** — Upload a paper and highlight any phrase for a plain-language explanation, ask questions about the whole paper and get automatic key insights. Used by 400k+ researchers. · [website](https://www.explainpaper.com/)
 - **[Glasp](https://topxai.cn/ai/glasp)** — Web and PDF highlighting tool for researchers and learners: annotate any page or document for free, summarise YouTube videos with AI, and build the highlights into a chat-ready personal knowledge base. · [website](https://glasp.co/)
 - **[Immersive Translate](https://topxai.cn/ai/immersive-translate)** — Bilingual AI translation tool with 20+ engines including ChatGPT, DeepL and Gemini, covering two-column translation of web pages, PDFs, video subtitles, images and comics. · [website](https://immersivetranslate.com/)

@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · 中文 AI 工具精选
 
-> 收录 792 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
+> 收录 791 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-792-blue)](#目录)
+[![Tools](https://img.shields.io/badge/tools-791-blue)](#目录)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -32,7 +32,7 @@
 - [代码编程与辅助](#代码编程与辅助) `69`
 - [图像识别与分析](#图像识别与分析) `28`
 - [商业研究](#商业研究) `16`
-- [学习辅助与翻译](#学习辅助与翻译) `35`
+- [学习辅助与翻译](#学习辅助与翻译) `34`
 - [AI 检测与反检测](#ai-检测与反检测) `34`
 - [研究与数据分析](#研究与数据分析) `43`
 
@@ -573,7 +573,7 @@
 
 ## 学习辅助与翻译
 
-<sub>[↑ 返回目录](#目录) · `35 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `34 收录`</sub>
 
 - **[通往 AGI 之路](https://topxai.cn/ai/agi)** — 国内规模较大的 AI 知识库与工具导航社区，按文本、图像、视频、音频、效率等类别整理上千个工具，覆盖智能体、提示词、活动与硬件，内容由飞书知识库承载。 · [官网](https://waytoagi.com/)
 - **[飞桨 AI Studio](https://topxai.cn/ai/ai-studio)** — 百度飞桨旗下面向 AI 学习者的学习与实训社区，集成免费课程、云端 GPU 算力、经典数据集与样例项目，支持文心一言大模型开发、一键部署与算法竞赛。 · [官网](https://aistudio.baidu.com/)
@@ -582,7 +582,6 @@
 - **[Connected Papers](https://topxai.cn/ai/connected-papers)** — Connected Papers 是帮助研究者可视化探索学术文献的工具，输入一篇论文即可生成相关论文关系图谱，用于选题调研、查漏与构建参考文献。 · [官网](https://www.connectedpapers.com/)
 - **[DeepL](https://topxai.cn/ai/deepl)** — 主打翻译准确度的 AI 翻译工具，支持文本、文档与语音翻译，提供术语表、语气与风格配置，官方称全球超 20 万家企业信赖，每天数百万人使用。 · [官网](https://www.deepl.com/translator)
 - **[DeepLearning.AI](https://topxai.cn/ai/deeplearning-ai)** — 吴恩达创办的 AI 在线课程平台，超 700 万学员，从机器学习基础到生成式 AI、提示词工程与 Agentic AI 开发，提供专项课、短课、认证与会员体系。 · [官网](https://www.deeplearning.ai/)
-- **[豆包爱学](https://topxai.cn/ai/doubao-aixue)** — 字节跳动推出的AI学习应用，提供拍题答疑、作文辅导等学习支持，采用订阅方式解锁更多使用次数，覆盖日常作业练习、写作批改与知识点讲解等场景。 · [官网](https://www.doubao.com/aixue)
 - **[Explainpaper](https://topxai.cn/ai/explainpaper)** — 上传论文后划词即可获得通俗解释，可围绕整篇论文提问并自动生成要点洞察，官方称已有 40 万以上研究者使用，帮读者更快读懂艰涩文献。 · [官网](https://www.explainpaper.com/)
 - **[Glasp](https://topxai.cn/ai/glasp)** — Glasp 是面向研究者与学习者的网页与 PDF 高亮标注工具，可免费标注任意网页与文档、用 AI 总结 YouTube 视频，并把标注沉淀为可对话的个人知识库。 · [官网](https://glasp.co/)
 - **[沉浸式翻译](https://topxai.cn/ai/immersive-translate)** — 沉浸式翻译是国内开发者打造的双语对照 AI 翻译工具，内置 ChatGPT、DeepL、Gemini 等 20 余个翻译引擎，覆盖网页、PDF、视频字幕、图片与漫画的双向对照翻译。 · [官网](https://immersivetranslate.com/)

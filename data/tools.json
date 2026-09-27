@@ -8756,25 +8756,6 @@
   "visits": 2820000
  },
  {
-  "slug": "doubao-aixue",
-  "name": {
-   "zh": "豆包爱学",
-   "en": "Doubao Learning"
-  },
-  "desc": {
-   "zh": "字节跳动推出的AI学习应用，提供拍题答疑、作文辅导等学习支持，采用订阅方式解锁更多使用次数，覆盖日常作业练习、写作批改与知识点讲解等场景。",
-   "en": "ByteDance's AI learning app, offering photo-based problem solving and essay coaching. A subscription unlocks more usage, covering homework practice, writing feedback and concept explanations."
-  },
-  "category": "edu-translate",
-  "url": "https://www.doubao.com/aixue",
-  "tags": [
-   "拍题答疑",
-   "作文辅导",
-   "字节跳动"
-  ],
-  "visits": 0
- },
- {
   "slug": "explainpaper",
   "name": {
    "zh": "Explainpaper",
