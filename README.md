@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · 中文 AI 工具精选
 
-> 收录 791 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
+> 收录 793 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-791-blue)](#目录)
+[![Tools](https://img.shields.io/badge/tools-793-blue)](#目录)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -19,11 +19,11 @@
 
 - [文本生成与编辑](#文本生成与编辑) `38`
 - [图像生成与编辑](#图像生成与编辑) `46`
-- [视频与动画](#视频与动画) `55`
+- [视频与动画](#视频与动画) `56`
 - [艺术与创意设计](#艺术与创意设计) `36`
 - [音乐与音频](#音乐与音频) `30`
 - [语音生成与转换](#语音生成与转换) `30`
-- [ChatBot 与虚拟伴侣](#chatbot-与虚拟伴侣) `34`
+- [ChatBot 与虚拟伴侣](#chatbot-与虚拟伴侣) `35`
 
 **分析处理**
 
@@ -153,7 +153,7 @@
 
 ## 视频与动画
 
-<sub>[↑ 返回目录](#目录) · `55 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `56 收录`</sub>
 
 - **[白日梦AI](https://topxai.cn/ai/bairimeng)** — 白日梦AI是领先的AI视频创作平台，几分钟即可生成引人入胜的长篇视频故事，并提供角色形象库来沉淀可复用的创作素材，适合做动画短片与系列故事。 · [官网](https://aibrm.com/)
 - **[CapCut](https://topxai.cn/ai/capcut)** — 剪映国际版 CapCut，覆盖移动端、桌面端与网页端的视频编辑平台，提供 AI 字幕、文生视频、智能模板与特效工具，配套海量创作模板，是全球头部短视频剪辑工具。 · [官网](https://www.capcut.com/)
@@ -209,6 +209,7 @@
 - **[Viggle](https://topxai.cn/ai/viggle)** — Viggle 是空间生成式 AI 平台，主打无需传统动捕设备的 3D 角色动画：用一段手机视频提取动作并应用到任意角色，可导出到游戏引擎，另提供 Meme Maker 与 API。 · [官网](https://viggle.ai/)
 - **[万兴播爆](https://topxai.cn/ai/virbo)** — 万兴科技推出的营销视频工具，围绕人货场组织创作流程，支持用一句话、一张图或商品链接生成真人带货视频，官方称内置多品类模板并采用虚实分控技术，面向电商营销。 · [官网](https://virbo.wondershare.cn/)
 - **[献丑AI](https://topxai.cn/ai/xianchou)** — 献丑 AI 是专注 AI 视频创作、学习与复刻的开源社区与创作工作台，官方称沉淀可拆解的爆款案例与模型提示词，提供无限画布工作流、学院教程与统一积分体系，覆盖图像、视频与对话创作。 · [官网](https://xianchou.com)
+- **[小云雀AI](https://topxai.cn/ai/xiaoyunque)** — 字节跳动（抖音）旗下 AI 内容创作 Agent，覆盖短剧、营销视频与通用创作，内置 Seedance、Seedream、Seed Audio 模型，网页版与 App 可用。 · [官网](https://xyq.jianying.com/)
 - **[造剧](https://topxai.cn/ai/zaoju)** — 造剧是面向 AI 短剧与漫剧创作的一站式平台，官方称覆盖 AI 剧本创作、角色场景生成、智能分镜与剪辑成片，并提供导演台做多机位调度，以 Windows 桌面客户端交付。 · [官网](https://zaoju.art)
 
 ## 艺术与创意设计
@@ -324,7 +325,7 @@
 
 ## ChatBot 与虚拟伴侣
 
-<sub>[↑ 返回目录](#目录) · `34 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `35 收录`</sub>
 
 - **[360智脑](https://topxai.cn/ai/360-zhinnao)** — 360智脑是360围绕安全与人工智能双主线打造的AI应用聚合门户，提供大模型广场、纳米AI搜索、360智绘等应用，覆盖个人与企业多类场景。 · [官网](https://ai.360.cn/)
 - **[扣子 Coze](https://topxai.cn/ai/coze)** — 扣子是字节跳动旗下的一站式 AI 开发平台，无需复杂指令即可搭建智能体与可视化工作流，可操作电脑和手机直接交付结果，覆盖 PPT、数据分析、小程序与网页开发等场景。 · [官网](https://www.coze.cn/)
@@ -333,6 +334,7 @@
 - **[Dify](https://topxai.cn/ai/dify)** — Dify 是面向生产级 Agentic 工作流的开源 LLM 应用开发平台，在统一画布上搭建 Agent、知识管道（RAG）与工作流，支持云端、VPC 或自托管部署。 · [官网](https://dify.ai/)
 - **[豆包](https://topxai.cn/ai/doubao)** — 字节跳动推出的 AI 智能助手，整合对话问答、写作、翻译、PPT、图像与视频生成等能力，支持语音实时交流，官方称登录即可免费使用，并提供网页版与电脑客户端。 · [官网](https://www.doubao.com/)
 - **[Duck.ai](https://topxai.cn/ai/duck-ai)** — DuckDuckGo 出品的隐私 AI 聊天入口，官方称聚合 ChatGPT、Claude 等主流模型，发送前移除 IP 等元数据、对话不用于训练 AI 模型，免账号可用。 · [官网](https://duck.ai)
+- **[Google Gemini](https://topxai.cn/ai/gemini)** — Google 旗下通用 AI 助手，支持文本对话、图片与视频生成、Deep Research 与实时语音，可接入 Gmail、Docs 等 Google 服务，有网页版和 App。 · [官网](https://gemini.google.com/)
 - **[智谱 GLM](https://topxai.cn/ai/glm)** — 智谱（Z.ai）的大模型体系，GLM 系列支持 1M 上下文与前沿编程能力，配套 ZCode 编程工具、AutoGLM 智能体及全模态 MaaS API 服务。 · [官网](https://www.zhipuai.cn/)
 - **[讯飞星辰 Agent](https://topxai.cn/ai/iflytek-xingchen)** — 科大讯飞推出的全场景 AI 智能体平台（现 AStudio），不止对话，可描述目标自主调度工具完成网页开发、数据分析、财报解读与代码重构，支持权限管控与企业协同。 · [官网](https://agent.xfyun.cn/)
 - **[Kimi](https://topxai.cn/ai/kimi)** — Kimi 是月之暗面（Moonshot AI）推出的 AI 助手，官网当前以「K3 上线，专为智能体编程与知识工作打造」为主标题。 · [官网](https://www.kimi.com/)
@@ -969,26 +971,26 @@
 
 <sub>按站点月访问量排序，每月自动更新。</sub>
 
-1. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — 代码编程与辅助
-2. **[DeepSeek 深度求索](https://topxai.cn/ai/deepseek)** — ChatBot 与虚拟伴侣
-3. **[豆包](https://topxai.cn/ai/doubao)** — ChatBot 与虚拟伴侣
-4. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
-5. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
-6. **[Perplexity](https://topxai.cn/ai/perplexity)** — 研究与数据分析
-7. **[Microsoft Copilot](https://topxai.cn/ai/microsoft-copilot)** — 办公与生产力
-8. **[Suno](https://topxai.cn/ai/suno)** — 音乐与音频
-9. **[飞书妙计](https://topxai.cn/ai/feishu-miaoji)** — 企业管理
-10. **[Remove.bg](https://topxai.cn/ai/remove-bg)** — 艺术与创意设计
-11. **[Amazon Q](https://topxai.cn/ai/amazon-q)** — 代码编程与辅助
-12. **[Kimi](https://topxai.cn/ai/kimi)** — ChatBot 与虚拟伴侣
-13. **[Grammarly](https://topxai.cn/ai/grammarly)** — 文本生成与编辑
-14. **[CapCut](https://topxai.cn/ai/capcut)** — 视频与动画
-15. **[monday.com](https://topxai.cn/ai/monday)** — 办公与生产力
-16. **[ClickUp](https://topxai.cn/ai/clickup)** — 办公与生产力
-17. **[Lovable](https://topxai.cn/ai/lovable)** — 代码编程与辅助
-18. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — 视频与动画
-19. **[QuillBot](https://topxai.cn/ai/quillbot)** — 文本生成与编辑
-20. **[Hugging Face](https://topxai.cn/ai/hugging-face)** — 研究与数据分析
+1. **[Google Gemini](https://topxai.cn/ai/gemini)** — ChatBot 与虚拟伴侣
+2. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — 代码编程与辅助
+3. **[DeepSeek 深度求索](https://topxai.cn/ai/deepseek)** — ChatBot 与虚拟伴侣
+4. **[豆包](https://topxai.cn/ai/doubao)** — ChatBot 与虚拟伴侣
+5. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
+6. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
+7. **[Perplexity](https://topxai.cn/ai/perplexity)** — 研究与数据分析
+8. **[Microsoft Copilot](https://topxai.cn/ai/microsoft-copilot)** — 办公与生产力
+9. **[Suno](https://topxai.cn/ai/suno)** — 音乐与音频
+10. **[飞书妙计](https://topxai.cn/ai/feishu-miaoji)** — 企业管理
+11. **[Remove.bg](https://topxai.cn/ai/remove-bg)** — 艺术与创意设计
+12. **[Amazon Q](https://topxai.cn/ai/amazon-q)** — 代码编程与辅助
+13. **[Kimi](https://topxai.cn/ai/kimi)** — ChatBot 与虚拟伴侣
+14. **[Grammarly](https://topxai.cn/ai/grammarly)** — 文本生成与编辑
+15. **[CapCut](https://topxai.cn/ai/capcut)** — 视频与动画
+16. **[monday.com](https://topxai.cn/ai/monday)** — 办公与生产力
+17. **[ClickUp](https://topxai.cn/ai/clickup)** — 办公与生产力
+18. **[Lovable](https://topxai.cn/ai/lovable)** — 代码编程与辅助
+19. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — 视频与动画
+20. **[QuillBot](https://topxai.cn/ai/quillbot)** — 文本生成与编辑
 
 ## 关于本仓库
 
