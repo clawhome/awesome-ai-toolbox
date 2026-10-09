@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · 中文 AI 工具精选
 
-> 收录 793 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
+> 收录 821 个 AI 工具，覆盖 23 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-793-blue)](#目录)
+[![Tools](https://img.shields.io/badge/tools-821-blue)](#目录)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -19,7 +19,7 @@
 
 - [文本生成与编辑](#文本生成与编辑) `38`
 - [图像生成与编辑](#图像生成与编辑) `46`
-- [视频与动画](#视频与动画) `56`
+- [视频与动画](#视频与动画) `57`
 - [艺术与创意设计](#艺术与创意设计) `36`
 - [音乐与音频](#音乐与音频) `30`
 - [语音生成与转换](#语音生成与转换) `30`
@@ -38,11 +38,11 @@
 
 **行业场景**
 
-- [社交媒体](#社交媒体) `30`
+- [社交媒体](#社交媒体) `31`
 - [日常生活](#日常生活) `20`
 - [法律与财务](#法律与财务) `27`
-- [企业管理](#企业管理) `38`
-- [商业营销与广告](#商业营销与广告) `38`
+- [企业管理](#企业管理) `39`
+- [商业营销与广告](#商业营销与广告) `63`
 - [医疗与健康](#医疗与健康) `22`
 - [室内与建筑设计](#室内与建筑设计) `20`
 - [其他](#其他) `31`
@@ -153,7 +153,7 @@
 
 ## 视频与动画
 
-<sub>[↑ 返回目录](#目录) · `56 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `57 收录`</sub>
 
 - **[白日梦AI](https://topxai.cn/ai/bairimeng)** — 白日梦AI是领先的AI视频创作平台，几分钟即可生成引人入胜的长篇视频故事，并提供角色形象库来沉淀可复用的创作素材，适合做动画短片与系列故事。 · [官网](https://aibrm.com/)
 - **[CapCut](https://topxai.cn/ai/capcut)** — 剪映国际版 CapCut，覆盖移动端、桌面端与网页端的视频编辑平台，提供 AI 字幕、文生视频、智能模板与特效工具，配套海量创作模板，是全球头部短视频剪辑工具。 · [官网](https://www.capcut.com/)
@@ -193,6 +193,7 @@
 - **[Pollo AI](https://topxai.cn/ai/pollo-ai)** — 聚合多款主流视频与图像模型的 AI 创意套件，在一个工作台内完成文生视频、图生视频、数字人、音频与营销素材制作，支持最高 4K 输出，适合不想绑定单一模型生态的创作者。 · [官网](https://pollo.ai/)
 - **[Preview](https://topxai.cn/ai/preview)** — Preview 是 AI 视频生产协作平台，把分镜、生成与导演收进同一工作流，用无限画布让团队从构思一路推进到最终成片。 · [官网](https://preview.io/)
 - **[千问创作](https://topxai.cn/ai/qianwen-chuangzuo)** — 千问创作是阿里旗下AI创作平台，接入万相等模型，主打一句话生成艺术图像与动态视频，覆盖摄影、美术、导演、编剧等多种创作角色。 · [官网](https://create.qianwen.com/)
+- **[quso.ai](https://topxai.cn/ai/quso-ai)** — quso.ai 是长转短视频的 AI 工具，能从长视频、直播与播客中找出高光片段，按病毒度打分，自动生成逐词字幕并排程到多个社交平台，适合做短视频分发的创作者与内容团队。 · [官网](https://quso.ai/)
 - **[Runway](https://topxai.cn/ai/runway)** — 以「构建现实世界智能」为核心定位的 AI 创作平台，Runway Creative 一站式生成编辑视频、图像与音频，另有面向开发者的 Dev 与具身智能 Robotics 产品线。 · [官网](https://runwayml.com/)
 - **[海艺剧场](https://topxai.cn/ai/seavideo)** — 海艺剧场是专业 AI 影视创作平台，官方称支持剧本一键转视频、精准控制 AI 演员情绪与镜头运动，从文字到成片，提供自由画布、短剧 Agent、字幕擦除与视频超清等能力。 · [官网](https://www.seavideo.tv)
 - **[Seko](https://topxai.cn/ai/seko)** — Seko是商汤旗下的AI视频创作平台，输入灵感即可由AI自动策划并生成视频，覆盖短剧漫剧、出海短剧与音乐MV等方向，并提供无限画布与作品社区。 · [官网](https://seko.sensetime.com/)
@@ -477,7 +478,7 @@
 - **[Greptile](https://topxai.cn/ai/greptile)** — Greptile 是面向代码库的 AI 代码审查器，先用图索引理解整个仓库，再派一组智能体并行审 PR、自动跑测试，并能学习团队的编码规范。 · [官网](https://www.greptile.com/)
 - **[Haystack](https://topxai.cn/ai/haystack)** — deepset 维护的开源 AI 编排框架，用模块化组件搭建可上生产的智能体、检索增强与语义搜索系统，每一步都可检视、调试与替换。 · [官网](https://haystack.deepset.ai/)
 - **[Helicone AI](https://topxai.cn/ai/helicone-ai)** — Helicone 是开源 LLM 可观测与 AI 网关平台：请求日志、监控告警、策略路由、多维细分与 HQL 分析，改一行 base_url 接入，被增长最快的 AI 公司使用。 · [官网](https://helicone.ai/)
-- **[InfCode](https://topxai.cn/ai/infcode)** — 词元无限面向中国企业研发团队打造的 AI 编程智能体，支持 IDE 插件与原生 IDE，可私有化部署，在真实工程里提升研发效率与代码质量。 · [官网](https://www.tokfinity.com/infcode)
+- **[InfCode](https://topxai.cn/ai/infcode)** — 词元无限面向中国企业研发团队打造的 AI 编程智能体，支持 IDE 插件与原生 IDE，可私有化部署，在真实工程里提升研发效率与代码质量。 · [官网](https://www.tokfinity.com/infcode/)
 - **[Kilo](https://topxai.cn/ai/kilo)** — 开源 AI 编码代理，覆盖 VS Code、JetBrains、CLI 与云端，可接入 500 多个模型并支持自带密钥零加价，用本地模型可保护代码隐私。 · [官网](https://kilo.ai/)
 - **[LangChain](https://topxai.cn/ai/langchain)** — LangChain 现在的自我定位是「拥有你自己智能的开放 Agent 平台」。它的主张是让每家公司掌控自己的智能：用开放的 Agent 工程平台去控制、治理并积累智能资产，官方称已被 7000+ 组织使用。 · [官网](https://langchain.com/)
 - **[Langfuse](https://topxai.cn/ai/langfuse)** — 开源（MIT）的 LLM 工程平台，把追踪、评估、提示词管理与数据集整合一处，基于 OpenTelemetry，用生产数据持续改进 AI 应用，可自托管。 · [官网](https://langfuse.com/)
@@ -488,7 +489,7 @@
 - **[麦芽AI](https://topxai.cn/ai/maiya-ai)** — 面向产研团队的一站式 AI 协作开发平台，官方称覆盖需求原型、专业文档、代码开发与测试交付四个环节，提供 AI 画原型、AI 写文档、AI 写代码与 AI 自动化测试。 · [官网](https://www.myaifast.com)
 - **[Manifest](https://topxai.cn/ai/manifest)** — 开源的 LLM 路由器与网关，用一个 OpenAI 兼容端点接入订阅制、按量计费、本地模型与自定义供应商，自动修复错误请求并在故障时切换备用模型。 · [官网](https://manifest.build/)
 - **[秒哒](https://topxai.cn/ai/miaoda)** — 秒哒是百度旗下的零代码应用搭建平台，用自然语言对话即可生成网站、小程序、H5与小游戏，一人就能当作一支开发团队，无需编程即可极速上线应用。 · [官网](https://www.miaoda.cn/)
-- **[MiMo Code](https://topxai.cn/ai/mimo-code)** — 小米推出的新一代 AI 编程助手，支持无限上下文、开箱即用，免费提供多模态模型，配合 Agent 与记忆整理高效完成编码协作。 · [官网](https://mimo.xiaomi.com/coder)
+- **[MiMo Code](https://topxai.cn/ai/mimo-code)** — 小米推出的新一代 AI 编程助手，支持无限上下文、开箱即用，免费提供多模态模型，配合 Agent 与记忆整理高效完成编码协作。 · [官网](https://mimo.xiaomi.com/coder/)
 - **[昇思 MindSpore](https://topxai.cn/ai/mindspore)** — 华为开源自研的全场景 AI 框架，支持端边云训练推理，提供自动微分、分布式并行与丰富套件，面向算法工程师与数据科学家，覆盖训练到部署全流程。 · [官网](https://www.mindspore.cn/)
 - **[Mintlify](https://topxai.cn/ai/mintlify)** — 面向 AI 智能体的文档与知识平台，文档可自我更新、以结构化方式被智能体读取，已有两万多家公司用于开发者知识库与知识管理，让文档持续保持最新。 · [官网](https://mintlify.com/)
 - **[MLflow](https://topxai.cn/ai/mlflow)** — MLflow 是最大的开源 AI 工程平台，覆盖 Agent、LLM 与传统模型：链路观测、系统评估、提示词优化、AI 网关与模型部署一站搞定，让 AI 迭代快十倍。 · [官网](https://mlflow.org/)
@@ -515,7 +516,7 @@
 - **[Whacka](https://topxai.cn/ai/whacka)** — 面向非开发者的 AI 应用生成平台，官方口号是 Say it. Ship it. Use it.，用一句话描述需求即可生成带登录、数据库、支付与推送的应用并即时托管上线。 · [官网](https://whacka.app)
 - **[Windsurf](https://topxai.cn/ai/windsurf)** — 原 Windsurf AI 编辑器，现已并入 Cognition 的 Devin 体系，官网指向 Devin Desktop，可在统一界面调度本地与云端的多个编码智能体。 · [官网](https://windsurf.com/)
 - **[Wren AI](https://topxai.cn/ai/wren-ai)** — 开源核心的生成式 BI 智能体，用语义层（MDL）把自然语言转成 SQL，商业版与开源版跑同一上下文引擎，支持云端、VPC 与气隙部署。 · [官网](https://www.getwren.ai/oss)
-- **[ZCode](https://topxai.cn/ai/zcode)** — 智谱推出的 GLM-5.3 官方 Harness，多智能体协作的氛围编程工具，把 Agent 接进现有工具链，顺畅完成规划、编码、评审与上线。 · [官网](https://zcode.z.ai/cn)
+- **[ZCode](https://topxai.cn/ai/zcode)** — 智谱推出的 GLM-5.3 官方 Harness，多智能体协作的氛围编程工具，把 Agent 接进现有工具链，顺畅完成规划、编码、评审与上线。 · [官网](https://zcode.z.ai/cn/)
 - **[Zed](https://topxai.cn/ai/zed)** — Zed 是 Atom 与 Tree-sitter 作者打造的高性能多人代码编辑器，用 Rust 编写、支持 AI 代理并行编辑与内联助手，可团队实时协作，适合追求速度与协作开发者。 · [官网](https://zed.dev/)
 - **[Zencoder](https://topxai.cn/ai/zencoder)** — Zencoder 是面向开发者的 AI 编程智能体平台，一个订阅聚合多家前沿大模型，按任务选模型做规划、构建与审查，支持并行执行与质量门。 · [官网](https://zencoder.ai/)
 
@@ -701,7 +702,7 @@
 
 ## 社交媒体
 
-<sub>[↑ 返回目录](#目录) · `30 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `31 收录`</sub>
 
 - **[Blaze AI](https://topxai.cn/ai/blaze)** — 面向中小企业的 AI 营销平台，官方称把社媒内容、付费广告、落地页、口碑管理与 AI 销售开发整合为一套流程，内容按品牌语气生成并自动排期，官方称每月 79 美元起。 · [官网](https://www.blaze.ai/)
 - **[Bloome](https://topxai.cn/ai/bloome)** — Bloome 是把人和 AI 智能体放进同一个聊天的即时通讯平台，官方称智能体会互相审阅、共享记忆，可接入 Claude、ChatGPT、DeepSeek 等模型并交付研究产出。 · [官网](https://bloome.im)
@@ -722,6 +723,7 @@
 - **[Munch Studio](https://topxai.cn/ai/munch)** — 面向中小企业的 AI 社媒营销工具，官方称导入官网、照片、视频甚至会议录音后，AI 会自动学习业务并生成内容策略与整月帖子，用户一键审批发布，并实时监测各平台数据表现。 · [官网](https://www.getmunch.com/)
 - **[Ocoya](https://topxai.cn/ai/ocoya)** — AI 社交媒体管理平台，四步完成文案配图生成、智能排期与多平台发布，支持品牌一致性与数据分析，官方称客户超 63 万，可配合 Claude 等 AI 助手驱动。 · [官网](https://ocoya.com/)
 - **[OpusClip](https://topxai.cn/ai/opus-clip)** — OpusClip 是热门的 AI 长视频切条工具，自动把一段长视频变成多条带字幕、带智能构图的病毒式短视频，方便直接分发到社媒。 · [官网](https://www.opus.pro/)
+- **[Postiz](https://topxai.cn/ai/postiz)** — Postiz 是 Agentic 社交媒体排程平台，在同一日历上规划、排程并发布到 34 个社交平台，支持按平台差异化编辑、AI 生成素材并可自建部署，适合社媒团队与代运营机构。 · [官网](https://postiz.com/)
 - **[闪剪](https://topxai.cn/ai/shanjian)** — 专注短视频工具与爆款玩法研发的 AI 视频平台，官方称上传三十秒视频即可复刻形象与声音定制数字人，输入文案自动生成口播成片，并提供千余公共数字人与公共配音、直播切片。 · [官网](https://shanjian.tv/)
 - **[Socialsonic](https://topxai.cn/ai/socialsonic)** — Socialsonic 是 Writesonic 推出的 AI LinkedIn 增长平台，用 AI 帮你找选题、写帖、追热点并持续发布，把个人品牌做成可复制的增长系统。 · [官网](https://socialsonic.com/)
 - **[Submagic](https://topxai.cn/ai/submagic)** — Submagic 是面向短视频的 AI 字幕与剪辑工具，用自动字幕、表情动效与智能切点让创作者几分钟做出有网感的 Reels、Shorts 与 TikTok 短片。 · [官网](https://www.submagic.co/)
@@ -793,7 +795,7 @@
 
 ## 企业管理
 
-<sub>[↑ 返回目录](#目录) · `38 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `39 收录`</sub>
 
 - **[Accio Work](https://topxai.cn/ai/accio-work)** — 阿里国际的 AI Agent 团队产品，官方称面向中小企业、以主动智能自动化端到端业务任务，内置技能与连接器，可让 Agent 操作浏览器执行真实业务动作。 · [官网](https://www.accio.com/work)
 - **[AgentMore](https://topxai.cn/ai/agentmore)** — 智谱清言推出的多 Agent 云端协作平台，官方称可像搭乐高一样组建专属 AI Agent 团队，云端 7×24 小时待命并多线并行处理任务，支持定时任务、群聊协作与积分制使用。 · [官网](https://agentmore.chatglm.cn)
@@ -808,6 +810,7 @@
 - **[Front](https://topxai.cn/ai/front)** — Front 是面向复杂客户运营的客服与协作平台，把团队、对话与 AI 统一到一个协调系统，官方称 AI 可解决七成请求。 · [官网](https://frontapp.com/)
 - **[Gong](https://topxai.cn/ai/gong)** — Gong 是面向营收团队的 Revenue AI OS，通过捕获销售通话与会议自动分析客户互动，提供 Gong Engage、Forecast。 · [官网](https://www.gong.io/)
 - **[Happycapy](https://topxai.cn/ai/happycapy)** — Happycapy 是一款 Agent 原生电脑，官方称把多家前沿模型、技能库、邮件与自动化放进同一个安全沙箱，订阅一份即可建站、做研究、生成图像与视频。 · [官网](https://happycapy.ai)
+- **[Jeeva AI](https://topxai.cn/ai/jeeva-ai)** — Jeeva AI 是企业级数字员工平台，用一套共享运行时承载客服、IT、营收、安全、财务等自主数字员工，支持自然语言描述部署并内置权限审批与审计，适合要规模化自动化的企业。 · [官网](https://www.jeeva.ai/)
 - **[金蝶](https://topxai.cn/ai/kingdee)** — 金蝶是中国企业管理软件与云服务商，以金蝶云与 AI 原生平台助力企业数智化，官方称有 740 多万企业客户，覆盖大中小企业。 · [官网](https://www.kingdee.com/)
 - **[来也科技](https://topxai.cn/ai/laiye)** — 从 RPA 转型的智能体数字员工平台，官网定位「让每位员工拥有智能体」。核心是 LLM 驱动的数字员工构建、自主执行与规模治理，官方称连续六年入选 Gartner RPA 象限。 · [官网](https://laiye.com)
 - **[Lindy](https://topxai.cn/ai/lindy)** — Lindy 是定位为 AI 同事的智能助手，连接团队全部工具、记住公司信息并自动完成真实工作，覆盖会议、排程、技能学习与可编辑记忆。 · [官网](https://www.lindy.ai/)
@@ -836,26 +839,43 @@
 
 ## 商业营销与广告
 
-<sub>[↑ 返回目录](#目录) · `38 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `63 收录`</sub>
 
 - **[5118](https://topxai.cn/ai/5118)** — 5118 是营销大数据平台，提供长尾关键词挖掘、SEO 排名监控与 AI 智能改写等站长工具，用于关键词研究与内容创作优化，服务站长与内容运营人员。 · [官网](https://www.5118.com/)
 - **[AdCreative.ai](https://topxai.cn/ai/adcreative)** — AdCreative.ai 是专注广告创意生成的 AI 平台，可在数秒产出转化导向的 banner、文案与视频，并用创意评分预测效果，官方称服务超 400 万营销人。 · [官网](https://www.adcreative.ai/)
+- **[Addlly AI](https://topxai.cn/ai/addlly-ai)** — 面向企业品牌的 AI 搜索可见性平台，审计品牌在 ChatGPT、Perplexity 等 AI 答案中的引用情况，并落地生成式引擎优化内容，适合品牌营销与增长团队。 · [官网](https://addlly.ai/)
 - **[AdRoll](https://topxai.cn/ai/adroll)** — AdRoll 是面向营销者的多渠道广告与 ABM 平台，用机器学习投放展示、社媒与邮件广告，并做跨渠道归因与再营销，提升投放回报。 · [官网](https://www.adroll.com/)
+- **[AhaCreator](https://topxai.cn/ai/ahacreator)** — AhaCreator 是 AI 原生红人营销平台，用多模态模型在数百万创作者档案中匹配品牌契合人选，自动完成触达、跟进、内容审核与付款托管，适合做海外 KOL 投放的出海品牌。 · [官网](https://www.ahacreator.com/)
+- **[AISEO](https://topxai.cn/ai/aiseo)** — AISEO 是面向生成式搜索可见性的 AI SEO 平台，用 Agent 每日爬检全站问题、实时追踪竞品，并监控品牌在 ChatGPT、Gemini、Claude 中的引用。 · [官网](https://aiseo.ai/)
 - **[Anyword](https://topxai.cn/ai/anyword)** — Anyword 的官方口号很直接：「让 AI 内容表现提升 76%」。它的差异点是把 A/B 测试数据与品牌上下文接入生成过程——官方称它可与任何 AI 模型或 Agent 配合，在每一步生成中叠加效果数据… · [官网](https://anyword.com/)
+- **[遨虾](https://topxai.cn/ai/aoxia-1688)** — 1688推出的AI跨境电商运营Agent，覆盖新品机会、爆品改进、平台与国家迁移机会发现等选品能力，基于亚马逊、TikTok等平台海量数据辅助跨境选品决策。 · [官网](https://www.alphashop.cn/app/home)
+- **[Arcads](https://topxai.cn/ai/arcads)** — AI 广告生成平台，用 1000 多位 AI 演员产出 UGC 风格视频与图片广告，支持情绪控制、30 多种语言本地化与一键剪辑，适合需要快速迭代短视频素材的广告团队。 · [官网](https://www.arcads.ai/)
+- **[Arvow](https://topxai.cn/ai/arvow)** — Arvow 是以 Agent 为核心的 AI SEO 平台，自动匹配并获取上下文外链、排查修复技术问题、按需生成与发布内容，并追踪品牌在多个大模型中的提及与情绪。 · [官网](https://arvow.com/)
+- **[Botowski](https://topxai.cn/ai/botowski)** — 定位为私人 AI 文案写手，为不擅长写作的企业与个人生成标语、邮件、博客大纲、商品描述、视频钩子与社交贴文，支持多种语气，还能给网站接入 AI 聊天机器人。 · [官网](https://www.botowski.com/)
 - **[Braze](https://topxai.cn/ai/braze)** — Braze 是面向品牌的客户互动平台，用 BrazeAI 与跨渠道消息、旅程编排统一数据，覆盖从触达到留存的全生命周期，提升用户忠诚度。 · [官网](https://www.braze.com/)
+- **[CakeGrowth](https://topxai.cn/ai/cakegrowth)** — 专注AI应用的一站式联盟营销平台，连接AI SaaS企业与各处流量主，提供项目撮合、佣金结算与全渠道分发，帮助AI产品用CPS与CPA方式低成本获客。 · [官网](https://cakegrowth.cn/)
+- **[蝉妈妈AI](https://topxai.cn/ai/chanmama-ai)** — 蝉妈妈出品的电商版超级运营Agent，把市场研究、用户洞察、达人合作、视频与商图创作、经营诊断与竞对监控整合成一个可对话、可定时执行的数字员工。 · [官网](https://ai.chanmama.com/)
+- **[超会AI](https://topxai.cn/ai/chaohui-ai)** — 企业级AI MCN内容营销平台，用Agentic AI贯通选题、内容量产、矩阵分发与数据复盘，配合数字人定制与智能剪辑，让一人完成多账号、多品牌的内容运营。 · [官网](https://chaohui.ai/)
 - **[Clearscope](https://topxai.cn/ai/clearscope)** — Clearscope 是面向内容团队的 SEO 与 AI 搜索优化平台，围绕搜索意图与术语建议构建写作流程，并追踪品牌在 AI 回答中的可见度。 · [官网](https://clearscope.io/)
 - **[Copysmith](https://topxai.cn/ai/copysmith)** — Copysmith 现在的角色更像一个内容工具集团：它构建并运营三个专门的 AI 平台——Frase（搜索与 AI 引用优化）、Describely（规模化商品内容生产）与 Rytr（用你的语气写作）。 · [官网](https://copysmith.ai/)
 - **[深演智能](https://topxai.cn/ai/deepzero)** — 深演智能是企业决策 AI 智能体平台，产品矩阵覆盖产品创新、GTM、社媒营销、广告、导购客服、用户运营与用户洞察等决策场景。 · [官网](https://www.deepzero.com/)
 - **[Drift](https://topxai.cn/ai/drift)** — Drift 面向 B2B 销售的对话式 AI 聊天代理，在访客到访时捕捉购买意图并触发销售动作，现过渡为 1mind 并入 Salesloft。 · [官网](https://www.drift.com/)
+- **[易企秀小易AI](https://topxai.cn/ai/eqxiu-ai)** — 易企秀推出的AI创作工具，输入一段文本就能批量产出文案、表单与页面内容，把营销人从反复打磨文字和表单的体力活里解放出来，创意与运营都能更快落地。 · [官网](https://ai.eqxiu.com/)
+- **[Evercopy](https://topxai.cn/ai/evercopy)** — AI 驱动的品牌安全创意生成平台，批量产出横幅、商品图、视频广告、邮件模板等 30 多种格式，用自定义模板与品牌资产约束结果，适合规模化产出的营销与电商团队。 · [官网](https://evercopy.ai/)
 - **[绘蛙](https://topxai.cn/ai/huiwa)** — 绘蛙是阿里巴巴全资孵化的AI电商图文创作平台，面向卖家与内容创作者，提供AI商拍图、虚拟模特、种草文案与AI视频生成，支持服装一键上身、批量生图与企业团队协作。 · [官网](https://www.ihuiwa.com/)
 - **[Intercom](https://topxai.cn/ai/intercom)** — Intercom 面向客户服务的系统，整合人工帮助台与 Fin AI 代理，用全渠道收件箱、工单与 AI 辅助覆盖售前到售后支持。 · [官网](https://www.intercom.com/)
 - **[Jasper](https://topxai.cn/ai/jasper)** — 面向营销团队的 AI Agent 工作台，内置 100+ 专用智能体与内容流水线，覆盖从策略到落地的端到端营销流程，兼顾速度与品牌一致性。 · [官网](https://www.jasper.ai/)
 - **[径硕科技](https://topxai.cn/ai/jingdigital)** — 径硕科技主打 Agentic Marketing，为 B2B 企业提供 Agentic CDP 数据底座与 GEO、内容、SDR、邮件、销售、服务等六大智能体。 · [官网](https://www.jingdigital.com/)
+- **[Junia AI](https://topxai.cn/ai/junia-ai)** — Junia AI 是自动写作型 AI SEO 平台，可研究关键词与竞品、生成完整文章并按日程自动发布到网站，同时追踪 ChatGPT、Claude 对品牌的提及情况。 · [官网](https://www.junia.ai/)
+- **[Keyword Insights](https://topxai.cn/ai/keyword-insights)** — Keyword Insights 是面向主题权威的 SEO 策划平台，用 Google 自动补全、Reddit 等实时数据做关键词发现，再用 SERP 聚类归并主题集群与内容大纲。 · [官网](https://www.keywordinsights.ai/)
+- **[来鼓AI](https://topxai.cn/ai/laigu-ai)** — 面向企业增长的AI数字员工平台，由内容营销、增长获客、成交转化三类Agent协同运转，统一接待多平台私信、识别客户意向、沉淀线索并在私域推进成交。 · [官网](https://laigu.com/)
 - **[Lavender](https://topxai.cn/ai/lavender)** — 面向销售的 AI 邮件教练，实时分析外联邮件给出改进建议，另有 Ora AI 销售 Agent 自动起草接近顶尖销售水平的邮件，并提供认证课程，适合 B2B 外联团队。 · [官网](https://www.lavender.ai/)
 - **[Manychat](https://topxai.cn/ai/manychat)** — Manychat 面向创作者与小企业的聊天营销平台，在 Instagram、WhatsApp、TikTok 与 Messenger 上用自动化把评论转成交。 · [官网](https://manychat.com/)
 - **[MarketMuse](https://topxai.cn/ai/marketmuse)** — MarketMuse 是 AI 驱动的内容规划与优化软件，用专利主题建模分析内容库存，指出该写什么、写多少以建立主题权威。 · [官网](https://www.marketmuse.com/)
+- **[Marmof](https://topxai.cn/ai/marmof)** — AI 文案与内容生成平台，选场景、填信息、点生成即可产出博客、广告、电商商品描述与社交内容，提供上百个细分工具，适合内容团队、电商卖家与独立创作者。 · [官网](https://marmof.com/)
 - **[MaxAEO](https://topxai.cn/ai/maxaeo)** — 增势智能旗下的 AI 搜索品牌可见性监测与优化平台，官网称每天以真实用户身份实测豆包、DeepSeek、元宝、Kimi 等 9 家 AI 平台，追踪提及、排名与引用来源。 · [官网](https://maxaeo.cn)
 - **[秒针系统](https://topxai.cn/ai/miaozhen)** — 秒针系统是明略科技旗下营销智能品牌，提供广告测量、社媒营销与用户营销服务，官方称以事实性数据反 AI 幻觉做营销实效管理，服务品牌广告效果衡量场景。 · [官网](https://www.miaozhen.com/)
+- **[Mujo AI](https://topxai.cn/ai/mujo-ai)** — AI 创意平台，把 GPT Image、Nano Banana、Kling 等主流图像与视频模型放进同一工作区，配上千项创意控制与可复用工作流，适合电商与营销团队批量出素材。 · [官网](https://mujoai.com/)
 - **[Nile](https://topxai.cn/ai/nile)** — 面向品牌的 agentic commerce 平台，官网称把商品目录、定价与结账提供给 ChatGPT、Gemini 等 AI 购物助手，让 AI 推荐你的商品并按成交计佣。 · [官网](https://nile.app)
 - **[OKKI AI](https://topxai.cn/ai/okki-ai)** — OKKI AI 是阿里巴巴国际站旗下小满科技推出的AI外贸智能体，覆盖潜客挖掘、AI背调、多语言开发信、智能触达与客户经营，官方称已服务25万以上外贸从业者。 · [官网](https://www.okki.com/)
 - **[Omneky](https://topxai.cn/ai/omneky)** — Omneky 是 AI 广告创意平台，自动生成图片、视频与 UGC 广告，并跨 Meta、Google、TikTok 等渠道投放与优化，提升广告投放回报。 · [官网](https://www.omneky.com/)
@@ -863,19 +883,27 @@
 - **[Pencil](https://topxai.cn/ai/pencil)** — Pencil 是面向营销的 AI 操作系统，聚合 OpenAI、Google、Adobe 等多家领先模型并施以企业治理，把生产节省转化为媒体增长。 · [官网](https://trypencil.com/)
 - **[Persado](https://topxai.cn/ai/persado)** — Persado 是面向受监管行业的内容生成平台，用语言智能与多智能体编排产出合规营销文案，并对每条信息的表现与合规打分，降低人工校对成本。 · [官网](https://www.persado.com/)
 - **[Pic Copilot](https://topxai.cn/ai/pic-copilot)** — Pic Copilot 是阿里巴巴国际数字商业集团推出的AI电商内容平台，面向跨境卖家，提供AI模特图、虚拟试穿、营销视频、图片翻译与背景生成，官方称已服务全球超150万卖家。 · [官网](https://www.piccopilot.com/)
+- **[Pomelli](https://topxai.cn/ai/pomelli)** — Pomelli 是 Google Labs 与 DeepMind 推出的 AI 营销设计助手，分析网站生成品牌档案，产出符合调性的社媒与广告素材，适合无设计团队的商家。 · [官网](https://labs.google.com/pomelli/about/)
 - **[Postwise](https://topxai.cn/ai/postwise)** — Postwise 的官方 slogan 是「几秒内把想法变成爆款帖子」。它主要面向 Twitter/X、LinkedIn 与 Threads 三个平台：输入一个想法，AI 生成多条候选帖子，再批量排期发布。 · [官网](https://postwise.ai/)
 - **[Predis.ai](https://topxai.cn/ai/predis-ai)** — Predis.ai 面向成长型团队的 AI 广告生成器，从文字、商品链接或图片生成视频、UGC 与图片广告，并给创意打分。 · [官网](https://predis.ai/)
+- **[奇觅](https://topxai.cn/ai/qimi-ai)** — 美图推出的游戏广告AI制作与投放一体化平台，上传游戏录屏与音乐即可AI一键成片批量混剪，并支持多平台批量投放，用真实投放数据反哺素材创意优化。 · [官网](https://qimi.com/)
 - **[Qualified](https://topxai.cn/ai/qualified)** — Qualified 用名为 Piper 的 AI 销售开发代表自动触达入站线索，在网站与邮箱里接待访客、捕获商机并预约会议，放大 B2B 转化。 · [官网](https://www.qualified.com/)
+- **[QuickCreator](https://topxai.cn/ai/quickcreator)** — 定位为您的AI营销团队的智能体营销平台，六个专业AI Agent协同，从选题策略、市场研究、内容创作、SEO优化到品牌管理与分发全链路自动化。 · [官网](https://quickcreator.cn/)
 - **[兔展智能](https://topxai.cn/ai/rabbitpre)** — 兔展智能自研视觉空间智能大模型矩阵，推出 RabbitVis 设计工具、RabbitMarketing OS 营销智能体与 SkillsUI 智能交互底座。 · [官网](https://www.rabbitpre.com/)
 - **[Ribbi](https://topxai.cn/ai/ribbi)** — Somasole 旗下的社媒创意 AI，官网称实时追踪社媒上升趋势、拆解爆款 hook 并改写成品牌内容，提供 Genmoji、产品广告片、OOTD Reel 等技能。 · [官网](https://ribbi.ai)
+- **[Scalenut](https://topxai.cn/ai/scalenut)** — Scalenut 是 AI 驱动的 GEO 与内容营销平台，由资深策略师带队，多个 AI Agent 并行完成策略、创作、AI 可见性与发布工作，也可按需改为纯自助使用软件。 · [官网](https://www.scalenut.com/)
 - **[SheepGeo](https://topxai.cn/ai/sheepgeo)** — 生成式引擎优化分析平台，官网称基于 SHEEP 五维框架检测品牌在豆包、千问、DeepSeek 等 9 个 AI 模型中的可见性，并给出 GEM 综合评分与优化建议。 · [官网](https://sheepgeo.com)
+- **[生意管家](https://topxai.cn/ai/shengyi-guanjia)** — 淘宝官方推出的商家AI经营工具，覆盖素材生成、文案创作、竞争分析与经营代理等场景，帮助淘宝天猫商家降低拍摄与运营成本，把经营经验沉淀为可复用的AI能力。 · [官网](https://quick.taobao.com/)
 - **[Smartly.io](https://topxai.cn/ai/smartly)** — Smartly.io 面向品牌与代理公司的 AI 广告平台，覆盖创意生产、跨渠道投放与效果洞察，把媒体与创意整合到统一工作流。 · [官网](https://www.smartly.io/)
 - **[Surfer SEO](https://topxai.cn/ai/surferseo)** — Surfer SEO 是内容优化与 SEO 平台，整合关键词研究、内容编辑与排名追踪，并覆盖 Google 与 ChatGPT 等 AI 引擎可见度。 · [官网](https://surferseo.com/)
 - **[Sybill](https://topxai.cn/ai/sybill)** — Sybill 是面向营收团队的 AI 销售助手，先沉淀顶尖销售的成交打法，再帮全队执行会谈准备、跟进邮件与 CRM 更新，减少本可赢下的丢单。 · [官网](https://www.sybill.ai/)
+- **[Toffu AI](https://topxai.cn/ai/toffu-ai)** — Toffu AI 是营销团队的 AI teammate 与自动化平台，连接 Google Ads 等账户，用实时数据跑审计并交付报告，适合投放与增长分析团队。 · [官网](https://toffu.ai/)
 - **[微播易](https://topxai.cn/ai/weiboyi)** — 微播易是一站式社媒投放平台，依托社交大数据与 AI 技术提供投前舆情分析、投中跨平台 KOL 采购与原生内容营销、投后分析与优化。 · [官网](https://www.weiboyi.com/)
 - **[微盟WAI](https://topxai.cn/ai/weimob-wai)** — 微盟的 AI 原生产品矩阵，包含星启 GEO、星拓 AI 拓客、星枢全域运营、星元私域管家与星创创意引擎，覆盖获客到提效经营场景。 · [官网](https://www.weimob.com/)
+- **[因赛AI](https://topxai.cn/ai/yinsai-ai)** — 面向品牌营销、效果营销与电商营销的AI创意平台，一键生成AI电商图、AI模特图、营销策划案、种草文案、短视频脚本与营销视频，让创意产出不再受产能限制。 · [官网](https://www.insight-aigc.com/index)
 - **[易撰](https://topxai.cn/ai/yizhuan)** — 易撰面向内容创作者与新媒体运营团队，从多平台公开内容中发现创作灵感、追踪对标账号，并用 AI 把参考素材打磨成自己的表达，面向自媒体与内容运营团队。 · [官网](https://www.yizhuan5.com/)
 - **[有赞AI](https://topxai.cn/ai/youzan-ai)** — 有赞提供智能化客户运营与社交电商工具，推出 AI 数字员工与 AGI 获客能力，让商品在浏览、搜索与 AI 对话中被推荐给消费者，面向零售商家私域经营场景。 · [官网](https://www.youzan.com/)
+- **[Zeely](https://topxai.cn/ai/zeely)** — Zeely 是 AI 广告创意平台，粘贴商品链接即可批量生成静态广告、UGC 风格视频与数字人口播广告，自动配好文案与 CTA，适合电商卖家与效果营销团队。 · [官网](https://zeely.ai/)
 
 ## 医疗与健康
 
@@ -978,19 +1006,19 @@
 5. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
 6. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
 7. **[Perplexity](https://topxai.cn/ai/perplexity)** — 研究与数据分析
-8. **[Microsoft Copilot](https://topxai.cn/ai/microsoft-copilot)** — 办公与生产力
-9. **[Suno](https://topxai.cn/ai/suno)** — 音乐与音频
-10. **[飞书妙计](https://topxai.cn/ai/feishu-miaoji)** — 企业管理
-11. **[Remove.bg](https://topxai.cn/ai/remove-bg)** — 艺术与创意设计
-12. **[Amazon Q](https://topxai.cn/ai/amazon-q)** — 代码编程与辅助
-13. **[Kimi](https://topxai.cn/ai/kimi)** — ChatBot 与虚拟伴侣
-14. **[Grammarly](https://topxai.cn/ai/grammarly)** — 文本生成与编辑
-15. **[CapCut](https://topxai.cn/ai/capcut)** — 视频与动画
+8. **[Suno](https://topxai.cn/ai/suno)** — 音乐与音频
+9. **[飞书妙计](https://topxai.cn/ai/feishu-miaoji)** — 企业管理
+10. **[Microsoft Copilot](https://topxai.cn/ai/microsoft-copilot)** — 办公与生产力
+11. **[Amazon Q](https://topxai.cn/ai/amazon-q)** — 代码编程与辅助
+12. **[Grammarly](https://topxai.cn/ai/grammarly)** — 文本生成与编辑
+13. **[Remove.bg](https://topxai.cn/ai/remove-bg)** — 艺术与创意设计
+14. **[CapCut](https://topxai.cn/ai/capcut)** — 视频与动画
+15. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — 视频与动画
 16. **[monday.com](https://topxai.cn/ai/monday)** — 办公与生产力
-17. **[ClickUp](https://topxai.cn/ai/clickup)** — 办公与生产力
-18. **[Lovable](https://topxai.cn/ai/lovable)** — 代码编程与辅助
-19. **[Higgsfield](https://topxai.cn/ai/higgsfield)** — 视频与动画
-20. **[QuillBot](https://topxai.cn/ai/quillbot)** — 文本生成与编辑
+17. **[QuillBot](https://topxai.cn/ai/quillbot)** — 文本生成与编辑
+18. **[ClickUp](https://topxai.cn/ai/clickup)** — 办公与生产力
+19. **[Hugging Face](https://topxai.cn/ai/hugging-face)** — 研究与数据分析
+20. **[Reverso](https://topxai.cn/ai/reverso)** — 学习辅助与翻译
 
 ## 关于本仓库
 
