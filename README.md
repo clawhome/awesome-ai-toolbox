@@ -991,7 +991,7 @@
 - **[NoCode](https://topxai.cn/ai/nocode)** — 美团系的零代码应用生成平台，官方称无需编程经验，用自然语言对话即可生成应用与网站，内置数据存储、身份认证与文件存储能力，并支持版本回退与发布审批。 · [官网](https://nocode.cn/)
 - **[Octopus.do](https://topxai.cn/ai/octopus-do)** — Octopus.do 是免费的视觉站点地图与网站规划工具，官方称提供带 lo-fi 线框的站点地图，用于快速规划网站架构，并支持 AI 代理建图与导出。 · [官网](https://octopus.do/)
 - **[Ollama](https://topxai.cn/ai/ollama)** — 开源大模型的本地运行时，一键拉起模型、提示词不出本机，也能走云端。适合在本地跑模型、介意数据外传的开发者，桌面三平台都能装。 · [官网](https://ollama.com/)
-- **[OpenAI Codex](https://topxai.cn/ai/openai-codex)** — OpenAI 面向代码场景的能力与开发文档入口，开发者可从这里创建 API Key、安装 SDK 跑通首次调用，并了解智能体构建与多模态模型选型。 · [官网](https://platform.openai.com/docs/guides/code/)
+- **[OpenAI Codex](https://topxai.cn/ai/openai-codex)** — OpenAI 的编码智能体，可在 ChatGPT、IDE、终端 CLI 与云端任务里读写代码、跑命令、审查 PR；支持订阅或 API Key 两种登录与计费方式。 · [官网](https://chatgpt.com/codex)
 - **[OpenCode](https://topxai.cn/ai/opencode)** — OpenCode 是开源 AI 编程代理，可在终端、IDE 与桌面端写代码，支持 LSP、多会话并行与 75+ 模型，隐私优先不存储代码。 · [官网](https://opencode.ai/)
 - **[OpenHands](https://topxai.cn/ai/openhands)** — OpenHands 是开源的云端编码智能体平台，模型无关，能把工程请求自动变成可上线改动，并接入 Slack、GitHub、Jira 处理评审、分诊与安全扫描。 · [官网](https://www.openhands.dev/)
 - **[OpenRouter](https://topxai.cn/ai/openrouter)** — 把各家模型收拢到同一接口的聚合网关，文本、图片、视频、音频走一条通道，按 token 计费、接口兼容主流写法。适合想在多家模型之间切换比价的团队。 · [官网](https://openrouter.ai/)
@@ -1675,26 +1675,26 @@
 
 <sub>按站点月访问量排序，每月自动更新。</sub>
 
-1. **[Google Gemini](https://topxai.cn/ai/gemini)** — ChatBot 与虚拟伴侣
-2. **[Gemini CLI](https://topxai.cn/ai/gemini-cli)** — 代码编程与辅助
-3. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — 代码编程与辅助
-4. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — 图像生成与编辑
-5. **[DeepSeek 深度求索](https://topxai.cn/ai/deepseek)** — ChatBot 与虚拟伴侣
-6. **[Grok](https://topxai.cn/ai/grok)** — ChatBot 与虚拟伴侣
-7. **[Notion AI](https://topxai.cn/ai/notion-ai)** — 文本生成与编辑
-8. **[豆包](https://topxai.cn/ai/doubao)** — ChatBot 与虚拟伴侣
-9. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
-10. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
-11. **[Claude Code](https://topxai.cn/ai/claude-code)** — 代码编程与辅助
-12. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
-13. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 代码编程与辅助
-14. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
-15. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
-16. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
-17. **[Magnific](https://topxai.cn/ai/magnific)** — 图像生成与编辑
-18. **[FigJam](https://topxai.cn/ai/figjam)** — 
-19. **[Suno](https://topxai.cn/ai/suno)** — 音乐与音频
-20. **[夸克](https://topxai.cn/ai/quark)** — 其他
+1. **[OpenAI Codex](https://topxai.cn/ai/openai-codex)** — 代码编程与辅助
+2. **[Google Gemini](https://topxai.cn/ai/gemini)** — ChatBot 与虚拟伴侣
+3. **[Gemini CLI](https://topxai.cn/ai/gemini-cli)** — 代码编程与辅助
+4. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — 代码编程与辅助
+5. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — 图像生成与编辑
+6. **[DeepSeek 深度求索](https://topxai.cn/ai/deepseek)** — ChatBot 与虚拟伴侣
+7. **[Grok](https://topxai.cn/ai/grok)** — ChatBot 与虚拟伴侣
+8. **[Notion AI](https://topxai.cn/ai/notion-ai)** — 文本生成与编辑
+9. **[豆包](https://topxai.cn/ai/doubao)** — ChatBot 与虚拟伴侣
+10. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
+11. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
+12. **[Claude Code](https://topxai.cn/ai/claude-code)** — 代码编程与辅助
+13. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
+14. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 代码编程与辅助
+15. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
+16. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
+17. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+18. **[Magnific](https://topxai.cn/ai/magnific)** — 图像生成与编辑
+19. **[FigJam](https://topxai.cn/ai/figjam)** — 
+20. **[Suno](https://topxai.cn/ai/suno)** — 音乐与音频
 
 ## 关于本仓库
 

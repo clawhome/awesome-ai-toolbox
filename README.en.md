@@ -991,7 +991,7 @@
 - **[NoCode](https://topxai.cn/ai/nocode)** — 美团系的零代码应用生成平台，官方称无需编程经验，用自然语言对话即可生成应用与网站，内置数据存储、身份认证与文件存储能力，并支持版本回退与发布审批。 · [website](https://nocode.cn/)
 - **[Octopus.do](https://topxai.cn/ai/octopus-do)** — Octopus.do 是免费的视觉站点地图与网站规划工具，官方称提供带 lo-fi 线框的站点地图，用于快速规划网站架构，并支持 AI 代理建图与导出。 · [website](https://octopus.do/)
 - **[Ollama](https://topxai.cn/ai/ollama)** — 开源大模型的本地运行时，一键拉起模型、提示词不出本机，也能走云端。适合在本地跑模型、介意数据外传的开发者，桌面三平台都能装。 · [website](https://ollama.com/)
-- **[OpenAI Codex](https://topxai.cn/ai/openai-codex)** — OpenAI's entry point for coding work and developer documentation: create API keys, install SDKs and make a first call, and learn about building agents and choosing multimodal models. · [website](https://platform.openai.com/docs/guides/code/)
+- **[OpenAI Codex](https://topxai.cn/ai/openai-codex)** — OpenAI's entry point for coding work and developer documentation: create API keys, install SDKs and make a first call, and learn about building agents and choosing multimodal models. · [website](https://chatgpt.com/codex)
 - **[OpenCode](https://topxai.cn/ai/opencode)** — Open-source AI coding agent that works in the terminal, IDE and desktop, supporting LSP, parallel sessions and 75+ models, and storing no code for privacy. · [website](https://opencode.ai/)
 - **[OpenHands](https://topxai.cn/ai/openhands)** — OpenHands 是开源的云端编码智能体平台，模型无关，能把工程请求自动变成可上线改动，并接入 Slack、GitHub、Jira 处理评审、分诊与安全扫描。 · [website](https://www.openhands.dev/)
 - **[OpenRouter](https://topxai.cn/ai/openrouter)** — 把各家模型收拢到同一接口的聚合网关，文本、图片、视频、音频走一条通道，按 token 计费、接口兼容主流写法。适合想在多家模型之间切换比价的团队。 · [website](https://openrouter.ai/)
@@ -1675,26 +1675,26 @@
 
 <sub>Ranked by monthly site visits, refreshed every month.</sub>
 
-1. **[Google Gemini](https://topxai.cn/ai/gemini)** — Chatbots & Companions
-2. **[Gemini CLI](https://topxai.cn/ai/gemini-cli)** — Coding Assistants
-3. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — Coding Assistants
-4. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — Image Generation & Editing
-5. **[DeepSeek](https://topxai.cn/ai/deepseek)** — Chatbots & Companions
-6. **[Grok](https://topxai.cn/ai/grok)** — Chatbots & Companions
-7. **[Notion AI](https://topxai.cn/ai/notion-ai)** — Text Generation & Editing
-8. **[Doubao](https://topxai.cn/ai/doubao)** — Chatbots & Companions
-9. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
-10. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
-11. **[Claude Code](https://topxai.cn/ai/claude-code)** — Coding Assistants
-12. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
-13. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — Coding Assistants
-14. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
-15. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
-16. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
-17. **[Magnific](https://topxai.cn/ai/magnific)** — Image Generation & Editing
-18. **[FigJam](https://topxai.cn/ai/figjam)** — 
-19. **[Suno](https://topxai.cn/ai/suno)** — Music & Audio
-20. **[夸克](https://topxai.cn/ai/quark)** — Other
+1. **[OpenAI Codex](https://topxai.cn/ai/openai-codex)** — Coding Assistants
+2. **[Google Gemini](https://topxai.cn/ai/gemini)** — Chatbots & Companions
+3. **[Gemini CLI](https://topxai.cn/ai/gemini-cli)** — Coding Assistants
+4. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — Coding Assistants
+5. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — Image Generation & Editing
+6. **[DeepSeek](https://topxai.cn/ai/deepseek)** — Chatbots & Companions
+7. **[Grok](https://topxai.cn/ai/grok)** — Chatbots & Companions
+8. **[Notion AI](https://topxai.cn/ai/notion-ai)** — Text Generation & Editing
+9. **[Doubao](https://topxai.cn/ai/doubao)** — Chatbots & Companions
+10. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
+11. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
+12. **[Claude Code](https://topxai.cn/ai/claude-code)** — Coding Assistants
+13. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
+14. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — Coding Assistants
+15. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
+16. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
+17. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+18. **[Magnific](https://topxai.cn/ai/magnific)** — Image Generation & Editing
+19. **[FigJam](https://topxai.cn/ai/figjam)** — 
+20. **[Suno](https://topxai.cn/ai/suno)** — Music & Audio
 
 ## About
 

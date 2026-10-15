@@ -12962,17 +12962,17 @@
    "en": "OpenAI Codex"
   },
   "desc": {
-   "zh": "OpenAI 面向代码场景的能力与开发文档入口，开发者可从这里创建 API Key、安装 SDK 跑通首次调用，并了解智能体构建与多模态模型选型。",
+   "zh": "OpenAI 的编码智能体，可在 ChatGPT、IDE、终端 CLI 与云端任务里读写代码、跑命令、审查 PR；支持订阅或 API Key 两种登录与计费方式。",
    "en": "OpenAI's entry point for coding work and developer documentation: create API keys, install SDKs and make a first call, and learn about building agents and choosing multimodal models."
   },
   "category": "code",
-  "url": "https://platform.openai.com/docs/guides/code/",
+  "url": "https://chatgpt.com/codex",
   "tags": [
-   "编程",
-   "OpenAI",
-   "API"
+   "编码智能体",
+   "终端CLI",
+   "代码审查"
   ],
-  "visits": 19566829
+  "visits": 5920597264
  },
  {
   "slug": "opencode",
