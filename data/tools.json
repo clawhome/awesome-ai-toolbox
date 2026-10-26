@@ -114,6 +114,25 @@
   "visits": 393414
  },
  {
+  "slug": "aibiye",
+  "name": {
+   "zh": "Aibiye",
+   "en": "Aibiye"
+  },
+  "desc": {
+   "zh": "面向中文毕业论文与期刊投稿的 AI 写作平台，覆盖开题报告、文献综述、论文降重、降 AIGC 率、AIGC 检测与答辩 PPT，官方称基于国外大模型端口。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.aibiye.com",
+  "tags": [
+   "论文写作",
+   "开题报告",
+   "降AIGC"
+  ],
+  "visits": 2902
+ },
+ {
   "slug": "aidungeon",
   "name": {
    "zh": "AI Dungeon",
@@ -321,6 +340,25 @@
    "写作素材库"
   ],
   "visits": 63385
+ },
+ {
+  "slug": "chatartpro",
+  "name": {
+   "zh": "ChatArt Pro",
+   "en": "ChatArt Pro"
+  },
+  "desc": {
+   "zh": "面向创作者与营销团队的一站式 AI 创作平台，官方称在同一工作区提供视频、图像、音乐与文案生成，接入多个主流视频模型，并配有营销与小说工作流。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.chatartpro.com",
+  "tags": [
+   "AI视频",
+   "营销素材",
+   "一站式创作"
+  ],
+  "visits": 245781
  },
  {
   "slug": "check51",
@@ -532,6 +570,44 @@
   "visits": 9105
  },
  {
+  "slug": "cowriter",
+  "name": {
+   "zh": "CoWriter AI",
+   "en": "CoWriter AI"
+  },
+  "desc": {
+   "zh": "面向学生的 AI 学术写作助手，把研究、引用与编辑放在同一份文档里，可按 APA、MLA、Harvard 等格式生成引用，并提供查重与 AI 检测自查。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://cowriter.ai/zh",
+  "tags": [
+   "学术写作",
+   "引用生成",
+   "论文降重"
+  ],
+  "visits": 13326
+ },
+ {
+  "slug": "cramly",
+  "name": {
+   "zh": "Cramly",
+   "en": "Cramly"
+  },
+  "desc": {
+   "zh": "面向学生的 AI 写作工具箱，官方称能生成带真实引用、超过五页的长篇论文，另配大纲、释义、摘要、句子延长与求职信生成等工具，官网标注已有超百万学生使用。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.cramly.ai",
+  "tags": [
+   "长篇论文",
+   "论文大纲",
+   "求职信"
+  ],
+  "visits": 6638
+ },
+ {
   "slug": "danqingmiaobi",
   "name": {
    "zh": "丹青妙笔",
@@ -606,6 +682,44 @@
    "修订"
   ],
   "visits": 198079
+ },
+ {
+  "slug": "eduwriter",
+  "name": {
+   "zh": "EduWriter.ai",
+   "en": "EduWriter.ai"
+  },
+  "desc": {
+   "zh": "面向学生的 AI 论文写作工具，输入题目、文章类型与页数即可生成带引用的 APA 格式草稿，另提供改写、查重、AI 检测与论文评分等辅助工具，官方称无需注册即可试用。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://eduwriter.ai",
+  "tags": [
+   "论文写作",
+   "APA引用",
+   "学术查重"
+  ],
+  "visits": 40600
+ },
+ {
+  "slug": "effie",
+  "name": {
+   "zh": "Effie",
+   "en": "Effie"
+  },
+  "desc": {
+   "zh": "把写作、大纲、思维导图与 AI 助手合进一个窗口的写作软件，文字与大纲可混排、一键转导图，支持离线记录与多格式导出，官方称专注无干扰创作。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.effie.co",
+  "tags": [
+   "大纲写作",
+   "思维导图",
+   "沉浸写作"
+  ],
+  "visits": 4074
  },
  {
   "slug": "essayflow",
@@ -720,6 +834,44 @@
    "GEO"
   ],
   "visits": 126949
+ },
+ {
+  "slug": "freeessaywriter",
+  "name": {
+   "zh": "FreeEssayWriter.ai",
+   "en": "FreeEssayWriter.ai"
+  },
+  "desc": {
+   "zh": "免注册的在线 AI 论文写作工具，把写作拆成正文生成、提纲、摘要与引用四个小工具，可选字数、学历与十余种引用格式，官方称 90 秒内出稿。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.freeessaywriter.ai",
+  "tags": [
+   "论文生成",
+   "免注册",
+   "引用格式"
+  ],
+  "visits": 6029
+ },
+ {
+  "slug": "getconch",
+  "name": {
+   "zh": "Conch AI",
+   "en": "Conch AI"
+  },
+  "desc": {
+   "zh": "面向学生的 AI 写作与学习工具，主打把 AI 文本改写得更像人写，并提供论文起草、AI 内容检测、笔记、闪卡、思维导图与播客生成，官方称支持多语言与手机端使用。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.getconch.ai",
+  "tags": [
+   "AI改写",
+   "学习卡片",
+   "论文辅助"
+  ],
+  "visits": 27165
  },
  {
   "slug": "glarity-summary",
@@ -967,6 +1119,25 @@
    "机器评分"
   ],
   "visits": 3144
+ },
+ {
+  "slug": "jounce",
+  "name": {
+   "zh": "Jounce",
+   "en": "Jounce"
+  },
+  "desc": {
+   "zh": "面向营销团队的一体化 AI 工作室，可从一个提示词生成广告、邮件、落地页与博客文案，并按品牌色板配图，内置 70 多个营销模板与对话助手。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.jounce.ai",
+  "tags": [
+   "营销文案",
+   "品牌配图",
+   "营销模板"
+  ],
+  "visits": 2082
  },
  {
   "slug": "jucloud",
@@ -1235,6 +1406,25 @@
   "visits": 1399
  },
  {
+  "slug": "muset",
+  "name": {
+   "zh": "Muset AI",
+   "en": "Muset AI"
+  },
+  "desc": {
+   "zh": "官方定位为创意引擎的 AI 创作平台，首页以社区作品展示新闻特稿、MV、小红书图文、广告与分镜脚本等产出，提供 Start Creating 与 Research 两个入口。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://muset.ai/website",
+  "tags": [
+   "创意引擎",
+   "分镜脚本",
+   "社区作品"
+  ],
+  "visits": 3503
+ },
+ {
   "slug": "mxxz-ai",
   "name": {
    "zh": "墨星写作网",
@@ -1366,6 +1556,25 @@
    "营销"
   ],
   "visits": 103100
+ },
+ {
+  "slug": "notegen",
+  "name": {
+   "zh": "NoteGen",
+   "en": "NoteGen"
+  },
+  "desc": {
+   "zh": "开源、本地优先的 Markdown 笔记应用，先把文字、录音、截图与链接存成记录，再用 AI 整理成结构化笔记，支持画布、知识库检索与多种自建同步。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://notegen.top/",
+  "tags": [
+   "本地优先",
+   "Markdown",
+   "开源笔记"
+  ],
+  "visits": 5716
  },
  {
   "slug": "notion-ai",
@@ -1634,6 +1843,44 @@
   "visits": 35805668
  },
  {
+  "slug": "redink",
+  "name": {
+   "zh": "红墨RedInk",
+   "en": "红墨RedInk"
+  },
+  "desc": {
+   "zh": "面向小红书创作者的 AI 图文生成工具，输入一个主题即可自动产出笔记大纲、标题正文与整套 3:4 封面配图，官方称单套图文平均 90 秒生成，支持网页端直接下载发布。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://redink.top",
+  "tags": [
+   "小红书图文",
+   "封面配图",
+   "爆款文案"
+  ],
+  "visits": 1852
+ },
+ {
+  "slug": "remagineai",
+  "name": {
+   "zh": "Remagine AI",
+   "en": "Remagine AI"
+  },
+  "desc": {
+   "zh": "面向营销与内容团队的 AI 写作平台，官方称内置 200 多个模板，可一键生成 5000 字以上、可直接发布的博客，并提供选题、大纲、引用与元数据，注册无需信用卡。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://remagineai.com",
+  "tags": [
+   "长文博客",
+   "营销文案",
+   "模板库"
+  ],
+  "visits": 6366
+ },
+ {
   "slug": "researchpal",
   "name": {
    "zh": "ResearchPal",
@@ -1786,6 +2033,25 @@
   "visits": 78609
  },
  {
+  "slug": "seo-ai",
+  "name": {
+   "zh": "SEO.ai",
+   "en": "SEO.ai"
+  },
+  "desc": {
+   "zh": "哥本哈根团队开发的 AI SEO 智能体，官方称可自动规划、撰写并向网站发布 SEO 文章与页面，自动建立相关外链，支持 50 多种语言。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://seo.ai",
+  "tags": [
+   "SEO智能体",
+   "内容自动发布",
+   "外链建设"
+  ],
+  "visits": 157053
+ },
+ {
   "slug": "shenyan-dayi",
   "name": {
    "zh": "深言达意",
@@ -1824,6 +2090,25 @@
   "visits": 0
  },
  {
+  "slug": "smartli",
+  "name": {
+   "zh": "Smartli",
+   "en": "Smartli"
+  },
+  "desc": {
+   "zh": "面向电商与独立站卖家的 AI 内容工具箱，可批量生成产品描述、博客与广告文案，并提供去水印、抠图、图片增强等图像工具，官方称已服务超过 50 万创业者。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.smartli.ai",
+  "tags": [
+   "产品描述",
+   "电商文案",
+   "抠图去水印"
+  ],
+  "visits": 17734
+ },
+ {
   "slug": "squibler",
   "name": {
    "zh": "Squibler",
@@ -1860,6 +2145,25 @@
    "英文写作"
   ],
   "visits": 2499353
+ },
+ {
+  "slug": "storyai",
+  "name": {
+   "zh": "Story AI",
+   "en": "Story AI"
+  },
+  "desc": {
+   "zh": "把文字冒险做成可点选的 AI 视频故事，每个选择触发一段 5 秒电影感转场，官方称每个故事世界可免费玩 4 轮，付费解锁第 5 轮终章与自定义世界。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://storyai.cc",
+  "tags": [
+   "互动叙事",
+   "分支剧情",
+   "AI 视频"
+  ],
+  "visits": 8275
  },
  {
   "slug": "storypie",
@@ -2031,6 +2335,25 @@
    "文本生成"
   ],
   "visits": 778396
+ },
+ {
+  "slug": "trinka",
+  "name": {
+   "zh": "Trinka",
+   "en": "Trinka"
+  },
+  "desc": {
+   "zh": "面向学术与技术写作的 AI 语法检查与润色工具，提供改写、AI 检测、查重与引文工具，官方称另有面向敏感数据的保密方案和机构学术诚信方案。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://www.trinka.ai",
+  "tags": [
+   "论文润色",
+   "语法检查",
+   "AI检测"
+  ],
+  "visits": 252553
  },
  {
   "slug": "type-ai",
@@ -2221,6 +2544,25 @@
    "跨语言"
   ],
   "visits": 114030
+ },
+ {
+  "slug": "writerzen",
+  "name": {
+   "zh": "WriterZen",
+   "en": "WriterZen"
+  },
+  "desc": {
+   "zh": "面向 SEO 与内容团队的一体化内容工作流软件，把选题发现、关键词研究、内容规划、写作与查重串在一条流程里，官方称提供 15 天免费试用且无需信用卡。",
+   "en": ""
+  },
+  "category": "text",
+  "url": "https://writerzen.net",
+  "tags": [
+   "关键词研究",
+   "内容工作流",
+   "团队协作"
+  ],
+  "visits": 18295
  },
  {
   "slug": "writeseed",
@@ -3116,6 +3458,25 @@
   "visits": 10264
  },
  {
+  "slug": "bing-image-creator",
+  "name": {
+   "zh": "Bing Image Creator",
+   "en": "Bing Image Creator"
+  },
+  "desc": {
+   "zh": "微软推出的免费 AI 图像生成工具，用自然语言描述即可出图，支持风格选择、上传参考照片与画幅比例，官方称每天提供 15 次快速生成。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.bing.com/images/create",
+  "tags": [
+   "免费文生图",
+   "微软必应",
+   "提示词绘图"
+  ],
+  "visits": 3562472766
+ },
+ {
   "slug": "biorender",
   "name": {
    "zh": "Biorender",
@@ -3477,6 +3838,25 @@
   "visits": 40826
  },
  {
+  "slug": "creen",
+  "name": {
+   "zh": "Creen AI",
+   "en": "Creen AI"
+  },
+  "desc": {
+   "zh": "浏览器端的多模型 AI 生成工作室，可在一个工作区里生成图片与视频，官方称内置 40 多个模型，部分模型提供每日免费额度且无需注册。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.creen.ai",
+  "tags": [
+   "多模型生成",
+   "文生视频",
+   "免登录"
+  ],
+  "visits": 2005326
+ },
+ {
   "slug": "deep-dream-generator",
   "name": {
    "zh": "Deep Dream Generator",
@@ -3686,6 +4066,25 @@
   "visits": 866140
  },
  {
+  "slug": "everart",
+  "name": {
+   "zh": "EverArt",
+   "en": "EverArt"
+  },
+  "desc": {
+   "zh": "面向品牌与设计团队的 AI 图像平台，官方称可用产品图或风格图训练专属模型，再批量生成与编辑素材，支持团队共享模型，按积分订阅。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.everart.ai",
+  "tags": [
+   "品牌模型训练",
+   "商品图",
+   "团队协作"
+  ],
+  "visits": 2874
+ },
+ {
   "slug": "evoto-ai",
   "name": {
    "zh": "Evoto AI",
@@ -3836,6 +4235,25 @@
    "图像提示"
   ],
   "visits": 172023
+ },
+ {
+  "slug": "fotographer",
+  "name": {
+   "zh": "Fotographer.ai",
+   "en": "Fotographer.ai"
+  },
+  "desc": {
+   "zh": "面向电商与品牌的产品图 AI 平台，官方称 ZenInpaint 在保留产品原始像素的前提下换背景、拼多品与生成场景，并提供 API 与 Python SDK。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://fotographer.ai",
+  "tags": [
+   "产品图",
+   "电商摄影",
+   "图像 API"
+  ],
+  "visits": 9734
  },
  {
   "slug": "funy-ai",
@@ -4541,6 +4959,25 @@
   "visits": 180794
  },
  {
+  "slug": "joyfun",
+  "name": {
+   "zh": "JoyFun AI",
+   "en": "JoyFun AI"
+  },
+  "desc": {
+   "zh": "免费在线 AI 视频创作工具，支持照片与视频换脸、图生视频、文生视频和多种一键特效，官方称无需注册、无水印，视频最长 10 秒、最高 1080p。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://joyfun.ai",
+  "tags": [
+   "AI换脸",
+   "图生视频",
+   "免费视频"
+  ],
+  "visits": 1280462
+ },
+ {
   "slug": "jpghd",
   "name": {
    "zh": "jpgHD",
@@ -4596,6 +5033,25 @@
    "写真生成"
   ],
   "visits": 6156
+ },
+ {
+  "slug": "kanwang",
+  "name": {
+   "zh": "看往AI",
+   "en": "看往AI"
+  },
+  "desc": {
+   "zh": "面向跨境出海的 AI 图像与视频工具，覆盖商品场景图、虚拟试衣、多语言图片翻译、视频去字幕与合规标签制作，官方称可批量生成电商主图与多国说明书。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://32cd.com",
+  "tags": [
+   "跨境电商",
+   "商品图",
+   "视频翻译"
+  ],
+  "visits": 1740
  },
  {
   "slug": "katu-ai",
@@ -4959,6 +5415,25 @@
   "visits": 44876
  },
  {
+  "slug": "maxstudio",
+  "name": {
+   "zh": "Max Studio",
+   "en": "Max Studio"
+  },
+  "desc": {
+   "zh": "集图像、视频与配音于一体的在线创作平台，官方称内置 100 多款 AI 工具、150 多种影棚级效果，支持文生图、图生视频与视频风格迁移。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.maxstudio.ai",
+  "tags": [
+   "AI 视频",
+   "图片特效",
+   "文生图"
+  ],
+  "visits": 53452
+ },
+ {
   "slug": "media-io",
   "name": {
    "zh": "Media.io",
@@ -5014,6 +5489,25 @@
    "3D打印"
   ],
   "visits": 19985672
+ },
+ {
+  "slug": "mewx",
+  "name": {
+   "zh": "MewX AI",
+   "en": "MewX AI"
+  },
+  "desc": {
+   "zh": "面向绘画爱好者的 AI 创作平台，聚合文生图、AI 漫改、艺术字与头像壁纸等玩法，内置古风、手绘、3D、绘本等多种风格模型与作品画廊，网页端即可生成并保存作品。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.mewx.art",
+  "tags": [
+   "AI绘画",
+   "风格模型",
+   "头像壁纸"
+  ],
+  "visits": 3592
  },
  {
   "slug": "miaohua-ai",
@@ -5147,6 +5641,25 @@
    "图生视频"
   ],
   "visits": 480726
+ },
+ {
+  "slug": "nieta",
+  "name": {
+   "zh": "捏Ta",
+   "en": "捏Ta"
+  },
+  "desc": {
+   "zh": "看见概念推出的 AI 角色创作社区，围绕喜爱角色生成剧情故事与互动内容，官方称以生成式内容引擎处理数据、效果、版权与商业利用问题，并公开召集模型训练师共创。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://nieta.art",
+  "tags": [
+   "角色故事",
+   "同人创作",
+   "互动内容"
+  ],
+  "visits": 3420
  },
  {
   "slug": "nightcafe",
@@ -5757,6 +6270,25 @@
   "visits": 258036
  },
  {
+  "slug": "polymet",
+  "name": {
+   "zh": "Polymet",
+   "en": "Polymet"
+  },
+  "desc": {
+   "zh": "面向产品团队的 AI 产品设计师，用一句话描述或一张参考图即可生成界面与可上线的前端代码，官方称支持接入自有设计系统、Figma 导入导出与可视化改稿。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.polymet.ai",
+  "tags": [
+   "产品设计",
+   "前端代码",
+   "设计系统"
+  ],
+  "visits": 2426
+ },
+ {
   "slug": "pxbee",
   "name": {
    "zh": "PxBee",
@@ -5831,6 +6363,44 @@
    "设计素材"
   ],
   "visits": 1477762
+ },
+ {
+  "slug": "reface",
+  "name": {
+   "zh": "Reface",
+   "en": "Reface"
+  },
+  "desc": {
+   "zh": "Reface 是一家做 AI 原生移动应用的公司，旗舰产品同名，官方称主打换脸与 AI 形象生成，旗下应用累计下载超 3 亿次，另有 Revive、Restyle 等多款产品。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://reface.ai",
+  "tags": [
+   "换脸",
+   "AI 头像",
+   "移动应用"
+  ],
+  "visits": 301099
+ },
+ {
+  "slug": "remaker",
+  "name": {
+   "zh": "Remaker AI",
+   "en": "Remaker AI"
+  },
+  "desc": {
+   "zh": "以图片编辑为核心的 AI 创作平台，提供图片放大、去背景、魔法消除、局部改图与人像生成等工具，官方称按积分一次性付费、积分不过期。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://remaker.ai",
+  "tags": [
+   "图片编辑",
+   "去背景",
+   "AI修图"
+  ],
+  "visits": 2545910
  },
  {
   "slug": "remini",
@@ -6156,6 +6726,25 @@
   "visits": 1070795
  },
  {
+  "slug": "spellbrush",
+  "name": {
+   "zh": "Spellbrush",
+   "en": "Spellbrush"
+  },
+  "desc": {
+   "zh": "Spellbrush 是一家专做动漫图像的 AI 工作室，官方称旗下产品可绘制定制动漫插画与角色肖像，代表产品为与 Midjourney 合作的绘图工具和 Waifu Labs。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://spellbrush.com",
+  "tags": [
+   "动漫插画",
+   "niji·journey",
+   "角色生成"
+  ],
+  "visits": 6273
+ },
+ {
   "slug": "stable-diffusion",
   "name": {
    "zh": "Stable Diffusion",
@@ -6365,6 +6954,25 @@
   "visits": 339074
  },
  {
+  "slug": "tootoon",
+  "name": {
+   "zh": "TooToon",
+   "en": "TooToon"
+  },
+  "desc": {
+   "zh": "韩国 Onoma AI 推出的 AI 网漫创作平台，官方称可从故事梗概一路做到线稿与上色，支持训练自有角色模型，无需设计经验即可开稿。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://tootoon.ai/en",
+  "tags": [
+   "网漫制作",
+   "AI 分镜",
+   "角色模型"
+  ],
+  "visits": 3392
+ },
+ {
   "slug": "trellis-3d-ai",
   "name": {
    "zh": "TRELLIS 3D AI",
@@ -6422,6 +7030,25 @@
   "visits": 14556919
  },
  {
+  "slug": "try9",
+  "name": {
+   "zh": "try9.ai",
+   "en": "try9.ai"
+  },
+  "desc": {
+   "zh": "一款主打写实人像的在线 AI 图像生成器，官方称输入一句描述即可在数秒内出图，支持带自定义标语的举牌照片与各类活动场景，可免费加入使用。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://try9.ai",
+  "tags": [
+   "写实人像",
+   "文生图",
+   "免费出图"
+  ],
+  "visits": 4174
+ },
+ {
   "slug": "tugaigai",
   "name": {
    "zh": "图改改",
@@ -6439,6 +7066,25 @@
    "OCR识别"
   ],
   "visits": 198939
+ },
+ {
+  "slug": "tukeli",
+  "name": {
+   "zh": "图可丽",
+   "en": "图可丽"
+  },
+  "desc": {
+   "zh": "在线智能图像处理工具，提供一键抠图、视频抠图、去水印、修复增强、动漫化与证件照、电商白底图制作，官方称 3 秒自动完成，另开放 API 与桌面客户端。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.tukeli.net",
+  "tags": [
+   "一键抠图",
+   "证件照",
+   "电商白底图"
+  ],
+  "visits": 1931
  },
  {
   "slug": "tushengsheng",
@@ -6648,6 +7294,25 @@
    "AI视频"
   ],
   "visits": 90221
+ },
+ {
+  "slug": "x-design",
+  "name": {
+   "zh": "X-Design",
+   "en": "X-Design"
+  },
+  "desc": {
+   "zh": "品牌视觉工具 X-Design 现已更名 Zawa AI，可生成 Logo、海报、样机与品牌手册，官方称品牌资产存一次即可全局套用，免费起步无需信用卡。",
+   "en": ""
+  },
+  "category": "image-create",
+  "url": "https://www.x-design.com",
+  "tags": [
+   "品牌套件",
+   "Logo 设计",
+   "小商家物料"
+  ],
+  "visits": 7672
  },
  {
   "slug": "ximixiang",
@@ -6914,6 +7579,25 @@
    "API"
   ],
   "visits": 230700
+ },
+ {
+  "slug": "everypixel",
+  "name": {
+   "zh": "Everypixel",
+   "en": "Everypixel"
+  },
+  "desc": {
+   "zh": "AI 驱动的图库搜索引擎，把 50 多个图片来源的检索结果聚到一处，可按免费与付费筛选，官方称帮用户以更低价格找到可授权图片，另提供 API 与 DAM 接入。",
+   "en": ""
+  },
+  "category": "image-recog",
+  "url": "https://www.everypixel.com",
+  "tags": [
+   "图库搜索",
+   "版权图片",
+   "图片素材"
+  ],
+  "visits": 242232
  },
  {
   "slug": "face",
@@ -8947,6 +9631,25 @@
    "卡拉OK"
   ],
   "visits": 266044
+ },
+ {
+  "slug": "voxfactory",
+  "name": {
+   "zh": "VOX Factory",
+   "en": "VOX Factory"
+  },
+  "desc": {
+   "zh": "韩国 AudAi 推出的 AI 歌声合成工具，官方称可用 MIDI 与歌词生成英韩日三种语言的演唱，支持音高绘制、人声转 MIDI 与 DAW 插件同步。",
+   "en": ""
+  },
+  "category": "music",
+  "url": "https://voxfactory.app/landing",
+  "tags": [
+   "AI歌声合成",
+   "虚拟歌手",
+   "MIDI"
+  ],
+  "visits": 17881
  },
  {
   "slug": "wondera-ai",
@@ -12673,6 +13376,25 @@
   "visits": 8319240
  },
  {
+  "slug": "mockey",
+  "name": {
+   "zh": "Mockey",
+   "en": "Mockey"
+  },
+  "desc": {
+   "zh": "在线样机生成工具，官方称提供三万套以上服装、包装、设备模板，上传设计即可预览并调位置颜色，支持批量导出、视频样机与 Shopify、Figma 集成。",
+   "en": ""
+  },
+  "category": "design",
+  "url": "https://mockey.ai",
+  "tags": [
+   "样机生成",
+   "产品图",
+   "POD"
+  ],
+  "visits": 351888
+ },
+ {
   "slug": "mockingbot-ai",
   "name": {
    "zh": "墨刀 AI",
@@ -12785,6 +13507,25 @@
    "动效背景"
   ],
   "visits": 1191708
+ },
+ {
+  "slug": "myqrcode",
+  "name": {
+   "zh": "My QR Code",
+   "en": "My QR Code"
+  },
+  "desc": {
+   "zh": "保加利亚团队运营的二维码生成与营销平台，可把链接、PDF、菜单、视频做成带 logo 与配色的二维码，官方称提供扫码统计，动态码可随时改内容。",
+   "en": ""
+  },
+  "category": "design",
+  "url": "https://myqrcode.com",
+  "tags": [
+   "二维码生成",
+   "扫码统计",
+   "动态二维码"
+  ],
+  "visits": 870280
  },
  {
   "slug": "namelix",
@@ -13262,6 +14003,25 @@
   "visits": 301770
  },
  {
+  "slug": "playbook",
+  "name": {
+   "zh": "Playbook",
+   "en": "Playbook"
+  },
+  "desc": {
+   "zh": "面向创意团队的视觉素材管理平台，官方称支持按画面内容搜索、上传即打标签归档，并提供逐帧评论、审批与版本历史，可通过 MCP 接入 AI 助手。",
+   "en": ""
+  },
+  "category": "design",
+  "url": "https://playbook.com",
+  "tags": [
+   "素材管理",
+   "视觉搜索",
+   "MCP"
+  ],
+  "visits": 598826
+ },
+ {
   "slug": "qianlu",
   "name": {
    "zh": "千鹿AI",
@@ -13279,6 +14039,25 @@
    "设计协作"
   ],
   "visits": 17484
+ },
+ {
+  "slug": "qrcode-ai",
+  "name": {
+   "zh": "QR Code AI",
+   "en": "QR Code AI"
+  },
+  "desc": {
+   "zh": "在线二维码生成工具，官方称支持六十种内容类型与自定义、图片、AI 艺术三种模式，可加 logo 与品牌色，并提供扫码统计、动态跳转与批量生成。",
+   "en": ""
+  },
+  "category": "design",
+  "url": "https://qrcode-ai.com",
+  "tags": [
+   "艺术二维码",
+   "批量生成",
+   "扫码分析"
+  ],
+  "visits": 261413
  },
  {
   "slug": "quiver",
@@ -13431,6 +14210,25 @@
    "BOM生成"
   ],
   "visits": 253
+ },
+ {
+  "slug": "simplified",
+  "name": {
+   "zh": "Simplified",
+   "en": "Simplified"
+  },
+  "desc": {
+   "zh": "面向营销团队的 AI 智能体平台，官方称由智能体 Riley 从一份简报跑通策划、创作、审批、发布与复盘，内置品牌记忆与审批闸门，可接十余个发布渠道。",
+   "en": ""
+  },
+  "category": "design",
+  "url": "https://simplified.com",
+  "tags": [
+   "营销智能体",
+   "社媒排期",
+   "审批流"
+  ],
+  "visits": 357254
  },
  {
   "slug": "sloyd",
@@ -13946,6 +14744,25 @@
   "visits": 63449
  },
  {
+  "slug": "venngage",
+  "name": {
+   "zh": "Venngage",
+   "en": "Venngage"
+  },
+  "desc": {
+   "zh": "在线信息图与视觉设计平台，官方称提供上万套模板和四百万以上素材，支持 AI 生成版式、一键套用品牌规范，并能检查 WCAG 无障碍合规。",
+   "en": ""
+  },
+  "category": "design",
+  "url": "https://venngage.com",
+  "tags": [
+   "信息图设计",
+   "无障碍图表",
+   "品牌模板"
+  ],
+  "visits": 1124920
+ },
+ {
   "slug": "visily",
   "name": {
    "zh": "Visily",
@@ -14345,6 +15162,25 @@
   "visits": 25823
  },
  {
+  "slug": "giststack",
+  "name": {
+   "zh": "Giststack",
+   "en": "Giststack"
+  },
+  "desc": {
+   "zh": "面向个人品牌的内容助手，官方称可跟踪 newsletter、博客与 YouTube，把多来源洞察整理成故事，再按你的语气写成社交帖、脚本或长文草稿。",
+   "en": ""
+  },
+  "category": "social",
+  "url": "https://www.giststack.com",
+  "tags": [
+   "个人品牌",
+   "观点选题",
+   "内容改写"
+  ],
+  "visits": 179275
+ },
+ {
   "slug": "jichuang",
   "name": {
    "zh": "即创",
@@ -14514,6 +15350,25 @@
    "AI文案"
   ],
   "visits": 4628
+ },
+ {
+  "slug": "nuelink",
+  "name": {
+   "zh": "Nuelink",
+   "en": "Nuelink"
+  },
+  "desc": {
+   "zh": "社交媒体排期与自动化工具，官方称支持 12 个平台，可手动排期、按店铺或博客自动发布，也能让 ChatGPT 与 Claude 通过 MCP 直接排进队列。",
+   "en": ""
+  },
+  "category": "social",
+  "url": "http://nuelink.com",
+  "tags": [
+   "社媒排期",
+   "自动分发",
+   "多品牌管理"
+  ],
+  "visits": 219403
  },
  {
   "slug": "ocoya",
@@ -14839,6 +15694,25 @@
   "visits": 1990163
  },
  {
+  "slug": "aidetect",
+  "name": {
+   "zh": "AI Detect",
+   "en": "AI Detect"
+  },
+  "desc": {
+   "zh": "面向英文写作的 AI 检测与文本体检工具，输入段落即可得到 AI 写作信号分，并同步给出可读性与年级阅读难度，官方称免费用户每天可扫描 5 次、单次上限 750 词。",
+   "en": ""
+  },
+  "category": "detect",
+  "url": "https://www.aidetect.com",
+  "tags": [
+   "AI检测",
+   "写作体检",
+   "可读性"
+  ],
+  "visits": 4570
+ },
+ {
   "slug": "aigc-x",
   "name": {
    "zh": "AIGC-X",
@@ -14875,6 +15749,25 @@
    "图片鉴定"
   ],
   "visits": 334742
+ },
+ {
+  "slug": "bypassai",
+  "name": {
+   "zh": "BypassAI",
+   "en": "BypassAI"
+  },
+  "desc": {
+   "zh": "以绕过 AI 检测为卖点的改写工具，官方称能把 AI 文本改写成类人写作，并提供检测、查重与多语言支持，页面标注服务两百万以上用户。",
+   "en": ""
+  },
+  "category": "detect",
+  "url": "https://bypassai.ai",
+  "tags": [
+   "降AI率",
+   "绕过检测",
+   "批量改写"
+  ],
+  "visits": 150230
  },
  {
   "slug": "bypassgpt",
@@ -15027,6 +15920,25 @@
    "AIGC检测"
   ],
   "visits": 9415
+ },
+ {
+  "slug": "gptinf",
+  "name": {
+   "zh": "GPTinf",
+   "en": "GPTinf"
+  },
+  "desc": {
+   "zh": "AI 写作工具箱，官方称把检测、人性化、查重、改写、可读性与语法检查六个工具放在一处，可锁定术语后改写，用于交稿前自查。",
+   "en": ""
+  },
+  "category": "detect",
+  "url": "https://www.gptinf.com",
+  "tags": [
+   "AI检测",
+   "降AI率",
+   "查重改写"
+  ],
+  "visits": 535778
  },
  {
   "slug": "gptzero",
@@ -15388,6 +16300,25 @@
    "多模态"
   ],
   "visits": 29896
+ },
+ {
+  "slug": "rephrasy",
+  "name": {
+   "zh": "Rephrasy",
+   "en": "Rephrasy"
+  },
+  "desc": {
+   "zh": "面向学生与职场人的 AI 文本人性化工具，官方称支持 50 多种语言，内置多家检测器的评分面板，可改写 ChatGPT、Claude 等模型生成的文字。",
+   "en": ""
+  },
+  "category": "detect",
+  "url": "https://rephrasy.ai",
+  "tags": [
+   "降AI率",
+   "多语言改写",
+   "检测面板"
+  ],
+  "visits": 146546
  },
  {
   "slug": "ruijian-ai",
@@ -15865,6 +16796,25 @@
   "visits": 70068
  },
  {
+  "slug": "aide",
+  "name": {
+   "zh": "Aide",
+   "en": "Aide"
+  },
+  "desc": {
+   "zh": "面向软件工程的 AI 原生开发者工具实验室，官方称研究推理时扩展与智能体系统，博客披露在代码基准上解决 62.2% 的 issue，目前公开内容以研究记录为主。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://aide.dev",
+  "tags": [
+   "代码智能体",
+   "推理时扩展",
+   "开发者工具"
+  ],
+  "visits": 5177
+ },
+ {
   "slug": "aider",
   "name": {
    "zh": "aider",
@@ -15901,6 +16851,25 @@
    "多智能体"
   ],
   "visits": 3583
+ },
+ {
+  "slug": "all-hands",
+  "name": {
+   "zh": "All Hands AI",
+   "en": "All Hands AI"
+  },
+  "desc": {
+   "zh": "All Hands AI 开源的 AI 编程智能体平台 OpenHands，官方称可把 PR 评审、CI 修复、工单分诊等重复工作交给智能体，支持自选模型与多种部署方式。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.all-hands.dev",
+  "tags": [
+   "编程智能体",
+   "开源平台",
+   "工程自动化"
+  ],
+  "visits": 100190
  },
  {
   "slug": "amazon-q",
@@ -15958,6 +16927,25 @@
    "智能体"
   ],
   "visits": 25194
+ },
+ {
+  "slug": "apsy",
+  "name": {
+   "zh": "Apsy",
+   "en": "Apsy"
+  },
+  "desc": {
+   "zh": "在线无代码 AI 应用生成器，用对话描述想法后由代理生成多个页面，逐步调整即可发布到 iOS 与 Android，官方称可下载源码并部署到自己的云。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.apsy.io",
+  "tags": [
+   "应用生成",
+   "无代码",
+   "移动应用"
+  ],
+  "visits": 3435
  },
  {
   "slug": "atomic-mail-agentic",
@@ -16034,6 +17022,25 @@
    "站点生成"
   ],
   "visits": 29684
+ },
+ {
+  "slug": "axal",
+  "name": {
+   "zh": "Axal AI",
+   "en": "Axal AI"
+  },
+  "desc": {
+   "zh": "旧金山的 PCB 打样与组装服务商，官方称 5 块以下的研发板可在 48 小时内完成组装，支持网页上传、邮件、API 与 MCP 下单，量产与返单可代为对接板厂。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.axal.ai",
+  "tags": [
+   "PCB打样",
+   "硬件制造",
+   "MCP下单"
+  ],
+  "visits": 6548
  },
  {
   "slug": "b12",
@@ -16758,6 +17765,44 @@
   "visits": 5768
  },
  {
+  "slug": "codev",
+  "name": {
+   "zh": "co.dev",
+   "en": "co.dev"
+  },
+  "desc": {
+   "zh": "面向 AI 编程智能体的应用构建与托管平台，把提示词交给 Claude Code、Cursor 等智能体写代码，官方称可一并生成应用与后端、数据存储、登录和域名托管。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.co.dev",
+  "tags": [
+   "AI建站",
+   "智能体开发",
+   "应用托管"
+  ],
+  "visits": 6719
+ },
+ {
+  "slug": "codeviz",
+  "name": {
+   "zh": "CodeViz",
+   "en": "CodeViz"
+  },
+  "desc": {
+   "zh": "面向软件团队的代码架构可视化工具，自动分析代码库生成架构模型，可按需拉出流程与数据流视图，模型可分支、可版本化并与 VS Code、GitHub、Jira 集成。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.codeviz.ai",
+  "tags": [
+   "架构可视化",
+   "代码图谱",
+   "C4模型"
+  ],
+  "visits": 2709
+ },
+ {
   "slug": "codewiki",
   "name": {
    "zh": "Code Wiki",
@@ -16948,6 +17993,44 @@
   "visits": 16077
  },
  {
+  "slug": "createxyz",
+  "name": {
+   "zh": "Create",
+   "en": "Create"
+  },
+  "desc": {
+   "zh": "create.xyz 上的 AI 应用构建器，官网现名 Anything，官方称一句话描述即可生成带数据库、登录与 Stripe 收款的网站或移动应用，并能自动检测修复错误。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.create.xyz",
+  "tags": [
+   "全栈应用生成",
+   "一句话建站",
+   "内置数据库"
+  ],
+  "visits": 40192
+ },
+ {
+  "slug": "creght",
+  "name": {
+   "zh": "Creght",
+   "en": "Creght"
+  },
+  "desc": {
+   "zh": "用一句话生成商业网站的 AI 建站工具，官方称无需代码与设计经验，内置公司站、外贸站、SaaS 落地页与作品集模板，可加表单、登录与支付并绑定自有域名发布。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.creght.com",
+  "tags": [
+   "AI建站",
+   "外贸官网",
+   "落地页"
+  ],
+  "visits": 3186
+ },
+ {
   "slug": "cto-new",
   "name": {
    "zh": "cto.new",
@@ -17043,6 +18126,25 @@
   "visits": 2523967
  },
  {
+  "slug": "dhiwise",
+  "name": {
+   "zh": "DhiWise",
+   "en": "DhiWise"
+  },
+  "desc": {
+   "zh": "原 DhiWise，官网现已更名为 Rocket，是一款用一句自然语言生成全栈应用的工具，官方称可自动完成数据库、认证、API 与部署，代码归用户所有。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.dhiwise.com",
+  "tags": [
+   "全栈生成",
+   "一句话建站",
+   "后端自动化"
+  ],
+  "visits": 128332
+ },
+ {
   "slug": "dorik",
   "name": {
    "zh": "Dorik",
@@ -17098,6 +18200,25 @@
    "TUI插件"
   ],
   "visits": 8587
+ },
+ {
+  "slug": "dualite",
+  "name": {
+   "zh": "Dualite",
+   "en": "Dualite"
+  },
+  "desc": {
+   "zh": "面向产品落地的 AI 开发服务，官方称可无代码搭建 Web 与移动应用、AI 智能体和数据看板，并提供专家陪跑，把 AI 做出的原型整理成可上线、可维护的产品。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://dualite.dev",
+  "tags": [
+   "AI应用开发",
+   "原型转产品",
+   "智能体"
+  ],
+  "visits": 9866
  },
  {
   "slug": "durable",
@@ -17271,6 +18392,25 @@
   "visits": 24900
  },
  {
+  "slug": "frontly",
+  "name": {
+   "zh": "Frontly AI",
+   "en": "Frontly AI"
+  },
+  "desc": {
+   "zh": "无代码应用搭建平台，官方称描述需求即可生成自定义软件，再用可视化方式修改，可做客户登录门户、活动管理、记账等应用，免费版不限应用数量，适合小团队自建内部工具。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://frontly.ai",
+  "tags": [
+   "无代码应用",
+   "内部工具",
+   "客户门户"
+  ],
+  "visits": 7131
+ },
+ {
   "slug": "fronty",
   "name": {
    "zh": "Fronty",
@@ -17288,6 +18428,25 @@
    "建站托管"
   ],
   "visits": 37397
+ },
+ {
+  "slug": "functorz",
+  "name": {
+   "zh": "Zion",
+   "en": "Zion"
+  },
+  "desc": {
+   "zh": "函子科技推出的全栈无代码开发工具，用自然语言生成界面、数据模型、权限与支付，可在可视化画布中继续修改，官方称支持一键发布 Web 应用与微信小程序。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.functorz.com",
+  "tags": [
+   "无代码开发",
+   "微信小程序",
+   "可视化搭建"
+  ],
+  "visits": 4487
  },
  {
   "slug": "gadget",
@@ -17334,7 +18493,7 @@
    "en": "Gemini CLI"
   },
   "desc": {
-   "zh": "如果你的日常入口就是终端，那把模型塞进终端是最顺手的选择。Gemini CLI 是谷歌的开源智能体，官方一句话概括：从提示词到模型的最短路径。它把文件操作、shell 命令、网页抓取和搜索接地直接内置，也留了标准扩展协议的口子。",
+   "zh": "如果你的日常入口就是终端，Gemini CLI 仍然是 Google 开源的终端智能体：它把文件操作、shell 命令、网页抓取、搜索接地和 MCP 扩展内置进来，仓库采用 Apache 2.0 授权。",
    "en": ""
   },
   "category": "code",
@@ -17822,6 +18981,25 @@
   "visits": 961488
  },
  {
+  "slug": "kilocode",
+  "name": {
+   "zh": "Kilo Code",
+   "en": "Kilo Code"
+  },
+  "desc": {
+   "zh": "完全开源的 AI 编程代理，官方称同一个代理可跑在 VS Code、JetBrains、命令行与云端，接入 500 多个模型且推理不加价，支持自带密钥与本地模型。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://kilocode.ai",
+  "tags": [
+   "开源编码代理",
+   "模型自由",
+   "多端接入"
+  ],
+  "visits": 2215
+ },
+ {
   "slug": "kiro",
   "name": {
    "zh": "Kiro",
@@ -17839,6 +19017,25 @@
    "编码Agent"
   ],
   "visits": 3185249
+ },
+ {
+  "slug": "kodezi",
+  "name": {
+   "zh": "Kodezi",
+   "en": "Kodezi"
+  },
+  "desc": {
+   "zh": "面向代码库的自主维护工具，官方称可自动找 bug 并修复、清理冗余、检测漏洞、补文档与测试，提供 Web IDE、CLI 与 OS 形态，免费额度每日 25 credits。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://kodezi.com",
+  "tags": [
+   "代码维护",
+   "自动修复",
+   "CLI"
+  ],
+  "visits": 4341
  },
  {
   "slug": "kodus",
@@ -18411,6 +19608,25 @@
   "visits": 196591
  },
  {
+  "slug": "mobirise",
+  "name": {
+   "zh": "Mobirise AI Website Generator",
+   "en": "Mobirise AI Website Generator"
+  },
+  "desc": {
+   "zh": "Mobirise 推出的 AI 建站工具，输入提示词即用现成区块生成 4 个网站设计方案，可在对话或可视化编辑器里修改，免费版每月 3 次生成，支持导出源码。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://mobirise.com/builder/ai-website-builder.html",
+  "tags": [
+   "AI建站",
+   "可视化编辑",
+   "源码导出"
+  ],
+  "visits": 421768
+ },
+ {
   "slug": "model-context-protocol",
   "name": {
    "zh": "Model Context Protocol",
@@ -18561,6 +19777,25 @@
    "对话式开发"
   ],
   "visits": 13898
+ },
+ {
+  "slug": "noodl",
+  "name": {
+   "zh": "Noodl",
+   "en": "Noodl"
+  },
+  "desc": {
+   "zh": "低代码、AI 辅助的可视化开发平台，用节点图组织数据流与逻辑，官方称可完成全栈应用搭建、业务资产编排与系统集成，现已开源并可本地下载。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.noodl.net",
+  "tags": [
+   "低代码",
+   "节点图",
+   "开源"
+  ],
+  "visits": 5434
  },
  {
   "slug": "octopus-do",
@@ -18981,6 +20216,25 @@
   "visits": 114832
  },
  {
+  "slug": "rebolt",
+  "name": {
+   "zh": "Rebolt",
+   "en": "Rebolt"
+  },
+  "desc": {
+   "zh": "面向航空维修的代理式 AI 产品，官方称其引擎把维修数据、规则与安全约束合成一个运营模型，代理起草工作包与处理意见，工程师审核签字后才写回原系统。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.rebolt.ai",
+  "tags": [
+   "航空维修",
+   "MRO",
+   "企业代理"
+  ],
+  "visits": 2949
+ },
+ {
   "slug": "refact-ai",
   "name": {
    "zh": "Refact.ai",
@@ -19055,6 +20309,25 @@
    "打包"
   ],
   "visits": 68126
+ },
+ {
+  "slug": "repoprompt",
+  "name": {
+   "zh": "Repo Prompt",
+   "en": "Repo Prompt"
+  },
+  "desc": {
+   "zh": "面向 macOS 的上下文工程工具，自动从代码库中挑选相关文件组装成可审阅的上下文，支持多代理编排、MCP 工具与代码评审工作流，官方称项目已开源。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://repoprompt.com",
+  "tags": [
+   "上下文工程",
+   "多代理编排",
+   "macOS"
+  ],
+  "visits": 4784
  },
  {
   "slug": "rosebud-ai",
@@ -19342,6 +20615,25 @@
   "visits": 998335
  },
  {
+  "slug": "teleporthq",
+  "name": {
+   "zh": "TeleportHQ",
+   "en": "TeleportHQ"
+  },
+  "desc": {
+   "zh": "低代码前端设计与开发平台，提供 AI 生成、可视化编辑与组件库，官方称可免费导出 HTML、CSS、JS 及五种框架代码，支持无头 CMS 接入与一键部署。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://teleporthq.io",
+  "tags": [
+   "低代码建站",
+   "代码导出",
+   "无头CMS"
+  ],
+  "visits": 120996
+ },
+ {
   "slug": "tempo-ai",
   "name": {
    "zh": "Tempo",
@@ -19494,6 +20786,25 @@
   "visits": 42142
  },
  {
+  "slug": "trysolid",
+  "name": {
+   "zh": "Solid",
+   "en": "Solid"
+  },
+  "desc": {
+   "zh": "Solid 推出的 AI 代理平台，官方称每个代理配有自己的电脑、账号和预算，可自行连接工具、排查故障并在审批规则内付费，适合把销售演示、线索搜集这类整段工作交出去。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://trysolid.com",
+  "tags": [
+   "AI代理",
+   "任务委派",
+   "预算审批"
+  ],
+  "visits": 2318
+ },
+ {
   "slug": "tuanjie-cowork",
   "name": {
    "zh": "Tuanjie Cowork",
@@ -19511,6 +20822,25 @@
    "私有化部署"
   ],
   "visits": 94565
+ },
+ {
+  "slug": "twinny",
+  "name": {
+   "zh": "Twinny",
+   "en": "Twinny"
+  },
+  "desc": {
+   "zh": "开源自托管的 VS Code 编程助手，提供补全、对话、行内编辑与代码评审，可接 Ollama 或任意 OpenAI 兼容服务，官方称无遥测、无需账号，五人内免费。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://twinny.dev",
+  "tags": [
+   "自托管",
+   "VS Code",
+   "本地模型"
+  ],
+  "visits": 3660
  },
  {
   "slug": "typedream",
@@ -19549,6 +20879,25 @@
    "网站分析"
   ],
   "visits": 231262
+ },
+ {
+  "slug": "ucraft",
+  "name": {
+   "zh": "Ucraft",
+   "en": "Ucraft"
+  },
+  "desc": {
+   "zh": "拖拽式建站平台，官方称无需编程即可做出响应式网站、作品集或在线商店，自带免费托管、收款与物流设置，并提供 Logo 制作、博客与 AI 客服助手，适合中小品牌快速上线。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.ucraft.com",
+  "tags": [
+   "拖拽建站",
+   "在线商店",
+   "免费托管"
+  ],
+  "visits": 11877
  },
  {
   "slug": "ui-bakery",
@@ -19646,6 +20995,25 @@
   "visits": 3236707
  },
  {
+  "slug": "v0-dev",
+  "name": {
+   "zh": "v0.dev",
+   "en": "v0.dev"
+  },
+  "desc": {
+   "zh": "Vercel 推出的 AI 全栈应用生成工具，官方描述为协作式 AI 助手，可按提示生成可运行应用、同步到 GitHub 仓库并一键部署上线，支持可视化设计模式与设计系统复用。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://v0.dev",
+  "tags": [
+   "全栈应用生成",
+   "Vercel部署",
+   "设计模式"
+  ],
+  "visits": 132770
+ },
+ {
   "slug": "vanna-ai",
   "name": {
    "zh": "Vanna.ai",
@@ -19720,6 +21088,25 @@
    "VS Code"
   ],
   "visits": 46890
+ },
+ {
+  "slug": "vzy",
+  "name": {
+   "zh": "Vzy",
+   "en": "Vzy"
+  },
+  "desc": {
+   "zh": "AI 建站工具，官方称只需说明业务内容即可自动生成网站，支持在手机浏览器里改站、绑定自有域名、内置访问统计与表单，也允许导出代码，适合自由职业者和小团队做落地页。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://vzy.co",
+  "tags": [
+   "AI建站",
+   "手机编辑",
+   "落地页"
+  ],
+  "visits": 9999
  },
  {
   "slug": "warp-dev",
@@ -19834,6 +21221,25 @@
    "BI"
   ],
   "visits": 37678
+ },
+ {
+  "slug": "ycode",
+  "name": {
+   "zh": "Ycode",
+   "en": "Ycode"
+  },
+  "desc": {
+   "zh": "开源的可视化建站工具与内容管理系统，官方称可在云端托管或部署到自有服务器，支持接入 Claude、GPT 等模型，用提示词改布局、对话式管理内容，适合要掌控基础设施的团队。",
+   "en": ""
+  },
+  "category": "code",
+  "url": "https://www.ycode.com",
+  "tags": [
+   "开源建站",
+   "可视化CMS",
+   "自托管"
+  ],
+  "visits": 14865
  },
  {
   "slug": "zcode",
@@ -20062,6 +21468,44 @@
    "UGC 广告"
   ],
   "visits": 193409
+ },
+ {
+  "slug": "animaker",
+  "name": {
+   "zh": "Animaker",
+   "en": "Animaker"
+  },
+  "desc": {
+   "zh": "在线动画视频制作工具，官方称已有 3500 万以上用户，提供角色构建器、AI 字幕与配音、海量素材库和一键翻译，适合做讲解片、培训片与产品介绍。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.animaker.com",
+  "tags": [
+   "动画视频",
+   "角色构建",
+   "企业培训"
+  ],
+  "visits": 850302
+ },
+ {
+  "slug": "animateai",
+  "name": {
+   "zh": "AnimateAI",
+   "en": "AnimateAI"
+  },
+  "desc": {
+   "zh": "AnimateAI 是面向动画短剧的一体化 AI 视频生成工具，官方称可从一个故事想法生成角色、分镜与 30 秒成片，并整合多家文本、图像、配音与视频模型，支持角色跨集复用。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://animateai.pro",
+  "tags": [
+   "动画短剧",
+   "角色一致性",
+   "AI分镜"
+  ],
+  "visits": 69661
  },
  {
   "slug": "animiz",
@@ -20349,6 +21793,25 @@
   "visits": 8534997
  },
  {
+  "slug": "bith",
+  "name": {
+   "zh": "Bith.AI",
+   "en": "Bith.AI"
+  },
+  "desc": {
+   "zh": "Bith.AI 是一站式 AI 内容创作平台，官方称可掌控内容与剪辑视频，提供 UGC 口播、影棚拍摄、虚拟网红等应用，并提供图生视频、文生视频与图像编辑，内置多行业模板库。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://bith.ai",
+  "tags": [
+   "UGC视频",
+   "商品图",
+   "AI模特"
+  ],
+  "visits": 9164
+ },
+ {
   "slug": "boolvideo",
   "name": {
    "zh": "Boolvideo",
@@ -20461,6 +21924,25 @@
    "数字人口播"
   ],
   "visits": 798690
+ },
+ {
+  "slug": "cascadeur",
+  "name": {
+   "zh": "Cascadeur",
+   "en": "Cascadeur"
+  },
+  "desc": {
+   "zh": "Nekki 出品的 3D 角色动画软件，官方称以 AI 补间与动作生成辅助关键帧制作，并提供动捕清理、自动姿势与虚幻引擎实时联动，面向游戏与影视动画团队。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://cascadeur.com",
+  "tags": [
+   "关键帧动画",
+   "动作捕捉",
+   "3D角色"
+  ],
+  "visits": 316097
  },
  {
   "slug": "changci",
@@ -20577,6 +22059,25 @@
   "visits": 34304
  },
  {
+  "slug": "clipchamp",
+  "name": {
+   "zh": "Clipchamp",
+   "en": "Clipchamp"
+  },
+  "desc": {
+   "zh": "微软出品的在线视频编辑器，在浏览器里完成录制、剪辑、AI 字幕与配音，官方称支持 80 多种语言字幕、免版税素材与最高 4K 导出，免费版即可无水印成片。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://clipchamp.com",
+  "tags": [
+   "在线剪辑",
+   "AI字幕",
+   "微软出品"
+  ],
+  "visits": 6516154
+ },
+ {
   "slug": "clipfly",
   "name": {
    "zh": "Clipfly",
@@ -20613,6 +22114,25 @@
    "知识库检索"
   ],
   "visits": 1674515
+ },
+ {
+  "slug": "clipwing",
+  "name": {
+   "zh": "Clipwing",
+   "en": "Clipwing"
+  },
+  "desc": {
+   "zh": "把长视频链接交给真人剪辑师、3 天交付 3 条竖版带字幕片段的服务，官方称比 AI 切片更准、比招人更省事，支持应用内审片与直接发布到社交平台。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://clipwing.pro",
+  "tags": [
+   "真人剪辑",
+   "短视频切片",
+   "播客分发"
+  ],
+  "visits": 2928
  },
  {
   "slug": "clipzap-ai",
@@ -20843,6 +22363,25 @@
   "visits": 526349
  },
  {
+  "slug": "decohere",
+  "name": {
+   "zh": "Decohere",
+   "en": "Decohere"
+  },
+  "desc": {
+   "zh": "Decohere 是一款主打实时生成的 AI 图像与视频工具，官方称可滚动浏览无限变体快速出图，并提供角色生成、参考人物一致性、图生视频与 4 倍放大等能力。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.decohere.ai",
+  "tags": [
+   "实时生图",
+   "角色一致",
+   "图生视频"
+  ],
+  "visits": 20147
+ },
+ {
   "slug": "deep-nostalgia-ai",
   "name": {
    "zh": "Deep Nostalgia AI",
@@ -21012,6 +22551,25 @@
    "数据合规"
   ],
   "visits": 41622
+ },
+ {
+  "slug": "duix",
+  "name": {
+   "zh": "Duix",
+   "en": "Duix"
+  },
+  "desc": {
+   "zh": "Duix 是一款带真实面孔与声音的对话式数字人平台，官方称可自定义形象与声线、支持多语言并接入知识库，提供 AI 医生、AI 客服、AI 面试等角色，并开放 SDK 与 API。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://duix.com",
+  "tags": [
+   "数字人",
+   "对话式AI",
+   "虚拟形象"
+  ],
+  "visits": 8999
  },
  {
   "slug": "eddie-ai",
@@ -21259,6 +22817,25 @@
    "批量生产"
   ],
   "visits": 815780
+ },
+ {
+  "slug": "flixier",
+  "name": {
+   "zh": "Flixier",
+   "en": "Flixier"
+  },
+  "desc": {
+   "zh": "浏览器里的在线视频编辑器，官方称可在云端完成剪辑与 4K 渲染，支持 130 多种语言字幕、按文本剪辑与 AI 配音，并能在时间线内调用多种视频生成模型。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://flixier.com",
+  "tags": [
+   "云端剪辑",
+   "AI粗剪",
+   "字幕翻译"
+  ],
+  "visits": 1569347
  },
  {
   "slug": "flova",
@@ -21525,6 +23102,25 @@
    "MiniMax"
   ],
   "visits": 532275
+ },
+ {
+  "slug": "haiper",
+  "name": {
+   "zh": "Haiper AI",
+   "en": "Haiper AI"
+  },
+  "desc": {
+   "zh": "Haiper 是一款以文生视频为核心的 AI 视频创作平台，官方称提供视频与图像两代 2.x 模型，支持图生视频、关键帧控制、提示词增强与去水印导出，并开放按秒计费的 API。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://haiper.ai",
+  "tags": [
+   "视频生成",
+   "图生视频",
+   "开发者API"
+  ],
+  "visits": 115259
  },
  {
   "slug": "happyhorse",
@@ -22002,6 +23598,25 @@
   "visits": 57145
  },
  {
+  "slug": "jurilu",
+  "name": {
+   "zh": "巨日禄",
+   "en": "巨日禄"
+  },
+  "desc": {
+   "zh": "面向小说推文与漫剪创作者的 AI 内容平台，提供 AI 故事、文生图、文生视频与封面制作，官方称提供免费小说推文授权，并另设短剧漫剧创作平台。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://ai.jurilu.com",
+  "tags": [
+   "小说推文",
+   "AI漫画",
+   "文生视频"
+  ],
+  "visits": 4080
+ },
+ {
   "slug": "kaiber",
   "name": {
    "zh": "Kaiber",
@@ -22078,6 +23693,25 @@
   "visits": 354816
  },
  {
+  "slug": "kinetix",
+  "name": {
+   "zh": "Kinetix",
+   "en": "Kinetix"
+  },
+  "desc": {
+   "zh": "Kinetix 是一家专注三维人体动作的 AI 研究公司，官方称用 3D 与机器学习理解并生成人体运动，技术已接入 Unity Muse、Adobe Mixamo 等平台。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.kinetix.tech",
+  "tags": [
+   "3D动画",
+   "人体动作生成",
+   "动作重定向"
+  ],
+  "visits": 10953
+ },
+ {
   "slug": "kling-ai",
   "name": {
    "zh": "可灵 AI",
@@ -22095,6 +23729,25 @@
    "快手"
   ],
   "visits": 1711300
+ },
+ {
+  "slug": "klyra",
+  "name": {
+   "zh": "Klyra AI",
+   "en": "Klyra AI"
+  },
+  "desc": {
+   "zh": "把多家主流 AI 模型与视频、图像、音频、客服等应用收进一个工作区的 AI 操作系统，可在同一账号内完成写作、生成视频与数字人，官方称用一个订阅替代多个 AI 工具。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://klyra.ai",
+  "tags": [
+   "AI工作台",
+   "数字人视频",
+   "多模型聚合"
+  ],
+  "visits": 5193
  },
  {
   "slug": "kreadoai",
@@ -22152,6 +23805,44 @@
    "AI工具箱"
   ],
   "visits": 6330
+ },
+ {
+  "slug": "kuaizhuan-zimu",
+  "name": {
+   "zh": "快转字幕",
+   "en": "快转字幕"
+  },
+  "desc": {
+   "zh": "AI 字幕与转录平台，支持音频转文字、字幕智能重排与多语言翻译，可在线编辑、压制并导出视频，官方称支持 100 种语言，并提供免费试用与批量转录。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.kzzimu.com",
+  "tags": [
+   "字幕翻译",
+   "语音转文字",
+   "视频压制"
+  ],
+  "visits": 5934
+ },
+ {
+  "slug": "kuaizi",
+  "name": {
+   "zh": "筷子Kuaizi AI",
+   "en": "筷子Kuaizi AI"
+  },
+  "desc": {
+   "zh": "面向商家的电商短视频 AI 平台，覆盖脚本生成、视频分析、智能混剪、数字人口播与多语言翻译，官方称已服务九千余家企业，支持在 TikTok 等平台一键分发。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://kuaizi.ai",
+  "tags": [
+   "电商短视频",
+   "视频翻译",
+   "矩阵分发"
+  ],
+  "visits": 5225
  },
  {
   "slug": "lanta-ai",
@@ -22458,6 +24149,25 @@
   "visits": 2310684
  },
  {
+  "slug": "lumen5",
+  "name": {
+   "zh": "Lumen5",
+   "en": "Lumen5"
+  },
+  "desc": {
+   "zh": "面向企业的 AI 视频制作平台，官方称可把博客、文章、PDF 与要点稿在几分钟内转成视频，内置品牌管控与定制模板，并提供创意服务团队，主打营销与培训场景。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://lumen5.com",
+  "tags": [
+   "图文转视频",
+   "营销视频",
+   "品牌模板"
+  ],
+  "visits": 197046
+ },
+ {
   "slug": "lumenflow",
   "name": {
    "zh": "Lumen Flow",
@@ -22589,6 +24299,25 @@
    "批量出片"
   ],
   "visits": 125714
+ },
+ {
+  "slug": "mangoanimate",
+  "name": {
+   "zh": "MangoAnimate",
+   "en": "MangoAnimate"
+  },
+  "desc": {
+   "zh": "Mango Animate 旗下的 AI 视频生成工具，官方称上传人像照片与脚本即可生成数字人口播视频，并提供换脸与多行业成片模板，覆盖企业培训、教学科普与个人内容。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://mangoanimate.com",
+  "tags": [
+   "数字人视频",
+   "换脸",
+   "口播视频"
+  ],
+  "visits": 760246
  },
  {
   "slug": "manxiaoya",
@@ -22762,6 +24491,25 @@
   "visits": 0
  },
  {
+  "slug": "mooliv",
+  "name": {
+   "zh": "模力视频",
+   "en": "模力视频"
+  },
+  "desc": {
+   "zh": "面向电商与信息流的 AI 短视频创作平台，提供 AI 剪辑、脚本生成、爆款裂变、直播切片与团队协作，官方称可将内容成本降低九成，并支持成片一键投放。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.mooliv.com",
+  "tags": [
+   "AI剪辑",
+   "爆款裂变",
+   "直播切片"
+  ],
+  "visits": 4382
+ },
+ {
   "slug": "moonvalley",
   "name": {
    "zh": "Moonvalley",
@@ -22855,6 +24603,25 @@
    "角色一致性"
   ],
   "visits": 1055698
+ },
+ {
+  "slug": "motionvid",
+  "name": {
+   "zh": "motionvid.ai",
+   "en": "motionvid.ai"
+  },
+  "desc": {
+   "zh": "在线 AI 动态图形与视频生成工具，官方称输入一句提示词即可产出带旁白与配乐的动画成片，内置多种解说风格，并能自动为上传素材切点、加字幕。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.motionvid.ai",
+  "tags": [
+   "动态图形",
+   "地图动画",
+   "自动剪辑"
+  ],
+  "visits": 153278
  },
  {
   "slug": "move-ai",
@@ -23446,6 +25213,25 @@
   "visits": 4925598
  },
  {
+  "slug": "plask",
+  "name": {
+   "zh": "Plask Motion",
+   "en": "Plask Motion"
+  },
+  "desc": {
+   "zh": "Plask Motion 把视频转成 3D 角色动画的 AI 动作捕捉工具，官方称可从普通视频提取人体动作，导出 FBX、BVH 供 Blender、Unreal 使用。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://plask.ai",
+  "tags": [
+   "动作捕捉",
+   "3D动画",
+   "Blender"
+  ],
+  "visits": 39741
+ },
+ {
   "slug": "plazmapunk",
   "name": {
    "zh": "Plazmapunk",
@@ -23731,6 +25517,25 @@
   "visits": 691330
  },
  {
+  "slug": "rizzle",
+  "name": {
+   "zh": "Rizzle",
+   "en": "Rizzle"
+  },
+  "desc": {
+   "zh": "面向出版机构的文章视频化与内容分发服务，官方称用 AI 把文章转成分镜视频、再由人工精修，并把图文与视频一并分发到 Yahoo、MSN 等渠道。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://rizzle.com",
+  "tags": [
+   "文章转视频",
+   "内容分发",
+   "媒体出版"
+  ],
+  "visits": 7175
+ },
+ {
   "slug": "runway",
   "name": {
    "zh": "Runway",
@@ -23786,6 +25591,25 @@
    "剧本转视频"
   ],
   "visits": 7312
+ },
+ {
+  "slug": "seedance-tv",
+  "name": {
+   "zh": "Seedance Video Generator",
+   "en": "Seedance Video Generator"
+  },
+  "desc": {
+   "zh": "在线 AI 视频生成平台，主推 Seedance 2.5 与 2.0，官方称单条最长 30 秒且自带音频，AI 智能体可逐镜头规划生成最长 2.5 分钟成片，并支持切换多家模型。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.seedance.tv",
+  "tags": [
+   "文生视频",
+   "多模型",
+   "AI智能体"
+  ],
+  "visits": 276555
  },
  {
   "slug": "seko",
@@ -23862,6 +25686,25 @@
    "自动字幕"
   ],
   "visits": 151702
+ },
+ {
+  "slug": "shortsfaceless",
+  "name": {
+   "zh": "ShortsFaceless",
+   "en": "ShortsFaceless"
+  },
+  "desc": {
+   "zh": "专做无露脸短视频的 AI 生成工具，官方称给一个主题即可自动产出脚本、配图、配音与字幕，支持 10 多种语言，成片可下载或排期发布到 YouTube。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.shortsfaceless.com",
+  "tags": [
+   "无露脸视频",
+   "竖屏短片",
+   "批量出片"
+  ],
+  "visits": 7088
  },
  {
   "slug": "sketch",
@@ -24109,6 +25952,25 @@
    "多语言配音"
   ],
   "visits": 1679132
+ },
+ {
+  "slug": "t9-shuziren",
+  "name": {
+   "zh": "T9数字人",
+   "en": "T9数字人"
+  },
+  "desc": {
+   "zh": "提酒映画出品的电商视频生成平台，上传商品图或链接即可生成 9:16 带货短视频，支持数字人讲解、爆款结构复刻与多平台分发，官方称公司成立于 2021 年。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://t-9.cn",
+  "tags": [
+   "带货视频",
+   "数字人",
+   "商品图生视频"
+  ],
+  "visits": 3549
  },
  {
   "slug": "tagomovie",
@@ -24434,6 +26296,25 @@
   "visits": 4293426
  },
  {
+  "slug": "unscreen",
+  "name": {
+   "zh": "Unscreen",
+   "en": "Unscreen"
+  },
+  "desc": {
+   "zh": "Canva 旗下的在线视频背景移除工具，官方称不用绿幕即可一键去掉视频背景，可套模板换新场景，并在同一编辑器里加字幕、配乐与导出 MP4。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.unscreen.com",
+  "tags": [
+   "视频抠像",
+   "一键去背景",
+   "Canva"
+  ],
+  "visits": 7515
+ },
+ {
   "slug": "updream",
   "name": {
    "zh": "updream",
@@ -24605,6 +26486,25 @@
   "visits": 237644
  },
  {
+  "slug": "vidboard",
+  "name": {
+   "zh": "vidBoard.ai",
+   "en": "vidBoard.ai"
+  },
+  "desc": {
+   "zh": "把文档、链接或一句想法变成演示视频的 AI 工作台，官方称内置数字人、声音克隆与 125 种以上语言配音，25 个工具在同一界面完成剪辑与字幕。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.vidboard.ai",
+  "tags": [
+   "文档转视频",
+   "数字人",
+   "演示视频"
+  ],
+  "visits": 6698
+ },
+ {
   "slug": "videogen",
   "name": {
    "zh": "VideoGen - AI Video Generator",
@@ -24622,6 +26522,25 @@
    "分镜转视频"
   ],
   "visits": 267969
+ },
+ {
+  "slug": "videolingo",
+  "name": {
+   "zh": "VideoLingo",
+   "en": "VideoLingo"
+  },
+  "desc": {
+   "zh": "VideoLingo 是一款视频字幕翻译与配音工具，官方称可一键生成影视级双语字幕和配音，采用多步骤上下文翻译并识别专业术语，支持多种语言互译，免费额度为 15 分钟视频。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://videolingo.io/zh",
+  "tags": [
+   "字幕翻译",
+   "视频配音",
+   "双语字幕"
+  ],
+  "visits": 8174
  },
  {
   "slug": "videomaker-me",
@@ -24679,6 +26598,25 @@
    "视频广告"
   ],
   "visits": 104602
+ },
+ {
+  "slug": "videotutor",
+  "name": {
+   "zh": "VideoTutor",
+   "en": "VideoTutor"
+  },
+  "desc": {
+   "zh": "面向数学与 STEM 的 AI 讲解工具，官方称能把题目实时生成动画讲解视频，支持随时打断追问，并按学习记录调整后续讲解的深度与节奏。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://videotutor.io",
+  "tags": [
+   "数学讲解",
+   "动画教学",
+   "SAT备考"
+  ],
+  "visits": 5758
  },
  {
   "slug": "vidfly",
@@ -24795,6 +26733,25 @@
   "visits": 2252233
  },
  {
+  "slug": "vimmerse",
+  "name": {
+   "zh": "Vimmerse",
+   "en": "Vimmerse"
+  },
+  "desc": {
+   "zh": "面向创意团队的 AI 视频工作流平台，用节点画布把设计、激活、部署串成生产管线，官方称提供 200+ AI 工具与每月 2,000+ 模板，支持 API 接入与规模化生产。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.vimmerse.net",
+  "tags": [
+   "视频工作流",
+   "节点画布",
+   "Photobooth"
+  ],
+  "visits": 4503
+ },
+ {
   "slug": "virbo",
   "name": {
    "zh": "万兴播爆",
@@ -24909,6 +26866,25 @@
   "visits": 6107
  },
  {
+  "slug": "vmagic",
+  "name": {
+   "zh": "VMagic AI",
+   "en": "VMagic AI"
+  },
+  "desc": {
+   "zh": "聚合多种视频模型的 AI 视频平台，支持视频风格转换、照片与视频换脸、文生视频、图生视频与口型同步，官方称提供约 20 种风格并开放 API。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://www.vmagic.app",
+  "tags": [
+   "视频换脸",
+   "风格转换",
+   "图生视频"
+  ],
+  "visits": 2663
+ },
+ {
   "slug": "vmaker-ai",
   "name": {
    "zh": "Vmaker AI",
@@ -25004,6 +26980,25 @@
   "visits": 1461587
  },
  {
+  "slug": "wavespeed",
+  "name": {
+   "zh": "WaveSpeedAI",
+   "en": "WaveSpeedAI"
+  },
+  "desc": {
+   "zh": "聚合型 AI 媒体生成平台，官方称汇集图像、视频、音频与 3D 等 1000 多个模型，提供网页生成器、电影感镜头工作台与面向开发者的 API，按模型调用计费。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://wavespeed.ai",
+  "tags": [
+   "模型聚合",
+   "视频生成API",
+   "多模型对比"
+  ],
+  "visits": 1761354
+ },
+ {
   "slug": "wisecut",
   "name": {
    "zh": "Wisecut",
@@ -25097,6 +27092,25 @@
    "营销视频"
   ],
   "visits": 905819
+ },
+ {
+  "slug": "xunfei-huijing",
+  "name": {
+   "zh": "讯飞绘镜",
+   "en": "讯飞绘镜"
+  },
+  "desc": {
+   "zh": "科大讯飞推出的 AI 短视频创作平台，输入创意描述即可生成剧本、分镜与画面，支持接入多家视频模型并添加字幕、对白与配乐，另提供 Windows 客户端。",
+   "en": ""
+  },
+  "category": "video",
+  "url": "https://typemovie.art",
+  "tags": [
+   "AI短片",
+   "智能分镜",
+   "文生视频"
+  ],
+  "visits": 3420
  },
  {
   "slug": "yikeai",
@@ -25384,6 +27398,25 @@
   "visits": 6084
  },
  {
+  "slug": "hiration",
+  "name": {
+   "zh": "Hiration",
+   "en": "Hiration"
+  },
+  "desc": {
+   "zh": "面向求职者的 AI 职业平台，把简历生成、简历诊断、面试练习、求职信与 LinkedIn 优化收进一个入口，官网称提供 30 余套模板并支持 ATS 关键词优化。",
+   "en": ""
+  },
+  "category": "life",
+  "url": "https://hiration.com",
+  "tags": [
+   "简历优化",
+   "ATS匹配",
+   "面试练习"
+  ],
+  "visits": 227451
+ },
+ {
   "slug": "jinchuan",
   "name": {
    "zh": "今穿",
@@ -25401,6 +27434,25 @@
    "AI试衣"
   ],
   "visits": 0
+ },
+ {
+  "slug": "jobhire",
+  "name": {
+   "zh": "JobHire.AI",
+   "en": "JobHire.AI"
+  },
+  "desc": {
+   "zh": "主打自动投递的 AI 求职工具，上传简历并设定偏好后按条件批量申请岗位、自动改写简历与生成求职信，官网称每月覆盖百万级职位，目前仅做美国岗位。",
+   "en": ""
+  },
+  "category": "life",
+  "url": "https://jobhire.ai",
+  "tags": [
+   "自动投递",
+   "求职自动化",
+   "美国岗位"
+  ],
+  "visits": 202544
  },
  {
   "slug": "karpo",
@@ -25458,6 +27510,44 @@
    "真人顾问"
   ],
   "visits": 265796
+ },
+ {
+  "slug": "lazyapply",
+  "name": {
+   "zh": "LazyApply",
+   "en": "LazyApply"
+  },
+  "desc": {
+   "zh": "把投递动作自动化的求职工具，官网称一次点击即可在 Indeed、Greenhouse 等平台批量申请并自动填表，还会向目标公司员工发送内推邮件，年费按每日投递量分档。",
+   "en": ""
+  },
+  "category": "life",
+  "url": "https://www.lazyapply.com",
+  "tags": [
+   "批量投递",
+   "内推邮件",
+   "求职自动化"
+  ],
+  "visits": 157527
+ },
+ {
+  "slug": "lifestack",
+  "name": {
+   "zh": "Lifestack",
+   "en": "Lifestack"
+  },
+  "desc": {
+   "zh": "按精力节律排日程的 AI 规划工具，读取睡眠、恢复与专注数据，把重要任务放进高能量时段，官方标题标注其面向注意力易分散的 ADHD 人群。",
+   "en": ""
+  },
+  "category": "life",
+  "url": "https://lifestack.ai",
+  "tags": [
+   "精力管理",
+   "日程规划",
+   "ADHD"
+  ],
+  "visits": 196424
  },
  {
   "slug": "lumi",
@@ -27246,6 +29336,25 @@
   "visits": 99907
  },
  {
+  "slug": "fastbots",
+  "name": {
+   "zh": "FastBots.ai",
+   "en": "FastBots.ai"
+  },
+  "desc": {
+   "zh": "面向网站的无代码 AI 客服机器人搭建工具，可导入网址、文档与视频作为知识库，并部署到 WhatsApp、Instagram、Slack 等渠道，官方称提供 14 天免费试用。",
+   "en": ""
+  },
+  "category": "enterprise",
+  "url": "https://fastbots.ai",
+  "tags": [
+   "网站客服",
+   "知识库问答",
+   "多渠道路由"
+  ],
+  "visits": 100084
+ },
+ {
   "slug": "fastgpt",
   "name": {
    "zh": "FastGPT",
@@ -27529,6 +29638,25 @@
    "RPA"
   ],
   "visits": 32028
+ },
+ {
+  "slug": "landbot",
+  "name": {
+   "zh": "Landbot",
+   "en": "Landbot"
+  },
+  "desc": {
+   "zh": "对话式建站与客服工具，用可视化流程加 AI 智能体搭建网站与 WhatsApp 机器人，官网称 15 分钟可上线首个智能体，线索可直接写入 CRM。",
+   "en": ""
+  },
+  "category": "enterprise",
+  "url": "https://landbot.io",
+  "tags": [
+   "对话式营销",
+   "无代码",
+   "线索转化"
+  ],
+  "visits": 127736
  },
  {
   "slug": "lindy",
@@ -28025,6 +30153,25 @@
   "visits": 0
  },
  {
+  "slug": "superchat",
+  "name": {
+   "zh": "Superchat",
+   "en": "Superchat"
+  },
+  "desc": {
+   "zh": "德国 SuperX 推出的企业客户沟通平台，把 WhatsApp、Instagram、邮件与电话汇入同一个收件箱，AI 智能体可自动应答并按规则转人工，符合 GDPR。",
+   "en": ""
+  },
+  "category": "enterprise",
+  "url": "https://superchat.com",
+  "tags": [
+   "客户沟通",
+   "WhatsApp",
+   "统一收件箱"
+  ],
+  "visits": 134307
+ },
+ {
   "slug": "tezign",
   "name": {
    "zh": "特赞",
@@ -28346,6 +30493,25 @@
    "品牌营销"
   ],
   "visits": 13174
+ },
+ {
+  "slug": "adpexai",
+  "name": {
+   "zh": "AdpexAI",
+   "en": "AdpexAI"
+  },
+  "desc": {
+   "zh": "一站式 AI 图像与视频工具箱，官方称可用文字、图片或视频作输入来生成与编辑，内含换脸、风格特效、抠图增强与多模型对话入口。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://adpexai.com",
+  "tags": [
+   "换脸工具",
+   "图片编辑",
+   "模型聚合"
+  ],
+  "visits": 175186
  },
  {
   "slug": "adroll",
@@ -28956,6 +31122,25 @@
   "visits": 15206
  },
  {
+  "slug": "koupon",
+  "name": {
+   "zh": "Koupon.ai",
+   "en": "Koupon.ai"
+  },
+  "desc": {
+   "zh": "面向美国用户的折扣信息聚合站，官方称每日整理亚马逊促销码与精选优惠，按品类与品牌分区，榜单每三小时更新，并设有优惠核验说明。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://www.koupon.ai",
+  "tags": [
+   "亚马逊折扣",
+   "优惠券",
+   "海淘比价"
+  ],
+  "visits": 797664
+ },
+ {
   "slug": "kuxuan-ai",
   "name": {
    "zh": "酷宣AI",
@@ -29317,6 +31502,25 @@
   "visits": 11239
  },
  {
+  "slug": "photog",
+  "name": {
+   "zh": "PhotoG",
+   "en": "PhotoG"
+  },
+  "desc": {
+   "zh": "橙果视界推出的中文 AI 图像生成工具，基于 orandiffusion 模型，输入一句描述即可出图，提供多种画幅与胶片、电影感风格，成片自动归档。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://photog.art",
+  "tags": [
+   "中文出图",
+   "胶片质感",
+   "暗房画廊"
+  ],
+  "visits": 2708
+ },
+ {
   "slug": "pic-copilot",
   "name": {
    "zh": "Pic Copilot",
@@ -29640,6 +31844,25 @@
   "visits": 119565
  },
  {
+  "slug": "thebrief",
+  "name": {
+   "zh": "The Brief",
+   "en": "The Brief"
+  },
+  "desc": {
+   "zh": "品牌向 AI 广告创作平台，官方称把生成、改尺寸、投放与优化放在一处，可导入 PSD 与 Figma，直投 40 多个广告网络。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://www.thebrief.ai",
+  "tags": [
+   "广告素材",
+   "批量改尺寸",
+   "多网络投放"
+  ],
+  "visits": 198235
+ },
+ {
   "slug": "toffu-ai",
   "name": {
    "zh": "Toffu AI",
@@ -29754,6 +31977,25 @@
   "visits": 296865
  },
  {
+  "slug": "wizgenerator",
+  "name": {
+   "zh": "WizGenerator",
+   "en": "WizGenerator"
+  },
+  "desc": {
+   "zh": "免费的 AI 生成器合集，官方称收录百余个按场景分类的小工具，覆盖写作、视觉、商务与学习，用填表替代提示词，无需注册即可出结果。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://wizgenerator.com",
+  "tags": [
+   "生成器合集",
+   "免注册",
+   "表单出稿"
+  ],
+  "visits": 639209
+ },
+ {
   "slug": "workus",
   "name": {
    "zh": "Workus",
@@ -29847,6 +32089,25 @@
    "电商投放"
   ],
   "visits": 1214180
+ },
+ {
+  "slug": "zernio",
+  "name": {
+   "zh": "Zernio",
+   "en": "Zernio"
+  },
+  "desc": {
+   "zh": "面向 AI 智能体的营销基础设施，一个 API 打通社交发布、广告投放与短信通话，官方称只接官方接口并自带 MCP 服务，两个账号以内免费。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://zernio.com",
+  "tags": [
+   "营销API",
+   "MCP服务",
+   "多平台投放"
+  ],
+  "visits": 426583
  },
  {
   "slug": "abridge",
@@ -30058,6 +32319,25 @@
   "visits": 45098
  },
  {
+  "slug": "fitnessai",
+  "name": {
+   "zh": "FitnessAI",
+   "en": "FitnessAI"
+  },
+  "desc": {
+   "zh": "以力量训练为核心的 AI 健身应用，按真实训练数据推算每次的组数、次数与重量，并随表现自动调整强度，官方称其模型基于超过 1 亿组训练记录。",
+   "en": ""
+  },
+  "category": "health",
+  "url": "https://fitnessai.com",
+  "tags": [
+   "力量训练",
+   "渐进超负荷",
+   "训练计划"
+  ],
+  "visits": 231305
+ },
+ {
   "slug": "freed",
   "name": {
    "zh": "Freed",
@@ -30265,6 +32545,25 @@
    "诊所管理"
   ],
   "visits": 239264
+ },
+ {
+  "slug": "planfit",
+  "name": {
+   "zh": "Planfit",
+   "en": "Planfit"
+  },
+  "desc": {
+   "zh": "面向健身房新手的 AI 私教应用，填写水平、目标与器械条件后生成训练计划，配视频示范、语音口令与训练记录，官方称基础计划永久免费。",
+   "en": ""
+  },
+  "category": "health",
+  "url": "https://planfit.ai",
+  "tags": [
+   "健身新手",
+   "AI私教",
+   "动作示范"
+  ],
+  "visits": 133352
  },
  {
   "slug": "shukun",
@@ -30571,6 +32870,25 @@
   "visits": 47503
  },
  {
+  "slug": "fastmoss",
+  "name": {
+   "zh": "FastMoss",
+   "en": "FastMoss"
+  },
+  "desc": {
+   "zh": "面向 TikTok 电商的数据分析平台，覆盖商品、达人、店铺、直播、视频、广告与品类大盘七个维度，并提供广告素材洞察、AI 脚本分析与达人建联管理工具。",
+   "en": ""
+  },
+  "category": "biz-research",
+  "url": "https://fastmoss.com",
+  "tags": [
+   "TikTok选品",
+   "达人营销",
+   "电商数据"
+  ],
+  "visits": 841326
+ },
+ {
   "slug": "feigua",
   "name": {
    "zh": "飞瓜数据",
@@ -30607,6 +32925,25 @@
    "融媒体"
   ],
   "visits": 146401
+ },
+ {
+  "slug": "ideabrowser",
+  "name": {
+   "zh": "Ideabrowser.com",
+   "en": "Ideabrowser.com"
+  },
+  "desc": {
+   "zh": "由 Late Checkout 团队推出的商机发现工具，每天免费给出一条经调研的创业点子与完整市场报告，点子库收录近两千条，可按热门趋势与细分领域筛选。",
+   "en": ""
+  },
+  "category": "biz-research",
+  "url": "https://www.ideabrowser.com",
+  "tags": [
+   "创业点子",
+   "商机调研",
+   "搜索趋势"
+  ],
+  "visits": 226057
  },
  {
   "slug": "mktindex",
@@ -30818,6 +33155,25 @@
   "visits": 266313
  },
  {
+  "slug": "bing-translator",
+  "name": {
+   "zh": "必应翻译",
+   "en": "必应翻译"
+  },
+  "desc": {
+   "zh": "微软提供的免费在线翻译服务，官方称支持 100 多种语言、每天有数百万人使用，提供文本翻译、多种译法、对话模式与多端应用，小语种覆盖较广。",
+   "en": ""
+  },
+  "category": "edu-translate",
+  "url": "https://www.bing.com/translator",
+  "tags": [
+   "多语种翻译",
+   "文本翻译",
+   "对话翻译"
+  ],
+  "visits": 3562472766
+ },
+ {
   "slug": "bobtranslate",
   "name": {
    "zh": "Bob",
@@ -30968,6 +33324,25 @@
    "口译"
   ],
   "visits": 30207
+ },
+ {
+  "slug": "felo-translator",
+  "name": {
+   "zh": "Felo Translator",
+   "en": "Felo Translator"
+  },
+  "desc": {
+   "zh": "Felo 推出的同声传译应用，官方称支持 16 种语言互译，边识别语种边转录并翻译语音，可听译文朗读或看屏幕文字，已通过 ISO/IEC 27001 认证。",
+   "en": ""
+  },
+  "category": "edu-translate",
+  "url": "https://felo.me/zh-CN/translator",
+  "tags": [
+   "实时翻译",
+   "同声传译",
+   "语音转录"
+  ],
+  "visits": 75152
  },
  {
   "slug": "free-doc-translator",
@@ -31291,6 +33666,25 @@
    "多语种"
   ],
   "visits": 34302
+ },
+ {
+  "slug": "miraitranslate",
+  "name": {
+   "zh": "Mirai Translator",
+   "en": "Mirai Translator"
+  },
+  "desc": {
+   "zh": "日本团队做的企业级 AI 机器翻译服务，官方称精度达托业 960 分水平，已取得 ISO 27001 与 27017 认证，提供会议翻译、视频字幕、专利模型与 API。",
+   "en": ""
+  },
+  "category": "edu-translate",
+  "url": "https://miraitranslate.com",
+  "tags": [
+   "日语翻译",
+   "企业级翻译",
+   "会议同传"
+  ],
+  "visits": 210942
  },
  {
   "slug": "niutrans",
@@ -31920,6 +34314,25 @@
   "visits": 18739
  },
  {
+  "slug": "achievable",
+  "name": {
+   "zh": "Achievable",
+   "en": "Achievable"
+  },
+  "desc": {
+   "zh": "面向职业资格考试的在线备考平台，覆盖金融牌照、保险、医护与大学入学等方向，官方称用自适应算法按记忆曲线安排复习，首次未通过可退款。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://achievable.me",
+  "tags": [
+   "职业资格考试",
+   "自适应复习",
+   "金融牌照"
+  ],
+  "visits": 537341
+ },
+ {
   "slug": "agi",
   "name": {
    "zh": "通往 AGI 之路",
@@ -31975,6 +34388,25 @@
    "大模型课程"
   ],
   "visits": 20994
+ },
+ {
+  "slug": "aifiesta",
+  "name": {
+   "zh": "AI Fiesta",
+   "en": "AI Fiesta"
+  },
+  "desc": {
+   "zh": "由 Y Combinator 校友团队打造的 AI 聚合平台，一个订阅可用 100 多个模型，并配图像、视频、网站与幻灯片四类创作工作室，官方称支持同题对比与共识答案。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://aifiesta.ai",
+  "tags": [
+   "多模型聚合",
+   "模型对比",
+   "AI建站"
+  ],
+  "visits": 821752
  },
  {
   "slug": "aithor",
@@ -32186,6 +34618,25 @@
   "visits": 199580
  },
  {
+  "slug": "astra-ai",
+  "name": {
+   "zh": "Astra AI",
+   "en": "Astra AI"
+  },
+  "desc": {
+   "zh": "面向学生的 AI 家教与备考应用，官方称可按笔记、课件和真题生成分主题学习计划，提供闪卡、测验、播客与口试笔试模拟，覆盖数学、物理、化学等学科。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://astra-ai.co",
+  "tags": [
+   "AI家教",
+   "考试备考",
+   "模拟测验"
+  ],
+  "visits": 5241667
+ },
+ {
   "slug": "auralix",
   "name": {
    "zh": "Auralix",
@@ -32260,6 +34711,25 @@
    "错题本"
   ],
   "visits": 3262344
+ },
+ {
+  "slug": "breakoutlearning",
+  "name": {
+   "zh": "Breakout Learning",
+   "en": "Breakout Learning"
+  },
+  "desc": {
+   "zh": "面向高校教师的 AI 讨论式教学平台，把讨论板换成小组或一对一的语音讨论，再由 AI 给出即时反馈与评分指标，官方称已有 320 多所院校使用。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://breakoutlearning.com",
+  "tags": [
+   "课堂讨论",
+   "口语评估",
+   "高校教学"
+  ],
+  "visits": 135565
  },
  {
   "slug": "brisk-teaching",
@@ -32374,6 +34844,25 @@
    "智能体"
   ],
   "visits": 5327980
+ },
+ {
+  "slug": "chatgot",
+  "name": {
+   "zh": "Chatgot",
+   "en": "Chatgot"
+  },
+  "desc": {
+   "zh": "免登录即可使用的在线 AI 聊天助手，官方称可切换 GPT、Claude、Gemini 等模型，支持 PDF 对话、AI 写作、绘图与自定义助手，并提供浏览器扩展。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://www.chatgot.io",
+  "tags": [
+   "免登录",
+   "PDF对话",
+   "自定义助手"
+  ],
+  "visits": 167939
  },
  {
   "slug": "chathub",
@@ -32507,6 +34996,25 @@
    "学情洞察"
   ],
   "visits": 486371
+ },
+ {
+  "slug": "cognitoedu",
+  "name": {
+   "zh": "Cognito",
+   "en": "Cognito"
+  },
+  "desc": {
+   "zh": "面向英国与国际中学考试体系的免费复习平台，官方称覆盖 300 多门课程、15 个学科，提供视频课、复习笔记、随堂测验、闪卡与真题练习。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://cognitoedu.org",
+  "tags": [
+   "GCSE复习",
+   "视频课程",
+   "免费题库"
+  ],
+  "visits": 147365
  },
  {
   "slug": "conbrie",
@@ -32697,6 +35205,25 @@
    "推理"
   ],
   "visits": 357399386
+ },
+ {
+  "slug": "deepsider",
+  "name": {
+   "zh": "DeepSider",
+   "en": "DeepSider"
+  },
+  "desc": {
+   "zh": "嵌在浏览器侧边栏的 AI 对话工具，官方称可在任意网页直接调用 GPT、Claude、Gemini 等模型，支持文档对话、网页问答、翻译与代码生成，并提供扩展与离线安装。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://www.deepsider.ai",
+  "tags": [
+   "浏览器侧边栏",
+   "网页问答",
+   "多模型"
+  ],
+  "visits": 38183
  },
  {
   "slug": "detpractice",
@@ -33134,6 +35661,25 @@
    "多模态"
   ],
   "visits": 2641252633
+ },
+ {
+  "slug": "gemini-storybook",
+  "name": {
+   "zh": "Gemini Storybook",
+   "en": "Gemini Storybook"
+  },
+  "desc": {
+   "zh": "Google 在 Gemini 中提供的绘本生成功能，描述故事或上传照片文档即可生成十页图文故事并配朗读旁白，官方称支持 45 种以上语言，可阅读、收听、打印与分享。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://gemini.google/overview/storybook",
+  "tags": [
+   "绘本生成",
+   "朗读旁白",
+   "多语言故事"
+  ],
+  "visits": 51716257
  },
  {
   "slug": "gizai",
@@ -34314,6 +36860,25 @@
   "visits": 85023
  },
  {
+  "slug": "multiplechat",
+  "name": {
+   "zh": "MultipleChat",
+   "en": "MultipleChat"
+  },
+  "desc": {
+   "zh": "把多家前沿模型收进一份月费订阅的 AI 工作台，官方称可用 ChatGPT、Claude、Gemini 等对话模型，支持最多四个模型并排对比、AI 团队协作与文档表格生成。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://multiple.chat",
+  "tags": [
+   "多模型对比",
+   "AI订阅",
+   "团队协作"
+  ],
+  "visits": 168227
+ },
+ {
   "slug": "myketi",
   "name": {
    "zh": "猫眼课题宝",
@@ -34428,6 +36993,25 @@
   "visits": 88
  },
  {
+  "slug": "okara",
+  "name": {
+   "zh": "Okara",
+   "en": "Okara"
+  },
+  "desc": {
+   "zh": "面向早期创业团队的 AI 首席营销官，先调研产品与竞品生成策略文档，再由 SEO、Reddit、X、LinkedIn 等十余个智能体分渠道执行，官方称可对接建站与社媒工具直接发布。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://okara.ai",
+  "tags": [
+   "AI CMO",
+   "SEO",
+   "Reddit营销"
+  ],
+  "visits": 200437
+ },
+ {
   "slug": "omnisets",
   "name": {
    "zh": "Omnisets",
@@ -34485,6 +37069,25 @@
   "visits": 973495
  },
  {
+  "slug": "packback",
+  "name": {
+   "zh": "Packback",
+   "en": "Packback"
+  },
+  "desc": {
+   "zh": "面向高校与 K-12 的学习智能平台，官方称评估学习过程而非只看成品，提供讨论、实时写作反馈与原创性检测，并可通过 LTI 接入学校现有教学系统。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://packback.co",
+  "tags": [
+   "教学AI",
+   "写作反馈",
+   "学术诚信"
+  ],
+  "visits": 867925
+ },
+ {
   "slug": "pangzheng",
   "name": {
    "zh": "庞征博引",
@@ -34540,6 +37143,25 @@
    "备考"
   ],
   "visits": 110797
+ },
+ {
+  "slug": "perchance",
+  "name": {
+   "zh": "Perchance AI",
+   "en": "Perchance AI"
+  },
+  "desc": {
+   "zh": "Perchance 是一个免注册的在线随机生成器平台，用户可创建并公开发布文本、AI 聊天与角色扮演类生成器，官方页面标题称免费、无需注册且不限量使用。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://perchance.org/welcome",
+  "tags": [
+   "随机生成器",
+   "AI角色扮演",
+   "免注册"
+  ],
+  "visits": 26105526
  },
  {
   "slug": "pickle-glass",
@@ -34637,6 +37259,25 @@
   "visits": 620100
  },
  {
+  "slug": "qanda",
+  "name": {
+   "zh": "QANDA",
+   "en": "QANDA"
+  },
+  "desc": {
+   "zh": "韩国 Mathpresso 推出的全学科学习问答应用，以对话方式提交题目并获得解题过程与讲解，配历史记录与学习专区，官方称可在手机端随时使用。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://qanda.ai",
+  "tags": [
+   "解题答疑",
+   "全学科",
+   "学习助手"
+  ],
+  "visits": 120086
+ },
+ {
   "slug": "quizgecko",
   "name": {
    "zh": "Quizgecko",
@@ -34711,6 +37352,25 @@
    "AI综述"
   ],
   "visits": 163158
+ },
+ {
+  "slug": "raena",
+  "name": {
+   "zh": "Raena AI",
+   "en": "Raena AI"
+  },
+  "desc": {
+   "zh": "把笔记、PDF、幻灯片或视频一键转成课程的 AI 学习工具，官方称可同时生成讲义、测验、闪卡、播客与游戏化练习，并围绕考试日期安排学习路径。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://raena.ai",
+  "tags": [
+   "笔记转课程",
+   "闪卡测验",
+   "播客复习"
+  ],
+  "visits": 111779
  },
  {
   "slug": "raycast",
@@ -34806,6 +37466,25 @@
    "角色扮演"
   ],
   "visits": 228922
+ },
+ {
+  "slug": "ryne",
+  "name": {
+   "zh": "Ryne AI",
+   "en": "Ryne AI"
+  },
+  "desc": {
+   "zh": "面向学生的英文写作辅助工具，主打把 AI 生成的文本改写得更像人工写作，并给出 AI 检测分数与抄袭相似度报告，另含论文写作、讲座整理与文献核对。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://ryne.ai",
+  "tags": [
+   "AI改写",
+   "论文写作",
+   "AI检测"
+  ],
+  "visits": 200727
  },
  {
   "slug": "saylo",
@@ -35207,6 +37886,25 @@
   "visits": 1993215
  },
  {
+  "slug": "tarteel",
+  "name": {
+   "zh": "Tarteel",
+   "en": "Tarteel"
+  },
+  "desc": {
+   "zh": "用 AI 辅助古兰经背诵的应用，官方称可实时识别背诵中漏读、错读与跳过的词并即时提醒，另提供背诵计划、目标追踪与订阅版，帮助用户按自己的节奏记忆。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://www.tarteel.ai",
+  "tags": [
+   "古兰经背诵",
+   "实时纠错",
+   "背诵计划"
+  ],
+  "visits": 557449
+ },
+ {
   "slug": "teacher-ai",
   "name": {
    "zh": "Teacher AI",
@@ -35224,6 +37922,25 @@
    "AI分身"
   ],
   "visits": 71377
+ },
+ {
+  "slug": "teachmint",
+  "name": {
+   "zh": "Teachmint",
+   "en": "Teachmint"
+  },
+  "desc": {
+   "zh": "面向学校的智慧课堂方案，官网主推通过 Google EDLA 认证的课堂设备，内置 AI 教学助手，覆盖备课、课堂互动、自动批改与设备管理，官方称支持 90 种以上语言。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://teachmint.com",
+  "tags": [
+   "智慧课堂",
+   "AI白板",
+   "课堂设备"
+  ],
+  "visits": 592784
  },
  {
   "slug": "thetawave-ai",
@@ -35359,6 +38076,25 @@
   "visits": 472339
  },
  {
+  "slug": "uplearn",
+  "name": {
+   "zh": "Up Learn",
+   "en": "Up Learn"
+  },
+  "desc": {
+   "zh": "英国 A-Level 与 GCSE 备考平台，官方称课程由学科专家编写、按考试局考纲对齐，并用自适应算法定位知识缺口，完成课程后成绩未提升可全额退款。",
+   "en": ""
+  },
+  "category": "learning",
+  "url": "https://uplearn.co.uk",
+  "tags": [
+   "A-Level备考",
+   "自适应学习",
+   "退款保障"
+  ],
+  "visits": 897957
+ },
+ {
   "slug": "vapi-ai",
   "name": {
    "zh": "Vapi",
@@ -35492,6 +38228,25 @@
   "visits": 223861
  },
  {
+  "slug": "wrtn",
+  "name": {
+   "zh": "Wrtn",
+   "en": "Wrtn"
+  },
+  "desc": {
+   "zh": "韩国 Wrtn Technologies 推出的 AI 助手，一个账号可切换 GPT、Claude、Gemini 等多家模型，官方称针对韩语表达做过优化，并提供联网搜索与文档分析。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://wrtn.ai",
+  "tags": [
+   "多模型切换",
+   "韩语助手",
+   "AI搜索"
+  ],
+  "visits": 5347153
+ },
+ {
   "slug": "wukong-ai",
   "name": {
    "zh": "小悟空",
@@ -35585,6 +38340,25 @@
    "自主学习"
   ],
   "visits": 1924
+ },
+ {
+  "slug": "yeschat",
+  "name": {
+   "zh": "Yeschat",
+   "en": "Yeschat"
+  },
+  "desc": {
+   "zh": "聚合 GPT、Claude、Gemini 等模型的 AI 对话与智能体平台，可读 PDF、Excel 并联网检索，另提供图像、视频与音乐生成，官方称免费版每天 15 条消息。",
+   "en": ""
+  },
+  "category": "chatbot",
+  "url": "https://www.yeschat.ai",
+  "tags": [
+   "多模型对话",
+   "文件处理",
+   "AI音乐生成"
+  ],
+  "visits": 172141
  },
  {
   "slug": "yoodli",
@@ -36651,6 +39425,25 @@
   "visits": 0
  },
  {
+  "slug": "dropbox-dash",
+  "name": {
+   "zh": "Dropbox Dash",
+   "en": "Dropbox Dash"
+  },
+  "desc": {
+   "zh": "Dropbox 推出的企业搜索与内容管理工具，把云盘、协作与项目管理应用接进一个入口做统一检索和问答，并在其上叠加统一的访问权限控制。",
+   "en": ""
+  },
+  "category": "notes",
+  "url": "https://dash.dropbox.com",
+  "tags": [
+   "企业搜索",
+   "跨应用检索",
+   "权限管理"
+  ],
+  "visits": 42279
+ },
+ {
   "slug": "eightify",
   "name": {
    "zh": "Eightify",
@@ -36999,7 +39792,7 @@
    "en": "Kuse AI"
   },
   "desc": {
-   "zh": "Kuse 是 AI 工作空间，可连接你的文件与应用，在数秒内生成文档、表格与演示，并把每日重复的流程配置成自动运行的工作流，官方称提供 1800 免费积分。",
+   "zh": "AI 工作空间，用一句人话描述重复性工作就能搭成定时运行的流程，同时生成文档、表格、演示文稿与网页，官方称注册可领 1,800 免费积分。",
    "en": ""
   },
   "category": "notes",
@@ -37143,6 +39936,25 @@
    "协作"
   ],
   "visits": 139153
+ },
+ {
+  "slug": "memorae",
+  "name": {
+   "zh": "Memorae",
+   "en": "Memorae"
+  },
+  "desc": {
+   "zh": "定位为架在所有应用之上的记忆层，接收随手写下的文字、语音、照片或链接，自动整理成提醒、日程与草稿，官方称可在 WhatsApp、Telegram 里直接使用。",
+   "en": ""
+  },
+  "category": "notes",
+  "url": "https://memorae.ai",
+  "tags": [
+   "记忆助手",
+   "自动提醒",
+   "语义归档"
+  ],
+  "visits": 181406
  },
  {
   "slug": "memories-ai",
@@ -37829,6 +40641,25 @@
   "visits": 288403
  },
  {
+  "slug": "tldrthis",
+  "name": {
+   "zh": "TLDR This",
+   "en": "TLDR This"
+  },
+  "desc": {
+   "zh": "免费在线文章摘要工具，粘贴网址、正文或上传 PDF、Word 文件即可生成要点，并抽取作者、日期与阅读时长，官方称会自动去掉广告与弹窗。",
+   "en": ""
+  },
+  "category": "notes",
+  "url": "https://tldrthis.com",
+  "tags": [
+   "文章摘要",
+   "网页阅读",
+   "PDF 总结"
+  ],
+  "visits": 103903
+ },
+ {
   "slug": "tolaria",
   "name": {
    "zh": "Tolaria",
@@ -38264,6 +41095,25 @@
    "社区"
   ],
   "visits": 31232542
+ },
+ {
+  "slug": "ithy",
+  "name": {
+   "zh": "Ithy",
+   "en": "Ithy"
+  },
+  "desc": {
+   "zh": "把多个独立 AI 的答案并排展示的研究工具，快速模式给出聚焦回答，深度研究模式让两到三个模型分别作答再合成带引用的文章，可对比观点并回溯来源。",
+   "en": ""
+  },
+  "category": "data-research",
+  "url": "https://ithy.com",
+  "tags": [
+   "多模型对比",
+   "深度研究",
+   "来源溯源"
+  ],
+  "visits": 192547
  },
  {
   "slug": "ixueshu",
@@ -38929,6 +41779,25 @@
    "托管服务"
   ],
   "visits": 283036
+ },
+ {
+  "slug": "1min",
+  "name": {
+   "zh": "1min.AI",
+   "en": "1min.AI"
+  },
+  "desc": {
+   "zh": "一站式 AI 工具平台，把多模型对话、写作、图像、音视频与翻译收进一个订阅，官方称注册即用、每日可领免费额度，并声明不会用用户数据训练模型。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://1min.ai",
+  "tags": [
+   "AI工具箱",
+   "多模型对话",
+   "一站式订阅"
+  ],
+  "visits": 627948
  },
  {
   "slug": "302-ai",
@@ -40033,6 +42902,44 @@
   "visits": 45739
  },
  {
+  "slug": "excelmatic",
+  "name": {
+   "zh": "Excelmatic",
+   "en": "Excelmatic"
+  },
+  "desc": {
+   "zh": "官网现以 RowSpeak 品牌运营的 AI 表格分析工具，可读取 Excel、CSV、PDF 与表格截图，用自然语言做清洗、图表、仪表盘和报告，并支持 Docker 私有化部署。",
+   "en": ""
+  },
+  "category": "data-processing",
+  "url": "https://excelmatic.ai",
+  "tags": [
+   "表格分析",
+   "数据清洗",
+   "私有化部署"
+  ],
+  "visits": 73621
+ },
+ {
+  "slug": "explainx",
+  "name": {
+   "zh": "explainx ai",
+   "en": "explainx ai"
+  },
+  "desc": {
+   "zh": "AI 学习平台，官方称提供自适应学习路径与 AI 导师，配直播工作坊和 20 多个动手训练营，另有十万级工具目录与 50 多门自学课程，基础内容免费。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://explainx.ai",
+  "tags": [
+   "AI学习",
+   "直播工作坊",
+   "训练营"
+  ],
+  "visits": 574571
+ },
+ {
   "slug": "fellou",
   "name": {
    "zh": "Fellou",
@@ -40185,6 +43092,25 @@
   "visits": 13588
  },
  {
+  "slug": "formulabot",
+  "name": {
+   "zh": "Formula Bot",
+   "en": "Formula Bot"
+  },
+  "desc": {
+   "zh": "原 Formula Bot，现更名 Better Analyst 的一站式分析应用，接入表格与数据库后用自然语言提问，可生成仪表盘、定时报告与指标告警。",
+   "en": ""
+  },
+  "category": "data-processing",
+  "url": "https://www.formulabot.com",
+  "tags": [
+   "对话式分析",
+   "BI仪表盘",
+   "数据连接"
+  ],
+  "visits": 113060
+ },
+ {
   "slug": "formx-ai",
   "name": {
    "zh": "FormX.ai",
@@ -40240,6 +43166,25 @@
    "多语言故事"
   ],
   "visits": 24120
+ },
+ {
+  "slug": "getaigist",
+  "name": {
+   "zh": "AI Gist",
+   "en": "AI Gist"
+  },
+  "desc": {
+   "zh": "免费开源的本地优先提示词管理工具，支持变量填充与 Jinja 模板，可接本地模型生成和改写提示词，数据默认保存在本机、不强制上云。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://getaigist.com",
+  "tags": [
+   "本地提示词库",
+   "变量填充",
+   "开源"
+  ],
+  "visits": 2553
  },
  {
   "slug": "gitdiagram",
@@ -40373,6 +43318,25 @@
    "自然语言"
   ],
   "visits": 14607
+ },
+ {
+  "slug": "graphy",
+  "name": {
+   "zh": "Graphy",
+   "en": "Graphy"
+  },
+  "desc": {
+   "zh": "官方称 AI Graph Maker 的在线图表工具，可接在线表格、上传 CSV 或让 AI 找数据，自动挑出洞察并套用品牌配色，再导出成幻灯片、社交图或嵌入网页。",
+   "en": ""
+  },
+  "category": "data-processing",
+  "url": "https://graphy.app",
+  "tags": [
+   "图表生成",
+   "数据故事",
+   "品牌配色"
+  ],
+  "visits": 110839
  },
  {
   "slug": "grokipedia",
@@ -40679,6 +43643,25 @@
   "visits": 5347
  },
  {
+  "slug": "kie",
+  "name": {
+   "zh": "Kie.ai",
+   "en": "Kie.ai"
+  },
+  "desc": {
+   "zh": "AI 模型 API 聚合平台，把 OpenAI 的 4o 图像模型封装成统一接口，支持文生图与图片编辑，官方称每张约 0.03 美元，并提供免费试用额度。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://kie.ai/4o-image-api",
+  "tags": [
+   "图像API",
+   "开发者接口",
+   "按张计费"
+  ],
+  "visits": 2933655
+ },
+ {
   "slug": "klu-ai",
   "name": {
    "zh": "Klu.ai",
@@ -40696,6 +43679,25 @@
    "效果监控"
   ],
   "visits": 21146
+ },
+ {
+  "slug": "krater",
+  "name": {
+   "zh": "Krater",
+   "en": "Krater"
+  },
+  "desc": {
+   "zh": "一体化 AI 工作空间，官方称一份订阅可用 ChatGPT、Claude、Gemini 等 500 多个模型，并配能自主执行任务的 Agent、图像视频生成与千余应用连接。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://www.krater.ai",
+  "tags": [
+   "AI工作空间",
+   "多模型聚合",
+   "Agent任务"
+  ],
+  "visits": 170753
  },
  {
   "slug": "krene",
@@ -40888,6 +43890,25 @@
   "visits": 117154
  },
  {
+  "slug": "magisterium",
+  "name": {
+   "zh": "Magisterium AI",
+   "en": "Magisterium AI"
+  },
+  "desc": {
+   "zh": "专注天主教内容的问答工具，官方称资料库覆盖三万多份文献，回答带内联引用，并提供圣经注释、圣人数据库与教区统计，已在 190 多个国家使用。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://magisterium.com",
+  "tags": [
+   "天主教",
+   "教义问答",
+   "文献检索"
+  ],
+  "visits": 625214
+ },
+ {
   "slug": "maoxiang",
   "name": {
    "zh": "猫箱",
@@ -40964,6 +43985,25 @@
   "visits": 137024
  },
  {
+  "slug": "mimicpc",
+  "name": {
+   "zh": "MimicPC",
+   "en": "MimicPC"
+  },
+  "desc": {
+   "zh": "把开源 AI 应用搬到浏览器的云平台，官方称预装 ComfyUI、SD WebUI 等工具，可生成图像视频音频、训练 LoRA 并上传自定义模型，注册免费。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://www.mimicpc.com",
+  "tags": [
+   "云端ComfyUI",
+   "LoRA训练",
+   "开源AI"
+  ],
+  "visits": 232260
+ },
+ {
   "slug": "minimax-hub",
   "name": {
    "zh": "MiniMax Hub",
@@ -41019,6 +44059,25 @@
    "官网生成"
   ],
   "visits": 189809
+ },
+ {
+  "slug": "moonvy",
+  "name": {
+   "zh": "Open Prompt Studio",
+   "en": "Open Prompt Studio"
+  },
+  "desc": {
+   "zh": "Moonvy 月维做的网页版提示词编辑器，把 Midjourney 提示词拆成词条做中英对照，支持一键翻译、复制与导出 PNG，无需安装即可使用。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://moonvy.com/apps/ops",
+  "tags": [
+   "提示词编辑",
+   "中英对照",
+   "Midjourney"
+  ],
+  "visits": 141459
  },
  {
   "slug": "namistory",
@@ -41190,6 +44249,25 @@
    "求职工具"
   ],
   "visits": 2141
+ },
+ {
+  "slug": "ofox",
+  "name": {
+   "zh": "OfoxAI",
+   "en": "OfoxAI"
+  },
+  "desc": {
+   "zh": "大模型 API 聚合服务，官方称一个 Key 可接入 GPT、Claude、Gemini 等 100 多个模型，另有视频与图像模型，标注 99.9% 可用性，3 分钟完成接入。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://ofox.ai",
+  "tags": [
+   "大模型API",
+   "多模型接入",
+   "视频生成API"
+  ],
+  "visits": 212663
  },
  {
   "slug": "onethingai",
@@ -41629,6 +44707,25 @@
   "visits": 90075
  },
  {
+  "slug": "promptmatic",
+  "name": {
+   "zh": "Promptmatic",
+   "en": "Promptmatic"
+  },
+  "desc": {
+   "zh": "ChatGPT 的 Chrome 扩展，内置约 2900 条现成提示词模板，可用角色、指令、风格与语气预设快速拼装，并收藏常用 GPT。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://promptmatic.ai",
+  "tags": [
+   "ChatGPT 扩展",
+   "提示词模板",
+   "GPT 收藏"
+  ],
+  "visits": 2183
+ },
+ {
   "slug": "promptmetheus",
   "name": {
    "zh": "Promptmetheus",
@@ -41646,6 +44743,25 @@
    "模型横评"
   ],
   "visits": 22005
+ },
+ {
+  "slug": "promptpanda",
+  "name": {
+   "zh": "PromptPanda",
+   "en": "PromptPanda"
+  },
+  "desc": {
+   "zh": "面向市场与增长团队的 AI 提示词管理系统，可集中存放提示词、统一品牌语气，官方称提供提示词评分、动态变量与浏览器扩展。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://www.promptpanda.io",
+  "tags": [
+   "提示词管理",
+   "市场团队",
+   "品牌语气"
+  ],
+  "visits": 5360
  },
  {
   "slug": "promptperfect",
@@ -42007,6 +45123,25 @@
    "AI助手"
   ],
   "visits": 455515
+ },
+ {
+  "slug": "sigmaos",
+  "name": {
+   "zh": "SigmaOS",
+   "en": "SigmaOS"
+  },
+  "desc": {
+   "zh": "面向 macOS 的浏览器，用工作区与垂直标签页整理上网内容，内置 AI 助手 Airis 可解读当前网页，官方称同时兼容 Chrome 扩展。",
+   "en": ""
+  },
+  "category": "other",
+  "url": "https://sigmaos.com",
+  "tags": [
+   "macOS 浏览器",
+   "工作区标签",
+   "网页摘要"
+  ],
+  "visits": 83259
  },
  {
   "slug": "siliconflow",
@@ -42826,6 +45961,25 @@
   "visits": 35284
  },
  {
+  "slug": "chatpaper",
+  "name": {
+   "zh": "ChatPaper",
+   "en": "ChatPaper"
+  },
+  "desc": {
+   "zh": "AI 论文阅读助手，支持 PDF、arXiv 链接、网页与视频，官方称可一键生成摘要、思维导图与笔记，并可就原文提问、导出引用卡片。",
+   "en": ""
+  },
+  "category": "office-docs",
+  "url": "https://www.chatpaper.ai",
+  "tags": [
+   "论文精读",
+   "文献摘要",
+   "引用管理"
+  ],
+  "visits": 21998
+ },
+ {
   "slug": "chatpdf",
   "name": {
    "zh": "ChatPDF",
@@ -42919,6 +46073,25 @@
    "无代码"
   ],
   "visits": 347342
+ },
+ {
+  "slug": "contextai",
+  "name": {
+   "zh": "Context",
+   "en": "Context"
+  },
+  "desc": {
+   "zh": "面向企业的 AI agent 平台，把工作区、运行时、企业数据上下文与评测放在一套系统里，官方称可部署在客户自己的基础设施上，并支持任意模型。",
+   "en": ""
+  },
+  "category": "office-docs",
+  "url": "https://www.context.ai",
+  "tags": [
+   "Agent平台",
+   "私有部署",
+   "模型评测"
+  ],
+  "visits": 38212
  },
  {
   "slug": "cora-ai",
@@ -43299,6 +46472,25 @@
    "合规审计"
   ],
   "visits": 6110
+ },
+ {
+  "slug": "lightpdf",
+  "name": {
+   "zh": "LightPDF",
+   "en": "LightPDF"
+  },
+  "desc": {
+   "zh": "AI 驱动的在线 PDF 工具箱，支持查看、编辑、转换、OCR、批注与签名，官方称网页、手机与桌面端共用一个账号，并提供文档总结等 AI 功能。",
+   "en": ""
+  },
+  "category": "office-docs",
+  "url": "https://lightpdf.com",
+  "tags": [
+   "PDF编辑",
+   "OCR识别",
+   "格式转换"
+  ],
+  "visits": 2057149
  },
  {
   "slug": "llmove",
@@ -44004,6 +47196,25 @@
   "visits": 79406
  },
  {
+  "slug": "aippt360",
+  "name": {
+   "zh": "360 AI PPT",
+   "en": "360 AI PPT"
+  },
+  "desc": {
+   "zh": "360 推出的 AI PPT 生成工具，输入主题或导入文档、网页链接即可生成大纲与成稿，支持模板换肤与在线编辑，覆盖工作汇报、教学课件等场景。",
+   "en": ""
+  },
+  "category": "ppt",
+  "url": "https://aippt.360.com",
+  "tags": [
+   "AI生成PPT",
+   "模板换肤",
+   "大纲生成"
+  ],
+  "visits": 3614
+ },
+ {
   "slug": "alai",
   "name": {
    "zh": "Alai",
@@ -44194,6 +47405,25 @@
   "visits": 74776
  },
  {
+  "slug": "gaippt",
+  "name": {
+   "zh": "GAIPPT",
+   "en": "GAIPPT"
+  },
+  "desc": {
+   "zh": "主打 PPT 美化的 AI 工具，上传现成文件即可重排版式，也支持主题或文档生成、图片转可编辑 PPT 与整页拆分，官方称内置专家模式适配多种内容结构。",
+   "en": ""
+  },
+  "category": "ppt",
+  "url": "https://www.gaippt.com",
+  "tags": [
+   "PPT美化",
+   "文档转PPT",
+   "版式设计"
+  ],
+  "visits": 8980
+ },
+ {
   "slug": "gamma",
   "name": {
    "zh": "Gamma",
@@ -44268,6 +47498,25 @@
    "模板社区"
   ],
   "visits": 531
+ },
+ {
+  "slug": "islide",
+  "name": {
+   "zh": "iSlide AIPPT",
+   "en": "iSlide AIPPT"
+  },
+  "desc": {
+   "zh": "面向职场与团队的 PPT 设计工具，提供 AI 一键生成、页面级智能编辑与海量正版模板素材，官方称全球用户超 3900 万，支持客户端与团队素材库管理。",
+   "en": ""
+  },
+  "category": "ppt",
+  "url": "https://www.islide.cc",
+  "tags": [
+   "PPT模板",
+   "一键美化",
+   "PPT插件"
+  ],
+  "visits": 110694
  },
  {
   "slug": "magicslides",
@@ -44441,6 +47690,25 @@
   "visits": 551579
  },
  {
+  "slug": "pptgo",
+  "name": {
+   "zh": "博思AIPPT",
+   "en": "博思AIPPT"
+  },
+  "desc": {
+   "zh": "在线 AI 生成 PPT 工具，支持主题、文档、网页与思维导图转演示初稿，可先改大纲再排版，并导出 PPTX、PDF 等格式，官方称提供五百余套主题模板。",
+   "en": ""
+  },
+  "category": "ppt",
+  "url": "https://pptgo.cn",
+  "tags": [
+   "AI生成PPT",
+   "文档转PPT",
+   "企业模板"
+  ],
+  "visits": 18049
+ },
+ {
   "slug": "presentations-ai",
   "name": {
    "zh": "Presentations.AI",
@@ -44496,6 +47764,25 @@
    "在线协作"
   ],
   "visits": 7267978
+ },
+ {
+  "slug": "prezo",
+  "name": {
+   "zh": "Prezo",
+   "en": "Prezo"
+  },
+  "desc": {
+   "zh": "用 AI 生成演示文稿、文档与网站的在线工具，官方把入口做成名为 Orb 的文件工作区，放入文件后即可对话、检索并直接生成成品。",
+   "en": ""
+  },
+  "category": "ppt",
+  "url": "https://prezo.ai",
+  "tags": [
+   "AI生成PPT",
+   "个人网站",
+   "文件工作区"
+  ],
+  "visits": 2907
  },
  {
   "slug": "quark-ppt",
@@ -45106,6 +48393,25 @@
   "visits": 769521
  },
  {
+  "slug": "screenapp",
+  "name": {
+   "zh": "ScreenApp",
+   "en": "ScreenApp"
+  },
+  "desc": {
+   "zh": "澳大利亚团队做的 AI 会议记录工具，可录制屏幕与声音并自动转写、生成摘要和会议纪要，官方称支持从 Zoom、Google Meet、YouTube 导入，也能按画面帧定位内容。",
+   "en": ""
+  },
+  "category": "meeting",
+  "url": "https://screenapp.io",
+  "tags": [
+   "会议记录",
+   "音视频转写",
+   "录屏"
+  ],
+  "visits": 1557064
+ },
+ {
   "slug": "sonix-ai",
   "name": {
    "zh": "Sonix AI",
@@ -45296,6 +48602,25 @@
   "visits": 121659
  },
  {
+  "slug": "twinmind",
+  "name": {
+   "zh": "TwinMind",
+   "en": "TwinMind"
+  },
+  "desc": {
+   "zh": "把「记录一整天」当卖点的 AI 记忆应用，持续转写并总结会议、对话与灵感，整理成可检索的个人知识库，官方称支持 140 种以上语言与端上离线模式。",
+   "en": ""
+  },
+  "category": "meeting",
+  "url": "https://twinmind.com",
+  "tags": [
+   "第二大脑",
+   "全天录音",
+   "端上转写"
+  ],
+  "visits": 198140
+ },
+ {
   "slug": "uniscribe",
   "name": {
    "zh": "UniScribe",
@@ -45351,6 +48676,25 @@
    "学习集"
   ],
   "visits": 502955
+ },
+ {
+  "slug": "amymind",
+  "name": {
+   "zh": "AmyMind",
+   "en": "AmyMind"
+  },
+  "desc": {
+   "zh": "把文本、PDF、Word 与视频转成思维导图的工具，官方称可一键导出到演示文稿、PDF、Word 与 Markdown，并提供大纲模式与演示模式。",
+   "en": ""
+  },
+  "category": "mindmap",
+  "url": "https://amymind.com",
+  "tags": [
+   "思维导图",
+   "文档转导图",
+   "PPT 导出"
+  ],
+  "visits": 46838
  },
  {
   "slug": "ayoa",
@@ -45503,6 +48847,25 @@
    "国产软件"
   ],
   "visits": 228497
+ },
+ {
+  "slug": "eraser",
+  "name": {
+   "zh": "Eraser",
+   "en": "Eraser"
+  },
+  "desc": {
+   "zh": "面向工程团队的架构图工具，官方称可把代码、云配置与设计文档自动生成系统拓扑图，并提供画布编辑、MCP 接口、自托管部署与团队样式统一。",
+   "en": ""
+  },
+  "category": "mindmap",
+  "url": "https://www.eraser.io",
+  "tags": [
+   "架构图",
+   "代码生成图",
+   "MCP"
+  ],
+  "visits": 699293
  },
  {
   "slug": "excalidraw",
@@ -47886,7 +51249,7 @@
    "en": "SenseTime Raccoon"
   },
   "desc": {
-   "zh": "商汤推出的AI代码助手，支持单行与整段补全、注释生成代码、多轮对话以及单元测试和部署脚本生成，兼容VS Code与JetBrains系列等IDE，提供免费版与私有化部署。",
+   "zh": "商汤科技出品的 AI 工作助手，由原办公小浣熊与代码小浣熊合并升级而来，覆盖任务规划、数据分析与可编辑成果交付，写代码的能力保留在桌面端，并提供免费版与企业私有化部署。",
    "en": "SenseTime's AI coding assistant with line and block completion, comment-to-code, multi-turn chat, and generation of unit tests and deployment scripts. Compatible with VS Code and JetBrains IDEs; free tier and private deployment."
   },
   "category": "agents",
@@ -47973,6 +51336,25 @@
    "经营异常洞察"
   ],
   "visits": 0
+ },
+ {
+  "slug": "sintra",
+  "name": {
+   "zh": "Sintra AI",
+   "en": "Sintra AI"
+  },
+  "desc": {
+   "zh": "按岗位组织的 AI 员工平台，提供 SEO、社媒、销售、客服等具名助手，共享同一份业务记忆，官方称可连接 1000 个以上工具。",
+   "en": ""
+  },
+  "category": "agents",
+  "url": "https://sintra.ai",
+  "tags": [
+   "AI 员工",
+   "岗位自动化",
+   "多工作区"
+  ],
+  "visits": 332783
  },
  {
   "slug": "skywork-ai",
