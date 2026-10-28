@@ -362,7 +362,7 @@
 - **[imgAK](https://topxai.cn/ai/imgak)** — imgAK是覆盖AI婚纱照、电商商品套图、人像与产品精修、高清放大与照片修复的图像平台，官方称在一个平台完成图片修复、高清放大、电商视觉与创意生成，无需专业设计经验。 · [官网](https://www.imgak.com)
 - **[ImgGen AI](https://topxai.cn/ai/imggen-ai)** — ImgGen AI 是免费在线文生图工具，可将文字提示转为高清无水印图像，支持 120+ 艺术风格与商用授权，官方称已吸引 200K+ 创作者、生成 200 万+ 张图。 · [官网](https://imggen.ai/)
 - **[ImgKits](https://topxai.cn/ai/imgkits)** — 覆盖上百个在线小工具的图像处理站，除文生图与图像编辑外，还细到 Logo、壁纸、海报、纹身图案与表情包等品类生成器，官方称全部免费可用。 · [官网](https://www.imgkits.com/)
-- **[imgsys](https://topxai.cn/ai/imgsys)** — fal.ai 推出的生成图像模型竞技场，用同一提示词对比不同模型出图，按用户投票给出人气排名并标注样本量，覆盖商业与社区模型，可直接在线试玩。 · [官网](https://imgsys.org/rankings)
+- **[imgsys](https://topxai.cn/ai/imgsys)** — fal.ai 的生成图像模型竞技场，曾用同一提示词横向对比各模型出图并按社区投票排名；官网已于 2026 年停止服务，本页为下线前存档与替代方案。 · [官网](https://imgsys.org/rankings)
 - **[ImgTo3D.ai](https://topxai.cn/ai/imgto3d)** — 浏览器里的图生 3D 工具，上传一张 JPG 或 PNG 就能生成带贴图的三维模型，官方称免费档不到 50 秒出结果，可导出 OBJ、GLB 与 STL。 · [官网](https://www.imgto3d.ai/)
 - **[IMGUpscaler](https://topxai.cn/ai/imgupscaler)** — ImgUpscaler 是在线画质增强工具，官网称可将图片分辨率提升至 16K，修复像素化与模糊细节，支持单张与批量处理，无需注册即可使用。 · [官网](https://imgupscaler.ai/)
 - **[Immersity AI](https://topxai.cn/ai/immersity)** — Leia 推出的沉浸式内容平台，由空间 AI 软件与可切换显示硬件组成，官方称可让手机、平板、显示器与笔记本等既有设备呈现带景深的立体画面，并提供网页与移动端入口。 · [官网](https://www.immersity.ai/)

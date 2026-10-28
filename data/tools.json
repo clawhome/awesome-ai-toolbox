@@ -5649,7 +5649,7 @@
    "en": "imgsys"
   },
   "desc": {
-   "zh": "fal.ai 推出的生成图像模型竞技场，用同一提示词对比不同模型出图，按用户投票给出人气排名并标注样本量，覆盖商业与社区模型，可直接在线试玩。",
+   "zh": "fal.ai 的生成图像模型竞技场，曾用同一提示词横向对比各模型出图并按社区投票排名；官网已于 2026 年停止服务，本页为下线前存档与替代方案。",
    "en": "fal.ai's generative image model arena: run the same prompt across models, see community-voted rankings with sample sizes, and try them online."
   },
   "category": "image-create",
