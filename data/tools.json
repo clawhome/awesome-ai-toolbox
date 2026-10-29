@@ -1254,25 +1254,6 @@
   "visits": 55123
  },
  {
-  "slug": "kickresume",
-  "name": {
-   "zh": "Kickresume",
-   "en": "Kickresume"
-  },
-  "desc": {
-   "zh": "面向求职者的 AI 简历生成器，提供 ATS 兼容度检查、按职位描述定制改写与求职信生成，内置 40 多款招聘方认可的模板，可免费试用。",
-   "en": ""
-  },
-  "category": "text",
-  "url": "https://www.kickresume.com/",
-  "tags": [
-   "简历生成",
-   "ATS优化",
-   "求职信"
-  ],
-  "visits": 898125
- },
- {
   "slug": "koala",
   "name": {
    "zh": "Koala",
@@ -1594,25 +1575,6 @@
    "AI辅助"
   ],
   "visits": 65427
- },
- {
-  "slug": "my-cv-creator",
-  "name": {
-   "zh": "My CV Creator",
-   "en": "My CV Creator"
-  },
-  "desc": {
-   "zh": "在线简历生成器，提供 20 多款模板、AI 辅助撰写、简历检查建议与求职信生成，还能把简历转成手机端个人网站，按提示三步填完即可下载，适合应届生和转行求职者快速出一版可投递的稿子。",
-   "en": ""
-  },
-  "category": "text",
-  "url": "https://mycvcreator.com/",
-  "tags": [
-   "简历",
-   "求职信",
-   "模板"
-  ],
-  "visits": 473248
  },
  {
   "slug": "myessaywriter-ai",
@@ -2183,44 +2145,6 @@
    "朗读文本"
   ],
   "visits": 190002
- },
- {
-  "slug": "resume-worded",
-  "name": {
-   "zh": "Resume Worded",
-   "en": "Resume Worded"
-  },
-  "desc": {
-   "zh": "Resume Worded 由招聘官参与设计，为简历和领英资料打分并逐行指出问题，还能按岗位描述补关键词、自动改写弱句，适合投递前最后打磨。",
-   "en": ""
-  },
-  "category": "text",
-  "url": "https://resumeworded.com/",
-  "tags": [
-   "简历评分",
-   "ATS优化",
-   "领英诊断"
-  ],
-  "visits": 1216881
- },
- {
-  "slug": "resumebuilder",
-  "name": {
-   "zh": "ResumeBuilder.com",
-   "en": "ResumeBuilder.com"
-  },
-  "desc": {
-   "zh": "在线简历制作工具，用引导式填写与 AI 写作建议帮求职者快速出稿，并提供大量可定制模板、按岗位分类的范例与配套求职信模板。",
-   "en": ""
-  },
-  "category": "text",
-  "url": "https://resumebuilder.com/",
-  "tags": [
-   "简历模板",
-   "ATS优化",
-   "求职"
-  ],
-  "visits": 534798
  },
  {
   "slug": "rewriteguru",
@@ -12595,25 +12519,6 @@
    "多语配音"
   ],
   "visits": 618414
- },
- {
-  "slug": "offermore",
-  "name": {
-   "zh": "面试猫",
-   "en": "面试猫"
-  },
-  "desc": {
-   "zh": "AI面试实时辅助工具，官方称提供实时语音识别、笔试截图识别推题、定制知识库与模拟面试，兼容飞书、Zoom、Teams等平台，支持中英日韩等20多种语言。",
-   "en": ""
-  },
-  "category": "voice",
-  "url": "https://www.offermore.cc/",
-  "tags": [
-   "面试辅助",
-   "模拟面试",
-   "实时语音识别"
-  ],
-  "visits": 5026
  },
  {
   "slug": "openless",
@@ -31312,25 +31217,6 @@
   "visits": 191932
  },
  {
-  "slug": "hiration",
-  "name": {
-   "zh": "Hiration",
-   "en": "Hiration"
-  },
-  "desc": {
-   "zh": "面向求职者的 AI 职业平台，把简历生成、简历诊断、面试练习、求职信与 LinkedIn 优化收进一个入口，官网称提供 30 余套模板并支持 ATS 关键词优化。",
-   "en": ""
-  },
-  "category": "life",
-  "url": "https://hiration.com",
-  "tags": [
-   "简历优化",
-   "ATS匹配",
-   "面试练习"
-  ],
-  "visits": 227451
- },
- {
   "slug": "jinchuan",
   "name": {
    "zh": "今穿",
@@ -33364,25 +33250,6 @@
   "visits": 19778564
  },
  {
-  "slug": "duomian",
-  "name": {
-   "zh": "多面",
-   "en": "多面"
-  },
-  "desc": {
-   "zh": "一体化招聘管理系统，把 AI 面试、视频面试与招聘管理 ATS 串在同一条流程里，官方称可提升招聘效率、辅助人才甄别，让需求到录用的环节闭环。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://www.duomian.com/",
-  "tags": [
-   "AI面试",
-   "视频面试",
-   "招聘ATS"
-  ],
-  "visits": 25059
- },
- {
   "slug": "eesel-ai",
   "name": {
    "zh": "eesel.ai",
@@ -33495,25 +33362,6 @@
    "智能应答"
   ],
   "visits": 509156
- },
- {
-  "slug": "final-round-ai",
-  "name": {
-   "zh": "Final Round AI",
-   "en": "Final Round AI"
-  },
-  "desc": {
-   "zh": "面向求职面试的桌面端 AI 助手，官网称可在面试进行时于私密窗口给出实时回答并对屏幕共享隐藏，按准备、实战、复盘三步循环，支持 macOS 与 Windows。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://www.finalroundai.com/",
-  "tags": [
-   "面试助手",
-   "求职准备",
-   "复盘反馈"
-  ],
-  "visits": 384085
  },
  {
   "slug": "forethought",
@@ -33801,25 +33649,6 @@
   "visits": 24678
  },
  {
-  "slug": "lockedin-ai",
-  "name": {
-   "zh": "LockedIn AI",
-   "en": "LockedIn AI"
-  },
-  "desc": {
-   "zh": "面向求职面试的实时 AI 助手，官网称可在面试中听题并提供实时回答、代码解答与辅导，另有远程协助与在线测评支持，提供桌面与移动端应用，官方称支持五十多种语言。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://www.lockedinai.com/",
-  "tags": [
-   "面试助手",
-   "求职工具",
-   "实时辅助"
-  ],
-  "visits": 415684
- },
- {
   "slug": "matrix",
   "name": {
    "zh": "Matrix",
@@ -33875,63 +33704,6 @@
    "智能机器人"
   ],
   "visits": 28518
- },
- {
-  "slug": "mercor",
-  "name": {
-   "zh": "Mercor",
-   "en": "Mercor"
-  },
-  "desc": {
-   "zh": "面向 AI 领域的人力数据平台，官网称组织起医生、律师、工程师等专业人士网络，为前沿实验室与企业提供数据标注、模型评测集、人类评估与智能体训练服务。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://mercor.com",
-  "tags": [
-   "数据标注",
-   "模型评测",
-   "专家网络"
-  ],
-  "visits": 10569859
- },
- {
-  "slug": "metaview",
-  "name": {
-   "zh": "Metaview",
-   "en": "Metaview"
-  },
-  "desc": {
-   "zh": "面向招聘团队的智能招聘平台，用常驻 AI 智能体承担人才寻源、简历初筛、面试记录与招聘报告，官方称覆盖从首次搜寻到最终发出 offer 的全流程，并压缩招聘周期。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://www.metaview.ai/",
-  "tags": [
-   "招聘自动化",
-   "人才寻源",
-   "面试记录"
-  ],
-  "visits": 168075
- },
- {
-  "slug": "mianduoduo",
-  "name": {
-   "zh": "面多多",
-   "en": "面多多"
-  },
-  "desc": {
-   "zh": "AI 模拟面试平台，按目标岗位与简历生成问题，和 AI 面试官实时对话后给出复盘报告，官方称覆盖 400 多个技术方向，含综合面试、专项面试与简历押题。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://ai.mianshiya.com/",
-  "tags": [
-   "模拟面试",
-   "简历押题",
-   "面试复盘"
-  ],
-  "visits": 18146
  },
  {
   "slug": "mininglamp",
@@ -34331,25 +34103,6 @@
    "数据治理"
   ],
   "visits": 9093
- },
- {
-  "slug": "weekday",
-  "name": {
-   "zh": "Weekday",
-   "en": "Weekday"
-  },
-  "desc": {
-   "zh": "主打主动出击的 AI 招聘工具，官网称其 AI 寻访智能体会主动联系被动求职者，通过邮件、WhatsApp 与电话触达，并提供免费简历筛选、免费发岗与多种合作模式。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://www.weekday.works/",
-  "tags": [
-   "AI招聘",
-   "主动寻访",
-   "简历筛选"
-  ],
-  "visits": 282021
  },
  {
   "slug": "writer",
@@ -34996,25 +34749,6 @@
    "AI可见度"
   ],
   "visits": 48771
- },
- {
-  "slug": "cluely",
-  "name": {
-   "zh": "Cluely",
-   "en": "Cluely"
-  },
-  "desc": {
-   "zh": "Cluely 是不可被察觉的 AI 会议助手，会议中实时记录并给出答案，不像传统工具只在会后整理，官网称不加入会议无机器人，仅自己可见。",
-   "en": ""
-  },
-  "category": "marketing",
-  "url": "https://cluely.com/",
-  "tags": [
-   "会议助手",
-   "实时记录",
-   "AI笔记"
-  ],
-  "visits": 493801
  },
  {
   "slug": "contentpen",
@@ -41306,25 +41040,6 @@
   "visits": 10518
  },
  {
-  "slug": "interviewpal",
-  "name": {
-   "zh": "InterviewPal",
-   "en": "InterviewPal"
-  },
-  "desc": {
-   "zh": "面向求职者的面试准备工具集合，按公司整理真题题库并提供实时作答建议，同时给出简历反馈、ATS 关键词缺口扫描与结构化备考计划。",
-   "en": ""
-  },
-  "category": "learning",
-  "url": "https://www.interviewpal.com/",
-  "tags": [
-   "面试真题",
-   "简历诊断",
-   "实时作答助手"
-  ],
-  "visits": 49623
- },
- {
   "slug": "issen",
   "name": {
    "zh": "ISSEN",
@@ -42503,25 +42218,6 @@
   "visits": 592545
  },
  {
-  "slug": "offernn",
-  "name": {
-   "zh": "面试牛牛",
-   "en": "面试牛牛"
-  },
-  "desc": {
-   "zh": "面向求职者的 AI 面试助手，官网称提供面试中的实时语音转写与中英文回答建议，另有模拟面试练习，兼容腾讯会议、钉钉、Zoom 等常见远程面试场景。",
-   "en": ""
-  },
-  "category": "learning",
-  "url": "https://www.offernn.com/",
-  "tags": [
-   "模拟面试",
-   "实时语音转写",
-   "回答思路建议"
-  ],
-  "visits": 88
- },
- {
   "slug": "okara",
   "name": {
    "zh": "Okara",
@@ -43491,25 +43187,6 @@
   "visits": 7737
  },
  {
-  "slug": "smalltalk2me",
-  "name": {
-   "zh": "SmallTalk2Me",
-   "en": "SmallTalk2Me"
-  },
-  "desc": {
-   "zh": "专注英语口语的 AI 练习平台，十五分钟测出 CEFR 等级，可模拟雅思口试和英文面试，并给出流利度、发音与语法反馈，适合备考与职场提升。",
-   "en": ""
-  },
-  "category": "learning",
-  "url": "https://smalltalk2.me/",
-  "tags": [
-   "口语陪练",
-   "雅思模考",
-   "等级测评"
-  ],
-  "visits": 289415
- },
- {
   "slug": "smartick",
   "name": {
    "zh": "Smartick | Online Elementary Math For Children",
@@ -43850,25 +43527,6 @@
    "闪卡测验"
   ],
   "visits": 305783
- },
- {
-  "slug": "thita",
-  "name": {
-   "zh": "thita.ai",
-   "en": "thita.ai"
-  },
-  "desc": {
-   "zh": "面向软件工程师的面试准备平台，官方称整理 99 个算法题型并配动画讲解，提供语音模拟面试与逐行代码教练，卡住时先给最小提示而非完整答案，另有九十天路线图与简历检查。",
-   "en": ""
-  },
-  "category": "learning",
-  "url": "https://thita.ai/",
-  "tags": [
-   "算法面试",
-   "语音模拟面试",
-   "代码行教练"
-  ],
-  "visits": 62557
  },
  {
   "slug": "tolan",
@@ -47120,6 +46778,25 @@
   "visits": 22258
  },
  {
+  "slug": "diffmind",
+  "name": {
+   "zh": "DiffMind",
+   "en": "DiffMind"
+  },
+  "desc": {
+   "zh": "深圳海华圈旗下面向学术科研的多模型工作台，同一问题可一次发给最多 6 个 AI 并排比较，一键总结共识、分歧与补充；另有多个 AI 分工改稿的工作模式与标注出处的文献知识库。",
+   "en": ""
+  },
+  "category": "data-research",
+  "url": "https://diffmind.cn/",
+  "tags": [
+   "多模型对比",
+   "学术科研",
+   "文献知识库"
+  ],
+  "visits": 1495
+ },
+ {
   "slug": "editage-cn",
   "name": {
    "zh": "意得辑",
@@ -47994,25 +47671,6 @@
   "visits": 2404043
  },
  {
-  "slug": "52cv",
-  "name": {
-   "zh": "职徒简历",
-   "en": "职徒简历"
-  },
-  "desc": {
-   "zh": "面向求职与升学的智能简历制作工具，官网称拥有上万套中英文模板与简历案例，支持智能检测、一键排版、中英智能翻译，并配面试题库、AI 模拟面试与导师辅导。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.52cv.com/",
-  "tags": [
-   "简历制作",
-   "求职工具",
-   "面试辅导"
-  ],
-  "visits": 10615
- },
- {
   "slug": "abot-earth",
   "name": {
    "zh": "ABot-Earth 0.7",
@@ -48030,25 +47688,6 @@
    "文字建场景"
   ],
   "visits": 22664
- },
- {
-  "slug": "acedit",
-  "name": {
-   "zh": "Acedit",
-   "en": "Acedit"
-  },
-  "desc": {
-   "zh": "AI 面试教练，官网称先用仿真模拟面试反复练习并拿到个性化反馈，再在真实面试中提供实时题目识别与回答建议，以浏览器扩展形式运行，并提供免费起步方案。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.acedit.ai/",
-  "tags": [
-   "面试教练",
-   "模拟面试",
-   "求职准备"
-  ],
-  "visits": 8271
  },
  {
   "slug": "adaline-ai",
@@ -49020,25 +48659,6 @@
   "visits": 601802
  },
  {
-  "slug": "easycv",
-  "name": {
-   "zh": "简单简历",
-   "en": "简单简历"
-  },
-  "desc": {
-   "zh": "面向互联网从业者的 AI 简历工具，官网称五分钟做出能投递的简历，支持聊天式修改、一键润色、翻译与上传解析，多套专业模板可在线编辑并分享或导出 PDF。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://easycv.cn/",
-  "tags": [
-   "AI简历",
-   "简历模板",
-   "互联网求职"
-  ],
-  "visits": 5226
- },
- {
   "slug": "endex-ai",
   "name": {
    "zh": "Endex",
@@ -49590,25 +49210,6 @@
   "visits": 4474
  },
  {
-  "slug": "hellocv-ai",
-  "name": {
-   "zh": "HelloCV AI",
-   "en": "HelloCV AI"
-  },
-  "desc": {
-   "zh": "HelloCV 是 AI 个人主页搭建工具，可在你的 name.cv 域名上分钟级生成含简历与作品的单页站，并配 AI 代理回答访客提问，官网称首年域名免费。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.hello.cv/",
-  "tags": [
-   "个人主页",
-   "AI建站",
-   "简历"
-  ],
-  "visits": 97517
- },
- {
   "slug": "hex",
   "name": {
    "zh": "Hex",
@@ -49761,25 +49362,6 @@
   "visits": 139907
  },
  {
-  "slug": "interview-coder",
-  "name": {
-   "zh": "Interview Coder",
-   "en": "Interview Coder"
-  },
-  "desc": {
-   "zh": "Interview Coder 是面向技术面试的 AI 辅助工具，官方称可在 LeetCode 等面试中实时提供编码帮助，并以不被屏幕录制与任务栏检测为卖点，支持免费下载。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.interviewcoder.co/",
-  "tags": [
-   "面试",
-   "编程",
-   "AI辅助"
-  ],
-  "visits": 121082
- },
- {
   "slug": "jiandan",
   "name": {
    "zh": "简单AI",
@@ -49797,25 +49379,6 @@
    "在线图片编辑"
   ],
   "visits": 47815
- },
- {
-  "slug": "jianli-jiuyeqiao",
-  "name": {
-   "zh": "神笔简历",
-   "en": "神笔简历"
-  },
-  "desc": {
-   "zh": "就业桥旗下 AI 智能简历云平台，官网称为大学生提供 AI 简历服务、AI 面试服务与 AI 职场伴侣等就业指导，会员可开通十二项 AI 功能，支持上传已有简历解析。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://jianli.jiuyeqiao.cn/",
-  "tags": [
-   "AI简历",
-   "求职服务",
-   "高校就业"
-  ],
-  "visits": 8762
  },
  {
   "slug": "julius-ai",
@@ -50082,25 +49645,6 @@
    "私有化部署"
   ],
   "visits": 14884
- },
- {
-  "slug": "magicv",
-  "name": {
-   "zh": "魔方简历",
-   "en": "魔方简历"
-  },
-  "desc": {
-   "zh": "魔方简历是一款开源免费的 AI 简历编辑器，无需注册、数据本地保存，提供智能润色与语法检查，并支持 PDF、PNG、JSON、Markdown 等多种格式导出。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://magicv.art/zh",
-  "tags": [
-   "简历",
-   "开源",
-   "AI润色"
-  ],
-  "visits": 117154
  },
  {
   "slug": "magisterium",
@@ -50426,25 +49970,6 @@
   "visits": 155216
  },
  {
-  "slug": "offerin-ai",
-  "name": {
-   "zh": "Offerin",
-   "en": "Offerin"
-  },
-  "desc": {
-   "zh": "面向线上面试与笔试的 AI 助手，官网称为面试笔试助手，支持一键联网回答、一键读屏、剪贴板自动同步与双端联动，并推出全自动笔试模式，提供桌面与移动端下载。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.offerin.cn/",
-  "tags": [
-   "面试助手",
-   "笔试辅助",
-   "求职练习"
-  ],
-  "visits": 1897
- },
- {
   "slug": "offernow",
   "name": {
    "zh": "OfferNow",
@@ -50462,25 +49987,6 @@
    "多简历切换"
   ],
   "visits": 21964
- },
- {
-  "slug": "offerwa",
-  "name": {
-   "zh": "Offer蛙",
-   "en": "Offer蛙"
-  },
-  "desc": {
-   "zh": "AI 面试辅助工具，官网称可实时识别面试官提问并即时生成答案，支持中英双语字幕、简历分析押题、笔试答题与多语言识别，兼容主流视频面试平台，提供桌面端与移动端。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://mianshizhushou.com/",
-  "tags": [
-   "面试助手",
-   "AI押题",
-   "求职工具"
-  ],
-  "visits": 2141
  },
  {
   "slug": "ofox",
@@ -51053,25 +50559,6 @@
   "visits": 49202
  },
  {
-  "slug": "qiuzhifangzhou",
-  "name": {
-   "zh": "求职方舟",
-   "en": "求职方舟"
-  },
-  "desc": {
-   "zh": "求职方舟是面向大学生的 AI 求职工具站，集成 AI 填网申、AI 找工作、简历魔改、过机筛优化、校招实习汇总表、AI 笔面试等 11 个工具，官网称多款工具使用量达数十万。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.qiuzhifangzhou.com/",
-  "tags": [
-   "求职",
-   "校招",
-   "AI工具"
-  ],
-  "visits": 71838
- },
- {
   "slug": "quadratic",
   "name": {
    "zh": "Quadratic",
@@ -51298,25 +50785,6 @@
    "数据采集"
   ],
   "visits": 138912
- },
- {
-  "slug": "screenify",
-  "name": {
-   "zh": "Screenify",
-   "en": "Screenify"
-  },
-  "desc": {
-   "zh": "Screenify 是用类人 AI 面试自动筛选求职者的平台，官方称可全自动完成访谈、按企业标准一致评分，并接入 ATS 降低至多九成招聘成本。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.screenify.ai/",
-  "tags": [
-   "AI面试",
-   "招聘筛选",
-   "人才评估"
-  ],
-  "visits": 5216
  },
  {
   "slug": "sheeter-ai",
@@ -51716,25 +51184,6 @@
    "任务自动化"
   ],
   "visits": 4913
- },
- {
-  "slug": "upcv",
-  "name": {
-   "zh": "UP简历",
-   "en": "UP简历"
-  },
-  "desc": {
-   "zh": "UP 求职（原 UP 简历）是 AI 求职 Agent 平台，覆盖写简历、筛岗位、自动填网申、跟进投递与模拟面试全流程，官网称已有 30 万+ 求职者注册使用。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.upcv.tech/",
-  "tags": [
-   "求职",
-   "简历",
-   "AI面试"
-  ],
-  "visits": 52446
  },
  {
   "slug": "vast-ai",
@@ -52212,25 +51661,6 @@
   "visits": 0
  },
  {
-  "slug": "bufancv",
-  "name": {
-   "zh": "不繁简历",
-   "en": "不繁简历"
-  },
-  "desc": {
-   "zh": "不繁简历是深圳市异步涌现科技有限公司做的 AI 简历编辑器，主打三栏所见即所得编辑与 51 种模板，另有 JD 匹配、ATS 检测、求职信与职业形象照工具。",
-   "en": ""
-  },
-  "category": "office-docs",
-  "url": "https://bufancv.com",
-  "tags": [
-   "AI简历",
-   "简历改写",
-   "ATS检测"
-  ],
-  "visits": 6425
- },
- {
   "slug": "capitol-ai",
   "name": {
    "zh": "Capitol AI",
@@ -52457,25 +51887,6 @@
    "任务管理"
   ],
   "visits": 645882
- },
- {
-  "slug": "cvscoring",
-  "name": {
-   "zh": "CV Scoring",
-   "en": "CV Scoring"
-  },
-  "desc": {
-   "zh": "免费的 ATS 简历评分与职业辅助平台，提供简历体检、岗位匹配、简历重写、求职信生成和 AI 职业教练等功能，帮助求职者通过机器筛选环节。",
-   "en": ""
-  },
-  "category": "office-docs",
-  "url": "https://cvscoring.com/",
-  "tags": [
-   "ATS简历评分",
-   "岗位匹配",
-   "职业指导"
-  ],
-  "visits": 55955
  },
  {
   "slug": "dartai",
@@ -52761,25 +52172,6 @@
    "闪卡测验"
   ],
   "visits": 308287
- },
- {
-  "slug": "hireflow",
-  "name": {
-   "zh": "HireFlow.net",
-   "en": "HireFlow.net"
-  },
-  "desc": {
-   "zh": "免费的 ATS 简历检查工具，无需登录，约 30 秒给出评分和解析失败点，逐条指出两栏排版、表格、页眉联系方式等会让机器读不出简历的问题。",
-   "en": ""
-  },
-  "category": "office-docs",
-  "url": "https://www.hireflow.net/",
-  "tags": [
-   "ATS检查",
-   "简历诊断",
-   "解析问题排查"
-  ],
-  "visits": 50819
  },
  {
   "slug": "huntr",
@@ -53768,25 +53160,6 @@
    "表格"
   ],
   "visits": 101925
- },
- {
-  "slug": "zhijianli",
-  "name": {
-   "zh": "智简简历",
-   "en": "智简简历"
-  },
-  "desc": {
-   "zh": "智简简历是独立开发者的 AI 简历生成器与在线简历网站，支持网页与微信小程序，提供 AI 生成、润色、岗位匹配、ATS 优化与中英翻译，可导出高清 PDF。",
-   "en": ""
-  },
-  "category": "office-docs",
-  "url": "https://aijianli.cn",
-  "tags": [
-   "AI简历",
-   "简历模板",
-   "岗位匹配"
-  ],
-  "visits": 0
  },
  {
   "slug": "10sppt",
@@ -60494,5 +59867,651 @@
    "AI工作流"
   ],
   "visits": 5042786
+ },
+ {
+  "slug": "52cv",
+  "name": {
+   "zh": "职徒简历",
+   "en": "职徒简历"
+  },
+  "desc": {
+   "zh": "面向求职与升学的智能简历制作工具，官网称拥有上万套中英文模板与简历案例，支持智能检测、一键排版、中英智能翻译，并配面试题库、AI 模拟面试与导师辅导。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://www.52cv.com/",
+  "tags": [
+   "简历制作",
+   "求职工具",
+   "面试辅导"
+  ],
+  "visits": 10615
+ },
+ {
+  "slug": "bufancv",
+  "name": {
+   "zh": "不繁简历",
+   "en": "不繁简历"
+  },
+  "desc": {
+   "zh": "不繁简历是深圳市异步涌现科技有限公司做的 AI 简历编辑器，主打三栏所见即所得编辑与 51 种模板，另有 JD 匹配、ATS 检测、求职信与职业形象照工具。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://bufancv.com",
+  "tags": [
+   "AI简历",
+   "简历改写",
+   "ATS检测"
+  ],
+  "visits": 6425
+ },
+ {
+  "slug": "easycv",
+  "name": {
+   "zh": "简单简历",
+   "en": "简单简历"
+  },
+  "desc": {
+   "zh": "面向互联网从业者的 AI 简历工具，官网称五分钟做出能投递的简历，支持聊天式修改、一键润色、翻译与上传解析，多套专业模板可在线编辑并分享或导出 PDF。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://easycv.cn/",
+  "tags": [
+   "AI简历",
+   "简历模板",
+   "互联网求职"
+  ],
+  "visits": 5226
+ },
+ {
+  "slug": "hellocv-ai",
+  "name": {
+   "zh": "HelloCV AI",
+   "en": "HelloCV AI"
+  },
+  "desc": {
+   "zh": "HelloCV 是 AI 个人主页搭建工具，可在你的 name.cv 域名上分钟级生成含简历与作品的单页站，并配 AI 代理回答访客提问，官网称首年域名免费。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://www.hello.cv/",
+  "tags": [
+   "个人主页",
+   "AI建站",
+   "简历"
+  ],
+  "visits": 97517
+ },
+ {
+  "slug": "jianli-jiuyeqiao",
+  "name": {
+   "zh": "神笔简历",
+   "en": "神笔简历"
+  },
+  "desc": {
+   "zh": "就业桥旗下 AI 智能简历云平台，官网称为大学生提供 AI 简历服务、AI 面试服务与 AI 职场伴侣等就业指导，会员可开通十二项 AI 功能，支持上传已有简历解析。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://jianli.jiuyeqiao.cn/",
+  "tags": [
+   "AI简历",
+   "求职服务",
+   "高校就业"
+  ],
+  "visits": 8762
+ },
+ {
+  "slug": "kickresume",
+  "name": {
+   "zh": "Kickresume",
+   "en": "Kickresume"
+  },
+  "desc": {
+   "zh": "面向求职者的 AI 简历生成器，提供 ATS 兼容度检查、按职位描述定制改写与求职信生成，内置 40 多款招聘方认可的模板，可免费试用。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://www.kickresume.com/",
+  "tags": [
+   "简历生成",
+   "ATS优化",
+   "求职信"
+  ],
+  "visits": 898125
+ },
+ {
+  "slug": "magicv",
+  "name": {
+   "zh": "魔方简历",
+   "en": "魔方简历"
+  },
+  "desc": {
+   "zh": "魔方简历是一款开源免费的 AI 简历编辑器，无需注册、数据本地保存，提供智能润色与语法检查，并支持 PDF、PNG、JSON、Markdown 等多种格式导出。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://magicv.art/zh",
+  "tags": [
+   "简历",
+   "开源",
+   "AI润色"
+  ],
+  "visits": 117154
+ },
+ {
+  "slug": "my-cv-creator",
+  "name": {
+   "zh": "My CV Creator",
+   "en": "My CV Creator"
+  },
+  "desc": {
+   "zh": "在线简历生成器，提供 20 多款模板、AI 辅助撰写、简历检查建议与求职信生成，还能把简历转成手机端个人网站，按提示三步填完即可下载，适合应届生和转行求职者快速出一版可投递的稿子。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://mycvcreator.com/",
+  "tags": [
+   "简历",
+   "求职信",
+   "模板"
+  ],
+  "visits": 473248
+ },
+ {
+  "slug": "resumebuilder",
+  "name": {
+   "zh": "ResumeBuilder.com",
+   "en": "ResumeBuilder.com"
+  },
+  "desc": {
+   "zh": "在线简历制作工具，用引导式填写与 AI 写作建议帮求职者快速出稿，并提供大量可定制模板、按岗位分类的范例与配套求职信模板。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://resumebuilder.com/",
+  "tags": [
+   "简历模板",
+   "ATS优化",
+   "求职"
+  ],
+  "visits": 534798
+ },
+ {
+  "slug": "upcv",
+  "name": {
+   "zh": "UP简历",
+   "en": "UP简历"
+  },
+  "desc": {
+   "zh": "UP 求职（原 UP 简历）是 AI 求职 Agent 平台，覆盖写简历、筛岗位、自动填网申、跟进投递与模拟面试全流程，官网称已有 30 万+ 求职者注册使用。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://www.upcv.tech/",
+  "tags": [
+   "求职",
+   "简历",
+   "AI面试"
+  ],
+  "visits": 52446
+ },
+ {
+  "slug": "zhijianli",
+  "name": {
+   "zh": "智简简历",
+   "en": "智简简历"
+  },
+  "desc": {
+   "zh": "智简简历是独立开发者的 AI 简历生成器与在线简历网站，支持网页与微信小程序，提供 AI 生成、润色、岗位匹配、ATS 优化与中英翻译，可导出高清 PDF。",
+   "en": ""
+  },
+  "category": "resume-make",
+  "url": "https://aijianli.cn",
+  "tags": [
+   "AI简历",
+   "简历模板",
+   "岗位匹配"
+  ],
+  "visits": 0
+ },
+ {
+  "slug": "acedit",
+  "name": {
+   "zh": "Acedit",
+   "en": "Acedit"
+  },
+  "desc": {
+   "zh": "AI 面试教练，官网称先用仿真模拟面试反复练习并拿到个性化反馈，再在真实面试中提供实时题目识别与回答建议，以浏览器扩展形式运行，并提供免费起步方案。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.acedit.ai/",
+  "tags": [
+   "面试教练",
+   "模拟面试",
+   "求职准备"
+  ],
+  "visits": 8271
+ },
+ {
+  "slug": "cluely",
+  "name": {
+   "zh": "Cluely",
+   "en": "Cluely"
+  },
+  "desc": {
+   "zh": "Cluely 是不可被察觉的 AI 会议助手，会议中实时记录并给出答案，不像传统工具只在会后整理，官网称不加入会议无机器人，仅自己可见。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://cluely.com/",
+  "tags": [
+   "会议助手",
+   "实时记录",
+   "AI笔记"
+  ],
+  "visits": 493801
+ },
+ {
+  "slug": "cvscoring",
+  "name": {
+   "zh": "CV Scoring",
+   "en": "CV Scoring"
+  },
+  "desc": {
+   "zh": "免费的 ATS 简历评分与职业辅助平台，提供简历体检、岗位匹配、简历重写、求职信生成和 AI 职业教练等功能，帮助求职者通过机器筛选环节。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://cvscoring.com/",
+  "tags": [
+   "ATS简历评分",
+   "岗位匹配",
+   "职业指导"
+  ],
+  "visits": 55955
+ },
+ {
+  "slug": "final-round-ai",
+  "name": {
+   "zh": "Final Round AI",
+   "en": "Final Round AI"
+  },
+  "desc": {
+   "zh": "面向求职面试的桌面端 AI 助手，官网称可在面试进行时于私密窗口给出实时回答并对屏幕共享隐藏，按准备、实战、复盘三步循环，支持 macOS 与 Windows。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.finalroundai.com/",
+  "tags": [
+   "面试助手",
+   "求职准备",
+   "复盘反馈"
+  ],
+  "visits": 384085
+ },
+ {
+  "slug": "hiration",
+  "name": {
+   "zh": "Hiration",
+   "en": "Hiration"
+  },
+  "desc": {
+   "zh": "面向求职者的 AI 职业平台，把简历生成、简历诊断、面试练习、求职信与 LinkedIn 优化收进一个入口，官网称提供 30 余套模板并支持 ATS 关键词优化。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://hiration.com",
+  "tags": [
+   "简历优化",
+   "ATS匹配",
+   "面试练习"
+  ],
+  "visits": 227451
+ },
+ {
+  "slug": "hireflow",
+  "name": {
+   "zh": "HireFlow.net",
+   "en": "HireFlow.net"
+  },
+  "desc": {
+   "zh": "免费的 ATS 简历检查工具，无需登录，约 30 秒给出评分和解析失败点，逐条指出两栏排版、表格、页眉联系方式等会让机器读不出简历的问题。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.hireflow.net/",
+  "tags": [
+   "ATS检查",
+   "简历诊断",
+   "解析问题排查"
+  ],
+  "visits": 50819
+ },
+ {
+  "slug": "interview-coder",
+  "name": {
+   "zh": "Interview Coder",
+   "en": "Interview Coder"
+  },
+  "desc": {
+   "zh": "Interview Coder 是面向技术面试的 AI 辅助工具，官方称可在 LeetCode 等面试中实时提供编码帮助，并以不被屏幕录制与任务栏检测为卖点，支持免费下载。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.interviewcoder.co/",
+  "tags": [
+   "面试",
+   "编程",
+   "AI辅助"
+  ],
+  "visits": 121082
+ },
+ {
+  "slug": "interviewpal",
+  "name": {
+   "zh": "InterviewPal",
+   "en": "InterviewPal"
+  },
+  "desc": {
+   "zh": "面向求职者的面试准备工具集合，按公司整理真题题库并提供实时作答建议，同时给出简历反馈、ATS 关键词缺口扫描与结构化备考计划。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.interviewpal.com/",
+  "tags": [
+   "面试真题",
+   "简历诊断",
+   "实时作答助手"
+  ],
+  "visits": 49623
+ },
+ {
+  "slug": "lockedin-ai",
+  "name": {
+   "zh": "LockedIn AI",
+   "en": "LockedIn AI"
+  },
+  "desc": {
+   "zh": "面向求职面试的实时 AI 助手，官网称可在面试中听题并提供实时回答、代码解答与辅导，另有远程协助与在线测评支持，提供桌面与移动端应用，官方称支持五十多种语言。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.lockedinai.com/",
+  "tags": [
+   "面试助手",
+   "求职工具",
+   "实时辅助"
+  ],
+  "visits": 415684
+ },
+ {
+  "slug": "mianduoduo",
+  "name": {
+   "zh": "面多多",
+   "en": "面多多"
+  },
+  "desc": {
+   "zh": "AI 模拟面试平台，按目标岗位与简历生成问题，和 AI 面试官实时对话后给出复盘报告，官方称覆盖 400 多个技术方向，含综合面试、专项面试与简历押题。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://ai.mianshiya.com/",
+  "tags": [
+   "模拟面试",
+   "简历押题",
+   "面试复盘"
+  ],
+  "visits": 18146
+ },
+ {
+  "slug": "offerin-ai",
+  "name": {
+   "zh": "Offerin",
+   "en": "Offerin"
+  },
+  "desc": {
+   "zh": "面向线上面试与笔试的 AI 助手，官网称为面试笔试助手，支持一键联网回答、一键读屏、剪贴板自动同步与双端联动，并推出全自动笔试模式，提供桌面与移动端下载。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.offerin.cn/",
+  "tags": [
+   "面试助手",
+   "笔试辅助",
+   "求职练习"
+  ],
+  "visits": 1897
+ },
+ {
+  "slug": "offermore",
+  "name": {
+   "zh": "面试猫",
+   "en": "面试猫"
+  },
+  "desc": {
+   "zh": "AI面试实时辅助工具，官方称提供实时语音识别、笔试截图识别推题、定制知识库与模拟面试，兼容飞书、Zoom、Teams等平台，支持中英日韩等20多种语言。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.offermore.cc/",
+  "tags": [
+   "面试辅助",
+   "模拟面试",
+   "实时语音识别"
+  ],
+  "visits": 5026
+ },
+ {
+  "slug": "offernn",
+  "name": {
+   "zh": "面试牛牛",
+   "en": "面试牛牛"
+  },
+  "desc": {
+   "zh": "面向求职者的 AI 面试助手，官网称提供面试中的实时语音转写与中英文回答建议，另有模拟面试练习，兼容腾讯会议、钉钉、Zoom 等常见远程面试场景。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.offernn.com/",
+  "tags": [
+   "模拟面试",
+   "实时语音转写",
+   "回答思路建议"
+  ],
+  "visits": 88
+ },
+ {
+  "slug": "offerwa",
+  "name": {
+   "zh": "Offer蛙",
+   "en": "Offer蛙"
+  },
+  "desc": {
+   "zh": "AI 面试辅助工具，官网称可实时识别面试官提问并即时生成答案，支持中英双语字幕、简历分析押题、笔试答题与多语言识别，兼容主流视频面试平台，提供桌面端与移动端。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://mianshizhushou.com/",
+  "tags": [
+   "面试助手",
+   "AI押题",
+   "求职工具"
+  ],
+  "visits": 2141
+ },
+ {
+  "slug": "qiuzhifangzhou",
+  "name": {
+   "zh": "求职方舟",
+   "en": "求职方舟"
+  },
+  "desc": {
+   "zh": "求职方舟是面向大学生的 AI 求职工具站，集成 AI 填网申、AI 找工作、简历魔改、过机筛优化、校招实习汇总表、AI 笔面试等 11 个工具，官网称多款工具使用量达数十万。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://www.qiuzhifangzhou.com/",
+  "tags": [
+   "求职",
+   "校招",
+   "AI工具"
+  ],
+  "visits": 71838
+ },
+ {
+  "slug": "resume-worded",
+  "name": {
+   "zh": "Resume Worded",
+   "en": "Resume Worded"
+  },
+  "desc": {
+   "zh": "Resume Worded 由招聘官参与设计，为简历和领英资料打分并逐行指出问题，还能按岗位描述补关键词、自动改写弱句，适合投递前最后打磨。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://resumeworded.com/",
+  "tags": [
+   "简历评分",
+   "ATS优化",
+   "领英诊断"
+  ],
+  "visits": 1216881
+ },
+ {
+  "slug": "smalltalk2me",
+  "name": {
+   "zh": "SmallTalk2Me",
+   "en": "SmallTalk2Me"
+  },
+  "desc": {
+   "zh": "专注英语口语的 AI 练习平台，十五分钟测出 CEFR 等级，可模拟雅思口试和英文面试，并给出流利度、发音与语法反馈，适合备考与职场提升。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://smalltalk2.me/",
+  "tags": [
+   "口语陪练",
+   "雅思模考",
+   "等级测评"
+  ],
+  "visits": 289415
+ },
+ {
+  "slug": "thita",
+  "name": {
+   "zh": "thita.ai",
+   "en": "thita.ai"
+  },
+  "desc": {
+   "zh": "面向软件工程师的面试准备平台，官方称整理 99 个算法题型并配动画讲解，提供语音模拟面试与逐行代码教练，卡住时先给最小提示而非完整答案，另有九十天路线图与简历检查。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://thita.ai/",
+  "tags": [
+   "算法面试",
+   "语音模拟面试",
+   "代码行教练"
+  ],
+  "visits": 62557
+ },
+ {
+  "slug": "duomian",
+  "name": {
+   "zh": "多面",
+   "en": "多面"
+  },
+  "desc": {
+   "zh": "一体化招聘管理系统，把 AI 面试、视频面试与招聘管理 ATS 串在同一条流程里，官方称可提升招聘效率、辅助人才甄别，让需求到录用的环节闭环。",
+   "en": ""
+  },
+  "category": "hr-recruit",
+  "url": "https://www.duomian.com/",
+  "tags": [
+   "AI面试",
+   "视频面试",
+   "招聘ATS"
+  ],
+  "visits": 25059
+ },
+ {
+  "slug": "mercor",
+  "name": {
+   "zh": "Mercor",
+   "en": "Mercor"
+  },
+  "desc": {
+   "zh": "面向 AI 领域的人力数据平台，官网称组织起医生、律师、工程师等专业人士网络，为前沿实验室与企业提供数据标注、模型评测集、人类评估与智能体训练服务。",
+   "en": ""
+  },
+  "category": "hr-recruit",
+  "url": "https://mercor.com",
+  "tags": [
+   "数据标注",
+   "模型评测",
+   "专家网络"
+  ],
+  "visits": 10569859
+ },
+ {
+  "slug": "metaview",
+  "name": {
+   "zh": "Metaview",
+   "en": "Metaview"
+  },
+  "desc": {
+   "zh": "面向招聘团队的智能招聘平台，用常驻 AI 智能体承担人才寻源、简历初筛、面试记录与招聘报告，官方称覆盖从首次搜寻到最终发出 offer 的全流程，并压缩招聘周期。",
+   "en": ""
+  },
+  "category": "hr-recruit",
+  "url": "https://www.metaview.ai/",
+  "tags": [
+   "招聘自动化",
+   "人才寻源",
+   "面试记录"
+  ],
+  "visits": 168075
+ },
+ {
+  "slug": "screenify",
+  "name": {
+   "zh": "Screenify",
+   "en": "Screenify"
+  },
+  "desc": {
+   "zh": "Screenify 是用类人 AI 面试自动筛选求职者的平台，官方称可全自动完成访谈、按企业标准一致评分，并接入 ATS 降低至多九成招聘成本。",
+   "en": ""
+  },
+  "category": "hr-recruit",
+  "url": "https://www.screenify.ai/",
+  "tags": [
+   "AI面试",
+   "招聘筛选",
+   "人才评估"
+  ],
+  "visits": 5216
+ },
+ {
+  "slug": "weekday",
+  "name": {
+   "zh": "Weekday",
+   "en": "Weekday"
+  },
+  "desc": {
+   "zh": "主打主动出击的 AI 招聘工具，官网称其 AI 寻访智能体会主动联系被动求职者，通过邮件、WhatsApp 与电话触达，并提供免费简历筛选、免费发岗与多种合作模式。",
+   "en": ""
+  },
+  "category": "hr-recruit",
+  "url": "https://www.weekday.works/",
+  "tags": [
+   "AI招聘",
+   "主动寻访",
+   "简历筛选"
+  ],
+  "visits": 282021
  }
 ]
