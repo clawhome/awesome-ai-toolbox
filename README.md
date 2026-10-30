@@ -2685,13 +2685,13 @@
 11. **[豆包](https://topxai.cn/ai/doubao)** — ChatBot 与虚拟伴侣
 12. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
 13. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
-14. **[Claude Code](https://topxai.cn/ai/claude-code)** — 代码编程与辅助
-15. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
-16. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 代码编程与辅助
-17. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
-18. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
-19. **[Comet](https://topxai.cn/ai/comet-browser)** — 其他
-20. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+14. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
+15. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 代码编程与辅助
+16. **[Salesforce](https://topxai.cn/ai/salesforce)** — 企业管理
+17. **[DeepL](https://topxai.cn/ai/deepl)** — 学习辅助与翻译
+18. **[Comet](https://topxai.cn/ai/comet-browser)** — 其他
+19. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+20. **[Magnific](https://topxai.cn/ai/magnific)** — 图像生成与编辑
 
 ## 关于本仓库
 

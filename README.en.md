@@ -2685,13 +2685,13 @@
 11. **[Doubao](https://topxai.cn/ai/doubao)** — Chatbots & Companions
 12. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
 13. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
-14. **[Claude Code](https://topxai.cn/ai/claude-code)** — Coding Assistants
-15. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
-16. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — Coding Assistants
-17. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
-18. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
-19. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
-20. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+14. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
+15. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — Coding Assistants
+16. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
+17. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
+18. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
+19. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+20. **[Magnific](https://topxai.cn/ai/magnific)** — Image Generation & Editing
 
 ## About
 
