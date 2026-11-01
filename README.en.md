@@ -2678,19 +2678,19 @@
 4. **[Google Gemini](https://topxai.cn/ai/gemini)** — Chatbots & Companions
 5. **[Gemini CLI](https://topxai.cn/ai/gemini-cli)** — Coding Assistants
 6. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — Coding Assistants
-7. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — Image Generation & Editing
-8. **[DeepSeek](https://topxai.cn/ai/deepseek)** — Chatbots & Companions
-9. **[Grok](https://topxai.cn/ai/grok)** — Chatbots & Companions
-10. **[Notion AI](https://topxai.cn/ai/notion-ai)** — Text Generation & Editing
-11. **[Doubao](https://topxai.cn/ai/doubao)** — Chatbots & Companions
-12. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
-13. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
+7. **[DeepSeek](https://topxai.cn/ai/deepseek)** — Chatbots & Companions
+8. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — Image Generation & Editing
+9. **[Notion AI](https://topxai.cn/ai/notion-ai)** — Text Generation & Editing
+10. **[Doubao](https://topxai.cn/ai/doubao)** — Chatbots & Companions
+11. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
+12. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
+13. **[Grok](https://topxai.cn/ai/grok)** — Chatbots & Companions
 14. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
 15. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — Coding Assistants
-16. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
-17. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
-18. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
-19. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+16. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
+17. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
+18. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+19. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
 20. **[Magnific](https://topxai.cn/ai/magnific)** — Image Generation & Editing
 
 ## About
