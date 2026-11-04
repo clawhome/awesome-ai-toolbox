@@ -23731,6 +23731,25 @@
   "visits": 7212112
  },
  {
+  "slug": "hedra",
+  "name": {
+   "zh": "Hedra",
+   "en": "Hedra"
+  },
+  "desc": {
+   "zh": "Hedra 转向多模态与具身 AI 的推理与训练基础设施：兼容 OpenAI 的 API 可调图像、视频、音频与语言模型，也能自带权重微调、在 GPU 沙盒跑自定义代码。",
+   "en": ""
+  },
+  "category": "model-infra",
+  "url": "https://hedra.com",
+  "tags": [
+   "推理基础设施",
+   "模型微调",
+   "GPU 沙盒"
+  ],
+  "visits": 2539063
+ },
+ {
   "slug": "kinovi",
   "name": {
    "zh": "Kinovi",
@@ -29638,25 +29657,6 @@
    "开发者API"
   ],
   "visits": 58788
- },
- {
-  "slug": "hedra",
-  "name": {
-   "zh": "Hedra",
-   "en": "Hedra"
-  },
-  "desc": {
-   "zh": "Hedra 官方定位为视觉推理模型与基础设施研发机构，同时面向创作者提供可视化工作台，可在同一画布上跨视频、图像、音频模型进行规划、生成与剪辑。",
-   "en": ""
-  },
-  "category": "video-gen",
-  "url": "https://hedra.com",
-  "tags": [
-   "视频生成",
-   "多模型平台",
-   "工作流"
-  ],
-  "visits": 2539063
  },
  {
   "slug": "hidream-ai",
