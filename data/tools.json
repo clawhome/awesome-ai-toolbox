@@ -893,6 +893,25 @@
   "visits": 777794
  },
  {
+  "slug": "dynal",
+  "name": {
+   "zh": "Dynal",
+   "en": "Dynal"
+  },
+  "desc": {
+   "zh": "Dynal 是面向 LinkedIn 的 AI 内容助手，读主页建语气档案，据此选题、起草帖文配图并排期；浏览器扩展能筛出值得回复的评论与私信并起草回复，内容需人工确认。",
+   "en": ""
+  },
+  "category": "social",
+  "url": "https://dynal.ai/",
+  "tags": [
+   "LinkedIn",
+   "社媒文案",
+   "线索筛选"
+  ],
+  "visits": 49932
+ },
+ {
   "slug": "eamily",
   "name": {
    "zh": "Teamily AI",
@@ -3270,8 +3289,8 @@
  {
   "slug": "shred",
   "name": {
-   "zh": "SHRED: Home & Gym Workouts App",
-   "en": "SHRED: Home & Gym Workouts App"
+   "zh": "SHRED",
+   "en": "SHRED"
   },
   "desc": {
    "zh": "SHRED 是一款健身训练应用，官方称训练计划由精英教练搭建，再用自适应 AI 按目标、器械和日程微调，覆盖健身房到纯自重多种器械场景，并提供重量建议、进度图表与社群挑战。",
@@ -6386,8 +6405,8 @@
  {
   "slug": "docassist-ai",
   "name": {
-   "zh": "DocAssist AI: Your Clinical Assistant",
-   "en": "DocAssist AI: Your Clinical Assistant"
+   "zh": "DocAssist AI",
+   "en": "DocAssist AI"
   },
   "desc": {
    "zh": "面向印度诊所与医院的 AI 电子病历平台，支持医生口述自动生成临床笔记与处方，管理患者队列与随访，并对接印度国家数字健康网络。",
@@ -6424,8 +6443,8 @@
  {
   "slug": "docus-ai",
   "name": {
-   "zh": "Docus - AI-Powered Health Platform",
-   "en": "Docus - AI-Powered Health Platform"
+   "zh": "Docus",
+   "en": "Docus"
   },
   "desc": {
    "zh": "Docus 是面向医学检验机构的 AI 平台，提供检验报告解读、随访建议、合规校验和数字化申请单，帮助检验所提升复检率和运营效率。",
@@ -8704,8 +8723,8 @@
  {
   "slug": "vocably",
   "name": {
-   "zh": "Vocably (a language-learning tool)",
-   "en": "Vocably (a language-learning tool)"
+   "zh": "Vocably",
+   "en": "Vocably"
   },
   "desc": {
    "zh": "面向外语使用者的语言学习工具，把浏览器划词翻译与单词卡片结合：网页上选词即得上下文翻译，一键保存为卡片并用测验复习，官方称支持 Chrome、Safari、iOS、Android 等多端。",
@@ -9483,8 +9502,8 @@
  {
   "slug": "renovateai",
   "name": {
-   "zh": "Renovate AI - Home Design",
-   "en": "Renovate AI - Home Design"
+   "zh": "Renovate AI",
+   "en": "Renovate AI"
   },
   "desc": {
    "zh": "Renovate AI 是一个家装与改造预览工具，上传房间或房屋外观照片后选择风格、涂料或家具改动即可生成预览，另提供虚拟软装、庭院景观、草图转效果图等工具，网页与手机端均可用。",
@@ -14670,8 +14689,8 @@
  {
   "slug": "bettersheets",
   "name": {
-   "zh": "Google Sheets Formula Generator",
-   "en": "Google Sheets Formula Generator"
+   "zh": "Better Sheets",
+   "en": "Better Sheets"
   },
   "desc": {
    "zh": "一个免费的 Google Sheets 公式生成器，用自然语言描述任务即可获得可直接粘贴使用的公式，官方称免费两次无需注册，配套公式目录、视频教程与脚本讲解资源。",
@@ -14727,8 +14746,8 @@
  {
   "slug": "careergo",
   "name": {
-   "zh": "AI Resume and Cover Letter Builder",
-   "en": "AI Resume and Cover Letter Builder"
+   "zh": "Careergo",
+   "en": "Careergo"
   },
   "desc": {
    "zh": "Careergo 是面向非洲求职者的 ATS 友好型简历与求职信工具，上传或新建简历后按具体职位优化条目，生成配套求职信，导出 Word 或 PDF，官网称按次付费，起步 0.25 美元。",
@@ -16874,8 +16893,8 @@
  {
   "slug": "presenton",
   "name": {
-   "zh": "Presenton: Data Presentations",
-   "en": "Presenton: Data Presentations"
+   "zh": "Presenton",
+   "en": "Presenton"
   },
   "desc": {
    "zh": "开源的 AI 演示文稿生成工具，输入提示词或文档即可生成可编辑的 PPTX 与 PDF 幻灯片，支持画布编辑、对话式修改，提供云端、自托管与 API 三种使用方式。",
@@ -18850,8 +18869,8 @@
  {
   "slug": "andisearch",
   "name": {
-   "zh": "Andi - Search for the next generation",
-   "en": "Andi - Search for the next generation"
+   "zh": "Andi",
+   "en": "Andi"
   },
   "desc": {
    "zh": "对话式 AI 搜索引擎，用自然语言提问即可直接得到带来源的答案，而非链接列表，官方称无广告、不追踪、可匿名使用，并提供辅助写作与可视化结果卡片。",
@@ -25063,8 +25082,8 @@
  {
   "slug": "videogen",
   "name": {
-   "zh": "VideoGen - AI Video Generator",
-   "en": "VideoGen - AI Video Generator"
+   "zh": "VideoGen",
+   "en": "VideoGen"
   },
   "desc": {
    "zh": "面向团队的一体化 AI 视频平台，可从脚本、图片或分镜批量生成产品广告、讲解与社媒短片，内置多模型与配音，适合营销与培训场景。",
@@ -25158,8 +25177,8 @@
  {
   "slug": "woxo",
   "name": {
-   "zh": "WOXO: AI Video Generator for Social Content",
-   "en": "WOXO: AI Video Generator for Social Content"
+   "zh": "WOXO",
+   "en": "WOXO"
   },
   "desc": {
    "zh": "WOXO 面向不想露脸的 YouTube 创作者，官方称写一句创意即可生成带脚本、配音和画面的 Shorts，并支持一键或定时发布。画面与配音均由 AI 生成，免费档提供 50 积分且无需信用卡。",
@@ -25382,6 +25401,25 @@
    "口播"
   ],
   "visits": 5620196
+ },
+ {
+  "slug": "bocalive",
+  "name": {
+   "zh": "BocaLive",
+   "en": "BocaLive"
+  },
+  "desc": {
+   "zh": "面向跨境电商卖家的 AI 数字人直播软件平台，提供多国籍数字人形象、商品链接自动生成直播脚本、多语种配音与实时评论应答，支持一个画面同时向多个海外平台与店铺推流开播。",
+   "en": ""
+  },
+  "category": "video-avatar",
+  "url": "https://www.bocalive.ai/zh",
+  "tags": [
+   "数字人直播",
+   "跨境带货",
+   "多平台推流"
+  ],
+  "visits": 10162
  },
  {
   "slug": "chatcut",
@@ -26049,6 +26087,25 @@
   "visits": 321579
  },
  {
+  "slug": "syntopia",
+  "name": {
+   "zh": "Syntopia",
+   "en": "Syntopia"
+  },
+  "desc": {
+   "zh": "主打 TikTok Shop 场景的互动式 AI 数字人直播平台，提供超写实数字人、评论实时应答与问答知识库导入，按八步流程搭建全天候带货直播间，官网同时列出企业方案与定制数字人服务。",
+   "en": ""
+  },
+  "category": "video-avatar",
+  "url": "https://syntopia.ai/",
+  "tags": [
+   "数字人直播",
+   "直播互动",
+   "话术生成"
+  ],
+  "visits": 13320
+ },
+ {
   "slug": "t9-shuziren",
   "name": {
    "zh": "T9数字人",
@@ -26104,6 +26161,25 @@
    "视频接口API"
   ],
   "visits": 711491
+ },
+ {
+  "slug": "twintone",
+  "name": {
+   "zh": "TwinTone",
+   "en": "TwinTone"
+  },
+  "desc": {
+   "zh": "面向品牌与创作者的 AI 直播主播平台，让 AI 主播在多个社交渠道全天候开播讲品、实时回答观众提问，并自动把每场直播剪成短片，官网列出按直播时长计费的多档订阅方案。",
+   "en": ""
+  },
+  "category": "video-avatar",
+  "url": "https://twintone.ai/",
+  "tags": [
+   "AI主播",
+   "24小时直播",
+   "直播切片"
+  ],
+  "visits": 14032
  },
  {
   "slug": "ugcvideo",
@@ -26469,8 +26545,8 @@
  {
   "slug": "autoae",
   "name": {
-   "zh": "AutoAE: Viral Hooks & YouTube Video Online Generator",
-   "en": "AutoAE: Viral Hooks & YouTube Video Online Generator"
+   "zh": "AutoAE",
+   "en": "AutoAE"
   },
   "desc": {
    "zh": "AutoAE 是把一句话、脚本或图片变成动态图形的 AI 工具，模板可换文字与素材，几分钟导出无水印 1080p 视频，也能在编程智能体里调用。适合短视频钩子、产品发布和口播包装。",
@@ -29072,8 +29148,8 @@
  {
   "slug": "reelmoney",
   "name": {
-   "zh": "ReelMoney - AI Avatar & Faceless videos",
-   "en": "ReelMoney - AI Avatar & Faceless videos"
+   "zh": "ReelMoney",
+   "en": "ReelMoney"
   },
   "desc": {
    "zh": "ReelMoney 是面向应用与小商家的短视频图文营销工具，描述产品与人群即可生成可逐页编辑的幻灯片，另有无露脸视频模板与跨平台定时发布，还能通过 MCP 交给 AI 代理代运营。",
@@ -29547,8 +29623,8 @@
  {
   "slug": "freevideogenerator",
   "name": {
-   "zh": "Van Gogh Free Video Generator",
-   "en": "Van Gogh Free Video Generator"
+   "zh": "Free Video Generator",
+   "en": "Free Video Generator"
   },
   "desc": {
    "zh": "Van Gogh Studio 的在线 AI 视频生成工作区，用文本或图片即可生成短片，内置多模型切换、成体系的特效模板与成品工作流，并可通过每日签到与转盘获取额度。",
@@ -31827,8 +31903,8 @@
  {
   "slug": "table",
   "name": {
-   "zh": "table.studio - bulk image generation",
-   "en": "table.studio - bulk image generation"
+   "zh": "table.studio",
+   "en": "table.studio"
   },
   "desc": {
    "zh": "以表格为界面的批量图像生成工具，官方称在单元格里调用 AI，一次产出数百张图，用于多平台广告素材、商品配色变体与整月社媒配图，页面标注无需注册即可试用。",
@@ -31846,8 +31922,8 @@
  {
   "slug": "the-new-black",
   "name": {
-   "zh": "The New Black | AI Clothing Fashion Design Generator",
-   "en": "The New Black | AI Clothing Fashion Design Generator"
+   "zh": "The New Black",
+   "en": "The New Black"
   },
   "desc": {
    "zh": "面向服装品牌的 AI 视觉工作台，能把产品图变成模特上身图与虚拟试穿图，生成短视频和工厂可用的工艺单，并把素材直接推到店铺与社媒。",
@@ -32511,8 +32587,8 @@
  {
   "slug": "hey-photo",
   "name": {
-   "zh": "HeyPhoto AI Photo Editor Online",
-   "en": "HeyPhoto AI Photo Editor Online"
+   "zh": "HeyPhoto",
+   "en": "HeyPhoto"
   },
   "desc": {
    "zh": "Icons8 推出的免费在线 AI 人脸编辑工具，可调整视线方向、笑容程度、情绪、性别与年龄等面部特征，官方称免费使用，但输出图会带水印。",
@@ -32739,8 +32815,8 @@
  {
   "slug": "lucidpic",
   "name": {
-   "zh": "Lucidpic - AI Person Generator",
-   "en": "Lucidpic - AI Person Generator"
+   "zh": "Lucidpic",
+   "en": "Lucidpic"
   },
   "desc": {
    "zh": "Lucidpic 是一个面向创作者的图像与视频工作台，可用提示词或照片生成写实人物，并让同一个角色在后续图片与视频中保持一致，同时提供修图、换背景、扩图与多尺寸导出等编辑工具。",
@@ -33062,8 +33138,8 @@
  {
   "slug": "picsart-tools",
   "name": {
-   "zh": "Quicktools Background Remover",
-   "en": "Quicktools Background Remover"
+   "zh": "Quicktools BG Remover",
+   "en": "Quicktools BG Remover"
   },
   "desc": {
    "zh": "Picsart 旗下的免费在线抠图工具，上传照片即自动识别人像或物体并去掉背景，支持高分辨率导出、批量抠图与视频去背，官方称累计处理超七亿张背景。",
@@ -34753,8 +34829,8 @@
  {
   "slug": "animegenius",
   "name": {
-   "zh": "AnimeGenius - Anime AI Generator",
-   "en": "AnimeGenius - Anime AI Generator"
+   "zh": "AnimeGenius",
+   "en": "AnimeGenius"
   },
   "desc": {
    "zh": "免费二次元绘画站，支持文生图、照片转动漫、涂鸦实时生成和动漫图转视频，内置上百种画风与角色类型，适合同人创作与头像素材。",
@@ -35057,8 +35133,8 @@
  {
   "slug": "flux-ai",
   "name": {
-   "zh": "Flux AI - Online Advanced Flux.1 AI",
-   "en": "Flux AI - Online Advanced Flux.1 AI"
+   "zh": "Flux AI",
+   "en": "Flux AI"
   },
   "desc": {
    "zh": "把图像与视频生成放在一起的在线平台，官方称收录 Flux 系列、Seedream、Nano Banana 等多种模型，支持文生图、图生图与图生视频，并提供图像转提示词、放大等免费工具，注册即送额度。",
@@ -39066,8 +39142,8 @@
  {
   "slug": "mobirise",
   "name": {
-   "zh": "Mobirise AI Website Generator",
-   "en": "Mobirise AI Website Generator"
+   "zh": "Mobirise",
+   "en": "Mobirise"
   },
   "desc": {
    "zh": "Mobirise 推出的 AI 建站工具，输入提示词即用现成区块生成 4 个网站设计方案，可在对话或可视化编辑器里修改，免费版每月 3 次生成，支持导出源码。",
@@ -39446,8 +39522,8 @@
  {
   "slug": "shuffle-ai-website-builder",
   "name": {
-   "zh": "AI Website Redesign by Shuffle",
-   "en": "AI Website Redesign by Shuffle"
+   "zh": "Shuffle",
+   "en": "Shuffle"
   },
   "desc": {
    "zh": "可视化建站工具，内置上万 UI 组件和多模型 AI 设计，拖拽或写一句提示词即可生成页面，并导出成生产可用代码，适合赶工期的开发者。",
@@ -44272,8 +44348,8 @@
  {
   "slug": "sivi",
   "name": {
-   "zh": "Sivi AI - Generate Instant Designs",
-   "en": "Sivi AI - Generate Instant Designs"
+   "zh": "Sivi AI",
+   "en": "Sivi AI"
   },
   "desc": {
    "zh": "文本转设计 AI 平台，输入一句话即可生成带可编辑图层的广告图、社媒帖与电商横幅等原创设计，支持任意尺寸与 72 种以上语言，内置品牌系统、多尺寸套图生成与在线编辑工作台。",
@@ -47521,8 +47597,8 @@
  {
   "slug": "smartick",
   "name": {
-   "zh": "Smartick | Online Elementary Math For Children",
-   "en": "Smartick | Online Elementary Math For Children"
+   "zh": "Smartick",
+   "en": "Smartick"
   },
   "desc": {
    "zh": "面向 4 至 14 岁孩子的在线学习方法，主打数学与编程。先用前几次课做水平测评，再由 AI 程序生成个性化学习计划，每天推送一段约 15 分钟的练习，官网提供免费试用，家长端可看学习情况。",
@@ -47559,8 +47635,8 @@
  {
   "slug": "speakpal",
   "name": {
-   "zh": "AI Language Learning - SpeakPal",
-   "en": "AI Language Learning - SpeakPal"
+   "zh": "SpeakPal",
+   "en": "SpeakPal"
   },
   "desc": {
    "zh": "SpeakPal 是 AI 语言学习平台，支持 30 多种语言，用角色扮演练真实对话，实时纠正发音与语法，还能切换英语口音并生成可验证的等级证书。",
@@ -49155,8 +49231,8 @@
  {
   "slug": "mindsmith",
   "name": {
-   "zh": "Mindsmith: AI-powered Learning",
-   "en": "Mindsmith: AI-powered Learning"
+   "zh": "Mindsmith",
+   "en": "Mindsmith"
   },
   "desc": {
    "zh": "Mindsmith 是一款 AI 原生课件创作工具，能把文档、PPT、视频或标准化流程自动转成含对话、分支剧情与测验的互动课程，支持标准课件包导出与学习数据分析。",
@@ -49250,8 +49326,8 @@
  {
   "slug": "penseum",
   "name": {
-   "zh": "Penseum - Your AI-Powered Study Partner",
-   "en": "Penseum - Your AI-Powered Study Partner"
+   "zh": "Penseum",
+   "en": "Penseum"
   },
   "desc": {
    "zh": "Penseum 是一款 AI 学习工具，可把笔记和习题变成笔记、闪卡与测验，并用实时语音讲题、在屏幕上画图演算、指出错处，适合生物、化学、数学等科目备考。",
@@ -49269,8 +49345,8 @@
  {
   "slug": "questgen",
   "name": {
-   "zh": "Questgen - AI Powered Quiz Generator",
-   "en": "Questgen - AI Powered Quiz Generator"
+   "zh": "Questgen",
+   "en": "Questgen"
   },
   "desc": {
    "zh": "Questgen 是一款 AI 出题工具，输入文本、网址、PDF 或视频即可一键生成选择题、判断题、填空题等卷子，并支持按布卢姆认知层次出题。结果可编辑后导出为 PDF、QTI、Moodle XML 等多种格式。",
@@ -49516,8 +49592,8 @@
  {
   "slug": "storypie",
   "name": {
-   "zh": "Storypie: Magical Story Creator",
-   "en": "Storypie: Magical Story Creator"
+   "zh": "Storypie",
+   "en": "Storypie"
   },
   "desc": {
    "zh": "面向学前到八年级的音频优先学习平台，把知识点做成可听可跟读的故事，配理解测验、插画练习纸与涂色页，还能按年级生成课程和教案，适合家庭与课堂。",
@@ -49877,8 +49953,8 @@
  {
   "slug": "aivoicecleaner",
   "name": {
-   "zh": "AI Voice Cleaner: Remove Noise Instantly",
-   "en": "AI Voice Cleaner: Remove Noise Instantly"
+   "zh": "AI Voice Cleaner",
+   "en": "AI Voice Cleaner"
   },
   "desc": {
    "zh": "AI Voice Cleaner 是免费在线音频降噪工具，上传音视频即可用 AI 去除背景噪音与回声，还能清除填充词、呼吸声与长静音，并提供自动均衡、音量归一化等增强功能，帮助口播内容快速获得清晰听感。",
@@ -52442,8 +52518,8 @@
  {
   "slug": "ask-ai",
   "name": {
-   "zh": "Ask AI - AI Powered Chat Bot Assistant",
-   "en": "Ask AI - AI Powered Chat Bot Assistant"
+   "zh": "Ask AI",
+   "en": "Ask AI"
   },
   "desc": {
    "zh": "整合多家大模型的 AI 聊天助手，可在同一入口按任务切换模型，并支持文档问答、网页与视频摘要、联网搜索和文生图，适合想用一个订阅覆盖多种任务的人。",
@@ -53886,8 +53962,8 @@
  {
   "slug": "luzia",
   "name": {
-   "zh": "Luzia: Your intelligent assistant at a click",
-   "en": "Luzia: Your intelligent assistant at a click"
+   "zh": "Luzia",
+   "en": "Luzia"
   },
   "desc": {
    "zh": "一款主打轻量的免费 AI 助手，能聊天、翻译、解题并生成图片，还可直接在 WhatsApp 里使用，适合西语用户、学生和常在外沟通的跨境从业者。",
@@ -54095,8 +54171,8 @@
  {
   "slug": "ninjachat",
   "name": {
-   "zh": "NinjaChat - Ultimate AI Chatbot Platform",
-   "en": "NinjaChat - Ultimate AI Chatbot Platform"
+   "zh": "NinjaChat",
+   "en": "NinjaChat"
   },
   "desc": {
    "zh": "聚合 GPT、Claude、Gemini 等 50 多款模型的一站式对话应用，支持同题多答对比、语音、图片与视频生成，月费 11 美元起。",
@@ -57933,8 +58009,8 @@
  {
   "slug": "rosebud",
   "name": {
-   "zh": "Rosebud - AI Journal for Personal Growth",
-   "en": "Rosebud - AI Journal for Personal Growth"
+   "zh": "Rosebud",
+   "en": "Rosebud"
   },
   "desc": {
    "zh": "Rosebud 是一款 AI 日记应用，支持打字或语音记录，AI 会追问、串联过往条目并生成每周成长报告，同时兼顾习惯养成与情绪支持。适合想做自我觉察与轻量心理支持的人。",
@@ -58351,8 +58427,8 @@
  {
   "slug": "kome",
   "name": {
-   "zh": "Kome: AI Summary and Bookmark Extension",
-   "en": "Kome: AI Summary and Bookmark Extension"
+   "zh": "Kome",
+   "en": "Kome"
   },
   "desc": {
    "zh": "浏览器扩展，可一键摘要网页、文章、PDF 与视频，并把内容存进可搜索的书签库。适合日常信息采集、选题积累与写作素材整理。",
@@ -58883,8 +58959,8 @@
  {
   "slug": "chorus-songwriting",
   "name": {
-   "zh": "Chorus Songwriting App and Lyrics Assistant",
-   "en": "Chorus Songwriting App and Lyrics Assistant"
+   "zh": "Chorus",
+   "en": "Chorus"
   },
   "desc": {
    "zh": "面向歌曲创作者的写作应用，用智能助手提供按曲风筛选的押韵词、起句词和卡壳时的句子建议，配合和弦与每日练习，帮人把写了一半的歌写完。",
@@ -59890,8 +59966,8 @@
  {
   "slug": "fadr",
   "name": {
-   "zh": "Fadr - AI Music Maker",
-   "en": "Fadr - AI Music Maker"
+   "zh": "Fadr",
+   "en": "Fadr"
   },
   "desc": {
    "zh": "在线音乐工具集，可把歌曲拆成人声、鼓、贝斯等分轨，再做混音、Remix 与 DJ 串烧，免费版即可无限次导出 MP3 文件。",
@@ -60156,8 +60232,8 @@
  {
   "slug": "songgenerator-io",
   "name": {
-   "zh": "SongGenerator.io: AI Music Generator Free Online",
-   "en": "SongGenerator.io: AI Music Generator Free Online"
+   "zh": "SongGenerator",
+   "en": "SongGenerator"
   },
   "desc": {
    "zh": "SongGenerator.io 是免登录可试的 AI 歌曲生成器，一段文字描述就能产出完整歌曲，另有人声分离、歌词与音效生成，订阅后可下载商用授权书，适合短视频配乐与独立音乐人。",
@@ -60194,8 +60270,8 @@
  {
   "slug": "sunoprompt",
   "name": {
-   "zh": "Suno AI Music Prompt Generator",
-   "en": "Suno AI Music Prompt Generator"
+   "zh": "SunoPrompt",
+   "en": "SunoPrompt"
   },
   "desc": {
    "zh": "免费的 AI 音乐提示词生成与创作工具集，官方称可从文字、歌词、图片或视频生成歌曲，内置多种 AI 模型可选，支持人声分离、最多 12 轨分轨导出与 MIDI 导出，可免费开始。",

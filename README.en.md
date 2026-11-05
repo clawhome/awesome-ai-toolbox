@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 3185 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 3189 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-3185-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-3189-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -25,7 +25,7 @@
 
 **Industries**
 
-- [Social Media](#social-media) `44`
+- [Social Media](#social-media) `45`
 - [Everyday Life](#everyday-life) `45`
 - [Legal & Finance](#legal--finance) `63`
 - [Enterprise Management](#enterprise-management) `83`
@@ -180,7 +180,7 @@
 - **[Transync AI](https://topxai.cn/ai/transync-ai)** — Transync AI 是面向多语言会议的实时翻译工具，同时翻译双方发言并朗读译文，支持 60 种语言、悬浮字幕与会议纪要，无需插件。适合外贸洽谈、跨国周会与海外课堂。 · [website](https://transyncai.com/)
 - **[TTime](https://topxai.cn/ai/ttime)** — 适用于 Windows 与 macOS 的翻译和文字识别软件，支持划词翻译、截图翻译、图片翻译与 OCR，可自行配置 DeepL、OpenAI 等多种翻译源。 · [website](https://ttime.timerecord.cn/)
 - **[ViiTor Translate](https://topxai.cn/ai/viitor)** — 实时语音翻译工具，面向直播、会议与网课场景，官方称由自研音频模型驱动，边听边出翻译字幕，支持字幕回看沉淀与要点总结，提供 iOS、安卓客户端及 Chrome、Edge 浏览器插件。 · [website](https://viitor.info/)
-- **[Vocably (a language-learning tool)](https://topxai.cn/ai/vocably)** — 面向外语使用者的语言学习工具，把浏览器划词翻译与单词卡片结合：网页上选词即得上下文翻译，一键保存为卡片并用测验复习，官方称支持 Chrome、Safari、iOS、Android 等多端。 · [website](https://vocably.pro/)
+- **[Vocably](https://topxai.cn/ai/vocably)** — 面向外语使用者的语言学习工具，把浏览器划词翻译与单词卡片结合：网页上选词即得上下文翻译，一键保存为卡片并用测验复习，官方称支持 Chrome、Safari、iOS、Android 等多端。 · [website](https://vocably.pro/)
 - **[Wordly](https://topxai.cn/ai/wordly)** — Wordly 是面向会议与活动的实时 AI 翻译与字幕平台，支持几十种语言，把同传、字幕、转写与摘要合为一体，让线下线上活动低成本实现多语言无障碍沟通。 · [website](https://www.wordly.ai/)
 - **[象寄翻译](https://topxai.cn/ai/xiangjifanyi)** — 象寄翻译是面向跨境电商的 AI 内容本地化与营销平台，提供图片翻译、视频翻译、商品主图与详情页生成、模特场景图，支持 50 多种语言。 · [website](https://www.xiangjifanyi.com/home/)
 - **[讯飞译制](https://topxai.cn/ai/xunfei-yizhi)** — 讯飞译制是科大讯飞旗下的一站式视频译制工具，提供AI视频翻译、AI配音、声音克隆与多语种字幕生成，助力短剧出海与跨境电商。 · [website](https://yizhi.iflyrec.com/)
@@ -304,7 +304,7 @@
 
 ## Social Media
 
-<sub>[↑ Back to top](#table-of-contents) · `44 tools`</sub>
+<sub>[↑ Back to top](#table-of-contents) · `45 tools`</sub>
 
 - **[articuler.ai](https://topxai.cn/ai/articuler)** — 基于意图匹配的职场人脉工具，官方称可在 9.8 亿份职业档案中按目标找人，并提供冷邮件生成、会前准备与关系维护等配套能力。 · [website](https://www.articuler.ai/)
 - **[Blaze AI](https://topxai.cn/ai/blaze)** — AI marketing platform for small and medium businesses that folds social content, paid ads, landing pages, reputation management and AI sales development into one process, generating on-brand content and scheduling it automatically. From $79 a month. · [website](https://www.blaze.ai/)
@@ -316,6 +316,7 @@
 - **[Copy.ai](https://topxai.cn/ai/copy-ai)** — AI-native platform for go-to-market teams that orchestrates sales outreach, content creation and lead handling into reusable workflows, connecting 2000+ tools without locking you to a single model. · [website](https://www.copy.ai/)
 - **[Creatify](https://topxai.cn/ai/creatify)** — AI ad generation platform for social campaigns: turn a product link into multiple testable video and image ads, and push them straight to your social ad accounts. · [website](https://creatify.ai/)
 - **[Dujia Editor](https://topxai.cn/ai/dujia)** — Baidu's all-in-one AIGC creation platform covering AI video assembly, AI writing, AI stories, AI scripts, anime video, highlight cutting, digital humans and voice cloning, with one-click publishing to Baidu's content ecosystem. · [website](https://aigc.baidu.com/)
+- **[Dynal](https://topxai.cn/ai/dynal)** — Dynal 是面向 LinkedIn 的 AI 内容助手，读主页建语气档案，据此选题、起草帖文配图并排期；浏览器扩展能筛出值得回复的评论与私信并起草回复，内容需人工确认。 · [website](https://dynal.ai/)
 - **[Teamily AI](https://topxai.cn/ai/eamily)** — 把 AI 智能体当作群成员的通讯平台，Agent 常驻群聊、共享上下文与长期记忆，可在对话里直接产出网页、幻灯片、看板与文档。 · [website](https://Teamily.ai)
 - **[FeedHive](https://topxai.cn/ai/feedhive)** — Social media automation with AI agents: it learns your brand voice, generates content in one click, and automates multi-platform publishing through workflows and scheduling. · [website](https://www.feedhive.com/)
 - **[GalilAI](https://topxai.cn/ai/galilai)** — 面向 Instagram 的 AI 内容工具，官方站点为葡萄牙语，输入主页即按账号定位生成帖子、Reels 与完整文案，支持颜色字体等视觉自定义，并可排期自动发布到 Instagram 和 Facebook。 · [website](https://galilai.com.br/)
@@ -390,7 +391,7 @@
 - **[Reclaim.ai](https://topxai.cn/ai/reclaim-ai)** — Smart scheduling tool that connects to Google Calendar and fits tasks, habits, meetings and personal blocks into your free time, rescheduling intelligently on conflict. Acquired by Dropbox. · [website](https://reclaim.ai/)
 - **[Remento](https://topxai.cn/ai/remento)** — 把长辈口述回忆做成可听精装书的家庭服务，每周推送问题并自动转写成故事，每章扫码即可听到本人原声，适合送礼，支持 30 天退款。 · [website](https://remento.co/)
 - **[Rize](https://topxai.cn/ai/rize)** — Rize 是一款面向代理商与专业服务团队的自动时间追踪工具，支持 macOS 与 Windows，后台运行即可把时间归到客户与项目，官方称无需计时器与工时表，可直出客户利润报告。 · [website](https://rize.io/)
-- **[SHRED: Home & Gym Workouts App](https://topxai.cn/ai/shred)** — SHRED 是一款健身训练应用，官方称训练计划由精英教练搭建，再用自适应 AI 按目标、器械和日程微调，覆盖健身房到纯自重多种器械场景，并提供重量建议、进度图表与社群挑战。 · [website](https://www.shred.app/)
+- **[SHRED](https://topxai.cn/ai/shred)** — SHRED 是一款健身训练应用，官方称训练计划由精英教练搭建，再用自适应 AI 按目标、器械和日程微调，覆盖健身房到纯自重多种器械场景，并提供重量建议、进度图表与社群挑战。 · [website](https://www.shred.app/)
 - **[SMZDM](https://topxai.cn/ai/smzdm)** — Consumer decision platform positioned as an interest-based shopping guide: it aggregates deals and discount calculations from across the web, with price comparison tags, daily picks and subsidy sections, plus reviews from its community. · [website](https://www.smzdm.com/)
 - **[SPARTAN FORGE](https://topxai.cn/ai/spartanforge)** — 面向白尾鹿狩猎者的地图应用，官方称结合 LiDAR 与无人机影像做电子侦察，并用鹿群 GPS 项圈数据训练的神经网络预测鹿的活动，还支持团队实时共享标记点，提供 7 天试用。 · [website](https://spartanforge.ai/)
 - **[Trip Planner AI](https://topxai.cn/ai/trip-planner-ai)** — AI travel planner: enter dates and a destination to get a full itinerary with flights, hotels and activities, flexibly editable with live prices and one-click booking. 8M+ trips planned. · [website](https://tripplanner.ai/)
@@ -569,9 +570,9 @@
 - **[BioMap](https://topxai.cn/ai/biomap)** — A life science foundation model company. It says it developed the xTrimo base model and the BioMap OS dry-wet discovery loop supporting data insight and de novo design, offering antibody and protein discovery services to pharma and research institutes. · [website](https://www.biomap.com/)
 - **[Buoy Health](https://topxai.cn/ai/buoy-health)** — An AI symptom checker and triage tool founded by a Harvard team that uses conversational Q&A to suggest possible causes and care options. Educational content is reviewed by clinical experts, and it does not replace a doctor's diagnosis. · [website](https://www.buoyhealth.com/)
 - **[Cal AI](https://topxai.cn/ai/cal-ai)** — Cal AI 是一款用拍照记录饮食的 AI 热量管理应用，能估算食物体积并拆分热量与三大营养素，支持百万级食物库、条码扫描与进度追踪，适合减脂增肌人群日常记录。 · [website](https://calai.app/)
-- **[DocAssist AI: Your Clinical Assistant](https://topxai.cn/ai/docassist-ai)** — 面向印度诊所与医院的 AI 电子病历平台，支持医生口述自动生成临床笔记与处方，管理患者队列与随访，并对接印度国家数字健康网络。 · [website](https://www.eka.care/s/for-doctors/ai-enhanced-emr)
+- **[DocAssist AI](https://topxai.cn/ai/docassist-ai)** — 面向印度诊所与医院的 AI 电子病历平台，支持医生口述自动生成临床笔记与处方，管理患者队列与随访，并对接印度国家数字健康网络。 · [website](https://www.eka.care/s/for-doctors/ai-enhanced-emr)
 - **[Doctronic](https://topxai.cn/ai/doctronic)** — Doctronic 把 AI 问诊与真人医生接在一起，官方称可免费匿名描述症状并获得处理方案，39 美元可视频看诊，适合就诊前咨询与处方续开。 · [website](https://www.doctronic.ai)
-- **[Docus - AI-Powered Health Platform](https://topxai.cn/ai/docus-ai)** — Docus 是面向医学检验机构的 AI 平台，提供检验报告解读、随访建议、合规校验和数字化申请单，帮助检验所提升复检率和运营效率。 · [website](https://docus.ai/)
+- **[Docus](https://topxai.cn/ai/docus-ai)** — Docus 是面向医学检验机构的 AI 平台，提供检验报告解读、随访建议、合规校验和数字化申请单，帮助检验所提升复检率和运营效率。 · [website](https://docus.ai/)
 - **[DP Technology](https://topxai.cn/ai/dp-technology)** — An AI for Science company. It says its DP-Yuzhi scientific discovery engine underpins tools such as Bohr Science Navigator and Lebesgue computing, plus science agents, serving basic research and drug and materials R&D. · [website](https://www.dp.tech/)
 - **[FitnessAI](https://topxai.cn/ai/fitnessai)** — 以力量训练为核心的 AI 健身应用，按真实训练数据推算每次的组数、次数与重量，并随表现自动调整强度，官方称其模型基于超过 1 亿组训练记录。 · [website](https://fitnessai.com)
 - **[Freed](https://topxai.cn/ai/freed)** — 面向独立诊所的 AI 医疗记录助手，把问诊对话整理成可同步电子病历的笔记，并提供编码建议与带引用的临床问答，帮医生少写病历。 · [website](https://getfreed.ai/)
@@ -637,7 +638,7 @@
 - **[PromeAI](https://topxai.cn/ai/promeai)** — An AI image and video tool for designers and architecture professionals whose core strength is sketch rendering: turn sketches, 3D model screenshots and real photos into photorealistic renders, with image-to-video support. · [website](https://www.promeai.pro/)
 - **[Reimagine Home](https://topxai.cn/ai/reimagine-home)** — An AI interior design and virtual staging tool: upload a room image to generate renovation plans, match real furniture on sale into the space and add it to cart in one click. The company says it has a large base of users and designs. · [website](https://www.reimaginehome.ai/)
 - **[Rendair](https://topxai.cn/ai/rendair)** — Rendair AI 是面向建筑师与设计师的 AI 渲染工作台，官网称可把草图、平面图、三维模型与立面图转成写实效果图，并提供编辑、放大与视频动画能力。 · [website](https://www.rendair.ai/)
-- **[Renovate AI - Home Design](https://topxai.cn/ai/renovateai)** — Renovate AI 是一个家装与改造预览工具，上传房间或房屋外观照片后选择风格、涂料或家具改动即可生成预览，另提供虚拟软装、庭院景观、草图转效果图等工具，网页与手机端均可用。 · [website](https://renovateai.app/)
+- **[Renovate AI](https://topxai.cn/ai/renovateai)** — Renovate AI 是一个家装与改造预览工具，上传房间或房屋外观照片后选择风格、涂料或家具改动即可生成预览，另提供虚拟软装、庭院景观、草图转效果图等工具，网页与手机端均可用。 · [website](https://renovateai.app/)
 - **[ReRoom AI](https://topxai.cn/ai/reroom)** — 面向室内与建筑设计的 AI 渲染工具，上传三维模型截图、草图或实拍照片即可生成写实效果图，官方称形状、布局与所选材质保持不变，另有情绪板与图纸上色等配套功能。 · [website](https://reroom.ai/)
 - **[RoomGPT](https://topxai.cn/ai/roomgpt)** — An AI interior designer for individuals: upload one room photo and redesign it across multiple styles to generate renovation inspiration. It offers free trial credits and pay-per-use credit packs, suited to quickly previewing a makeover. · [website](https://roomgpt.io/)
 - **[Sengine AI](https://topxai.cn/ai/sengine)** — An AI interior design and spatial intelligence platform from Shenzhen Shengjing Technology. It says it generates personalized 3D spaces from room outlines and needs, adapting in real time to different activity scenarios, aimed at home design and space planning. · [website](https://www.s-engine.com.cn/)
