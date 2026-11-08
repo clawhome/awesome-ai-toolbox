@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · 中文 AI 工具精选
 
-> 收录 3189 个 AI 工具，覆盖 12 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
+> 收录 3202 个 AI 工具，覆盖 12 个类目 · 在线浏览 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-3189-blue)](#目录)
+[![Tools](https://img.shields.io/badge/tools-3202-blue)](#目录)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -28,10 +28,10 @@
 - [社交媒体](#社交媒体) `45`
 - [日常生活](#日常生活) `45`
 - [法律与财务](#法律与财务) `63`
-- [企业管理](#企业管理) `83`
+- [企业管理](#企业管理) `78`
 - [医疗与健康](#医疗与健康) `44`
 - [室内与建筑设计](#室内与建筑设计) `35`
-- [其他](#其他) `150`
+- [其他](#其他) `120`
 
 **更多**
 
@@ -472,13 +472,12 @@
 
 ## 企业管理
 
-<sub>[↑ 返回目录](#目录) · `83 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `78 收录`</sub>
 
 - **[88查](https://topxai.cn/ai/88cha)** — 免费的企业信息查询服务，可查工商注册、股东与高管、经营风险、财务状况、商标专利与竞品信息，并支持用 AI 方式检索企业背景。 · [官网](https://88cha.com/)
 - **[Accio Work](https://topxai.cn/ai/accio-work)** — 阿里国际的 AI Agent 团队产品，官方称面向中小企业、以主动智能自动化端到端业务任务，内置技能与连接器，可让 Agent 操作浏览器执行真实业务动作。 · [官网](https://www.accio.com/work)
 - **[Ada](https://topxai.cn/ai/ada-ai)** — 面向大型企业的智能体客服体验平台，官网称可自主解决超过八成咨询，覆盖语音、消息与邮件渠道，Ada Computer 让智能体调用业务系统直接替客户完成任务。 · [官网](https://www.ada.cx/)
 - **[AgentMore](https://topxai.cn/ai/agentmore)** — 智谱清言推出的多 Agent 云端协作平台，官方称可像搭乐高一样组建专属 AI Agent 团队，云端 7×24 小时待命并多线并行处理任务，支持定时任务、群聊协作与积分制使用。 · [官网](https://agentmore.chatglm.cn)
-- **[阿里云百炼](https://topxai.cn/ai/aliyun-bailian)** — 阿里云大模型服务平台，融合 MaaS 与 Agent 能力，提供 AgentStudio 企业级智能体平台，可统一调用通义千问、GLM、Kimi 等主流模型。 · [官网](https://bailian.aliyun.com/)
 - **[Braze](https://topxai.cn/ai/braze)** — Braze 是面向品牌的客户互动平台，用 BrazeAI 与跨渠道消息、旅程编排统一数据，覆盖从触达到留存的全生命周期，提升用户忠诚度。 · [官网](https://www.braze.com/)
 - **[Careerflow](https://topxai.cn/ai/careerflow)** — 面向求职全流程的 AI 工具集，官网提供 AI 简历生成、ATS 匹配优化、求职信、领英档案优化、岗位追踪与自动填表，并面向高校与职业教练提供组织方案。 · [官网](https://www.careerflow.ai/)
 - **[Chatbase](https://topxai.cn/ai/chatbase)** — 面向客户体验场景的 AI Agent 平台，可在网页聊天、邮件、语音与 Slack 等渠道自动解答售后与售前问题，官方称已服务上万家企业，并提供构建、测试到部署优化的完整生命周期。 · [官网](https://www.chatbase.co)
@@ -515,7 +514,6 @@
 - **[百雀智能](https://topxai.cn/ai/larkagent)** — 面向外贸行业的 AI 获客服务，官方称 AI 外贸员全天候识别目标采购商并通过邮件、WhatsApp 触达，按验证询盘付费，不符合约定客户画像不收费。 · [官网](https://www.larkagent.cn/)
 - **[Lavender](https://topxai.cn/ai/lavender)** — 面向销售的 AI 邮件教练，实时分析外联邮件给出改进建议，另有 Ora AI 销售 Agent 自动起草接近顶尖销售水平的邮件，并提供认证课程，适合 B2B 外联团队。 · [官网](https://www.lavender.ai/)
 - **[Lindy](https://topxai.cn/ai/lindy)** — Lindy 是定位为 AI 同事的智能助手，连接团队全部工具、记住公司信息并自动完成真实工作，覆盖会议、排程、技能学习与可编辑记忆。 · [官网](https://www.lindy.ai/)
-- **[零一万物](https://topxai.cn/ai/lingyi-wanwu)** — 零一万物面向企业AI转型，以一号位工程牵引，提供万智企业大模型平台及老板AI、销冠AI、投资官AI等决策产品，覆盖制造、物流、农业等多行业场景。 · [官网](https://www.lingyiwanwu.com/)
 - **[云上曲率 Livedata](https://topxai.cn/ai/livedata)** — 云上曲率LiveData是面向泛娱乐出海的全球化AI服务商，提供多语言内容审核、实时翻译与实时互动，一个SDK即可集成聊天、语音与审核。 · [官网](https://www.ilivedata.com/)
 - **[Matrix](https://topxai.cn/ai/matrix)** — Matrix 是面向长期执行的 Agent 公司运行时，官方称设定目标后可由多 Agent 部门协同、交付产物并附上可验证的证明，用 OKR 与复盘节奏管理自治工作。 · [官网](https://matrix.build)
 - **[MaxKB](https://topxai.cn/ai/maxkb)** — 飞致云出品的开源企业级智能体平台，主打零代码嵌入与开放接口，把知识库问答、工作流、智能体串成渐进升级路径。适合想让现有办公系统马上有问答能力的团队。 · [官网](https://maxkb.cn/)
@@ -534,7 +532,6 @@
 - **[Seekario](https://topxai.cn/ai/seekario)** — 围绕求职全流程的 AI 工具集，含简历生成与岗位定制、匹配度评估、求职信、面试练习、领英资料优化与投递追踪，官方称注册送 5 个额度、追踪器长期免费。 · [官网](https://seekario.ai/)
 - **[Sembly AI](https://topxai.cn/ai/sembly-ai)** — Sembly AI 是面向专业服务公司的智能体平台，把会议、文档与背景资料变成品牌化的提案、案例与协议，从目标陈述到成品交付文件。 · [官网](https://www.sembly.ai/)
 - **[Sendbird](https://topxai.cn/ai/sendbird)** — Sendbird 是企业级 AI 客户体验平台，含 delight.ai 智能礼宾与通信 API，覆盖聊天、语音视频、业务消息等场景。 · [官网](https://sendbird.com/)
-- **[商汤日日新 SenseNova](https://topxai.cn/ai/sensenova)** — 商汤日日新SenseNova是商汤的大模型API服务平台，提供文本对话、多模态理解与文生图等能力，兼容OpenAI接口，方便接入业务。 · [官网](https://platform.sensenova.cn/)
 - **[Shulex](https://topxai.cn/ai/shulex)** — 面向跨境品牌的企业级 AI 客服员工，跨渠道自动应答并衔接人工，还能从亚马逊评论做 VOC 消费者洞察，官网称已有 200 多个品牌选用。 · [官网](https://www.shulex.com/)
 - **[鼠鼠求职](https://topxai.cn/ai/shushuqiuzhi)** — 面向应届生的AI求职平台，聚合校招与实习岗位，提供AI简历优化、AI自动投递、求职辅导与企业招聘入口，官方称按学生视角设计。 · [官网](https://www.shushuqiuzhi.com/)
 - **[数眼智能](https://topxai.cn/ai/shuyanai)** — 数眼智能提供企业级 AI 数据与模型云服务，官方称覆盖网页解析、联网搜索、模型 API、OCR 等全流程，聚合 Kimi、DeepSeek、混元、智谱等模型并支持统一接口调用。 · [官网](https://shuyanai.com)
@@ -544,7 +541,6 @@
 - **[Sybill](https://topxai.cn/ai/sybill)** — Sybill 是面向营收团队的 AI 销售助手，先沉淀顶尖销售的成交打法，再帮全队执行会谈准备、跟进邮件与 CRM 更新，减少本可赢下的丢单。 · [官网](https://www.sybill.ai/)
 - **[特赞](https://topxai.cn/ai/tezign)** — 特赞是面向企业客户的智能体公司，官方称围绕企业级智能体系统 GEA、多模型编排平台 Model Hub 与 Atypica 等产品，把 AI 推进到真实业务流程。 · [官网](https://www.tezign.com)
 - **[Tidio](https://topxai.cn/ai/tidio)** — Tidio 是面向电商与中小企业的 AI 客服平台，Lyro 智能体即时解答并促成销售，含帮助台、流程自动化与多语言支持，覆盖售前到售后。 · [官网](https://www.tidio.com/)
-- **[火山方舟](https://topxai.cn/ai/volcengine-ark)** — 火山引擎的一站式大模型服务平台，提供模型托管与推理、联网插件、RAG 知识库与 Agent 开发能力，并具备多项安全合规认证。 · [官网](https://www.volcengine.com/product/ark)
 - **[万智](https://topxai.cn/ai/wanzhi)** — 万智提供从研发到部署的全栈 Agent 解决方案，包含 Agent 全生命周期运营平台、Data Agent 数据底座与私有大模型训推一体平台。 · [官网](https://www.wanzhi.com/)
 - **[Wonderchat](https://topxai.cn/ai/wonderchat)** — 一站式 AI 客服与销售转化智能体平台，基于你的文档训练客服与销售代理，自动分流工单、甄别线索并标注答案出处，官网称已通过 GDPR 与 SOC 2。 · [官网](https://wonderchat.io/)
 - **[Workus](https://topxai.cn/ai/workus)** — 面向采购与外贸买家的 AI 寻源平台，官方称覆盖 400 多万供应商、200 多个国家，可自动匹配工厂、发起并追踪询价，再由人工团队接手打样、验货与物流。 · [官网](https://www.workus.ai/)
@@ -555,7 +551,6 @@
 - **[用友](https://topxai.cn/ai/yonyou)** — 用友是中国企业管理软件与云服务厂商，旗舰平台用友 BIP 融合 AI、数据与流程，并以 YonGPT 企业大模型驱动智能体。 · [官网](https://www.yonyou.com/)
 - **[You.com](https://topxai.cn/ai/you-com)** — 面向开发者的网页搜索 API 服务，为智能体与大模型提供搜索、正文抽取与带引用的答案接口，官网标注支持零数据留存、SOC 2 认证与定制 QPS，定价按调用量计费。 · [官网](https://you.com)
 - **[有道智云](https://topxai.cn/ai/youdao-zhiyun)** — 有道智云是网易有道旗下的一站式AI开放平台，提供大模型翻译、文字识别OCR、语音合成复刻与智慧教育等服务及行业解决方案，支持API与私有化部署。 · [官网](https://ai.youdao.com/new/)
-- **[智谱 BigModel](https://topxai.cn/ai/zhipu-bigmodel)** — 智谱推出的国产通用大模型开放平台，提供 GLM-5.3 旗舰模型、多模态能力与智能体，为开发者和企业打通从模型到产品的一站式 AI 开发服务。 · [官网](https://open.bigmodel.cn/)
 - **[追一科技](https://topxai.cn/ai/zhuiyi)** — 追一科技提供 AI 数字员工解决方案 AIForce，包含智能服务、外呼、助理、分析、培训与多模态数字人机器人，服务企业与政府智能化转型。 · [官网](https://www.zhuiyi.ai/)
 
 ## 医疗与健康
@@ -649,11 +644,10 @@
 
 ## 其他
 
-<sub>[↑ 返回目录](#目录) · `150 收录`</sub>
+<sub>[↑ 返回目录](#目录) · `120 收录`</sub>
 
 - **[10Web](https://topxai.cn/ai/10web)** — 基于 WordPress 的 AI 建站与托管平台，官网称由多个智能体协同完成规划、执行与优化，提供托管、自定义域名、电商与搜索优化能力，并面向代理商提供白标方案。 · [官网](https://10web.io/)
 - **[1min.AI](https://topxai.cn/ai/1min)** — 一站式 AI 工具平台，把多模型对话、写作、图像、音视频与翻译收进一个订阅，官方称注册即用、每日可领免费额度，并声明不会用用户数据训练模型。 · [官网](https://1min.ai)
-- **[302.AI](https://topxai.cn/ai/302-ai)** — 302.AI 是按用量付费的企业级 AI 资源平台，聚合语言、图像、视频、音频等全模型 API 与在线应用，官网称支持企业级稳定性、无 TPM 限制与私有化部署。 · [官网](https://302.ai/)
 - **[360AI浏览器](https://topxai.cn/ai/360-ai-browser)** — 360 安全浏览器的 AI 升级版，官网称新增 AI 超级搜索、AI 助手与 AI 划词，同时保留登录管家、截图取字、PDF 转换和 20+ 格式文件直开，适合日常浏览与轻办公。 · [官网](https://browser.360.cn/ai/)
 - **[ABot-Earth 0.7](https://topxai.cn/ai/abot-earth)** — 高德推出的 3D 星球创作产品，可从地球穿梭至月球、火星与城市实景，用文字或参考图在 1 平方公里地块内生成可漫游三维空间，目前内测需申请白名单。 · [官网](https://abot-earth.amap.com/)
 - **[Adaline](https://topxai.cn/ai/adaline-ai)** — Adaline 是面向 AI Agent 的可观测与评估平台，把生产轨迹转为行为图谱、自动生成评估与合成数据，并驱动 Agent 自主改进，官网称支持团队审批后发布。 · [官网](https://www.adaline.ai/)
@@ -662,8 +656,6 @@
 - **[DramaBuddy漫剧助手](https://topxai.cn/ai/aicomic)** — 阅文旗下的 AI 漫剧创作平台，把小说拆书、剧本改编、角色设定、分镜到成片串成一条流水线，支持批量镜头生成与多人团队协作。 · [官网](https://aicomic.yuewen.com/)
 - **[AI产品榜](https://topxai.cn/ai/aicpb)** — AI 产品榜单数据平台，官方称按用户规模排 AI 产品榜、按价格排 AI 模型榜，定期发布全球总榜、国内总榜、出海总榜及各细分赛道榜与增速榜，被媒体与咨询机构广泛引用。 · [官网](https://aicpb.com/)
 - **[MagicArena](https://topxai.cn/ai/aigcarena)** — 免费的视觉大模型对战平台，同一段提示词让多个图像与视频模型同场生成，投票后生成个人专属排行榜，官方称其为国内首家，可免费参与。 · [官网](https://aigcarena.com/)
-- **[AIHubMix](https://topxai.cn/ai/aihubmix)** — 统一的多模型接口网关，官网称通过一套兼容 OpenAI 的接口接入多个主流模型，提供在线调试沙盒与应用目录，面向需要少改代码切换模型的开发者。 · [官网](https://aihubmix.com/)
-- **[AI/ML API](https://topxai.cn/ai/aimlapi)** — 聚合上千个 AI 模型的统一接口服务，官网称覆盖对话、推理、图像、视频、音频与搜索等模态，兼容主流编程智能体，并提供 MCP 接入与在线试用沙盒。 · [官网](https://aimlapi.com/)
 - **[Airtop](https://topxai.cn/ai/airtop)** — 面向企业的智能体自动化平台，官网称用英文描述工作流即可编译成确定性强、可定时运行并能自我修复的智能体，覆盖应用、接口与网页，无需目标站提供接口。 · [官网](https://www.airtop.ai/)
 - **[AMiner](https://topxai.cn/ai/aminer)** — AI 驱动的科技情报与学术搜索平台，官方称提供学者画像、论文检索与 AI 科研助手，可辅助设计实验、搭建综述框架与撰写论文引言，并用智能体每日追踪与总结最新论文。 · [官网](https://www.aminer.cn/)
 - **[Anima](https://topxai.cn/ai/anima)** — 面向设计到代码的 AI 开发平台，官网称可从设计文件、网址或提示词生成可交付应用，强调保留设计上下文并支持导出真实代码，另提供接口供平台集成。 · [官网](https://www.animaapp.com/)
@@ -671,18 +663,13 @@
 - **[Arena.im](https://topxai.cn/ai/arena-im)** — 面向媒体、体育与电商的网站互动套件，提供评论、投票、实时直播博客、群聊与广告位，帮助把社交流量沉淀到自有站点并变现，官方称已有上万家组织使用。 · [官网](https://arena.im/)
 - **[Aside](https://topxai.cn/ai/aside)** — 以智能体为核心的 AI 浏览器，官网称可在已登录的网站与账户间完成复杂任务，具备跨会话记忆与面向智能体的密码管理，官网标注由 Y Combinator 支持。 · [官网](https://aside.com/)
 - **[Astrocade](https://topxai.cn/ai/astrocade)** — 无需写代码的 AI 游戏平台，用一句话描述玩法就能生成可玩的网页小游戏，也能直接玩别人做的作品，官方强调不用下载、不用编程。 · [官网](https://www.astrocade.com/)
-- **[AutoDL算力云](https://topxai.cn/ai/autodl)** — 国内 GPU 算力租用平台，运营方为视拓云（南京）科技，提供秒级计费的 GPU 租用、高规格机房与 7x24 小时服务，并内置 AI 镜像与技术社区，开箱即用可一键复现算法。 · [官网](https://www.autodl.com)
-- **[BentoML](https://topxai.cn/ai/bentoml)** — BentoML 是面向生产环境的模型推理平台，支持任意模型部署、定制推理优化与弹性伸缩，并开源模型服务框架，主打速度与可控性。 · [官网](https://www.bentoml.com/)
 - **[Bookeeping.ai](https://topxai.cn/ai/bookeeping)** — 以聊天方式记账的 AI 会计助手，自动分类流水、出利润表与资产负债表、开发票，官方称可自动完成约九成记账工作并提醒异常支出。 · [官网](https://bookeeping.ai/en)
 - **[BrowserOS](https://topxai.cn/ai/browseros)** — BrowserOS neo 是面向 AI Agent 的开源本地浏览器，Agent 可用你的登录态驱动网页任务，支持并行运行与会话回放，官方称免费且数据不出本机。 · [官网](https://www.browseros.com/)
 - **[Bubble](https://topxai.cn/ai/bubble)** — 海外无代码应用构建平台，把 AI 生成与可视化编辑器放进同一工作流，覆盖设计、数据库、逻辑与隐私规则。官网展示 600 万构建者与 800 万应用，产物可发布到网页与原生移动端。 · [官网](https://bubble.io)
 - **[CareerSwift](https://topxai.cn/ai/careerswift)** — 把求职流程打包的 AI 助手：改简历、写求职信、给 LinkedIn 资料打分、模拟面试、自动投递并跟踪进度，官方称简历按申请人跟踪系统与人工筛选双重标准优化。 · [官网](https://careerswift.ai/)
-- **[Cerebras](https://topxai.cn/ai/cerebras)** — 以晶圆级引擎做 AI 推理的芯片与云服务公司，官网称 CS-4 推理速度最高可达 GPU 系统 30 倍，提供与 OpenAI API 兼容的接口，按 token 计费。 · [官网](https://www.cerebras.ai)
 - **[CodeDesign.ai](https://topxai.cn/ai/codedesign-ai)** — AI 网站构建工具，支持提示词生成与拖拽编辑，可直接托管与导出站点，官网称已构建 400 万个站点并提供域名与模板服务。 · [官网](https://codedesign.ai/)
 - **[Colormind](https://topxai.cn/ai/colormind)** — 用深度学习生成配色的网页工具，锁定主色后一键补全整套色板，素材取自电影、摄影与动画，数据集每日轮换，也提供 API 接口。 · [官网](https://colormind.io/)
 - **[Comet](https://topxai.cn/ai/comet-browser)** — Perplexity 推出的 AI 浏览器 Comet，官网定位为替你干活的个人助理，可处理网页调研、邮件整理与代办任务，支持 Mac、Windows、iOS、Android。 · [官网](https://www.perplexity.ai/comet)
-- **[优云智算](https://topxai.cn/ai/compshare)** — 优刻得 UCloud 旗下算力租用平台，官网称拥有自建数据中心与万卡规模，支持秒级计费与关机不收费，提供多种卡型、镜像模板与公共模型库。 · [官网](https://compshare.cn/)
-- **[基石智算](https://topxai.cn/ai/coreshub)** — AI 算力云服务与智算中心解决方案提供商，官网提供算力云服务、大模型服务与算力集群，覆盖模型训练、推理、微调等场景，并推出金融、自动驾驶、医疗等行业方案。 · [官网](https://coreshub.cn/)
 - **[Cursor Directory](https://topxai.cn/ai/cursor-directory)** — 为 Cursor 提供社区插件的目录站，官方称汇集各语言与框架的 rules 规则、MCP 服务器与智能体配置，可直接安装到编辑器使用，并标注每项插件的使用量便于挑选。 · [官网](https://cursor.directory/)
 - **[Datawhale](https://topxai.cn/ai/datawhale)** — 面向 AI 学习者的开源学习社区，官方称以开源学习模式提供 AI 学习路线、组队学习课程与能力认证，覆盖数据分析、计算机视觉、自然语言处理、推荐系统等方向，并持续推出共学营。 · [官网](https://www.datawhale.cn/)
 - **[Decopy AI](https://topxai.cn/ai/decopy)** — 围绕文字处理搭起来的在线工具合集：可检测 ChatGPT、Claude 等生成的文本并做人性化改写，另含视频转写、内容摘要与语音文字互转，官方称以维护学术诚信为前提。 · [官网](https://decopy.ai/)
@@ -693,7 +680,6 @@
 - **[explainx ai](https://topxai.cn/ai/explainx)** — AI 学习平台，官方称提供自适应学习路径与 AI 导师，配直播工作坊和 20 多个动手训练营，另有十万级工具目录与 50 多门自学课程，基础内容免费。 · [官网](https://explainx.ai)
 - **[Fellou](https://topxai.cn/ai/fellou)** — 官网称为全球首个智能体浏览器，可用一句指令自动执行跨网站的多步任务，支持深度研究生成可溯源报告、端到端网页自动化，并允许随时接管干预。 · [官网](https://fellou.ai/)
 - **[Felo](https://topxai.cn/ai/felo)** — 面向研究与创作的多语言 AI 搜索平台，官网定位为「用 AI 搜索、理解并创作」，除跨语言搜索外还提供 AI 幻灯片、思维导图、文档与图片生成，以及自定义 Agent。 · [官网](https://felo.ai)
-- **[Fireworks AI](https://topxai.cn/ai/fireworks-ai)** — 面向开源模型的训练与推理平台，官网称可把开放模型转化为专属智能，支持单行代码调用最新模型，并提供从引导式训练到强化学习的多种路径。 · [官网](https://fireworks.ai/)
 - **[FlagEval天秤](https://topxai.cn/ai/flageval)** — 智源研究院的大模型评测体系与开放平台，官方称覆盖语言、多模态、计算机视觉与语音四类评测场景，提供排行榜、大模型角斗场与自动加人工结合的评测方法与工具集。 · [官网](https://flageval.baai.ac.cn/)
 - **[Flim](https://topxai.cn/ai/flim)** — 面向导演、设计师与广告创意人员的影视画面检索引擎，官网称收录大量电影、动画、广告与音乐视频的静帧素材，配套生成编辑与协作看板工具。 · [官网](https://flim.ai/)
 - **[Floot](https://topxai.cn/ai/floot)** — 接入 Claude 与 ChatGPT 的无代码应用构建平台，一句提示生成含后端、数据库与登录的完整应用，一键发布到网页与移动端，官方称无需 git 与终端。 · [官网](https://floot.com/)
@@ -703,9 +689,7 @@
 - **[Genstory](https://topxai.cn/ai/genstory)** — AI绘本故事生成平台，输入一句想法并选风格，约60秒生成左图右文的图文故事书，官方称内置多模型与万册以上故事库，支持多语言。 · [官网](https://www.genstory.app/)
 - **[AI Gist](https://topxai.cn/ai/getaigist)** — 免费开源的本地优先提示词管理工具，支持变量填充与 Jinja 模板，可接本地模型生成和改写提示词，数据默认保存在本机、不强制上云。 · [官网](https://getaigist.com)
 - **[GitDiagram](https://topxai.cn/ai/gitdiagram)** — 把 GitHub 仓库转成可交互架构图的在线工具，官方称也能生成一分钟讲解视频，支持私有仓库访问，把网址里的 hub 改成 diagram 即可直接使用。 · [官网](https://gitdiagram.com/)
-- **[模力方舟](https://topxai.cn/ai/gitee-ai)** — 模力方舟（Gitee AI）是面向企业的 AI 模型与算力平台，提供统一 API 接入 200+ 模型、Token 精细化治理与模型专属部署，官网称支持国产芯片算力。 · [官网](https://ai.gitee.com/)
 - **[God of Prompt](https://topxai.cn/ai/godofprompt)** — 面向 ChatGPT、Claude、Gemini 等的 AI 提示词与工具包，官方称提供 7200+ 工程化提示词与多类目产品，支持终身买断。 · [官网](https://www.godofprompt.ai/)
-- **[GPUStack](https://topxai.cn/ai/gpustack-ai)** — 企业级 AI 基础设施平台，官方称可在任意硬件上部署、治理和扩展大模型与 GPU 算力，支持异构显卡、自动匹配推理引擎、分布式推理，并提供标准接口与配额管理。 · [官网](https://gpustack.ai/)
 - **[Gradio](https://topxai.cn/ai/gradio)** — 用 Python 给机器学习模型搭网页界面的开源库，几行代码即可生成可交互 Demo，官方称提供 40 多个组件，并可部署到 Hugging Face Spaces 分享。 · [官网](https://gradio.app/)
 - **[Grokipedia](https://topxai.cn/ai/grokipedia)** — 由 Grok 撰写并核查词条的 AI 百科站点，站内信息页显示开发方为 xAI、2025 年上线。读者不能直接改词条，只能提交建议，站内数据显示文章约 609 万篇。 · [官网](https://grokipedia.com)
 - **[HappyOyster](https://topxai.cn/ai/happyoyster)** — 实时可交互的开放世界模型产品，用文字、语音或图片即可执导持续演进的世界，或以第一人称漫游探索，官方称音画联合实时生成、所见即所得。 · [官网](https://www.happyoyster.cn/)
@@ -714,24 +698,18 @@
 - **[Hyperspace](https://topxai.cn/ai/hyperspace)** — 以智能体操作系统与深度研究能力为核心的 AI 项目，官网口号是智能体工作的地方，公开了 DRACO 基准上的系统评分、可复现的运行方式，以及二零二三至二零二六年的公开信。 · [官网](https://hyper.space/)
 - **[iAsk](https://topxai.cn/ai/iask)** — 面向学生与研究者的免费问答式搜索引擎，官网主打无幻觉并给出权威引用，支持文档分析、网页与文件摘要，可用作作业辅导与资料查询工具。 · [官网](https://iask.ai/)
 - **[Indy AI](https://topxai.cn/ai/indy-ai)** — Contra 推出的 AI 求职助手，通过 LinkedIn 与 X 挖掘机会并给出成长建议，服务独立工作者与招聘企业，官方称已连接 50k+ 公司。 · [官网](https://contra.com/indy)
-- **[无问芯穹](https://topxai.cn/ai/infinigence)** — 通用人工智能基础设施服务商，官方称以 M 种模型乘 N 种芯片的技术范式做多元异构算力调度，提供 Agentic Infra 平台与 Agentic MaaS 大模型服务。 · [官网](https://www.infinigence-ai.com/)
 - **[书生大模型](https://topxai.cn/ai/intern-ai)** — 上海人工智能实验室的通用大模型体系，涵盖语言模型书生·浦语、多模态书生·万象与气象、金融、航空等垂类模型，多数开源可微调。 · [官网](https://intern-ai.org.cn/)
 - **[简单AI](https://topxai.cn/ai/jiandan)** — 简单AI是搜狐旗下的AI创作社区，集AI绘图、AI写作与在线图片处理于一体，提供海量模板与抠图、修复等工具，新手也能轻松上手。 · [官网](https://ai.sohu.com/)
-- **[Kie.ai](https://topxai.cn/ai/kie)** — AI 模型 API 聚合平台，把 OpenAI 的 4o 图像模型封装成统一接口，支持文生图与图片编辑，官方称每张约 0.03 美元，并提供免费试用额度。 · [官网](https://kie.ai/4o-image-api)
 - **[Klu.ai](https://topxai.cn/ai/klu-ai)** — 面向业务场景的前沿模型自动评测平台，官网口号是找到你的前沿，按你描述的工作流生成评测集、跟踪模型更新并在每次新模型发布时重跑对比质量与成本。 · [官网](https://klu.ai/)
 - **[Krater](https://topxai.cn/ai/krater)** — 一体化 AI 工作空间，官方称一份订阅可用 ChatGPT、Claude、Gemini 等 500 多个模型，并配能自主执行任务的 Agent、图像视频生成与千余应用连接。 · [官网](https://www.krater.ai)
 - **[Krene](https://topxai.cn/ai/krene)** — 面向原创 IP 的 AI 设计空间，覆盖从概念构思到作品完成的创作链路，官方称由 AI 赋能每一个创意角色的诞生，并支持多元美术工作流。 · [官网](https://www.krene.com/)
-- **[Lambda](https://topxai.cn/ai/lambda)** — 面向 AI 训练的云算力服务商，官网称提供多种高端显卡的按需实例与集群预留，配套编排工具与工程支持，覆盖从初创团队到政府与企业的场景。 · [官网](https://lambda.ai/)
 - **[LangGPT](https://topxai.cn/ai/langgpt)** — 云中江树提出的结构化提示词框架，官方称把提示词拆成 Role、Profile、Goal、Skills、Rules、Workflow 等模块，可复用可扩展，已在 GitHub 开源。 · [官网](https://langgptai.feishu.cn/)
 - **[Latitude](https://topxai.cn/ai/latitude)** — Latitude 是开源的 AI Agent 可观测与监控平台，追踪生产轨迹、聚类失败模式并向编码 Agent 派发修复任务，官方称兼容 OTEL 并支持自定义信号。 · [官网](https://latitude.so/)
 - **[Lexica](https://topxai.cn/ai/lexica)** — Stable Diffusion 图像与提示词搜索引擎，官方介绍提供海量 AI 生成图片及其对应提示词，用户可按关键词与画面风格检索参考图，也可在线输入提示词直接生成图片。 · [官网](https://lexica.art/)
-- **[Lightning AI](https://topxai.cn/ai/lightning-ai)** — PyTorch Lightning 原班团队打造的 AI 云平台，官网提供按需显卡、集群与编码智能体，覆盖数据集构建到训练与推理全流程，面向自研专用模型的团队。 · [官网](https://lightning.ai/)
 - **[Liner](https://topxai.cn/ai/liner)** — 面向专业人群的 AI 搜索与研究工具，提供带引用来源的答案、学术论文检索对比与文献综述，并支持在同一窗口内搜索、写作与编辑。 · [官网](https://liner.com/)
 - **[LingBot-World](https://topxai.cn/ai/lingbot-world)** — 蚂蚁灵波科技开源的交互式世界模型，官方称可从游戏环境中学习物理与因果规律，并按动作指令生成具有长时段一致性的三维动态场景。 · [官网](https://technology.robbyant.com/lingbot-world)
-- **[潞晨科技](https://topxai.cn/ai/luchentech)** — AI 大模型开发部署平台企业，官方称以自研 Colossal-AI 覆盖训练、微调、推理与部署全链路，潞晨云提供按量计费的 GPU 算力与 Token 工厂式 MaaS 服务。 · [官网](https://luchentech.com/)
 - **[Magisterium AI](https://topxai.cn/ai/magisterium)** — 专注天主教内容的问答工具，官方称资料库覆盖三万多份文献，回答带内联引用，并提供圣经注释、圣人数据库与教区统计，已在 190 多个国家使用。 · [官网](https://magisterium.com)
 - **[猫箱](https://topxai.cn/ai/maoxiang)** — 字节跳动推出的 AI 角色扮演与情感陪伴应用，官方称用户可与多样 AI 角色对话互动，也能自定义角色与故事设定进行创作，主打沉浸式剧情体验与日常陪伴。 · [官网](https://www.maoxiangai.com/)
-- **[矩池云](https://topxai.cn/ai/matpool)** — 矩池云是专注人工智能的 GPU 云服务商，提供按分钟计费的云算力、AI 教学实训环境与高速网盘，并支持公有云、私有云与软硬一体等解决方案。 · [官网](https://matpool.com/)
 - **[Meowa](https://topxai.cn/ai/meowa)** — 面向独立开发者的 AI 游戏美术工作室，生成像素角色、精灵图集、道具、地图与 UI，还能产出音乐音效并用策划 Agent 规划玩法。 · [官网](https://meowa.ai/)
 - **[MidLibrary](https://topxai.cn/ai/midlibrary)** — Midjourney 风格与 SREF 代码库，官方称收录 4000+ 艺术风格与 5500+ 艺术家条目，并提供指南与风格基准，供创作者检索复用。 · [官网](https://midlibrary.io/)
 - **[MimicPC](https://topxai.cn/ai/mimicpc)** — 把开源 AI 应用搬到浏览器的云平台，官方称预装 ComfyUI、SD WebUI 等工具，可生成图像视频音频、训练 LoRA 并上传自定义模型，注册免费。 · [官网](https://www.mimicpc.com)
@@ -739,22 +717,16 @@
 - **[Mixo](https://topxai.cn/ai/mixo)** — 面向小企业的 AI 建站工具，描述业务即可生成含页面、联系表单、博客与 SEO 的完整网站，官网称已有 75 万家企业使用并支持免费方案。 · [官网](https://www.mixo.io/)
 - **[Open Prompt Studio](https://topxai.cn/ai/moonvy)** — Moonvy 月维做的网页版提示词编辑器，把 Midjourney 提示词拆成词条做中英对照，支持一键翻译、复制与导出 PNG，无需安装即可使用。 · [官网](https://moonvy.com/apps/ops)
 - **[纳米漫剧流水线](https://topxai.cn/ai/namistory)** — 360 旗下的 AI 漫剧与短视频生产线，把小说推文、文本或图片转成成片，官方称免抽卡、低成本，可一键生成漫剧与短片内容。 · [官网](https://www.namistory.com/)
-- **[Nebius](https://topxai.cn/ai/nebius)** — 面向 AI 团队的专用云平台，官网称从硬件到接口全栈自建，提供非虚拟化显卡、高速互联与托管推理，覆盖从实验到大规模训练与推理的场景。 · [官网](https://nebius.com/)
 - **[NeoDomain](https://topxai.cn/ai/neowow)** — 面向漫剧与短视频的 AI 创作平台，用无限画布把分镜、图片与视频生成串起来，支持文生视频、图生视频、角色一致性复用与智能剪辑，适合连续剧情内容批量生产。 · [官网](https://story.neodomain.cn/)
-- **[Novita AI](https://topxai.cn/ai/novita-ai)** — 面向开发者的 AI 与智能体云平台，官网称可通过统一接口调用两百多个模型，并提供智能体沙箱与显卡实例，覆盖文本、图像、音频与视频等模态。 · [官网](https://novita.ai/)
 - **[OfferNow](https://topxai.cn/ai/offernow)** — 校招网申用的浏览器插件，自动识别招聘表单字段并一键填入简历内容，官方称已适配 1000 多个网申站点，填写后保留人工复核、不自动提交。 · [官网](https://cv.playoffer.cn/)
-- **[OfoxAI](https://topxai.cn/ai/ofox)** — 大模型 API 聚合服务，官方称一个 Key 可接入 GPT、Claude、Gemini 等 100 多个模型，另有视频与图像模型，标注 99.9% 可用性，3 分钟完成接入。 · [官网](https://ofox.ai)
-- **[OneThingAI](https://topxai.cn/ai/onethingai)** — OneThingAI 是 GPU 算力云租赁与大模型 API 聚合平台，提供按需算力、模型广场、镜像中心、模型精调与私有化部署，官网称覆盖 AI 训练推理与科学计算等场景。 · [官网](https://onethingai.com/)
 - **[OnSpace.AI](https://topxai.cn/ai/onspace-ai)** — 无代码 AI 应用构建平台，用提示生成移动与网页应用，内置数据库、登录、边缘函数等托管后端与 Stripe 收款，官网称无需 DevOps。 · [官网](https://www.onspace.ai/)
 - **[OpenDataLab](https://topxai.cn/ai/opendatalab)** — 上海人工智能实验室推出的开放数据平台，官方称面向国产大模型提供高质量开源数据集，支持数据集检索与下载，并配套数据标注与治理工具及开源社区能力。 · [官网](https://opendatalab.com/)
 - **[Opera Neon](https://topxai.cn/ai/opera-neon)** — Opera Neon 是 Opera 推出的智能体浏览器，能理解意图、协助并处理任务，通过不同 Agent 完成研究、生成文档等工作，订阅价官方称 19.90 美元／月。 · [官网](https://www.operaneon.com/)
 - **[Outlier AI](https://topxai.cn/ai/outlier-ai)** — 面向自由职业者的 AI 训练众包平台，连接编程、数学、语言等领域专家与 AI 公司，提供撰写难题、制定评分标准等任务，官方称已支付超 5 亿美元。 · [官网](https://outlier.ai/)
-- **[Paperspace](https://topxai.cn/ai/paperspace)** — DigitalOcean 旗下的云 GPU 平台，提供 H100 等显卡算力与主机，覆盖模型开发、训练到部署的完整流程，也提供云桌面与渲染工作流。 · [官网](https://www.paperspace.com/)
 - **[PixSprout](https://topxai.cn/ai/pixsprout)** — 把文字或图片转成印章的在线工具，可描述创意生成徽标，也可上传照片做成橡皮章质感图，支持人像、宠物、物体多种模式，导出透明 PNG。 · [官网](https://pixsprout.com/)
 - **[Playabl](https://topxai.cn/ai/playabl)** — Playabl 是海外的 AI 游戏创作平台，用户与 AI 对话描述玩法即可生成可玩的网页小游戏与互动体验，官方称无需编程与引擎经验，改玩法也靠继续聊天，并可一键生成分享链接。 · [官网](https://playabl.ai)
 - **[Polar](https://topxai.cn/ai/polar-browser)** — Polar 是 AI 浏览器，可用自然语言自动化研究、招聘、销售、运营等短时到数小时的任务，支持定时工作流并在任意标签页交接，官方称可长时间自主运行。 · [官网](https://polarbrowser.com/)
 - **[泡漫](https://topxai.cn/ai/popreels)** — 面向 AI 短剧与漫剧创作者的生态平台，把选题、剧本、制作、分发与数据复盘串成同一条链路，官方称创作者可获得应有的收益。 · [官网](https://www.popreels.cn/)
-- **[派欧云](https://topxai.cn/ai/ppio)** — 分布式云计算服务商，官方称提供大模型与图像视频模型 API、Agent 沙箱与托管、GPU 容器实例与 Spot 算力，兼容 OpenAI 与 Anthropic 接口标准。 · [官网](https://ppio.com/)
 - **[Pretty Prompt](https://topxai.cn/ai/pretty-prompt)** — 面向 ChatGPT、Claude 与 Gemini 的提示词增强工具，官网自称提示词界的语法检查器，一键把粗糙想法整理成结构清晰的提示词，并提供浏览器扩展与提示词管理。 · [官网](https://www.pretty-prompt.com/)
 - **[Prompt Advance](https://topxai.cn/ai/prompt-advance)** — 围绕 ChatGPT 的提示词与资讯站点，主打每周五分钟英文邮件通讯，官网称已有上万名 AI 从业者订阅，另提供提示词优化器、生成器、文本润色与文章优化等免费工具。 · [官网](https://promptadvance.club/)
 - **[Prompt Genie](https://topxai.cn/ai/prompt-genie)** — Prompt Genie 是提示词优化与上下文记忆工具，可在发送前改写提示以省 token，并为 Claude Code 提供上下文记忆避免重复计费，支持本地运行与浏览器插件。 · [官网](https://www.prompt-genie.com/)
@@ -771,26 +743,19 @@
 - **[PromptPilot](https://topxai.cn/ai/promptpilot)** — 火山引擎推出的提示词工程平台，官方称覆盖提示词生成、调试与批量评估，支持文本理解、视觉理解与多轮对话等场景，可上传任务数据自动优化提示词并通过 API 调用。 · [官网](https://promptpilot.volcengine.com/)
 - **[夸克](https://topxai.cn/ai/quark)** — 夸克官方站点，官网定位为「AI 旗舰应用」，浏览器端主打系统级 AI 助手、阅读模式、网页擦除与翻译，同时整合网盘、扫描王、PPT 与 PDF 处理以及 AI Agent 调用。 · [官网](https://quark.cn)
 - **[Readdy](https://topxai.cn/ai/readdy)** — AI 建站平台，官网称可用对话或点选直接编辑生成带数据库的功能型网站，内置模板、域名、托管与搜索优化工具，并支持导出站点代码自行管理。 · [官网](https://readdy.ai/)
-- **[Replicate](https://topxai.cn/ai/replicate)** — 运行与部署开源 AI 模型的云平台，官方称社区已发布数千个可直接调用的模型，提供一行代码运行、用自有数据微调，以及用 Cog 打包部署自定义模型，按实际算力计费。 · [官网](https://replicate.com/)
 - **[Rocket.new](https://topxai.cn/ai/rocket-new)** — 自称 Vibe Solutioning 的应用构建平台，把市场研究、代码生成与竞品监测做成共享上下文的三块能力。官方文档写明产出物为结构化报告、网页应用与移动应用。 · [官网](https://rocket.new)
 - **[乐奇](https://topxai.cn/ai/rokid)** — Rokid 旗下 AI 智能眼镜产品线，官方称搭载 YodaOS-Sprite 系统，支持实时翻译、提词、导航与拍照，并开放 AIUI Studio 智能体创作平台。 · [官网](https://www.rokid.com/)
 - **[Rork](https://topxai.cn/ai/rork)** — 用对话生成移动与网页应用的 AI 开发工具，官网称可产出 iOS、Android 与网页端原生项目，并提供后端数据与发布辅助工具，面向无代码基础的独立开发者。 · [官网](https://rork.com/)
 - **[RunningHub](https://topxai.cn/ai/runninghub)** — RunningHub是原生AI智能体内容创作平台，以无限画布和ComfyUI工作流为核心，覆盖AI生图生视频、Agent创作与模型API，服务电商与短剧。 · [官网](https://www.runninghub.cn/)
-- **[RunPod](https://topxai.cn/ai/runpod)** — 面向开发者的 AI 云平台，提供按需 GPU、无服务器端点、多节点集群与模型部署四类形态，覆盖推理、Agent、微调与计算密集任务，并公开各型号 GPU 的单价。 · [官网](https://www.runpod.io)
 - **[Sigma](https://topxai.cn/ai/sigma)** — 主打隐私的 AI 浏览器，官网称内置本地运行的离线模型，敏感数据留在设备端，同时提供网页对话、深度研究、图像生成与内置广告拦截等能力。 · [官网](https://www.sigmabrowser.com/)
 - **[SigmaOS](https://topxai.cn/ai/sigmaos)** — 面向 macOS 的浏览器，用工作区与垂直标签页整理上网内容，内置 AI 助手 Airis 可解读当前网页，官方称同时兼容 Chrome 扩展。 · [官网](https://sigmaos.com)
-- **[硅基流动](https://topxai.cn/ai/siliconflow)** — 一站式大模型云服务平台，官方称提供覆盖语言、语音、图片、视频的开箱即用 API，以及预留实例、推理加速与私有化部署等产品，基于自研推理引擎优化延迟与吞吐表现。 · [官网](https://siliconflow.cn/)
 - **[Snack Prompt](https://topxai.cn/ai/snackprompt)** — 提示词与自动化作品社区，官网定位为 AI 提示词市场，可发现、分享和再创作社区里的提示词、图片与自动化流程，并支持创作者发布与出售自己的作品。 · [官网](https://snackprompt.com/)
-- **[星海智算](https://topxai.cn/ai/spacehpc)** — 新一代高性能计算云平台，官网称为科研机构、高校、企业与 AI 开发者提供按需弹性的算力，覆盖大模型训练、科学仿真、基因测序与气候建模，可选多款高性能显卡。 · [官网](https://www.spacehpc.com/)
 - **[Strawberry](https://topxai.cn/ai/strawberry)** — 内置 AI 助手的桌面浏览器，可读取你已登录的网页与标签页代为操作，用于自动生成演示文稿、会议纪要并串联日常工作流，目前官网标注为 Beta 版。 · [官网](https://strawberrybrowser.com/)
-- **[算家云](https://topxai.cn/ai/suanjiayun)** — 算家云是高性能 GPU 算力租赁与 AI 训练推理平台，提供 A100、4090、5090 等显卡按需租用，上百种开源模型一键启动，官网称 4090 低至 1.24 元／卡时。 · [官网](https://www.suanjiayun.com/)
 - **[算了么](https://topxai.cn/ai/suanleme)** — 共享闲置显卡算力的平台，官网称加入计算网络后可在电脑空闲时把 GPU 贡献给科学研究并按贡献获得收益，纯软件客户端无需额外购买硬件，支持多台设备接入。 · [官网](https://suanleme.cn/)
 - **[SuperCLUE](https://topxai.cn/ai/superclue)** — 中文大模型测评基准，官方称以通用能力总榜与数学推理、幻觉控制、科学推理、精确指令遵循、智能体编程等分项榜单呈现模型表现，并同步给出模型价格与任务规划消耗数据。 · [官网](https://www.superclueai.com/)
-- **[Synexa AI](https://topxai.cn/ai/synexa-ai)** — 无服务器 AI 模型推理接口平台，官网称一行代码即可部署模型，支持图像生成、视频生成、图像修复与描述、语音生成和模型微调，并强调自动扩缩容与按量计费。 · [官网](https://synexa.ai/)
 - **[There's An AI For That](https://topxai.cn/ai/taaft)** — 按任务检索 AI 工具的索引站，官方称用户可按任务、职业或用途搜索合适的 AI 产品，收录工具数量庞大并持续更新，同时提供新品榜单与最新 AI 资讯动态。 · [官网](https://theresanaiforthat.com/)
 - **[Textie](https://topxai.cn/ai/textie)** — 一站式在线 AI 助手平台，整合聊天对话、文本与图片生成、演示文稿生成、PDF 翻译和语音服务，面向写作、文案、文档翻译等日常场景，注册账号后即可使用。 · [官网](https://textie.ai/)
 - **[The Prompt Index](https://topxai.cn/ai/the-prompt-index)** — 把二十四款 AI 工具与提示词数据库打包在一个工作区里，官网称收录七百八十多条精选提示词和两千六百多项智能体技能，覆盖写作、研究、决策、图像等方向。 · [官网](https://www.thepromptindex.com/)
-- **[Vast.ai](https://topxai.cn/ai/vast-ai)** — GPU 算力租赁平台，官方称聚合两万张以上显卡、四十多个数据中心，按供需实时定价并支持按秒计费，可用于模型训练、推理、微调与渲染等任务。 · [官网](https://vast.ai/)
 - **[WayUp](https://topxai.cn/ai/wayup)** — WayUp 是面向美国学生与应届毕业生的求职平台，上传简历即可秒级匹配职位、实习与雇主活动，官方称合作 3800+ 美国雇主，学生可免费永久使用。 · [官网](https://www.wayup.com/)
 - **[Webcam Motion Capture](https://topxai.cn/ai/webcammotioncapture)** — 用普通摄像头做动作捕捉的软件，电脑或手机摄像头即可驱动 3D 虚拟形象，支持手部、表情、口型与上半身追踪，数据可经 VMC 协议输出或导出为 FBX 文件，面向虚拟主播与动画制作。 · [官网](https://webcammotioncapture.info/)
 - **[Wegic](https://topxai.cn/ai/wegic)** — 对话式 AI 建站工具，官网称无需编程即可按业务目标生成定制网站并提供托管，覆盖品牌展示、商品服务销售与转化落地页等场景，支持免费开始。 · [官网](https://wegic.ai/)

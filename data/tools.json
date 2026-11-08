@@ -4750,25 +4750,6 @@
   "visits": 1079185
  },
  {
-  "slug": "aliyun-bailian",
-  "name": {
-   "zh": "阿里云百炼",
-   "en": "Alibaba Cloud Bailian"
-  },
-  "desc": {
-   "zh": "阿里云大模型服务平台，融合 MaaS 与 Agent 能力，提供 AgentStudio 企业级智能体平台，可统一调用通义千问、GLM、Kimi 等主流模型。",
-   "en": "Alibaba Cloud's large model service platform merging MaaS and agent capabilities, with the enterprise AgentStudio agent platform for calling mainstream models including Tongyi Qianwen, GLM and Kimi."
-  },
-  "category": "enterprise",
-  "url": "https://bailian.aliyun.com/",
-  "tags": [
-   "MaaS平台",
-   "智能体",
-   "通义千问"
-  ],
-  "visits": 53862
- },
- {
   "slug": "braze",
   "name": {
    "zh": "Braze",
@@ -5453,25 +5434,6 @@
   "visits": 1165449
  },
  {
-  "slug": "lingyi-wanwu",
-  "name": {
-   "zh": "零一万物",
-   "en": "零一万物"
-  },
-  "desc": {
-   "zh": "零一万物面向企业AI转型，以一号位工程牵引，提供万智企业大模型平台及老板AI、销冠AI、投资官AI等决策产品，覆盖制造、物流、农业等多行业场景。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://www.lingyiwanwu.com/",
-  "tags": [
-   "企业AI转型",
-   "决策AI",
-   "行业智能体"
-  ],
-  "visits": 4799
- },
- {
   "slug": "livedata",
   "name": {
    "zh": "云上曲率 Livedata",
@@ -5814,25 +5776,6 @@
   "visits": 86203
  },
  {
-  "slug": "sensenova",
-  "name": {
-   "zh": "商汤日日新 SenseNova",
-   "en": "商汤日日新 SenseNova"
-  },
-  "desc": {
-   "zh": "商汤日日新SenseNova是商汤的大模型API服务平台，提供文本对话、多模态理解与文生图等能力，兼容OpenAI接口，方便接入业务。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://platform.sensenova.cn/",
-  "tags": [
-   "大模型API",
-   "多模态",
-   "文生图"
-  ],
-  "visits": 1697859
- },
- {
   "slug": "shulex",
   "name": {
    "zh": "Shulex",
@@ -6002,25 +5945,6 @@
    "客服机器人"
   ],
   "visits": 191439
- },
- {
-  "slug": "volcengine-ark",
-  "name": {
-   "zh": "火山方舟",
-   "en": "Volcengine Ark"
-  },
-  "desc": {
-   "zh": "火山引擎的一站式大模型服务平台，提供模型托管与推理、联网插件、RAG 知识库与 Agent 开发能力，并具备多项安全合规认证。",
-   "en": "Volcengine's one-stop large model service platform, providing model hosting and inference, web plugins, RAG knowledge bases and agent development, with a range of security and compliance certifications."
-  },
-  "category": "enterprise",
-  "url": "https://www.volcengine.com/product/ark",
-  "tags": [
-   "大模型平台",
-   "模型托管",
-   "Agent开发"
-  ],
-  "visits": 14409278
  },
  {
   "slug": "wanzhi",
@@ -6211,25 +6135,6 @@
    "文字识别OCR"
   ],
   "visits": 14495
- },
- {
-  "slug": "zhipu-bigmodel",
-  "name": {
-   "zh": "智谱 BigModel",
-   "en": "智谱 BigModel"
-  },
-  "desc": {
-   "zh": "智谱推出的国产通用大模型开放平台，提供 GLM-5.3 旗舰模型、多模态能力与智能体，为开发者和企业打通从模型到产品的一站式 AI 开发服务。",
-   "en": ""
-  },
-  "category": "enterprise",
-  "url": "https://open.bigmodel.cn/",
-  "tags": [
-   "国产大模型",
-   "多模态能力",
-   "企业级API"
-  ],
-  "visits": 647529
  },
  {
   "slug": "zhuiyi",
@@ -10697,25 +10602,6 @@
   "visits": 1319637
  },
  {
-  "slug": "302-ai",
-  "name": {
-   "zh": "302.AI",
-   "en": "302.AI"
-  },
-  "desc": {
-   "zh": "302.AI 是按用量付费的企业级 AI 资源平台，聚合语言、图像、视频、音频等全模型 API 与在线应用，官网称支持企业级稳定性、无 TPM 限制与私有化部署。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://302.ai/",
-  "tags": [
-   "AI平台",
-   "模型API",
-   "按量付费"
-  ],
-  "visits": 22205
- },
- {
   "slug": "360-ai-browser",
   "name": {
    "zh": "360AI浏览器",
@@ -10904,44 +10790,6 @@
    "排行榜"
   ],
   "visits": 22271
- },
- {
-  "slug": "aihubmix",
-  "name": {
-   "zh": "AIHubMix",
-   "en": "AIHubMix"
-  },
-  "desc": {
-   "zh": "统一的多模型接口网关，官网称通过一套兼容 OpenAI 的接口接入多个主流模型，提供在线调试沙盒与应用目录，面向需要少改代码切换模型的开发者。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://aihubmix.com/",
-  "tags": [
-   "模型网关",
-   "接口聚合",
-   "多模型"
-  ],
-  "visits": 78670
- },
- {
-  "slug": "aimlapi",
-  "name": {
-   "zh": "AI/ML API",
-   "en": "AI/ML API"
-  },
-  "desc": {
-   "zh": "聚合上千个 AI 模型的统一接口服务，官网称覆盖对话、推理、图像、视频、音频与搜索等模态，兼容主流编程智能体，并提供 MCP 接入与在线试用沙盒。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://aimlapi.com/",
-  "tags": [
-   "模型聚合",
-   "统一接口",
-   "多模态"
-  ],
-  "visits": 705322
  },
  {
   "slug": "airops",
@@ -11210,44 +11058,6 @@
   "visits": 1224716
  },
  {
-  "slug": "autodl",
-  "name": {
-   "zh": "AutoDL算力云",
-   "en": "AutoDL算力云"
-  },
-  "desc": {
-   "zh": "国内 GPU 算力租用平台，运营方为视拓云（南京）科技，提供秒级计费的 GPU 租用、高规格机房与 7x24 小时服务，并内置 AI 镜像与技术社区，开箱即用可一键复现算法。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.autodl.com",
-  "tags": [
-   "算力平台",
-   "GPU租用",
-   "模型训练"
-  ],
-  "visits": 729885
- },
- {
-  "slug": "bentoml",
-  "name": {
-   "zh": "BentoML",
-   "en": "BentoML"
-  },
-  "desc": {
-   "zh": "BentoML 是面向生产环境的模型推理平台，支持任意模型部署、定制推理优化与弹性伸缩，并开源模型服务框架，主打速度与可控性。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.bentoml.com/",
-  "tags": [
-   "模型部署",
-   "推理",
-   "开源"
-  ],
-  "visits": 56119
- },
- {
   "slug": "boloforms",
   "name": {
    "zh": "SheetGod",
@@ -11379,25 +11189,6 @@
    "自动投递"
   ],
   "visits": 10348
- },
- {
-  "slug": "cerebras",
-  "name": {
-   "zh": "Cerebras",
-   "en": "Cerebras"
-  },
-  "desc": {
-   "zh": "以晶圆级引擎做 AI 推理的芯片与云服务公司，官网称 CS-4 推理速度最高可达 GPU 系统 30 倍，提供与 OpenAI API 兼容的接口，按 token 计费。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.cerebras.ai",
-  "tags": [
-   "AI芯片",
-   "推理服务",
-   "API平台"
-  ],
-  "visits": 342023
  },
  {
   "slug": "chat2db",
@@ -11533,25 +11324,6 @@
   "visits": 107366282
  },
  {
-  "slug": "compshare",
-  "name": {
-   "zh": "优云智算",
-   "en": "优云智算"
-  },
-  "desc": {
-   "zh": "优刻得 UCloud 旗下算力租用平台，官网称拥有自建数据中心与万卡规模，支持秒级计费与关机不收费，提供多种卡型、镜像模板与公共模型库。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://compshare.cn/",
-  "tags": [
-   "算力租赁",
-   "GPU云",
-   "国内云服务"
-  ],
-  "visits": 132354
- },
- {
   "slug": "context-dev",
   "name": {
    "zh": "Context.dev",
@@ -11569,25 +11341,6 @@
    "智能体"
   ],
   "visits": 465534
- },
- {
-  "slug": "coreshub",
-  "name": {
-   "zh": "基石智算",
-   "en": "基石智算"
-  },
-  "desc": {
-   "zh": "AI 算力云服务与智算中心解决方案提供商，官网提供算力云服务、大模型服务与算力集群，覆盖模型训练、推理、微调等场景，并推出金融、自动驾驶、医疗等行业方案。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://coreshub.cn/",
-  "tags": [
-   "算力云服务",
-   "GPU租赁",
-   "智算中心"
-  ],
-  "visits": 954
  },
  {
   "slug": "cursor-directory",
@@ -11856,25 +11609,6 @@
   "visits": 588635
  },
  {
-  "slug": "fireworks-ai",
-  "name": {
-   "zh": "Fireworks AI",
-   "en": "Fireworks AI"
-  },
-  "desc": {
-   "zh": "面向开源模型的训练与推理平台，官网称可把开放模型转化为专属智能，支持单行代码调用最新模型，并提供从引导式训练到强化学习的多种路径。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://fireworks.ai/",
-  "tags": [
-   "模型推理",
-   "开源模型",
-   "微调训练"
-  ],
-  "visits": 268486
- },
- {
   "slug": "flageval",
   "name": {
    "zh": "FlagEval天秤",
@@ -12103,25 +11837,6 @@
   "visits": 488641
  },
  {
-  "slug": "gitee-ai",
-  "name": {
-   "zh": "模力方舟",
-   "en": "模力方舟"
-  },
-  "desc": {
-   "zh": "模力方舟（Gitee AI）是面向企业的 AI 模型与算力平台，提供统一 API 接入 200+ 模型、Token 精细化治理与模型专属部署，官网称支持国产芯片算力。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://ai.gitee.com/",
-  "tags": [
-   "AI平台",
-   "模型API",
-   "企业"
-  ],
-  "visits": 87190
- },
- {
   "slug": "godofprompt",
   "name": {
    "zh": "God of Prompt",
@@ -12158,25 +11873,6 @@
    "数据清洗"
   ],
   "visits": 73521
- },
- {
-  "slug": "gpustack-ai",
-  "name": {
-   "zh": "GPUStack",
-   "en": "GPUStack"
-  },
-  "desc": {
-   "zh": "企业级 AI 基础设施平台，官方称可在任意硬件上部署、治理和扩展大模型与 GPU 算力，支持异构显卡、自动匹配推理引擎、分布式推理，并提供标准接口与配额管理。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://gpustack.ai/",
-  "tags": [
-   "GPU调度",
-   "模型部署",
-   "算力平台"
-  ],
-  "visits": 51106
  },
  {
   "slug": "gradio",
@@ -12388,25 +12084,6 @@
   "visits": 700079
  },
  {
-  "slug": "infinigence",
-  "name": {
-   "zh": "无问芯穹",
-   "en": "Infinigence AI"
-  },
-  "desc": {
-   "zh": "通用人工智能基础设施服务商，官方称以 M 种模型乘 N 种芯片的技术范式做多元异构算力调度，提供 Agentic Infra 平台与 Agentic MaaS 大模型服务。",
-   "en": "A general-purpose AI infrastructure provider. It says its model-times-chip paradigm orchestrates heterogeneous compute, offering an Agentic Infra platform and Agentic MaaS large model services."
-  },
-  "category": "other",
-  "url": "https://www.infinigence-ai.com/",
-  "tags": [
-   "AI基础设施",
-   "异构算力",
-   "模型即服务"
-  ],
-  "visits": 973
- },
- {
   "slug": "intern-ai",
   "name": {
    "zh": "书生大模型",
@@ -12483,25 +12160,6 @@
   "visits": 2047
  },
  {
-  "slug": "kie",
-  "name": {
-   "zh": "Kie.ai",
-   "en": "Kie.ai"
-  },
-  "desc": {
-   "zh": "AI 模型 API 聚合平台，把 OpenAI 的 4o 图像模型封装成统一接口，支持文生图与图片编辑，官方称每张约 0.03 美元，并提供免费试用额度。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://kie.ai/4o-image-api",
-  "tags": [
-   "图像API",
-   "开发者接口",
-   "按张计费"
-  ],
-  "visits": 7692281
- },
- {
   "slug": "klu-ai",
   "name": {
    "zh": "Klu.ai",
@@ -12557,25 +12215,6 @@
    "美术工作流"
   ],
   "visits": 35093
- },
- {
-  "slug": "lambda",
-  "name": {
-   "zh": "Lambda",
-   "en": "Lambda"
-  },
-  "desc": {
-   "zh": "面向 AI 训练的云算力服务商，官网称提供多种高端显卡的按需实例与集群预留，配套编排工具与工程支持，覆盖从初创团队到政府与企业的场景。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://lambda.ai/",
-  "tags": [
-   "算力租赁",
-   "GPU集群",
-   "模型训练"
-  ],
-  "visits": 746626
  },
  {
   "slug": "langgpt",
@@ -12635,25 +12274,6 @@
   "visits": 516257
  },
  {
-  "slug": "lightning-ai",
-  "name": {
-   "zh": "Lightning AI",
-   "en": "Lightning AI"
-  },
-  "desc": {
-   "zh": "PyTorch Lightning 原班团队打造的 AI 云平台，官网提供按需显卡、集群与编码智能体，覆盖数据集构建到训练与推理全流程，面向自研专用模型的团队。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://lightning.ai/",
-  "tags": [
-   "AI云",
-   "模型训练",
-   "实验管理"
-  ],
-  "visits": 87729
- },
- {
   "slug": "liner",
   "name": {
    "zh": "Liner",
@@ -12692,25 +12312,6 @@
   "visits": 44724
  },
  {
-  "slug": "luchentech",
-  "name": {
-   "zh": "潞晨科技",
-   "en": "HPC-AI Tech"
-  },
-  "desc": {
-   "zh": "AI 大模型开发部署平台企业，官方称以自研 Colossal-AI 覆盖训练、微调、推理与部署全链路，潞晨云提供按量计费的 GPU 算力与 Token 工厂式 MaaS 服务。",
-   "en": "A large model development and deployment platform company. It says its Colossal-AI covers the full chain of training, fine-tuning, inference and deployment, while Luchen Cloud offers pay-as-you-go GPU compute and a token-factory style MaaS service."
-  },
-  "category": "other",
-  "url": "https://luchentech.com/",
-  "tags": [
-   "大模型训练",
-   "推理服务",
-   "私有化部署"
-  ],
-  "visits": 5238
- },
- {
   "slug": "magisterium",
   "name": {
    "zh": "Magisterium AI",
@@ -12747,25 +12348,6 @@
    "剧情创作"
   ],
   "visits": 2156
- },
- {
-  "slug": "matpool",
-  "name": {
-   "zh": "矩池云",
-   "en": "矩池云"
-  },
-  "desc": {
-   "zh": "矩池云是专注人工智能的 GPU 云服务商，提供按分钟计费的云算力、AI 教学实训环境与高速网盘，并支持公有云、私有云与软硬一体等解决方案。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://matpool.com/",
-  "tags": [
-   "GPU算力",
-   "云服务",
-   "AI训练"
-  ],
-  "visits": 52314
  },
  {
   "slug": "meowa",
@@ -12958,25 +12540,6 @@
   "visits": 612323
  },
  {
-  "slug": "nebius",
-  "name": {
-   "zh": "Nebius",
-   "en": "Nebius"
-  },
-  "desc": {
-   "zh": "面向 AI 团队的专用云平台，官网称从硬件到接口全栈自建，提供非虚拟化显卡、高速互联与托管推理，覆盖从实验到大规模训练与推理的场景。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://nebius.com/",
-  "tags": [
-   "AI云",
-   "GPU集群",
-   "模型训练"
-  ],
-  "visits": 2735072
- },
- {
   "slug": "neowow",
   "name": {
    "zh": "NeoDomain",
@@ -12994,25 +12557,6 @@
    "图生视频"
   ],
   "visits": 3847
- },
- {
-  "slug": "novita-ai",
-  "name": {
-   "zh": "Novita AI",
-   "en": "Novita AI"
-  },
-  "desc": {
-   "zh": "面向开发者的 AI 与智能体云平台，官网称可通过统一接口调用两百多个模型，并提供智能体沙箱与显卡实例，覆盖文本、图像、音频与视频等模态。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://novita.ai/",
-  "tags": [
-   "模型接口",
-   "智能体沙箱",
-   "GPU云"
-  ],
-  "visits": 99527
  },
  {
   "slug": "numerous-ai",
@@ -13051,44 +12595,6 @@
    "多简历切换"
   ],
   "visits": 63829
- },
- {
-  "slug": "ofox",
-  "name": {
-   "zh": "OfoxAI",
-   "en": "OfoxAI"
-  },
-  "desc": {
-   "zh": "大模型 API 聚合服务，官方称一个 Key 可接入 GPT、Claude、Gemini 等 100 多个模型，另有视频与图像模型，标注 99.9% 可用性，3 分钟完成接入。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://ofox.ai",
-  "tags": [
-   "大模型API",
-   "多模型接入",
-   "视频生成API"
-  ],
-  "visits": 70655
- },
- {
-  "slug": "onethingai",
-  "name": {
-   "zh": "OneThingAI",
-   "en": "OneThingAI"
-  },
-  "desc": {
-   "zh": "OneThingAI 是 GPU 算力云租赁与大模型 API 聚合平台，提供按需算力、模型广场、镜像中心、模型精调与私有化部署，官网称覆盖 AI 训练推理与科学计算等场景。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://onethingai.com/",
-  "tags": [
-   "GPU算力",
-   "模型API",
-   "私有化"
-  ],
-  "visits": 252016
  },
  {
   "slug": "onspace-ai",
@@ -13184,25 +12690,6 @@
    "兼职"
   ],
   "visits": 16261466
- },
- {
-  "slug": "paperspace",
-  "name": {
-   "zh": "Paperspace",
-   "en": "Paperspace"
-  },
-  "desc": {
-   "zh": "DigitalOcean 旗下的云 GPU 平台，提供 H100 等显卡算力与主机，覆盖模型开发、训练到部署的完整流程，也提供云桌面与渲染工作流。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.paperspace.com/",
-  "tags": [
-   "云GPU",
-   "模型训练",
-   "算力平台"
-  ],
-  "visits": 781412
  },
  {
   "slug": "paradigmai",
@@ -13317,25 +12804,6 @@
    "私有部署"
   ],
   "visits": 337503
- },
- {
-  "slug": "ppio",
-  "name": {
-   "zh": "派欧云",
-   "en": "PPIO"
-  },
-  "desc": {
-   "zh": "分布式云计算服务商，官方称提供大模型与图像视频模型 API、Agent 沙箱与托管、GPU 容器实例与 Spot 算力，兼容 OpenAI 与 Anthropic 接口标准。",
-   "en": "A distributed cloud computing provider offering APIs for large language, image and video models, agent sandboxes and hosting, GPU container instances and spot compute, compatible with OpenAI and Anthropic interface standards."
-  },
-  "category": "other",
-  "url": "https://ppio.com/",
-  "tags": [
-   "GPU云服务",
-   "模型API",
-   "Agent沙箱"
-  ],
-  "visits": 14623
  },
  {
   "slug": "pretty-prompt",
@@ -13680,25 +13148,6 @@
   "visits": 177861
  },
  {
-  "slug": "replicate",
-  "name": {
-   "zh": "Replicate",
-   "en": "Replicate"
-  },
-  "desc": {
-   "zh": "运行与部署开源 AI 模型的云平台，官方称社区已发布数千个可直接调用的模型，提供一行代码运行、用自有数据微调，以及用 Cog 打包部署自定义模型，按实际算力计费。",
-   "en": "A cloud platform for running and deploying open-source AI models. Its community has published thousands of directly callable models, with one-line-code runs, fine-tuning on your own data and packaging custom models for deployment with Cog, billed by actual compute."
-  },
-  "category": "other",
-  "url": "https://replicate.com/",
-  "tags": [
-   "模型API",
-   "模型微调",
-   "开源模型部署"
-  ],
-  "visits": 1803538
- },
- {
   "slug": "rocket-new",
   "name": {
    "zh": "Rocket.new",
@@ -13813,25 +13262,6 @@
   "visits": 7789182
  },
  {
-  "slug": "runpod",
-  "name": {
-   "zh": "RunPod",
-   "en": "RunPod"
-  },
-  "desc": {
-   "zh": "面向开发者的 AI 云平台，提供按需 GPU、无服务器端点、多节点集群与模型部署四类形态，覆盖推理、Agent、微调与计算密集任务，并公开各型号 GPU 的单价。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.runpod.io",
-  "tags": [
-   "算力平台",
-   "GPU租用",
-   "模型部署"
-  ],
-  "visits": 4582416
- },
- {
   "slug": "scrapeless",
   "name": {
    "zh": "Scrapeless",
@@ -13927,25 +13357,6 @@
   "visits": 189558
  },
  {
-  "slug": "siliconflow",
-  "name": {
-   "zh": "硅基流动",
-   "en": "SiliconFlow"
-  },
-  "desc": {
-   "zh": "一站式大模型云服务平台，官方称提供覆盖语言、语音、图片、视频的开箱即用 API，以及预留实例、推理加速与私有化部署等产品，基于自研推理引擎优化延迟与吞吐表现。",
-   "en": "A one-stop large model cloud platform offering ready-to-use APIs for language, speech, image and video, plus reserved instances, inference acceleration and private deployment. Its in-house inference engine optimizes latency and throughput."
-  },
-  "category": "other",
-  "url": "https://siliconflow.cn/",
-  "tags": [
-   "大模型API",
-   "推理加速",
-   "私有化部署"
-  ],
-  "visits": 747297
- },
- {
   "slug": "snackprompt",
   "name": {
    "zh": "Snack Prompt",
@@ -13984,25 +13395,6 @@
   "visits": 108078
  },
  {
-  "slug": "spacehpc",
-  "name": {
-   "zh": "星海智算",
-   "en": "星海智算"
-  },
-  "desc": {
-   "zh": "新一代高性能计算云平台，官网称为科研机构、高校、企业与 AI 开发者提供按需弹性的算力，覆盖大模型训练、科学仿真、基因测序与气候建模，可选多款高性能显卡。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.spacehpc.com/",
-  "tags": [
-   "高性能计算",
-   "GPU云服务",
-   "科研算力"
-  ],
-  "visits": 1623
- },
- {
   "slug": "strawberry",
   "name": {
    "zh": "Strawberry",
@@ -14020,25 +13412,6 @@
    "会议纪要"
   ],
   "visits": 47125
- },
- {
-  "slug": "suanjiayun",
-  "name": {
-   "zh": "算家云",
-   "en": "算家云"
-  },
-  "desc": {
-   "zh": "算家云是高性能 GPU 算力租赁与 AI 训练推理平台，提供 A100、4090、5090 等显卡按需租用，上百种开源模型一键启动，官网称 4090 低至 1.24 元／卡时。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://www.suanjiayun.com/",
-  "tags": [
-   "GPU算力",
-   "模型部署",
-   "云服务"
-  ],
-  "visits": 167241
  },
  {
   "slug": "suanleme",
@@ -14077,25 +13450,6 @@
    "模型选型"
   ],
   "visits": 149670
- },
- {
-  "slug": "synexa-ai",
-  "name": {
-   "zh": "Synexa AI",
-   "en": "Synexa AI"
-  },
-  "desc": {
-   "zh": "无服务器 AI 模型推理接口平台，官网称一行代码即可部署模型，支持图像生成、视频生成、图像修复与描述、语音生成和模型微调，并强调自动扩缩容与按量计费。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://synexa.ai/",
-  "tags": [
-   "模型API",
-   "无服务器推理",
-   "多模态生成"
-  ],
-  "visits": 6673
  },
  {
   "slug": "syqz-agent",
@@ -14248,25 +13602,6 @@
    "任务自动化"
   ],
   "visits": 2139
- },
- {
-  "slug": "vast-ai",
-  "name": {
-   "zh": "Vast.ai",
-   "en": "Vast.ai"
-  },
-  "desc": {
-   "zh": "GPU 算力租赁平台，官方称聚合两万张以上显卡、四十多个数据中心，按供需实时定价并支持按秒计费，可用于模型训练、推理、微调与渲染等任务。",
-   "en": ""
-  },
-  "category": "other",
-  "url": "https://vast.ai/",
-  "tags": [
-   "算力租赁",
-   "GPU",
-   "按秒计费"
-  ],
-  "visits": 3489495
  },
  {
   "slug": "vectorize",
@@ -23655,234 +22990,6 @@
   "visits": 653323
  },
  {
-  "slug": "civitai",
-  "name": {
-   "zh": "Civitai",
-   "en": "Civitai"
-  },
-  "desc": {
-   "zh": "全球最大的生成式 AI 模型社区，可发现、下载与在线运行 Stable Diffusion、Flux 等开源模型，也支持图像、视频、3D 内容的创作与分享。",
-   "en": "The largest generative AI model community — discover, download and run open models like Stable Diffusion and Flux, and share image, video and 3D creations."
-  },
-  "category": "model-infra",
-  "url": "https://civitai.com/",
-  "tags": [
-   "模型社区",
-   "Stable Diffusion",
-   "AI创作"
-  ],
-  "visits": 11358755
- },
- {
-  "slug": "cohere",
-  "name": {
-   "zh": "Cohere",
-   "en": "Cohere"
-  },
-  "desc": {
-   "zh": "面向企业的 AI 平台与模型服务商，提供可私有化部署的智能体平台 North 与自研模型，帮企业把内部分散数据转成可用洞察与自动化流程。",
-   "en": "Enterprise AI platform and model provider, offering the deployable North agent platform alongside in-house models that turn scattered internal data into insight and automation."
-  },
-  "category": "model-infra",
-  "url": "https://cohere.com/",
-  "tags": [
-   "企业",
-   "大模型",
-   "私有化"
-  ],
-  "visits": 1397745
- },
- {
-  "slug": "fal-ai",
-  "name": {
-   "zh": "fal.ai",
-   "en": "fal.ai"
-  },
-  "desc": {
-   "zh": "面向开发者的生成式媒体推理平台，提供一千多个图像、视频、音频与3D 模型的统一 API，并支持按需 serverless GPU 与独占集群部署自建模型。",
-   "en": ""
-  },
-  "category": "model-infra",
-  "url": "https://fal.ai",
-  "tags": [
-   "模型API",
-   "推理平台",
-   "Serverless"
-  ],
-  "visits": 7397738
- },
- {
-  "slug": "flaq-ai",
-  "name": {
-   "zh": "Flaq AI",
-   "en": "Flaq AI"
-  },
-  "desc": {
-   "zh": "Flaq AI 是一个聚合多家模型的 API 平台，一个密钥即可调用图像、视频、音乐、3D 与语言模型，费率官方称低于各家官方 API。适合不想逐个对接供应商的开发者。",
-   "en": ""
-  },
-  "category": "model-infra",
-  "url": "https://flaq.ai/",
-  "tags": [
-   "模型 API",
-   "统一接口",
-   "按量计费"
-  ],
-  "visits": 54288
- },
- {
-  "slug": "groq",
-  "name": {
-   "zh": "Groq",
-   "en": "Groq"
-  },
-  "desc": {
-   "zh": "Groq 自研 LPU 芯片驱动的推理云，以超低延迟运行 Llama、Mixtral 等开源模型，OpenAI 兼容 API 迁移成本低，官方称每周处理数万亿 token。",
-   "en": "Inference cloud running open models like Llama and Mixtral on Groq's own LPU chips, with an OpenAI-compatible API for easy migration."
-  },
-  "category": "model-infra",
-  "url": "https://groq.com/",
-  "tags": [
-   "推理",
-   "API",
-   "高性能"
-  ],
-  "visits": 7212112
- },
- {
-  "slug": "hedra",
-  "name": {
-   "zh": "Hedra",
-   "en": "Hedra"
-  },
-  "desc": {
-   "zh": "Hedra 转向多模态与具身 AI 的推理与训练基础设施：兼容 OpenAI 的 API 可调图像、视频、音频与语言模型，也能自带权重微调、在 GPU 沙盒跑自定义代码。",
-   "en": ""
-  },
-  "category": "model-infra",
-  "url": "https://hedra.com",
-  "tags": [
-   "推理基础设施",
-   "模型微调",
-   "GPU 沙盒"
-  ],
-  "visits": 2539063
- },
- {
-  "slug": "kinovi",
-  "name": {
-   "zh": "Kinovi",
-   "en": "Kinovi"
-  },
-  "desc": {
-   "zh": "把视频、图像与音频模型收进同一套 REST 接口的接入平台，官方称目录中已有数十个模型、来自多家提供方，按秒或按张计费，也可先用同名工作室界面零代码上手。",
-   "en": ""
-  },
-  "category": "model-infra",
-  "url": "https://kinovi.ai/",
-  "tags": [
-   "统一模型 API",
-   "按量计费",
-   "多厂商模型"
-  ],
-  "visits": 236058
- },
- {
-  "slug": "liquid-ai",
-  "name": {
-   "zh": "Liquid AI",
-   "en": "Liquid AI"
-  },
-  "desc": {
-   "zh": "专注端侧的基础模型团队，Liquid 基础模型能在笔记本、手机与车机上本地推理，支持多种运行时与按场景微调，适合对延迟和隐私敏感的产品。",
-   "en": ""
-  },
-  "category": "model-infra",
-  "url": "https://liquid.ai/",
-  "tags": [
-   "端侧模型",
-   "边缘推理",
-   "微调部署"
-  ],
-  "visits": 358939
- },
- {
-  "slug": "maxvideoai",
-  "name": {
-   "zh": "MaxVideoAI",
-   "en": "MaxVideoAI"
-  },
-  "desc": {
-   "zh": "MaxVideoAI 是聚合多家视频大模型的创作平台，示例页可按模型浏览成片，点开即看到所用提示词、参数、时长与该模型当前价格，能在自己的工作区复现，官方称支持通过 MCP 接入 AI 助手。",
-   "en": ""
-  },
-  "category": "model-infra",
-  "url": "https://maxvideoai.com/examples",
-  "tags": [
-   "视频模型聚合",
-   "提示词复现",
-   "模型横向对比"
-  ],
-  "visits": 12061
- },
- {
-  "slug": "minimax",
-  "name": {
-   "zh": "MiniMax",
-   "en": "MiniMax"
-  },
-  "desc": {
-   "zh": "MiniMax 是多模态大模型公司，官方称全球用户超 2 亿，产品覆盖文本、语音、视频、音乐与代码，旗舰模型与开放权重模型并行，同时开放 API 与 Token 套餐。",
-   "en": "Multimodal model company behind the MiniMax and Hailuo product lines, with 200M+ users, open-weight models and a public API."
-  },
-  "category": "model-infra",
-  "url": "https://www.minimax.io/",
-  "tags": [
-   "大模型",
-   "多模态",
-   "语音"
-  ],
-  "visits": 11038401
- },
- {
-  "slug": "tensor-art",
-  "name": {
-   "zh": "Tensor.Art",
-   "en": "Tensor.Art"
-  },
-  "desc": {
-   "zh": "免费的在线生图与模型托管平台，可在线运行模型生成图片与视频、训练模型，并提供素材库、工作流与角色创作等分区，适合不想本地部署的玩家。",
-   "en": "Free online image generation and model hosting — run hosted models to produce images and video, train your own, and browse assets, workflows and characters without local setup."
-  },
-  "category": "model-infra",
-  "url": "https://tensor.art/",
-  "tags": [
-   "在线生图",
-   "模型托管",
-   "工作流"
-  ],
-  "visits": 6228070
- },
- {
-  "slug": "together-ai",
-  "name": {
-   "zh": "Together AI",
-   "en": "Together AI"
-  },
-  "desc": {
-   "zh": "Together AI 是 AI 原生云平台，提供开源模型推理、微调与 GPU 集群，OpenAI 兼容接口迁移方便，官方称推理快 2 倍、成本低 60%、预训练快 90%。",
-   "en": "AI-native cloud offering open-model inference, fine-tuning and GPU clusters, with an OpenAI-compatible API for easy migration."
-  },
-  "category": "model-infra",
-  "url": "https://www.together.ai/",
-  "tags": [
-   "云平台",
-   "推理",
-   "微调"
-  ],
-  "visits": 1916739
- },
- {
   "slug": "aiprm",
   "name": {
    "zh": "AIPRM",
@@ -30077,6 +29184,25 @@
   "visits": 5016052
  },
  {
+  "slug": "maxvideoai",
+  "name": {
+   "zh": "MaxVideoAI",
+   "en": "MaxVideoAI"
+  },
+  "desc": {
+   "zh": "MaxVideoAI 是聚合多家视频大模型的创作平台，示例页可按模型浏览成片，点开即看到所用提示词、参数、时长与该模型当前价格，能在自己的工作区复现，官方称支持通过 MCP 接入 AI 助手。",
+   "en": ""
+  },
+  "category": "video-gen",
+  "url": "https://maxvideoai.com/examples",
+  "tags": [
+   "视频模型聚合",
+   "提示词复现",
+   "模型横向对比"
+  ],
+  "visits": 12061
+ },
+ {
   "slug": "medeo",
   "name": {
    "zh": "Medeo",
@@ -34257,6 +33383,25 @@
   "visits": 21512
  },
  {
+  "slug": "civitai",
+  "name": {
+   "zh": "Civitai",
+   "en": "Civitai"
+  },
+  "desc": {
+   "zh": "全球最大的生成式 AI 模型社区，可发现、下载与在线运行 Stable Diffusion、Flux 等开源模型，也支持图像、视频、3D 内容的创作与分享。",
+   "en": "The largest generative AI model community — discover, download and run open models like Stable Diffusion and Flux, and share image, video and 3D creations."
+  },
+  "category": "img-workflow",
+  "url": "https://civitai.com/",
+  "tags": [
+   "模型社区",
+   "Stable Diffusion",
+   "AI创作"
+  ],
+  "visits": 11358755
+ },
+ {
   "slug": "comflowy",
   "name": {
    "zh": "Comflowy",
@@ -34483,6 +33628,25 @@
    "多模型编排"
   ],
   "visits": 172601
+ },
+ {
+  "slug": "tensor-art",
+  "name": {
+   "zh": "Tensor.Art",
+   "en": "Tensor.Art"
+  },
+  "desc": {
+   "zh": "免费的在线生图与模型托管平台，可在线运行模型生成图片与视频、训练模型，并提供素材库、工作流与角色创作等分区，适合不想本地部署的玩家。",
+   "en": "Free online image generation and model hosting — run hosted models to produce images and video, train your own, and browse assets, workflows and characters without local setup."
+  },
+  "category": "img-workflow",
+  "url": "https://tensor.art/",
+  "tags": [
+   "在线生图",
+   "模型托管",
+   "工作流"
+  ],
+  "visits": 6228070
  },
  {
   "slug": "weavy",
@@ -41380,25 +40544,6 @@
    "智能体基建"
   ],
   "visits": 824534
- },
- {
-  "slug": "openrouter",
-  "name": {
-   "zh": "OpenRouter",
-   "en": "OpenRouter"
-  },
-  "desc": {
-   "zh": "把各家模型收拢到同一接口的聚合网关，文本、图片、视频、音频走一条通道，按 token 计费、接口兼容主流写法。适合想在多家模型之间切换比价的团队。",
-   "en": ""
-  },
-  "category": "code-data",
-  "url": "https://openrouter.ai/",
-  "tags": [
-   "模型路由",
-   "API聚合",
-   "比价"
-  ],
-  "visits": 30686206
  },
  {
   "slug": "tavily",
@@ -53466,25 +52611,6 @@
   "visits": 5836323
  },
  {
-  "slug": "eden-ai",
-  "name": {
-   "zh": "Eden AI",
-   "en": "Eden AI"
-  },
-  "desc": {
-   "zh": "面向开发者的一站式 AI 接口网关，官方称用一套接口接入约 1000 个模型，覆盖大模型、OCR、语音、翻译与文档解析，并提供零数据留存与欧盟节点。",
-   "en": ""
-  },
-  "category": "chat-general",
-  "url": "https://www.edenai.co/",
-  "tags": [
-   "API网关",
-   "模型路由",
-   "合规接入"
-  ],
-  "visits": 50071
- },
- {
   "slug": "emailtriager",
   "name": {
    "zh": "EmailTriager",
@@ -56660,11 +55786,11 @@
  {
   "slug": "shulex-copilot",
   "name": {
-   "zh": "Shulex Copilot ChatGPT E-commerce Tool & Sidebar",
-   "en": "Shulex Copilot ChatGPT E-commerce Tool & Sidebar"
+   "zh": "ChatGPT for Amazon",
+   "en": "ChatGPT for Amazon"
   },
   "desc": {
-   "zh": "VOC.AI 面向亚马逊卖家的浏览器插件工具，用 AI 汇总商品评论主题、基于买家语言起草 Listing 切入点，把评论、市场与产品情报整合进日常工作流，加快卖家调研与决策。",
+   "zh": "ChatGPT for Amazon 是 VOC.AI 面向亚马逊卖家的浏览器插件，用 AI 汇总商品评论主题、基于买家语言起草 Listing 切入点，加快卖家调研与决策。",
    "en": ""
   },
   "category": "mkt-social",
@@ -60589,5 +59715,1126 @@
    "商用授权"
   ],
   "visits": 98900
+ },
+ {
+  "slug": "302-ai",
+  "name": {
+   "zh": "302.AI",
+   "en": "302.AI"
+  },
+  "desc": {
+   "zh": "302.AI 是按用量付费的企业级 AI 资源平台，聚合语言、图像、视频、音频等全模型 API 与在线应用，官网称支持企业级稳定性、无 TPM 限制与私有化部署。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://302.ai/",
+  "tags": [
+   "AI平台",
+   "模型API",
+   "按量付费"
+  ],
+  "visits": 22205
+ },
+ {
+  "slug": "aihubmix",
+  "name": {
+   "zh": "AIHubMix",
+   "en": "AIHubMix"
+  },
+  "desc": {
+   "zh": "统一的多模型接口网关，官网称通过一套兼容 OpenAI 的接口接入多个主流模型，提供在线调试沙盒与应用目录，面向需要少改代码切换模型的开发者。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://aihubmix.com/",
+  "tags": [
+   "模型网关",
+   "接口聚合",
+   "多模型"
+  ],
+  "visits": 78670
+ },
+ {
+  "slug": "aimlapi",
+  "name": {
+   "zh": "AI/ML API",
+   "en": "AI/ML API"
+  },
+  "desc": {
+   "zh": "聚合上千个 AI 模型的统一接口服务，官网称覆盖对话、推理、图像、视频、音频与搜索等模态，兼容主流编程智能体，并提供 MCP 接入与在线试用沙盒。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://aimlapi.com/",
+  "tags": [
+   "模型聚合",
+   "统一接口",
+   "多模态"
+  ],
+  "visits": 705322
+ },
+ {
+  "slug": "b-ai",
+  "name": {
+   "zh": "B.AI",
+   "en": "B.AI"
+  },
+  "desc": {
+   "zh": "面向 AI Agent 的多模型 API 聚合平台，兼容主流接口协议，支持 Claude Code、Codex 接入，提供智能路由、图像视频模型与多元充值。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://b.ai/",
+  "tags": [
+   "API聚合",
+   "多协议兼容",
+   "链上结算"
+  ],
+  "visits": 3130065
+ },
+ {
+  "slug": "dmxapi",
+  "name": {
+   "zh": "DMXAPI",
+   "en": "DMXAPI"
+  },
+  "desc": {
+   "zh": "上海数员信息科技运营的大模型 API 聚合平台，由 LangChain 中文网团队推出，一个 Key 接入 300+ 多模态模型，兼容 OpenAI 与 Claude 接口格式，人民币计价、充值即开票，面向企业提供高并发接入与合同服务。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://dmxapi.cn/",
+  "tags": [
+   "API聚合",
+   "兼容接口",
+   "企业开票"
+  ],
+  "visits": 314460
+ },
+ {
+  "slug": "eden-ai",
+  "name": {
+   "zh": "Eden AI",
+   "en": "Eden AI"
+  },
+  "desc": {
+   "zh": "面向开发者的一站式 AI 接口网关，官方称用一套接口接入约 1000 个模型，覆盖大模型、OCR、语音、翻译与文档解析，并提供零数据留存与欧盟节点。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://www.edenai.co/",
+  "tags": [
+   "API网关",
+   "模型路由",
+   "合规接入"
+  ],
+  "visits": 50071
+ },
+ {
+  "slug": "flaq-ai",
+  "name": {
+   "zh": "Flaq AI",
+   "en": "Flaq AI"
+  },
+  "desc": {
+   "zh": "Flaq AI 是一个聚合多家模型的 API 平台，一个密钥即可调用图像、视频、音乐、3D 与语言模型，费率官方称低于各家官方 API。适合不想逐个对接供应商的开发者。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://flaq.ai/",
+  "tags": [
+   "模型 API",
+   "统一接口",
+   "按量计费"
+  ],
+  "visits": 54288
+ },
+ {
+  "slug": "kie",
+  "name": {
+   "zh": "Kie.ai",
+   "en": "Kie.ai"
+  },
+  "desc": {
+   "zh": "AI 模型 API 聚合平台，把 OpenAI 的 4o 图像模型封装成统一接口，支持文生图与图片编辑，官方称每张约 0.03 美元，并提供免费试用额度。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://kie.ai/4o-image-api",
+  "tags": [
+   "图像API",
+   "开发者接口",
+   "按张计费"
+  ],
+  "visits": 7692281
+ },
+ {
+  "slug": "kinovi",
+  "name": {
+   "zh": "Kinovi",
+   "en": "Kinovi"
+  },
+  "desc": {
+   "zh": "把视频、图像与音频模型收进同一套 REST 接口的接入平台，官方称目录中已有数十个模型、来自多家提供方，按秒或按张计费，也可先用同名工作室界面零代码上手。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://kinovi.ai/",
+  "tags": [
+   "统一模型 API",
+   "按量计费",
+   "多厂商模型"
+  ],
+  "visits": 236058
+ },
+ {
+  "slug": "litellm",
+  "name": {
+   "zh": "LiteLLM",
+   "en": "LiteLLM"
+  },
+  "desc": {
+   "zh": "开源 AI 网关与模型代理，用一个兼容 OpenAI 的密钥把 140 多家供应商、1892 个模型收在同一处，提供路由、花费上限、可观测与治理，支持自托管与气隙部署。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://litellm.ai/",
+  "tags": [
+   "开源网关",
+   "统一密钥",
+   "自托管"
+  ],
+  "visits": 195104
+ },
+ {
+  "slug": "ofox",
+  "name": {
+   "zh": "OfoxAI",
+   "en": "OfoxAI"
+  },
+  "desc": {
+   "zh": "大模型 API 聚合服务，官方称一个 Key 可接入 GPT、Claude、Gemini 等 100 多个模型，另有视频与图像模型，标注 99.9% 可用性，3 分钟完成接入。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://ofox.ai",
+  "tags": [
+   "大模型API",
+   "多模型接入",
+   "视频生成API"
+  ],
+  "visits": 70655
+ },
+ {
+  "slug": "opencode-go",
+  "name": {
+   "zh": "OpenCode Go",
+   "en": "OpenCode Go"
+  },
+  "desc": {
+   "zh": "OpenCode 推出的订阅制模型服务，用固定月费接入精选开源权重模型，一个订阅可用于 OpenCode 与其他主流编码智能体，提供统一推理接口、按窗口计的用量额度与团队预算管理。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://opencode.ai/console/go",
+  "tags": [
+   "模型订阅",
+   "统一推理",
+   "团队额度"
+  ],
+  "visits": 10376743
+ },
+ {
+  "slug": "openrouter",
+  "name": {
+   "zh": "OpenRouter",
+   "en": "OpenRouter"
+  },
+  "desc": {
+   "zh": "把各家模型收拢到同一接口的聚合网关，600+ 模型与 80+ 供应商，文本、图片、视频、音频走一条通道，按 token 计费、接口兼容主流写法。适合多家模型切换比价的团队。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://openrouter.ai/",
+  "tags": [
+   "模型路由",
+   "API聚合",
+   "比价"
+  ],
+  "visits": 30686206
+ },
+ {
+  "slug": "packyapi",
+  "name": {
+   "zh": "PackyAPI",
+   "en": "PackyAPI"
+  },
+  "desc": {
+   "zh": "面向开发者的统一大模型接口网关，用一个域名与密钥接入 Claude、GPT、Gemini 等主流模型，支持按健康度与延迟调度、故障转移、用量与花费监控，并提供多模态接口。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://packyapi.com/",
+  "tags": [
+   "统一网关",
+   "模型路由",
+   "故障转移"
+  ],
+  "visits": 336262
+ },
+ {
+  "slug": "poloapi",
+  "name": {
+   "zh": "PoloAPI",
+   "en": "PoloAPI"
+  },
+  "desc": {
+   "zh": "一站式多模型 API 服务与企业级中转平台，统一接入二十多款主流大模型，提供模型榜单、接口文档、企业级部署与 SLA 可用性保障，官网称可五分钟完成接入。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://poloapi.com/",
+  "tags": [
+   "多模型接入",
+   "企业级部署",
+   "SLA保障"
+  ],
+  "visits": 122072
+ },
+ {
+  "slug": "requesty",
+  "name": {
+   "zh": "Requesty",
+   "en": "Requesty"
+  },
+  "desc": {
+   "zh": "面向企业的模型路由网关，用一个兼容 OpenAI 的接口访问六百多个模型，提供智能路由、缓存、故障转移、花费上限与请求级可观测，并支持欧盟数据驻留与企业治理。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://requesty.ai/",
+  "tags": [
+   "模型路由",
+   "成本管控",
+   "可观测"
+  ],
+  "visits": 107209
+ },
+ {
+  "slug": "teamorouter",
+  "name": {
+   "zh": "TeamoRouter",
+   "en": "TeamoRouter"
+  },
+  "desc": {
+   "zh": "面向编码 Agent 的 AI API 中转网关，一个 Key 调用多家模型，兼容 OpenAI 协议，支持 Claude Code、Codex 接入，按量计费无月费。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://teamorouter.com/",
+  "tags": [
+   "API中转",
+   "模型路由",
+   "编码Agent"
+  ],
+  "visits": 68013
+ },
+ {
+  "slug": "yunwu-api",
+  "name": {
+   "zh": "云雾 API",
+   "en": "云雾 API"
+  },
+  "desc": {
+   "zh": "面向企业的 AI 算力网关与 API 中转服务，用一套统一接口调用 Claude、GPT、Gemini 等模型算力，对齐 OpenAI 接口协议，按配置线路调度，按量计费并可在账单中逐项核对。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://yunwu.ai/",
+  "tags": [
+   "API中转",
+   "企业网关",
+   "按量计费"
+  ],
+  "visits": 230363
+ },
+ {
+  "slug": "zenmux",
+  "name": {
+   "zh": "ZenMux",
+   "en": "ZenMux"
+  },
+  "desc": {
+   "zh": "新加坡 NexaMind 运营的大模型 API 聚合网关，一个账户接入 100+ 模型，兼容主流接口协议，带智能路由、故障切换与输出质量保险赔付，按量或订阅计费。",
+   "en": ""
+  },
+  "category": "api-relay",
+  "url": "https://zenmux.ai/",
+  "tags": [
+   "API聚合",
+   "智能路由",
+   "保险赔付"
+  ],
+  "visits": 95293
+ },
+ {
+  "slug": "aliyun-bailian",
+  "name": {
+   "zh": "阿里云百炼",
+   "en": "Alibaba Cloud Bailian"
+  },
+  "desc": {
+   "zh": "阿里云大模型服务平台，融合 MaaS 与 Agent 能力，提供 AgentStudio 企业级智能体平台，可统一调用通义千问、GLM、Kimi 等主流模型。",
+   "en": "Alibaba Cloud's large model service platform merging MaaS and agent capabilities, with the enterprise AgentStudio agent platform for calling mainstream models including Tongyi Qianwen, GLM and Kimi."
+  },
+  "category": "model-platform",
+  "url": "https://bailian.aliyun.com/",
+  "tags": [
+   "MaaS平台",
+   "智能体",
+   "通义千问"
+  ],
+  "visits": 53862
+ },
+ {
+  "slug": "autodl",
+  "name": {
+   "zh": "AutoDL算力云",
+   "en": "AutoDL算力云"
+  },
+  "desc": {
+   "zh": "国内 GPU 算力租用平台，运营方为视拓云（南京）科技，提供秒级计费的 GPU 租用、高规格机房与 7x24 小时服务，并内置 AI 镜像与技术社区，开箱即用可一键复现算法。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.autodl.com",
+  "tags": [
+   "算力平台",
+   "GPU租用",
+   "模型训练"
+  ],
+  "visits": 729885
+ },
+ {
+  "slug": "bentoml",
+  "name": {
+   "zh": "BentoML",
+   "en": "BentoML"
+  },
+  "desc": {
+   "zh": "BentoML 是面向生产环境的模型推理平台，支持任意模型部署、定制推理优化与弹性伸缩，并开源模型服务框架，主打速度与可控性。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.bentoml.com/",
+  "tags": [
+   "模型部署",
+   "推理",
+   "开源"
+  ],
+  "visits": 56119
+ },
+ {
+  "slug": "cerebras",
+  "name": {
+   "zh": "Cerebras",
+   "en": "Cerebras"
+  },
+  "desc": {
+   "zh": "以晶圆级引擎做 AI 推理的芯片与云服务公司，官网称 CS-4 推理速度最高可达 GPU 系统 30 倍，提供与 OpenAI API 兼容的接口，按 token 计费。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.cerebras.ai",
+  "tags": [
+   "AI芯片",
+   "推理服务",
+   "API平台"
+  ],
+  "visits": 342023
+ },
+ {
+  "slug": "cohere",
+  "name": {
+   "zh": "Cohere",
+   "en": "Cohere"
+  },
+  "desc": {
+   "zh": "面向企业的 AI 平台与模型服务商，提供可私有化部署的智能体平台 North 与自研模型，帮企业把内部分散数据转成可用洞察与自动化流程。",
+   "en": "Enterprise AI platform and model provider, offering the deployable North agent platform alongside in-house models that turn scattered internal data into insight and automation."
+  },
+  "category": "model-platform",
+  "url": "https://cohere.com/",
+  "tags": [
+   "企业",
+   "大模型",
+   "私有化"
+  ],
+  "visits": 1397745
+ },
+ {
+  "slug": "compshare",
+  "name": {
+   "zh": "优云智算",
+   "en": "优云智算"
+  },
+  "desc": {
+   "zh": "优刻得 UCloud 旗下算力租用平台，官网称拥有自建数据中心与万卡规模，支持秒级计费与关机不收费，提供多种卡型、镜像模板与公共模型库。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://compshare.cn/",
+  "tags": [
+   "算力租赁",
+   "GPU云",
+   "国内云服务"
+  ],
+  "visits": 132354
+ },
+ {
+  "slug": "coreshub",
+  "name": {
+   "zh": "基石智算",
+   "en": "基石智算"
+  },
+  "desc": {
+   "zh": "AI 算力云服务与智算中心解决方案提供商，官网提供算力云服务、大模型服务与算力集群，覆盖模型训练、推理、微调等场景，并推出金融、自动驾驶、医疗等行业方案。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://coreshub.cn/",
+  "tags": [
+   "算力云服务",
+   "GPU租赁",
+   "智算中心"
+  ],
+  "visits": 954
+ },
+ {
+  "slug": "deepseek-open-platform",
+  "name": {
+   "zh": "DeepSeek 开放平台",
+   "en": "DeepSeek 开放平台"
+  },
+  "desc": {
+   "zh": "深度求索面向开发者的大模型开放平台，接口兼容 OpenAI 与 Anthropic，提供两个在售模型、1M 上下文与工具调用，按 token 分时段计费，并可直接接入主流编码智能体工具。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://api-docs.deepseek.com/",
+  "tags": [
+   "大模型API",
+   "接口兼容",
+   "按量计费"
+  ],
+  "visits": 14829594
+ },
+ {
+  "slug": "fal-ai",
+  "name": {
+   "zh": "fal.ai",
+   "en": "fal.ai"
+  },
+  "desc": {
+   "zh": "面向开发者的生成式媒体推理平台，提供一千多个图像、视频、音频与3D 模型的统一 API，并支持按需 serverless GPU 与独占集群部署自建模型。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://fal.ai",
+  "tags": [
+   "模型API",
+   "推理平台",
+   "Serverless"
+  ],
+  "visits": 7397738
+ },
+ {
+  "slug": "fireworks-ai",
+  "name": {
+   "zh": "Fireworks AI",
+   "en": "Fireworks AI"
+  },
+  "desc": {
+   "zh": "面向开源模型的训练与推理平台，官网称可把开放模型转化为专属智能，支持单行代码调用最新模型，并提供从引导式训练到强化学习的多种路径。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://fireworks.ai/",
+  "tags": [
+   "模型推理",
+   "开源模型",
+   "微调训练"
+  ],
+  "visits": 268486
+ },
+ {
+  "slug": "gitee-ai",
+  "name": {
+   "zh": "模力方舟",
+   "en": "模力方舟"
+  },
+  "desc": {
+   "zh": "模力方舟（Gitee AI）是面向企业的 AI 模型与算力平台，提供统一 API 接入 200+ 模型、Token 精细化治理与模型专属部署，官网称支持国产芯片算力。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://ai.gitee.com/",
+  "tags": [
+   "AI平台",
+   "模型API",
+   "企业"
+  ],
+  "visits": 87190
+ },
+ {
+  "slug": "gpustack-ai",
+  "name": {
+   "zh": "GPUStack",
+   "en": "GPUStack"
+  },
+  "desc": {
+   "zh": "企业级 AI 基础设施平台，官方称可在任意硬件上部署、治理和扩展大模型与 GPU 算力，支持异构显卡、自动匹配推理引擎、分布式推理，并提供标准接口与配额管理。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://gpustack.ai/",
+  "tags": [
+   "GPU调度",
+   "模型部署",
+   "算力平台"
+  ],
+  "visits": 51106
+ },
+ {
+  "slug": "groq",
+  "name": {
+   "zh": "Groq",
+   "en": "Groq"
+  },
+  "desc": {
+   "zh": "Groq 自研 LPU 芯片驱动的推理云，以超低延迟运行 Llama、Mixtral 等开源模型，OpenAI 兼容 API 迁移成本低，官方称每周处理数万亿 token。",
+   "en": "Inference cloud running open models like Llama and Mixtral on Groq's own LPU chips, with an OpenAI-compatible API for easy migration."
+  },
+  "category": "model-platform",
+  "url": "https://groq.com/",
+  "tags": [
+   "推理",
+   "API",
+   "高性能"
+  ],
+  "visits": 7212112
+ },
+ {
+  "slug": "hedra",
+  "name": {
+   "zh": "Hedra",
+   "en": "Hedra"
+  },
+  "desc": {
+   "zh": "Hedra 转向多模态与具身 AI 的推理与训练基础设施：兼容 OpenAI 的 API 可调图像、视频、音频与语言模型，也能自带权重微调、在 GPU 沙盒跑自定义代码。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://hedra.com",
+  "tags": [
+   "推理基础设施",
+   "模型微调",
+   "GPU 沙盒"
+  ],
+  "visits": 2539063
+ },
+ {
+  "slug": "infinigence",
+  "name": {
+   "zh": "无问芯穹",
+   "en": "Infinigence AI"
+  },
+  "desc": {
+   "zh": "通用人工智能基础设施服务商，官方称以 M 种模型乘 N 种芯片的技术范式做多元异构算力调度，提供 Agentic Infra 平台与 Agentic MaaS 大模型服务。",
+   "en": "A general-purpose AI infrastructure provider. It says its model-times-chip paradigm orchestrates heterogeneous compute, offering an Agentic Infra platform and Agentic MaaS large model services."
+  },
+  "category": "model-platform",
+  "url": "https://www.infinigence-ai.com/",
+  "tags": [
+   "AI基础设施",
+   "异构算力",
+   "模型即服务"
+  ],
+  "visits": 973
+ },
+ {
+  "slug": "kimi-open-platform",
+  "name": {
+   "zh": "Kimi 开放平台",
+   "en": "Kimi 开放平台"
+  },
+  "desc": {
+   "zh": "月之暗面旗下的大模型 API 开放平台，提供 K3 系列模型、100 万 token 上下文与联网搜索、代码执行等官方工具，按量付费与企业订阅并行，适合构建编程智能体与长文本分析应用。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://platform.kimi.com/docs",
+  "tags": [
+   "大模型API",
+   "长上下文",
+   "智能体"
+  ],
+  "visits": 400576
+ },
+ {
+  "slug": "lambda",
+  "name": {
+   "zh": "Lambda",
+   "en": "Lambda"
+  },
+  "desc": {
+   "zh": "面向 AI 训练的云算力服务商，官网称提供多种高端显卡的按需实例与集群预留，配套编排工具与工程支持，覆盖从初创团队到政府与企业的场景。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://lambda.ai/",
+  "tags": [
+   "算力租赁",
+   "GPU集群",
+   "模型训练"
+  ],
+  "visits": 746626
+ },
+ {
+  "slug": "lightning-ai",
+  "name": {
+   "zh": "Lightning AI",
+   "en": "Lightning AI"
+  },
+  "desc": {
+   "zh": "PyTorch Lightning 原班团队打造的 AI 云平台，官网提供按需显卡、集群与编码智能体，覆盖数据集构建到训练与推理全流程，面向自研专用模型的团队。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://lightning.ai/",
+  "tags": [
+   "AI云",
+   "模型训练",
+   "实验管理"
+  ],
+  "visits": 87729
+ },
+ {
+  "slug": "lingyi-wanwu",
+  "name": {
+   "zh": "零一万物",
+   "en": "零一万物"
+  },
+  "desc": {
+   "zh": "零一万物面向企业AI转型，以一号位工程牵引，提供万智企业大模型平台及老板AI、销冠AI、投资官AI等决策产品，覆盖制造、物流、农业等多行业场景。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.lingyiwanwu.com/",
+  "tags": [
+   "企业AI转型",
+   "决策AI",
+   "行业智能体"
+  ],
+  "visits": 4799
+ },
+ {
+  "slug": "liquid-ai",
+  "name": {
+   "zh": "Liquid AI",
+   "en": "Liquid AI"
+  },
+  "desc": {
+   "zh": "专注端侧的基础模型团队，Liquid 基础模型能在笔记本、手机与车机上本地推理，支持多种运行时与按场景微调，适合对延迟和隐私敏感的产品。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://liquid.ai/",
+  "tags": [
+   "端侧模型",
+   "边缘推理",
+   "微调部署"
+  ],
+  "visits": 358939
+ },
+ {
+  "slug": "luchentech",
+  "name": {
+   "zh": "潞晨科技",
+   "en": "HPC-AI Tech"
+  },
+  "desc": {
+   "zh": "AI 大模型开发部署平台企业，官方称以自研 Colossal-AI 覆盖训练、微调、推理与部署全链路，潞晨云提供按量计费的 GPU 算力与 Token 工厂式 MaaS 服务。",
+   "en": "A large model development and deployment platform company. It says its Colossal-AI covers the full chain of training, fine-tuning, inference and deployment, while Luchen Cloud offers pay-as-you-go GPU compute and a token-factory style MaaS service."
+  },
+  "category": "model-platform",
+  "url": "https://luchentech.com/",
+  "tags": [
+   "大模型训练",
+   "推理服务",
+   "私有化部署"
+  ],
+  "visits": 5238
+ },
+ {
+  "slug": "matpool",
+  "name": {
+   "zh": "矩池云",
+   "en": "矩池云"
+  },
+  "desc": {
+   "zh": "矩池云是专注人工智能的 GPU 云服务商，提供按分钟计费的云算力、AI 教学实训环境与高速网盘，并支持公有云、私有云与软硬一体等解决方案。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://matpool.com/",
+  "tags": [
+   "GPU算力",
+   "云服务",
+   "AI训练"
+  ],
+  "visits": 52314
+ },
+ {
+  "slug": "minimax",
+  "name": {
+   "zh": "MiniMax",
+   "en": "MiniMax"
+  },
+  "desc": {
+   "zh": "MiniMax 是多模态大模型公司，官方称全球用户超 2 亿，产品覆盖文本、语音、视频、音乐与代码，旗舰模型与开放权重模型并行，同时开放 API 与 Token 套餐。",
+   "en": "Multimodal model company behind the MiniMax and Hailuo product lines, with 200M+ users, open-weight models and a public API."
+  },
+  "category": "model-platform",
+  "url": "https://www.minimax.io/",
+  "tags": [
+   "大模型",
+   "多模态",
+   "语音"
+  ],
+  "visits": 11038401
+ },
+ {
+  "slug": "nebius",
+  "name": {
+   "zh": "Nebius",
+   "en": "Nebius"
+  },
+  "desc": {
+   "zh": "面向 AI 团队的专用云平台，官网称从硬件到接口全栈自建，提供非虚拟化显卡、高速互联与托管推理，覆盖从实验到大规模训练与推理的场景。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://nebius.com/",
+  "tags": [
+   "AI云",
+   "GPU集群",
+   "模型训练"
+  ],
+  "visits": 2735072
+ },
+ {
+  "slug": "novita-ai",
+  "name": {
+   "zh": "Novita AI",
+   "en": "Novita AI"
+  },
+  "desc": {
+   "zh": "面向开发者的 AI 与智能体云平台，官网称可通过统一接口调用两百多个模型，并提供智能体沙箱与显卡实例，覆盖文本、图像、音频与视频等模态。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://novita.ai/",
+  "tags": [
+   "模型接口",
+   "智能体沙箱",
+   "GPU云"
+  ],
+  "visits": 99527
+ },
+ {
+  "slug": "onethingai",
+  "name": {
+   "zh": "OneThingAI",
+   "en": "OneThingAI"
+  },
+  "desc": {
+   "zh": "OneThingAI 是 GPU 算力云租赁与大模型 API 聚合平台，提供按需算力、模型广场、镜像中心、模型精调与私有化部署，官网称覆盖 AI 训练推理与科学计算等场景。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://onethingai.com/",
+  "tags": [
+   "GPU算力",
+   "模型API",
+   "私有化"
+  ],
+  "visits": 252016
+ },
+ {
+  "slug": "paperspace",
+  "name": {
+   "zh": "Paperspace",
+   "en": "Paperspace"
+  },
+  "desc": {
+   "zh": "DigitalOcean 旗下的云 GPU 平台，提供 H100 等显卡算力与主机，覆盖模型开发、训练到部署的完整流程，也提供云桌面与渲染工作流。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.paperspace.com/",
+  "tags": [
+   "云GPU",
+   "模型训练",
+   "算力平台"
+  ],
+  "visits": 781412
+ },
+ {
+  "slug": "ppio",
+  "name": {
+   "zh": "派欧云",
+   "en": "PPIO"
+  },
+  "desc": {
+   "zh": "分布式云计算服务商，官方称提供大模型与图像视频模型 API、Agent 沙箱与托管、GPU 容器实例与 Spot 算力，兼容 OpenAI 与 Anthropic 接口标准。",
+   "en": "A distributed cloud computing provider offering APIs for large language, image and video models, agent sandboxes and hosting, GPU container instances and spot compute, compatible with OpenAI and Anthropic interface standards."
+  },
+  "category": "model-platform",
+  "url": "https://ppio.com/",
+  "tags": [
+   "GPU云服务",
+   "模型API",
+   "Agent沙箱"
+  ],
+  "visits": 14623
+ },
+ {
+  "slug": "replicate",
+  "name": {
+   "zh": "Replicate",
+   "en": "Replicate"
+  },
+  "desc": {
+   "zh": "运行与部署开源 AI 模型的云平台，官方称社区已发布数千个可直接调用的模型，提供一行代码运行、用自有数据微调，以及用 Cog 打包部署自定义模型，按实际算力计费。",
+   "en": "A cloud platform for running and deploying open-source AI models. Its community has published thousands of directly callable models, with one-line-code runs, fine-tuning on your own data and packaging custom models for deployment with Cog, billed by actual compute."
+  },
+  "category": "model-platform",
+  "url": "https://replicate.com/",
+  "tags": [
+   "模型API",
+   "模型微调",
+   "开源模型部署"
+  ],
+  "visits": 1803538
+ },
+ {
+  "slug": "runpod",
+  "name": {
+   "zh": "RunPod",
+   "en": "RunPod"
+  },
+  "desc": {
+   "zh": "面向开发者的 AI 云平台，提供按需 GPU、无服务器端点、多节点集群与模型部署四类形态，覆盖推理、Agent、微调与计算密集任务，并公开各型号 GPU 的单价。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.runpod.io",
+  "tags": [
+   "算力平台",
+   "GPU租用",
+   "模型部署"
+  ],
+  "visits": 4582416
+ },
+ {
+  "slug": "sensenova",
+  "name": {
+   "zh": "商汤日日新 SenseNova",
+   "en": "商汤日日新 SenseNova"
+  },
+  "desc": {
+   "zh": "商汤日日新SenseNova是商汤的大模型API服务平台，提供文本对话、多模态理解与文生图等能力，兼容OpenAI接口，方便接入业务。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://platform.sensenova.cn/",
+  "tags": [
+   "大模型API",
+   "多模态",
+   "文生图"
+  ],
+  "visits": 1697859
+ },
+ {
+  "slug": "siliconflow",
+  "name": {
+   "zh": "硅基流动",
+   "en": "SiliconFlow"
+  },
+  "desc": {
+   "zh": "一站式大模型云服务平台，官方称提供覆盖语言、语音、图片、视频的开箱即用 API，以及预留实例、推理加速与私有化部署等产品，基于自研推理引擎优化延迟与吞吐表现。",
+   "en": "A one-stop large model cloud platform offering ready-to-use APIs for language, speech, image and video, plus reserved instances, inference acceleration and private deployment. Its in-house inference engine optimizes latency and throughput."
+  },
+  "category": "model-platform",
+  "url": "https://siliconflow.cn/",
+  "tags": [
+   "大模型API",
+   "推理加速",
+   "私有化部署"
+  ],
+  "visits": 747297
+ },
+ {
+  "slug": "spacehpc",
+  "name": {
+   "zh": "星海智算",
+   "en": "星海智算"
+  },
+  "desc": {
+   "zh": "新一代高性能计算云平台，官网称为科研机构、高校、企业与 AI 开发者提供按需弹性的算力，覆盖大模型训练、科学仿真、基因测序与气候建模，可选多款高性能显卡。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.spacehpc.com/",
+  "tags": [
+   "高性能计算",
+   "GPU云服务",
+   "科研算力"
+  ],
+  "visits": 1623
+ },
+ {
+  "slug": "suanjiayun",
+  "name": {
+   "zh": "算家云",
+   "en": "算家云"
+  },
+  "desc": {
+   "zh": "算家云是高性能 GPU 算力租赁与 AI 训练推理平台，提供 A100、4090、5090 等显卡按需租用，上百种开源模型一键启动，官网称 4090 低至 1.24 元／卡时。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://www.suanjiayun.com/",
+  "tags": [
+   "GPU算力",
+   "模型部署",
+   "云服务"
+  ],
+  "visits": 167241
+ },
+ {
+  "slug": "synexa-ai",
+  "name": {
+   "zh": "Synexa AI",
+   "en": "Synexa AI"
+  },
+  "desc": {
+   "zh": "无服务器 AI 模型推理接口平台，官网称一行代码即可部署模型，支持图像生成、视频生成、图像修复与描述、语音生成和模型微调，并强调自动扩缩容与按量计费。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://synexa.ai/",
+  "tags": [
+   "模型API",
+   "无服务器推理",
+   "多模态生成"
+  ],
+  "visits": 6673
+ },
+ {
+  "slug": "tencent-hunyuan-api",
+  "name": {
+   "zh": "腾讯混元大模型 API",
+   "en": "腾讯混元大模型 API"
+  },
+  "desc": {
+   "zh": "腾讯云全链路自研的混元大模型服务入口，模型广场覆盖生文、多模态理解、生图、生视频、生 3D 与语音识别，提供控制台、API 文档及预付费资源包与后付费日结两种计费模式。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://cloud.tencent.com/product/hunyuan",
+  "tags": [
+   "大模型API",
+   "多模态",
+   "腾讯云"
+  ],
+  "visits": 21674053
+ },
+ {
+  "slug": "together-ai",
+  "name": {
+   "zh": "Together AI",
+   "en": "Together AI"
+  },
+  "desc": {
+   "zh": "Together AI 是 AI 原生云平台，提供开源模型推理、微调与 GPU 集群，OpenAI 兼容接口迁移方便，官方称推理快 2 倍、成本低 60%、预训练快 90%。",
+   "en": "AI-native cloud offering open-model inference, fine-tuning and GPU clusters, with an OpenAI-compatible API for easy migration."
+  },
+  "category": "model-platform",
+  "url": "https://www.together.ai/",
+  "tags": [
+   "云平台",
+   "推理",
+   "微调"
+  ],
+  "visits": 1916739
+ },
+ {
+  "slug": "vast-ai",
+  "name": {
+   "zh": "Vast.ai",
+   "en": "Vast.ai"
+  },
+  "desc": {
+   "zh": "GPU 算力租赁平台，官方称聚合两万张以上显卡、四十多个数据中心，按供需实时定价并支持按秒计费，可用于模型训练、推理、微调与渲染等任务。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://vast.ai/",
+  "tags": [
+   "算力租赁",
+   "GPU",
+   "按秒计费"
+  ],
+  "visits": 3489495
+ },
+ {
+  "slug": "volcengine-ark",
+  "name": {
+   "zh": "火山方舟",
+   "en": "Volcengine Ark"
+  },
+  "desc": {
+   "zh": "火山引擎的一站式大模型服务平台，提供模型托管与推理、联网插件、RAG 知识库与 Agent 开发能力，并具备多项安全合规认证。",
+   "en": "Volcengine's one-stop large model service platform, providing model hosting and inference, web plugins, RAG knowledge bases and agent development, with a range of security and compliance certifications."
+  },
+  "category": "model-platform",
+  "url": "https://www.volcengine.com/product/ark",
+  "tags": [
+   "大模型平台",
+   "模型托管",
+   "Agent开发"
+  ],
+  "visits": 14409278
+ },
+ {
+  "slug": "zhipu-bigmodel",
+  "name": {
+   "zh": "智谱 BigModel",
+   "en": "智谱 BigModel"
+  },
+  "desc": {
+   "zh": "智谱推出的国产通用大模型开放平台，提供 GLM-5.3 旗舰模型、多模态能力与智能体，为开发者和企业打通从模型到产品的一站式 AI 开发服务。",
+   "en": ""
+  },
+  "category": "model-platform",
+  "url": "https://open.bigmodel.cn/",
+  "tags": [
+   "国产大模型",
+   "多模态能力",
+   "企业级API"
+  ],
+  "visits": 647529
  }
 ]
