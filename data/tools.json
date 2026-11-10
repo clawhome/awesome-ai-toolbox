@@ -22550,7 +22550,7 @@
    "简历模板",
    "岗位匹配"
   ],
-  "visits": 74654
+  "visits": 2391
  },
  {
   "slug": "acedit",
@@ -22665,6 +22665,25 @@
    "解析问题排查"
   ],
   "visits": 18989
+ },
+ {
+  "slug": "huru",
+  "name": {
+   "zh": "Huru",
+   "en": "Huru"
+  },
+  "desc": {
+   "zh": "面向求职者的 AI 模拟面试练习平台，覆盖 242 个以上职业角色与 5 种语言。可选会追问的 AI 面试官做实时对话，每次回答按五个维度打分并给出复盘与改写建议，基础练习免费。",
+   "en": ""
+  },
+  "category": "job-coach",
+  "url": "https://huru.ai/",
+  "tags": [
+   "模拟面试",
+   "AI追问",
+   "表达反馈"
+  ],
+  "visits": 21832
  },
  {
   "slug": "interview-coder",
@@ -35470,7 +35489,7 @@
    "Token压缩",
    "多供应商"
   ],
-  "visits": 115422
+  "visits": 373691
  },
  {
   "slug": "agent-2",
@@ -35698,7 +35717,7 @@
    "MCP管理",
    "用量统计"
   ],
-  "visits": 1097874
+  "visits": 448142
  },
  {
   "slug": "charm-crush",
@@ -35774,7 +35793,7 @@
    "智能路由",
    "MCP工具"
   ],
-  "visits": 1713
+  "visits": 757
  },
  {
   "slug": "cline",
@@ -35812,7 +35831,7 @@
    "订阅转API",
    "多账号轮询"
   ],
-  "visits": 71187
+  "visits": 33492
  },
  {
   "slug": "cmux",
@@ -36287,7 +36306,7 @@
    "开源",
    "谷歌"
   ],
-  "visits": 793384858
+  "visits": 901741229
  },
  {
   "slug": "gemini-code-assist",
@@ -36325,7 +36344,7 @@
    "代码补全",
    "GitHub"
   ],
-  "visits": 793384858
+  "visits": 901741229
  },
  {
   "slug": "gitlab-duo",
@@ -36686,7 +36705,7 @@
    "本地代理",
    "协议转换"
   ],
-  "visits": 1299334
+  "visits": 383907
  },
  {
   "slug": "maiya-ai",
@@ -36857,7 +36876,7 @@
    "上下文压缩",
    "本地网关"
   ],
-  "visits": 401073
+  "visits": 1000399
  },
  {
   "slug": "omp",
@@ -42560,6 +42579,25 @@
   "visits": 101569
  },
  {
+  "slug": "draftaid",
+  "name": {
+   "zh": "DraftAid",
+   "en": "DraftAid"
+  },
+  "desc": {
+   "zh": "面向工程与制造团队的 AI 制图工具，把已有 3D 模型自动转成二维制造图纸，自动排布视图、标注尺寸并适配企业模板，可嵌入 Inventor、SolidWorks 等 CAD 软件，导出 PDF、DWG 与 DXF。",
+   "en": ""
+  },
+  "category": "design-3d",
+  "url": "https://draftaid.io/",
+  "tags": [
+   "工程图纸",
+   "标注自动化",
+   "CAD插件"
+  ],
+  "visits": 7750
+ },
+ {
   "slug": "fast3d",
   "name": {
    "zh": "Fast3D",
@@ -42634,6 +42672,25 @@
    "建模工具"
   ],
   "visits": 35629
+ },
+ {
+  "slug": "leo-ai",
+  "name": {
+   "zh": "Leo AI",
+   "en": "Leo AI"
+  },
+  "desc": {
+   "zh": "面向机械工程团队的 AI 工程助手，连接 CAD、PDM、PLM 与 ERP 读取企业数据，可用文字、图片或图纸生成可编辑的参数化零件与装配，并提供设计审查、零件检索与带引用来源的工程计算。",
+   "en": ""
+  },
+  "category": "design-3d",
+  "url": "https://www.getleo.ai/",
+  "tags": [
+   "机械设计",
+   "工程计算",
+   "零件检索"
+  ],
+  "visits": 202206
  },
  {
   "slug": "marble",
@@ -42786,6 +42843,25 @@
    "PBR 贴图"
   ],
   "visits": 2127
+ },
+ {
+  "slug": "zoo-design-studio",
+  "name": {
+   "zh": "Zoo Design Studio",
+   "en": "Zoo Design Studio"
+  },
+  "desc": {
+   "zh": "Zoo 推出的 AI 原生 CAD 平台，把点选建模、KCL 代码与 Zookeeper 对话式智能体放在同一工作区，用提示词生成可编辑的 B-rep 实体模型而非网格，支持浏览器试用与桌面端，另开放几何引擎 API 与 MCP 接口。",
+   "en": ""
+  },
+  "category": "design-3d",
+  "url": "https://zoo.dev/",
+  "tags": [
+   "文字转CAD",
+   "参数化建模",
+   "机械设计"
+  ],
+  "visits": 49622
  },
  {
   "slug": "bannerbear",
@@ -50635,6 +50711,25 @@
   "visits": 1340343
  },
  {
+  "slug": "papagei",
+  "name": {
+   "zh": "Papagei 变声器",
+   "en": "Papagei 变声器"
+  },
+  "desc": {
+   "zh": "苏州开心盒子软件推出的轻量级 Windows 实时变声工具，安装包仅 1.85MB，提供数百种音色与趣味音效，官网称适配千余款游戏与直播软件，支持免费试用和三档会员。",
+   "en": ""
+  },
+  "category": "voice-clone",
+  "url": "https://www.papagei.cn/",
+  "tags": [
+   "实时变声",
+   "直播音效",
+   "智能降噪"
+  ],
+  "visits": 2282
+ },
+ {
   "slug": "resemble-ai",
   "name": {
    "zh": "Resemble AI",
@@ -50692,6 +50787,25 @@
   "visits": 341784
  },
  {
+  "slug": "shengwang-virtual-soundcard",
+  "name": {
+   "zh": "声网虚拟声卡 2.0",
+   "en": "声网虚拟声卡 2.0"
+  },
+  "desc": {
+   "zh": "声网面向实时互动场景的软件声卡方案，用算法替代硬件声卡实现音质美化、音准修正与对轨矫正，归属凤鸣 AI 引擎美音能力线，覆盖 AI 降噪、美声与变声，需开发者集成使用。",
+   "en": ""
+  },
+  "category": "voice-clone",
+  "url": "https://www.shengwang.cn/VirtualSoundCard",
+  "tags": [
+   "实时美声",
+   "AI降噪",
+   "音频SDK"
+  ],
+  "visits": 20463
+ },
+ {
   "slug": "supertone-ai",
   "name": {
    "zh": "Supertone",
@@ -50730,6 +50844,25 @@
   "visits": 491304
  },
  {
+  "slug": "vcclient",
+  "name": {
+   "zh": "W-Okada VCClient",
+   "en": "W-Okada VCClient"
+  },
+  "desc": {
+   "zh": "GitHub 开源实时语音转换项目，客户端 VCClient 用本地模型实时替换音色，支持 RVC、Beatrice 等多种转换模型，按平台分发行版，需自备模型与显卡算力。",
+   "en": ""
+  },
+  "category": "voice-clone",
+  "url": "https://github.com/w-okada/voice-changer",
+  "tags": [
+   "实时变声",
+   "RVC模型",
+   "本地推理"
+  ],
+  "visits": 901741229
+ },
+ {
   "slug": "vocallab",
   "name": {
    "zh": "VocalLab.ai",
@@ -50766,6 +50899,25 @@
    "多角色对白"
   ],
   "visits": 62984
+ },
+ {
+  "slug": "voice-ai",
+  "name": {
+   "zh": "Voice.ai",
+   "en": "Voice.ai"
+  },
+  "desc": {
+   "zh": "以 AI 语音模型为底座的平台，主推实时变声器、声音克隆、文字转语音与语音智能体。免费变声器可在游戏与直播中实时切换音色，社区音色库支持自制声线，另有开发者 API。",
+   "en": ""
+  },
+  "category": "voice-clone",
+  "url": "https://voice.ai/",
+  "tags": [
+   "实时变声",
+   "声音克隆",
+   "语音API"
+  ],
+  "visits": 480671
  },
  {
   "slug": "voice-swap",
@@ -51224,6 +51376,25 @@
   "visits": 1196101
  },
  {
+  "slug": "lario-ai",
+  "name": {
+   "zh": "Lario AI",
+   "en": "Lario AI"
+  },
+  "desc": {
+   "zh": "macOS 实时虚拟麦克风，用原生音频引擎在通话中稳定音量、平滑卡顿与齿音，不改变原有音色。提供五种场景预设与会后 AI 表达分析，支持自带模型密钥，免费版可跑三次完整会话。",
+   "en": ""
+  },
+  "category": "voice-stt",
+  "url": "https://www.larioai.com/",
+  "tags": [
+   "实时美声",
+   "虚拟麦克风",
+   "面试表达"
+  ],
+  "visits": 4537
+ },
+ {
   "slug": "letterly",
   "name": {
    "zh": "Letterly App",
@@ -51279,6 +51450,25 @@
    "说话人识别"
   ],
   "visits": 20572
+ },
+ {
+  "slug": "nvidia-broadcast",
+  "name": {
+   "zh": "NVIDIA Broadcast",
+   "en": "NVIDIA Broadcast"
+  },
+  "desc": {
+   "zh": "NVIDIA 面向直播与视频会议的免费桌面应用，用显卡上的 AI 效果把普通房间变成家庭工作室，提供人声增强、降噪、虚拟背景与自动补光，需 RTX 2060 以上显卡。",
+   "en": ""
+  },
+  "category": "voice-stt",
+  "url": "https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/",
+  "tags": [
+   "实时降噪",
+   "直播视效",
+   "虚拟背景"
+  ],
+  "visits": 54245937
  },
  {
   "slug": "openless",
@@ -53806,25 +53996,6 @@
    "Notion导出"
   ],
   "visits": 3487
- },
- {
-  "slug": "wenxin-yiyan",
-  "name": {
-   "zh": "文心一言",
-   "en": "ERNIE Bot"
-  },
-  "desc": {
-   "zh": "文心是百度旗下的一站式 AI 助手，主打办公学习场景，覆盖文字创作、图片与音乐生成、AI 阅读、文献速读、PPT 生成与海量智能体应用，登录后可多端同步。",
-   "en": "Baidu's all-in-one AI assistant focused on work and study: writing, image and music generation, AI reading, literature summarising, slide generation and a large library of agents, synced across devices after sign-in."
-  },
-  "category": "chat-general",
-  "url": "https://wenxin.baidu.com/",
-  "tags": [
-   "对话",
-   "中文",
-   "百度"
-  ],
-  "visits": 51855207
  },
  {
   "slug": "wrtn",

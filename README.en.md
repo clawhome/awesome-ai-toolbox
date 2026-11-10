@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 3210 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 3219 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-3210-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-3219-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -779,20 +779,20 @@
 4. **[Google Gemini](https://topxai.cn/ai/gemini)** — 
 5. **[Gemini CLI](https://topxai.cn/ai/gemini-cli)** — 
 6. **[GitHub Copilot](https://topxai.cn/ai/github-copilot)** — 
-7. **[DeepSeek](https://topxai.cn/ai/deepseek)** — 
-8. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — 
-9. **[Notion AI](https://topxai.cn/ai/notion-ai)** — 
-10. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
-11. **[Doubao](https://topxai.cn/ai/doubao)** — 
-12. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
-13. **[Grok](https://topxai.cn/ai/grok)** — 
-14. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
-15. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 
-16. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
-17. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
-18. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
-19. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
-20. **[Magnific](https://topxai.cn/ai/magnific)** — 
+7. **[W-Okada VCClient](https://topxai.cn/ai/vcclient)** — 
+8. **[DeepSeek](https://topxai.cn/ai/deepseek)** — 
+9. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — 
+10. **[Notion AI](https://topxai.cn/ai/notion-ai)** — 
+11. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
+12. **[Doubao](https://topxai.cn/ai/doubao)** — 
+13. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
+14. **[Grok](https://topxai.cn/ai/grok)** — 
+15. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
+16. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 
+17. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
+18. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
+19. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
+20. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
 
 ## About
 
