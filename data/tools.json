@@ -35454,6 +35454,25 @@
   "visits": 414880
  },
  {
+  "slug": "9router",
+  "name": {
+   "zh": "9Router",
+   "en": "9Router"
+  },
+  "desc": {
+   "zh": "9Router 是开源本地路由，把 Claude Code、Codex 等工具接到 60 多家供应商，按订阅、低价、免费三层自动降级，并提供 Token 压缩与配额看板。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://9router.com/",
+  "tags": [
+   "模型路由",
+   "Token压缩",
+   "多供应商"
+  ],
+  "visits": 115422
+ },
+ {
   "slug": "agent-2",
   "name": {
    "zh": "Agent.Space",
@@ -35663,6 +35682,25 @@
   "visits": 244273
  },
  {
+  "slug": "cc-switch",
+  "name": {
+   "zh": "CC Switch",
+   "en": "CC Switch"
+  },
+  "desc": {
+   "zh": "CC Switch 是免费开源的桌面应用，统一管理 13 款 AI 编程工具的供应商配置，内置 90 多个预设，支持 MCP 与提示词集中管理、本地路由和用量统计。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://ccswitch.io/",
+  "tags": [
+   "模型路由",
+   "MCP管理",
+   "用量统计"
+  ],
+  "visits": 1097874
+ },
+ {
   "slug": "charm-crush",
   "name": {
    "zh": "Crush",
@@ -35720,6 +35758,25 @@
   "visits": 11319223
  },
  {
+  "slug": "claude-code-router",
+  "name": {
+   "zh": "Claude Code Router",
+   "en": "Claude Code Router"
+  },
+  "desc": {
+   "zh": "Claude Code Router 是本地模型网关，把 Claude Code、Codex 等代理请求按规则转发给任意供应商，支持条件路由与组合模型，MIT 开源。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://ccrdesk.top/",
+  "tags": [
+   "模型路由",
+   "智能路由",
+   "MCP工具"
+  ],
+  "visits": 1713
+ },
+ {
   "slug": "cline",
   "name": {
    "zh": "Cline",
@@ -35737,6 +35794,25 @@
    "智能体"
   ],
   "visits": 1867
+ },
+ {
+  "slug": "cliproxyapi",
+  "name": {
+   "zh": "CLIProxyAPI",
+   "en": "CLIProxyAPI"
+  },
+  "desc": {
+   "zh": "CLIProxyAPI 是本地代理服务器，把 Claude、Codex、Gemini 等订阅账号包装成兼容 API，支持 OAuth 登录、多账号轮询与流式工具调用，MIT 开源。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://help.router-for.me/",
+  "tags": [
+   "模型路由",
+   "订阅转API",
+   "多账号轮询"
+  ],
+  "visits": 71187
  },
  {
   "slug": "cmux",
@@ -36594,6 +36670,25 @@
   "visits": 65418
  },
  {
+  "slug": "magpie",
+  "name": {
+   "zh": "magpie",
+   "en": "magpie"
+  },
+  "desc": {
+   "zh": "magpie 是开源本地模型网关，把国产与海外模型接入 Claude Code 等编程代理，菜单栏一键切换，支持协议转换、敏感信息遮蔽与故障转移。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://usemagpie.ai/",
+  "tags": [
+   "模型路由",
+   "本地代理",
+   "协议转换"
+  ],
+  "visits": 1299334
+ },
+ {
   "slug": "maiya-ai",
   "name": {
    "zh": "麦芽AI",
@@ -36746,6 +36841,25 @@
   "visits": 7572
  },
  {
+  "slug": "omniroute",
+  "name": {
+   "zh": "OmniRoute",
+   "en": "OmniRoute"
+  },
+  "desc": {
+   "zh": "OmniRoute 是本地优先的开源 AI 网关，官方称可用一个兼容端点接入 352 家供应商，提供自动回退、19 种路由策略与上下文压缩，MIT 开源。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://omniroute.online/",
+  "tags": [
+   "模型路由",
+   "上下文压缩",
+   "本地网关"
+  ],
+  "visits": 401073
+ },
+ {
   "slug": "omp",
   "name": {
    "zh": "omp",
@@ -36896,6 +37010,25 @@
    "智能体"
   ],
   "visits": 82419
+ },
+ {
+  "slug": "quotio",
+  "name": {
+   "zh": "Quotio",
+   "en": "Quotio"
+  },
+  "desc": {
+   "zh": "Quotio 提供 macOS 菜单栏应用与 Rust 命令行，统一查看多家 AI 供应商配额、管理账号并托管本地代理，还能自动配置编程工具，MIT 开源。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://www.quotio.dev/",
+  "tags": [
+   "模型路由",
+   "账号管理",
+   "Rust CLI"
+  ],
+  "visits": 0
  },
  {
   "slug": "refact-ai",
@@ -37200,6 +37333,25 @@
    "本地模型"
   ],
   "visits": 1226
+ },
+ {
+  "slug": "vibeproxy",
+  "name": {
+   "zh": "VibeProxy",
+   "en": "VibeProxy"
+  },
+  "desc": {
+   "zh": "VibeProxy 是 macOS 菜单栏应用，把 Claude、ChatGPT 等订阅用于 AI 编程工具，基于 CLIProxyAPI 处理 OAuth 与多账号切换。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://github.com/automazeio/vibeproxy",
+  "tags": [
+   "模型路由",
+   "订阅复用",
+   "macOS"
+  ],
+  "visits": 0
  },
  {
   "slug": "void-editor",

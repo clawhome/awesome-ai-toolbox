@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 3202 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 3210 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-3202-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-3210-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
