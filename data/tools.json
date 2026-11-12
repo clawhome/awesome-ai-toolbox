@@ -6156,6 +6156,25 @@
   "visits": 11106
  },
  {
+  "slug": "partnershare",
+  "name": {
+   "zh": "PartnerShare",
+   "en": "PartnerShare"
+  },
+  "desc": {
+   "zh": "面向出海 SaaS 的联盟营销与推荐返佣平台，由广州标品科技创新有限公司运营。支持产品上架推广市场对接推广者、追踪点击到续费的全链路转化、自动计算佣金并打款，也可在产品内嵌入邀返入口激活老带新。",
+   "en": ""
+  },
+  "category": "marketing",
+  "url": "https://www.partnershare.net/",
+  "tags": [
+   "联盟营销",
+   "邀返系统",
+   "佣金结算"
+  ],
+  "visits": 2120
+ },
+ {
   "slug": "abby",
   "name": {
    "zh": "AI Therapy",
@@ -20691,6 +20710,25 @@
   "visits": 26800772
  },
  {
+  "slug": "hark",
+  "name": {
+   "zh": "Hark",
+   "en": "Hark"
+  },
+  "desc": {
+   "zh": "Hark Labs 出品的个人 AI 智能体 Hark Pro，用名为 Handoff 的云电脑替你登录网站完成订票缴费等真实操作，具备长期记忆与主动预判，2026 年 10 月上线并提供免费档。",
+   "en": ""
+  },
+  "category": "personal-agent",
+  "url": "https://hark.com/",
+  "tags": [
+   "个人智能体",
+   "主动代办",
+   "长期记忆"
+  ],
+  "visits": 3812862
+ },
+ {
   "slug": "lobsterai",
   "name": {
    "zh": "LobsterAI",
@@ -20748,6 +20786,25 @@
   "visits": 6785696
  },
  {
+  "slug": "openai-dots",
+  "name": {
+   "zh": "OpenAI Dots",
+   "en": "OpenAI Dots"
+  },
+  "desc": {
+   "zh": "OpenAI 推出的常驻个人智能体 Dots，内置于 ChatGPT，拥有独立云电脑与浏览器，可跨 4000+ 应用 7×24 小时替你推进项目、调研与内容生产。",
+   "en": ""
+  },
+  "category": "personal-agent",
+  "url": "https://openai.com/index/introducing-dots/",
+  "tags": [
+   "个人智能体",
+   "常驻Agent",
+   "跨应用"
+  ],
+  "visits": 270307504
+ },
+ {
   "slug": "openclaw",
   "name": {
    "zh": "OpenClaw",
@@ -20765,6 +20822,25 @@
    "AI智能体"
   ],
   "visits": 1455
+ },
+ {
+  "slug": "qianwen-go",
+  "name": {
+   "zh": "千问Go",
+   "en": "千问Go"
+  },
+  "desc": {
+   "zh": "阿里千问推出的 Personal Agent「千问Go」，内嵌于千问 App，借助阿里云上的云手机与云电脑替用户完成航班理赔、价保退差、演出预约等多步骤办事任务。",
+   "en": ""
+  },
+  "category": "personal-agent",
+  "url": "https://www.qianwen.com/",
+  "tags": [
+   "个人智能体",
+   "云手机办事",
+   "阿里生态"
+  ],
+  "visits": 35572225
  },
  {
   "slug": "rabbitos-intern",
@@ -38511,6 +38587,25 @@
    "永久免费地址"
   ],
   "visits": 24164
+ },
+ {
+  "slug": "meoo",
+  "name": {
+   "zh": "秒悟 Meoo",
+   "en": "秒悟 Meoo"
+  },
+  "desc": {
+   "zh": "阿里巴巴 ATH 事业群推出的 AI 应用创作平台，用自然语言即可生成网页、小程序、营销 H5 与 PPT，并一键部署上云，无需编程基础，适合非技术用户与团队快速把想法做成可上线的应用。",
+   "en": ""
+  },
+  "category": "code-nocode",
+  "url": "https://meoo.com/",
+  "tags": [
+   "AI建站",
+   "网页生成",
+   "小程序"
+  ],
+  "visits": 294874
  },
  {
   "slug": "miaoda",

@@ -2,12 +2,12 @@
 
 # Awesome AI Toolbox · Curated AI Tools
 
-> 3223 AI tools across 12 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
+> 3228 AI tools across 13 categories · Browse online 👉 [topxai.cn](https://topxai.cn)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/clawhome/awesome-ai-toolbox?style=social)](https://github.com/clawhome/awesome-ai-toolbox/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/clawhome/awesome-ai-toolbox)](https://github.com/clawhome/awesome-ai-toolbox/commits)
-[![Tools](https://img.shields.io/badge/tools-3223-blue)](#table-of-contents)
+[![Tools](https://img.shields.io/badge/tools-3228-blue)](#table-of-contents)
 [![License: CC0-1.0](https://img.shields.io/badge/license-CC0--1.0-lightgrey)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](./CONTRIBUTING.md)
 
@@ -29,6 +29,7 @@
 - [Everyday Life](#everyday-life) `45`
 - [Legal & Finance](#legal--finance) `63`
 - [Enterprise Management](#enterprise-management) `78`
+- [Marketing & Advertising](#marketing--advertising) `1`
 - [Health & Medical](#health--medical) `44`
 - [Interior & Architecture](#interior--architecture) `35`
 - [Other](#other) `120`
@@ -553,6 +554,12 @@
 - **[有道智云](https://topxai.cn/ai/youdao-zhiyun)** — 有道智云是网易有道旗下的一站式AI开放平台，提供大模型翻译、文字识别OCR、语音合成复刻与智慧教育等服务及行业解决方案，支持API与私有化部署。 · [website](https://ai.youdao.com/new/)
 - **[Zhuiyi](https://topxai.cn/ai/zhuiyi)** — Provides the AIForce digital employee suite, including intelligent service, outbound calling, assistant, analytics, training and multimodal digital human bots for enterprise and government digital transformation. · [website](https://www.zhuiyi.ai/)
 
+## Marketing & Advertising
+
+<sub>[↑ Back to top](#table-of-contents) · `1 tools`</sub>
+
+- **[PartnerShare](https://topxai.cn/ai/partnershare)** — 面向出海 SaaS 的联盟营销与推荐返佣平台，由广州标品科技创新有限公司运营。支持产品上架推广市场对接推广者、追踪点击到续费的全链路转化、自动计算佣金并打款，也可在产品内嵌入邀返入口激活老带新。 · [website](https://www.partnershare.net/)
+
 ## Health & Medical
 
 <sub>[↑ Back to top](#table-of-contents) · `44 tools`</sub>
@@ -782,17 +789,17 @@
 7. **[W-Okada VCClient](https://topxai.cn/ai/vcclient)** — 
 8. **[DeepSeek](https://topxai.cn/ai/deepseek)** — 
 9. **[Adobe Firefly](https://topxai.cn/ai/adobe-firefly)** — 
-10. **[Notion AI](https://topxai.cn/ai/notion-ai)** — 
-11. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
-12. **[Doubao](https://topxai.cn/ai/doubao)** — 
-13. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
-14. **[Grok](https://topxai.cn/ai/grok)** — 
-15. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
-16. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 
-17. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
-18. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
-19. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
-20. **[Salesforce](https://topxai.cn/ai/salesforce)** — Enterprise Management
+10. **[OpenAI Dots](https://topxai.cn/ai/openai-dots)** — 
+11. **[Notion AI](https://topxai.cn/ai/notion-ai)** — 
+12. **[豆包工作](https://topxai.cn/ai/doubao-work)** — 
+13. **[Doubao](https://topxai.cn/ai/doubao)** — 
+14. **[Character.AI](https://topxai.cn/ai/character-ai)** — 
+15. **[Grok](https://topxai.cn/ai/grok)** — 
+16. **[Claude Cowork](https://topxai.cn/ai/claude-cowork)** — 
+17. **[Google AI Studio](https://topxai.cn/ai/google-ai-studio)** — 
+18. **[DeepL](https://topxai.cn/ai/deepl)** — Learning & Translation
+19. **[Comet](https://topxai.cn/ai/comet-browser)** — Other
+20. **[Perplexity](https://topxai.cn/ai/perplexity)** — 
 
 ## About
 
