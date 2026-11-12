@@ -20653,6 +20653,25 @@
   "visits": 1038
  },
  {
+  "slug": "cindy",
+  "name": {
+   "zh": "Cindy",
+   "en": "Cindy"
+  },
+  "desc": {
+   "zh": "心动推出的开源 AI Agent，把多个执行引擎与已有模型订阅收进同一界面，支持电脑与手机跨设备访问任务、文件和模型，内置手机远程桌面，可通过伙伴、记忆与 Skill 培养协作角色。软件免费，客户端源码采用 Apache-2.0 协议。",
+   "en": ""
+  },
+  "category": "personal-agent",
+  "url": "https://cindy.cn/",
+  "tags": [
+   "跨设备",
+   "AI伙伴",
+   "多智能体"
+  ],
+  "visits": 28746
+ },
+ {
   "slug": "grok-bot",
   "name": {
    "zh": "Grok Bot",
@@ -36442,6 +36461,25 @@
   "visits": 8309
  },
  {
+  "slug": "herdr",
+  "name": {
+   "zh": "Herdr",
+   "en": "Herdr"
+  },
+  "desc": {
+   "zh": "herdrdev 开源的编程代理运行环境，终端跑在本机服务里，关掉窗口代理仍继续；侧栏按状态标出待处理任务，支持 SSH 汇聚多台机器与手机接续，布局可由代理改写。三个仓库均采用 Apache-2.0 协议。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://herdr.dev/",
+  "tags": [
+   "持久终端",
+   "智能体状态",
+   "远程开发"
+  ],
+  "visits": 978394
+ },
+ {
   "slug": "hermes-agent",
   "name": {
    "zh": "Hermes Agent",
@@ -36974,6 +37012,25 @@
   "visits": 120657
  },
  {
+  "slug": "orca",
+  "name": {
+   "zh": "Orca",
+   "en": "Orca"
+  },
+  "desc": {
+   "zh": "StablyAI 开源的编程代理开发环境，把多个命令行代理放进独立工作树并行运行，聊天、终端、差异审阅、内嵌浏览器与 Git 操作集中在同一桌面端，另有手机伴侣应用。免费开源，采用 MIT 协议，沿用已有模型订阅。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://www.onorca.dev/",
+  "tags": [
+   "并行开发",
+   "工作树",
+   "编程智能体"
+  ],
+  "visits": 1025891
+ },
+ {
   "slug": "palmier",
   "name": {
    "zh": "Palmier",
@@ -37162,6 +37219,25 @@
    "本地优先"
   ],
   "visits": 508576
+ },
+ {
+  "slug": "t3-code",
+  "name": {
+   "zh": "T3 Code",
+   "en": "T3 Code"
+  },
+  "desc": {
+   "zh": "T3 Tools 开源的编程代理控制面，把机器上已装好的多个执行引擎收进桌面、网页与手机端统一调度，不转售模型额度；每个代理线程写独立分支，可一键提交、推送并发起 PR。源码采用 MIT 协议，可自由 fork 改造。",
+   "en": ""
+  },
+  "category": "code-ai",
+  "url": "https://t3.codes/",
+  "tags": [
+   "多机控制",
+   "智能体编排",
+   "开源客户端"
+  ],
+  "visits": 1071866
  },
  {
   "slug": "tabbyml",
